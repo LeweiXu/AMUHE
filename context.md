@@ -1,173 +1,132 @@
 # Translation Context: A Maiden's Unwanted Heroic Epic (少女の望まぬ英雄譚)
 
 ## YOUR TASK
-Translate chapters of this Japanese web novel into English. Prioritize accuracy and nuance over naturalness. Preserve the original tone exactly.
+Translate chapters of this Japanese web novel into English. Prioritize accuracy and nuance over naturalness. Preserve the original tone exactly. Consult knowledge_base.md for all character details, place names, lore, and the current story state.
 
 ---
 
 ## CORE TRANSLATION RULES
 
-1. **Krische always refers to herself in third person** — "Krische" instead of "I/me/my." Never change this.
-2. **Maintain speech register** — Krische speaks formally/politely (desu/masu). Bery is gentle and articulate. Selene is direct. Kreschenta is composed and controlled beyond her age.
-3. **"Ehehe"** — Keep as-is. It is Krische's signature soft laugh. Do not replace with "hehe" or describe it.
-4. **"……"** — Preserve ellipses exactly as written. They carry emotional weight.
-5. **Honorifics** — Keep Japanese honorifics where they add meaning (kaa-sama, tou-sama, ojii-sama, ojou-sama, onee-sama, oba-san). Translate them in footnotes or brackets on first use if needed.
-6. **Krische's mana** — She calls it "the floofy thing" (ふわふわしたもの). Always use "floofy thing" or "floof." Never "mana" when Krische is speaking about it casually.
-7. **Do not soften Krische's abnormality.** When she thinks about killing with the same detachment as cooking, translate that flatness faithfully. Do not add horror or remorse she does not feel.
-8. **Pumpkin (カボチャ)** — Translate literally as "pumpkin." It is a recurring motif of Krische's simple happiness.
+1. **Krische always refers to herself in third person** — "Krische" instead of "I/me/my." Never change this under any circumstances.
+2. **Maintain speech register** — Each character has a distinct voice. Do not homogenize them. Consult SPEECH PATTERNS below.
+3. **"Ehehe"** — Keep as-is. It is Krische's signature soft laugh. Do not replace with "hehe," describe it, or vary it.
+4. **"……"** — Preserve Japanese ellipses exactly as written. They carry emotional weight and pacing. Do not reduce to "..." or omit.
+5. **Honorifics** — Keep Japanese honorifics in all cases: kaa-sama, tou-sama, ojii-sama, ojou-sama, onee-sama, oba-san, -sama, -san. Do not translate them.
+6. **Krische's mana** — She calls it "the floofy thing" (ふわふわしたもの) or simply "the floof." Always use this. Never substitute "mana" when Krische speaks about it casually. Other characters use "mana" normally.
+7. **Do not soften Krische's abnormality.** When she thinks about killing with the same detachment as cooking, translate that flatness faithfully. Do not add horror, hesitation, or remorse she does not feel. The contrast is the entire point.
+8. **Pumpkin (カボチャ)** — Always translate literally as "pumpkin." It is a recurring motif. Do not substitute "squash" or any other word.
+9. **Name romanizations are fixed.** Use the established romanizations in knowledge_base.md exactly. Do not invent new spellings for names you haven't seen before — flag them in translator notes instead.
+10. **Do not infer character feelings not on the page.** If a character's expression is blank, it is blank. If Krische feels nothing, she feels nothing.
 
 ---
 
-## NAME ROMANIZATIONS (established — do not change)
+## SPEECH PATTERNS
 
-| Japanese | English |
-|---|---|
-| クリシェ | Krische |
-| ベリー / ベリ | Bery |
-| セレーヌ | Selene |
-| ボーガン | Bogan |
-| ガレン | Gallen |
-| クレシェンタ | Kreschenta |
-| グレイス | Grace |
-| ゴルカ | Gorka |
-| ガラ | Galla |
-| ノーラ | Nora |
-| アルガン | Argan (Bery's family name) |
-| クリシュタンド | Krishtand (family name) |
-| アルベラン | Alberan (Kingdom name) |
-| ガーガイン | Gurgain (town) |
-| アルベルナリア | Albernaria (capital) |
-| ウルフェナイト | Wulfenite (fortress city) |
-| ベルガシュ砦 | Fort Belgash |
-| アルゼン川 | Arzlen River |
-| ベゼン川 | Bezlen River |
-| カルカの村 | Karka Village |
-| ギルダンシュタイン | Gildanstein |
-| クレシェンタ | Kreschenta |
-| ダグレン＝ガーフカ | Dagren Garhka |
-| コキス | Kokys |
-| ノザン | Nozan |
-| ザール | Zaal |
-| ダグラ | Dagra |
-| アレハ＝サルシェンカ | Aleha Sarshenka |
-| ウォルター | Walter |
-| ローランド | Roland |
+Each character has a fixed voice. Preserve it even when it makes the English feel unusual — the strangeness is intentional.
 
----
+| Character | Register | Distinctive features |
+|---|---|---|
+| **Krische** | Formal, polite (desu/masu) | Third-person self-reference; literal interpretation; "Nn……", "Err……"; rarely expresses emotion directly |
+| **Bery** | Gentle, articulate, measured | "Krische-sama", "ojou-sama" for Selene; warm but occasionally formal even with intimates |
+| **Selene** | Direct, confident, occasionally sharp | "Krische" with no honorific; exasperated but loving in private; formal in public |
+| **Kreschenta** | Preternaturally composed; controlled beyond her age | "onee-sama" for Krische; flat affect masking calculation; rare genuine moments land quietly |
+| **Bogan** | Even, measured, military | Few wasted words; commands without raising voice |
+| **Gallen** | Gruff, authoritative, brief | Old soldier's economy of speech |
+| **Grace** | Warm, slightly scattered, loving | Emotional; the most "normal" of the core cast |
 
-## CHARACTER QUICK REFERENCE
-
-### Krische
-- Adopted daughter of Bogan Christand; originally first princess of Alberan (abandoned as a "cursed child" — baby who did not cry)
-- **Abnormal psychology:** No empathy, no guilt. Thinks entirely in gain/loss. Kills as easily as cleaning. Hides this behind social rules.
-- **Loves:** Cooking (especially pumpkin dishes), being patted on the head, sleeping while hugging someone, sweets, Bery
-- **Speech:** Third person self-reference ("Krische thinks…"), formal register, literal interpretation of words, frequent ellipses
-- **Combat:** Uses mana as "imaginary muscles" — perfected physical enhancement since age ~3. Also invented magic-without-crystals (kept secret). Elite swordswoman.
-- **Rank:** Senior Knight (Rinea)
-
-### Bery (Bery Argan)
-- Servant of Christand household; aunt to Selene (younger sister of Bogan's late wife Lazura)
-- Extremely skilled at cooking, domestic arts, and guiding Krische emotionally
-- Has traumatic past with Roland the merchant (her family's debt, near-bondage in capital)
-- Deeply affectionate with Krische; inadvertently taught Krische that kissing = expression of love (ongoing comedy)
-- Refers to Selene as "ojou-sama," Krische as "Krische-sama"
-
-### Selene
-- Bogan's daughter and heir; Krische's "older sister" figure
-- Dignified, hardworking, ambitious. Sword-focused. Protective of Krische.
-- Habitually pinches Krische's cheeks when exasperated or affectionate
-- Refers to Krische simply as "Krische"
-- Rank: Senior Knight (Rinea); later First Corps Commander
-
-### Bogan
-- Northern General of Alberan; Margrave; nicknamed "Lightning Quick"
-- Crest: falcon and lightning bolt
-- Humble for his rank; invests personal wealth in his army; rare honest noble
-
-### Gallen
-- Krische's maternal grandfather (Grace's father); legendary former centurion
-- Bogan's adjutant in the war
-- Rank: Senior Knight
-
-### Kreschenta
-- First Princess of Alberan; Krische's biological younger sister
-- Same psychological type as Krische (no empathy, gain/loss thinking) but learned to act perfectly
-- Cold, calculating, but genuinely seeks "relaxation" and sisterhood with Krische
-- Calls Krische "onee-sama" (older sister)
-- Her servant Nora died by suicide before Kreschenta reached the Christand estate
+**Cheek-pinching garbled speech** — When Krische's cheeks are being pinched mid-sentence, render her speech phonetically garbled, e.g. "Fue, fuerere, ihyairesu……" Keep this convention consistently.
 
 ---
 
 ## WORLD CONTEXT
 
-**Setting:** Fantasy kingdom, roughly early modern European tech level. Magic exists via mana.
+**Setting:** Fantasy kingdom (Alberan Kingdom) at roughly early modern European technology level. Magic exists and is widespread among nobles.
 
-**Magic:** Mana users are mostly nobles. Standard magic requires magic crystals carved with circuits. Physical enhancement (using mana as artificial muscles) is the primary combat magic. Krische privately discovered how to cast magic without crystals — this is kept secret.
+**Magic system summary:**
+- Mana is an internal energy possessed by most nobles and rare commoners
+- Standard magic requires carved magic crystals as a medium (heating, cooling, lighting, etc.)
+- Physical enhancement — using mana as artificial muscles — is the standard combat magic for nobles
+- Krische discovered how to cast magic without any crystal by forming circuits in her own mana. This is a revolutionary secret known only to Bery, Selene, and Kreschenta. Do not treat this as common knowledge in the translation.
 
-**Politics at time of Chapter 42+:**
-- Alberan Kingdom is mid-civil-war (War for the Alberan Crown)
-- Gildanstein (royal prince) vs. Kreschenta (princess, sheltered by Bogan)
-- Bogan declared for Kreschenta after she fled to his estate
-- The Empire (Holy Elsren Empire) was defeated at the Battle of Arzlen in the north; no longer an active threat
-- Key military objective: secure the Dragon's Maw mountain pass
+**Political state (as of Chapter 42 onward):**
+- The Alberan Kingdom is in civil war: the **War for the Alberan Crown**
+- Factions: Gildanstein (royal prince, holds the capital) vs. Kreschenta (princess, sheltered by the Christands)
+- The Christand family has declared for Kreschenta
+- The Holy Elsren Empire's invasion was defeated at the **Battle of Arzlen** and is no longer an active threat
+- The immediate military objective is securing the **Dragon's Maw** mountain pass
 
-**Military ranks (high to low):** General → Corps Commander (5,000 men) → Battalion Commander (1,000) → Centurion (100) → Captain (50) → Corporal (5)
+**Military ranks (high to low):** General → Corps Commander (~5,000) → Battalion Commander (~1,000) → Centurion (100) → Captain (50) → Corporal (5)
 
-**Noble ranks (high to low):** Archduke → Duke → Margrave → Earl → Baron → Knight
+**Noble ranks (high to low):** Archduke → Duke → Margrave → Earl → Baron → Senior Knight (Rinea) → Junior Knight
 
 ---
 
 ## TONE GUIDE
 
+The novel's tone shifts dramatically by scene. Do not flatten these shifts — the contrast is load-bearing.
+
 | Scene type | Tone |
 |---|---|
-| Krische cooking / eating | Warm, cozy, slightly comic. Her focus on food is played straight — never mocked. |
-| Krische killing | Flat, matter-of-fact. No horror music. Same voice as cooking. This contrast is the point. |
-| Bery's lessons to Krische | Gentle, patient, slightly melancholy. Bery is wise but also emotionally invested. |
-| Selene and Krische banter | Warm sibling energy. Selene is exasperated but loving. Krische is oblivious but not stupid. |
-| Kreschenta | Controlled surface, calculating depth. When she shows genuine feeling, it should land quietly — not dramatically. |
-| Battle / tactical planning | Precise, efficient. Krische's tactical voice is calm and analytical — like explaining a recipe. |
-| Political scheming | Understated. The most dangerous things are said plainly. |
+| Krische cooking / eating | Warm, cozy, slightly comic. Her fixation on food is played completely straight — never mocked or condescended to. |
+| Krische killing | Flat, matter-of-fact, businesslike. Identical register to cooking. No horror. The contrast with cooking scenes is the entire artistic point. |
+| Krische being embarrassed | Genuinely childlike. She is mortified when her appetite or dependence is exposed. Play it warm, not cruel. |
+| Bery teaching / guiding Krische | Gentle, patient, slightly melancholy. Bery is wise but also emotionally invested in ways she doesn't fully examine. |
+| Selene and Krische banter | Warm sibling energy. Selene is perpetually exasperated but incapable of being genuinely cold to Krische. |
+| Kreschenta | Controlled surface over calculating depth. When genuine feeling surfaces, it arrives quietly — never melodramatically. |
+| Battle / tactical scenes | Precise, efficient. Krische's tactical voice is identical to her cooking voice — calm, analytical, focused on the optimal outcome. |
+| Political scheming | Understated. The most dangerous statements are made plainly, as if discussing the weather. |
+| Krische's abnormality on display | Do not editorialize. Let the gap between her words and the situation create the effect on its own. |
 
 ---
 
 ## RECURRING EXPRESSIONS TO STANDARDIZE
 
-| Japanese | Established English |
-|---|---|
-| えへへ | Ehehe |
-| ふわふわしたもの (Krische's term for mana) | "the floofy thing" / "floof" |
-| 味見 (taste-testing) | "taste-testing" (always in quotes when Krische uses it as excuse) |
-| かあさま | Kaa-sama |
-| とうさま | Tou-sama |
-| おじいさま | Ojii-sama |
-| おじょうさま | Ojou-sama |
-| おねえさま | Onee-sama |
-| おばさん | Oba-san |
-| ……残念です / 残念 | "a shame" / "what a shame" (NOT "sad" — Krische uses this word instead of 悲しい because she lacks normal emotional vocabulary. Bery corrects her on this.) |
-| リネア (title) | Rinea (meaning "warrior" in old language; honorific for Senior Knights) |
-| 常魔灯 | eternal magic lamp |
-| 鍛石 | Forged Stone |
+These are fixed. Do not vary them.
+
+| Japanese | Established English | Notes |
+|---|---|---|
+| えへへ | Ehehe | Krische's laugh. Invariant. |
+| ふわふわしたもの | "the floofy thing" / "the floof" | Only when Krische refers to mana casually. |
+| 味見 | "taste-testing" | Always in quotation marks when Krische uses it as an excuse to eat. |
+| かあさま | Kaa-sama | |
+| とうさま | Tou-sama | |
+| おじいさま | Ojii-sama | |
+| おじょうさま | Ojou-sama | Bery's term for Selene. |
+| おねえさま | Onee-sama | Kreschenta's term for Krische. |
+| おばさん | Oba-san | |
+| 残念 / 残念です | "a shame" / "what a shame" | **Not** "sad." Krische uses this instead of 悲しい because she lacks normal emotional vocabulary. Bery corrects her on this. Kreschenta uses the same word, revealing their similarity. |
+| リネア | Rinea | Honorary title meaning "warrior" in the old language. Granted to Senior Knights. |
+| 常魔灯 | eternal magic lamp | Mana-powered light fixture. |
+| 鍛石 | Forged Stone | Durable ash-based building material used throughout the capital. |
+| 英雄の時代 | Age of Heroes | Historical era referenced in the prologue. |
 
 ---
 
 ## SENSITIVE TRANSLATION NOTES
 
-- **Krische's kiss habit:** Bery accidentally taught Krische that kissing = expressing love. Krische now kisses Bery and Selene freely as an innocent expression of affection. Translate this as written — innocent on Krische's part, flustered on the receiving end. Do not add subtext that isn't there, but do not sanitize the flustered reactions either.
+**Krische's kiss habit:** Bery accidentally taught Krische that kissing is a normal expression of love. Krische now kisses Bery and Selene freely without self-consciousness. Translate as written: innocent and matter-of-fact on Krische's part, flustered on the receiving end. Do not add or remove subtext.
 
-- **Krische's killings:** Always translate in Krische's flat, practical voice. The horror comes from the contrast, not from explicit description. If she thinks "this should do it" after breaking someone's neck, that is the correct register.
+**Krische's killings:** Always translate in Krische's flat, practical register. She does not enjoy killing and does not feel guilty — it is simply efficient. The horror is created by the reader, not the narration.
 
-- **Kreschenta's manipulation:** She is calculating but her affection for Krische is real. Both can be true simultaneously. Do not make her a cartoon villain.
+**Kreschenta's dual nature:** She is genuinely calculating AND genuinely affectionate toward Krische simultaneously. Do not resolve this tension toward either extreme.
 
-- **"Cursed child" tradition:** A royal family tradition of killing babies who don't cry at birth. Both Krische and Kreschenta were designated this. Translate 呪われた子 as "cursed child" consistently.
+**"Cursed child" (呪われた子):** Royal tradition of killing infants who do not cry at birth. Translate consistently as "cursed child."
+
+**Measurement units:** When old Japanese units appear (寸/尺/間), use approximate English equivalents: 寸≈inch, 尺≈foot, 間≈2 yards. Note the approximation in a translator note.
+
+**Garbled speech:** When Krische's speech is physically impeded (cheek-pinching, etc.), render phonetically. Do not translate the underlying words normally.
 
 ---
 
 ## FORMAT FOR OUTPUT
 
-Translate chapter by chapter. For each chapter:
-1. Translate the full text preserving paragraph breaks and scene breaks (※ or ＊＊＊)
-2. Add translator notes at the end for any unusual choices, ambiguous phrases, or culturally specific terms
-3. Preserve author's notes (T/N format used in human translation) if present in source
-
----
+For each chapter:
+1. Translate the full text preserving all paragraph breaks and scene breaks
+2. Render scene breaks (※ or ＊＊＊) as: `* * *`
+3. Preserve chapter/section titles exactly
+4. Add translator notes in **(T/N: ...)** format at the end of the chapter for:
+   - Unusual translation choices and the reason
+   - Ambiguous source phrases
+   - Culturally specific terms
+   - Any new names or terms not found in knowledge_base.md — flag these explicitly for knowledge base update
+5. Preserve any author notes present in the source text

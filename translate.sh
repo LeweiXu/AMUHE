@@ -1,300 +1,287 @@
 #!/usr/bin/env bash
 # =============================================================================
-# translate.sh — Translate a chapter of 少女の望まぬ英雄譚 using Claude Code
+# translate.sh — Translate a chapter using Claude Code's headless mode
 #
 # USAGE:
-#   ./translate.sh <chapter_file>
-#   ./translate.sh raw_chapters/c42.txt
-#   ./translate.sh raw_chapters/c42.txt --dry-run    # print prompt only, no API call
+#   ./translate.sh raw_chapters/042_厨房の聖戦.txt
+#   ./translate.sh raw_chapters/042_厨房の聖戦.txt --dry-run
+#   ./translate.sh raw_chapters/042_厨房の聖戦.txt --yes
 #
 # REQUIREMENTS:
-#   - Claude Code CLI installed and authenticated (claude command available)
-#   - Directory structure:
-#       ./raw_chapters/       — source Japanese .txt files
-#       ./translated_chapters/ — output directory (created if missing)
-#       ./context.md          — translation rules and quick reference
-#       ./knowledge_base.md   — full lore/character reference
+#   - Claude Code installed:  npm install -g @anthropic-ai/claude-code
+#   - Logged in:              claude login
 #
-# OUTPUT:
-#   - translated_chapters/<chapter_name>.txt   — translated chapter
-#   - context.md and knowledge_base.md updated in-place if new information found
+# HOW IT WORKS:
+#   The translation rules + knowledge base are loaded via --system-prompt-file
+#   (bypasses the known Claude CLI bug with large stdin input).
+#   The chapter text is passed as the -p prompt argument.
+#   Claude is told to write its output directly to files, which we then read.
 # =============================================================================
 
 set -euo pipefail
 
-# ── Colour helpers ──────────────────────────────────────────────────────────
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-CYAN='\033[0;36m'
-BOLD='\033[1m'
-RESET='\033[0m'
+# ── Colours ───────────────────────────────────────────────────────────────────
+RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'
+CYAN='\033[0;36m'; BOLD='\033[1m'; RESET='\033[0m'
 
-info()    { echo -e "${CYAN}[INFO]${RESET}  $*"; }
-success() { echo -e "${GREEN}[OK]${RESET}    $*"; }
-warn()    { echo -e "${YELLOW}[WARN]${RESET}  $*"; }
-error()   { echo -e "${RED}[ERROR]${RESET} $*" >&2; }
+info()   { echo -e "${CYAN}[INFO]${RESET}  $*"; }
+ok()     { echo -e "${GREEN}[OK]${RESET}    $*"; }
+warn()   { echo -e "${YELLOW}[WARN]${RESET}  $*"; }
+err()    { echo -e "${RED}[ERROR]${RESET} $*" >&2; }
+header() { echo -e "\n${BOLD}$*${RESET}"; }
 
-# ── Argument parsing ─────────────────────────────────────────────────────────
+# ── Arguments ─────────────────────────────────────────────────────────────────
 DRY_RUN=false
+AUTO_YES=false
 CHAPTER_FILE=""
 
 for arg in "$@"; do
     case "$arg" in
         --dry-run) DRY_RUN=true ;;
+        --yes|-y)  AUTO_YES=true ;;
         --help|-h)
-            sed -n '2,20p' "$0" | sed 's/^# \?//'
-            exit 0
-            ;;
-        *) CHAPTER_FILE="$arg" ;;
+            echo "Usage: $0 <chapter_file> [--dry-run] [--yes]"
+            echo "  --dry-run  Show the system prompt and task prompt without calling Claude"
+            echo "  --yes      Auto-accept all proposed updates to context.md / knowledge_base.md"
+            exit 0 ;;
+        *)  CHAPTER_FILE="$arg" ;;
     esac
 done
 
 if [[ -z "$CHAPTER_FILE" ]]; then
-    error "No chapter file specified."
-    echo "Usage: $0 <chapter_file> [--dry-run]"
+    err "No chapter file specified."
+    echo "Usage: $0 <chapter_file> [--dry-run] [--yes]"
     exit 1
 fi
 
-# ── Path setup ───────────────────────────────────────────────────────────────
+# ── Paths ─────────────────────────────────────────────────────────────────────
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONTEXT_FILE="$SCRIPT_DIR/context.md"
 KB_FILE="$SCRIPT_DIR/knowledge_base.md"
 OUTPUT_DIR="$SCRIPT_DIR/translated_chapters"
+UPDATES_DIR="$SCRIPT_DIR/updates"
+TMP_DIR="$SCRIPT_DIR/.tmp_translate"
 
-# Resolve chapter file path
-if [[ ! -f "$CHAPTER_FILE" ]]; then
-    # Try relative to script dir
-    if [[ -f "$SCRIPT_DIR/$CHAPTER_FILE" ]]; then
-        CHAPTER_FILE="$SCRIPT_DIR/$CHAPTER_FILE"
-    else
-        error "Chapter file not found: $CHAPTER_FILE"
-        exit 1
-    fi
-fi
+[[ "$CHAPTER_FILE" != /* ]] && CHAPTER_FILE="$(pwd)/$CHAPTER_FILE"
+CHAPTER_FILE="$(realpath "$CHAPTER_FILE")"
+CHAPTER_STEM="$(basename "$CHAPTER_FILE" .txt)"
+OUTPUT_FILE="$OUTPUT_DIR/${CHAPTER_STEM}.txt"
 
-CHAPTER_BASENAME="$(basename "$CHAPTER_FILE" .txt)"
-OUTPUT_FILE="$OUTPUT_DIR/${CHAPTER_BASENAME}.txt"
-
-# ── Pre-flight checks ─────────────────────────────────────────────────────────
+# ── Pre-flight ────────────────────────────────────────────────────────────────
 info "Pre-flight checks..."
 
-if [[ ! -f "$CONTEXT_FILE" ]]; then
-    error "context.md not found at: $CONTEXT_FILE"
-    exit 1
-fi
-
-if [[ ! -f "$KB_FILE" ]]; then
-    error "knowledge_base.md not found at: $KB_FILE"
-    exit 1
-fi
+[[ ! -f "$CHAPTER_FILE" ]] && { err "Chapter not found: $CHAPTER_FILE"; exit 1; }
+[[ ! -f "$CONTEXT_FILE" ]] && { err "context.md not found"; exit 1; }
+[[ ! -f "$KB_FILE"      ]] && { err "knowledge_base.md not found"; exit 1; }
 
 if ! command -v claude &>/dev/null; then
-    error "'claude' command not found. Is Claude Code installed and in your PATH?"
+    err "'claude' command not found."
+    err "Install: npm install -g @anthropic-ai/claude-code"
+    err "Login:   claude login"
     exit 1
 fi
 
-mkdir -p "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR" "$UPDATES_DIR" "$TMP_DIR"
 
-if [[ -f "$OUTPUT_FILE" ]]; then
-    warn "Output file already exists: $OUTPUT_FILE"
-    read -rp "Overwrite? [y/N] " confirm
-    [[ "$confirm" =~ ^[Yy]$ ]] || { info "Aborted."; exit 0; }
+if [[ -f "$OUTPUT_FILE" && "$AUTO_YES" == false ]]; then
+    warn "Output already exists: $OUTPUT_FILE"
+    read -rp "Overwrite? [y/N] " c
+    [[ "$c" =~ ^[Yy]$ ]] || { info "Aborted."; exit 0; }
 fi
 
-success "All checks passed."
-info "Chapter:    $CHAPTER_FILE"
-info "Output:     $OUTPUT_FILE"
-echo ""
+ok "All checks passed."
+info "Chapter:  $CHAPTER_STEM"
+info "Output:   $OUTPUT_FILE"
 
-# ── Build the prompt ──────────────────────────────────────────────────────────
-# We pass everything inline so Claude has full context in one shot.
+# ── Build system prompt file ───────────────────────────────────────────────────
+# This goes in --system-prompt-file, bypassing the stdin size bug.
+# It contains: role + translation rules + knowledge base.
+SYS_PROMPT_FILE="$TMP_DIR/sysprompt_${CHAPTER_STEM}.txt"
 
-CHAPTER_TEXT="$(cat "$CHAPTER_FILE")"
-CONTEXT_TEXT="$(cat "$CONTEXT_FILE")"
-KB_TEXT="$(cat "$KB_FILE")"
+# Paths where Claude will write its output (inside the project dir)
+TRANSLATION_OUT="$TMP_DIR/translation_${CHAPTER_STEM}.txt"
+CTX_UPDATE_OUT="$TMP_DIR/ctx_update_${CHAPTER_STEM}.txt"
+KB_UPDATE_OUT="$TMP_DIR/kb_update_${CHAPTER_STEM}.txt"
 
-read -r -d '' PROMPT << 'PROMPT_EOF'
+# Clean up any leftover output files from a previous run
+rm -f "$TRANSLATION_OUT" "$CTX_UPDATE_OUT" "$KB_UPDATE_OUT"
+
+cat > "$SYS_PROMPT_FILE" << SYSEOF
 You are a professional Japanese-to-English literary translator specialising in web novels.
+You are meticulous, consistent, and faithful to the source text's tone.
+You never add emotion or drama that is not present in the original.
 
-You have been given three inputs:
-1. CONTEXT — translation rules, character speech patterns, established name romanizations, and tone guide
-2. KNOWLEDGE BASE — full lore, character details, world-building, and chapter timeline
-3. CHAPTER — the raw Japanese source text to translate
+== TRANSLATION RULES (from context.md) ==
 
-Your job is to produce THREE outputs, each clearly delimited:
+$(cat "$CONTEXT_FILE")
 
-═══════════════════════════════════════
-OUTPUT 1: TRANSLATION
-═══════════════════════════════════════
-Translate the chapter completely. Rules:
-- Follow every instruction in CONTEXT exactly
-- Krische always refers to herself in third person ("Krische" not "I/me")
+== LORE AND CHARACTER REFERENCE (from knowledge_base.md) ==
+
+$(cat "$KB_FILE")
+
+== OUTPUT INSTRUCTIONS ==
+
+You must write your output to three files using the Write tool. Do not print the translation
+to the terminal — write it to the files below.
+
+1. Write the full English translation to:
+   ${TRANSLATION_OUT}
+
+2. Write proposed additions to context.md to:
+   ${CTX_UPDATE_OUT}
+   - Include ONLY genuinely new info: new speech patterns, new expressions, new translation
+     decisions, corrections to existing entries.
+   - Format as a markdown patch (section heading + new/changed lines only).
+   - If nothing new, write the single word: NONE
+
+3. Write proposed additions to knowledge_base.md to:
+   ${KB_UPDATE_OUT}
+   - Include ONLY genuinely new info: new characters, places, timeline events,
+     world-building, political developments, relationships revealed.
+   - Format as a markdown patch (section heading + new/changed lines only).
+   - If nothing new, write the single word: NONE
+
+Translation rules reminder:
+- Krische always refers to herself in third person ("Krische", never "I" or "me")
 - Preserve all "……" ellipses exactly as written
 - Keep "Ehehe" as-is
-- Keep "the floofy thing"/"floof" for Krische's casual mana references
-- Keep Japanese honorifics (kaa-sama, ojou-sama, onee-sama, etc.)
+- Use "the floofy thing" / "floof" for Krische's casual mana references
+- Keep honorifics: kaa-sama, tou-sama, ojii-sama, ojou-sama, onee-sama, oba-san
 - Translate scene breaks (※ or ＊＊＊) as:   * * *
-- Do NOT add drama or emotion that is not in the source text
-- Translate author/translator notes if present, marking them (T/N: ...)
-- Preserve paragraph spacing
+- Do NOT add drama or emotion not present in the source
+- Preserve paragraph spacing and chapter structure exactly
+- Mark any author/translator notes as (T/N: ...)
+SYSEOF
 
-═══════════════════════════════════════
-OUTPUT 2: CONTEXT_UPDATES
-═══════════════════════════════════════
-List ONLY genuine new information from this chapter that should be added to context.md.
-This means: new characters with distinct speech patterns, new recurring expressions,
-new translation decisions made in this chapter, corrections to existing entries.
-Format as a markdown patch — show the section heading and the new/changed lines only.
-If there is nothing new to add, write: NONE
+info "System prompt: $(wc -c < "$SYS_PROMPT_FILE") bytes"
 
-═══════════════════════════════════════
-OUTPUT 3: KNOWLEDGE_BASE_UPDATES
-═══════════════════════════════════════
-List ONLY genuine new information from this chapter that should be added to knowledge_base.md.
-This means: new named characters, new place names, new events in the timeline,
-new world-building details, new political developments, new relationships revealed.
-Format as a markdown patch — show the section heading and the new/changed lines only.
-If there is nothing new to add, write: NONE
+# ── Build the task prompt (passed as -p argument) ─────────────────────────────
+# This is intentionally short — just the chapter text.
+# Keeping -p small avoids the CLI large-input bug.
+CHAPTER_TEXT="$(cat "$CHAPTER_FILE")"
+TASK_PROMPT="Translate the following Japanese web novel chapter according to your system prompt instructions. Write the outputs to the three files specified.
 
-PROMPT_EOF
+== CHAPTER SOURCE TEXT ==
 
-FULL_PROMPT="${PROMPT}
-
----
-## CONTEXT
-${CONTEXT_TEXT}
-
----
-## KNOWLEDGE BASE
-${KB_TEXT}
-
----
-## CHAPTER SOURCE TEXT
 ${CHAPTER_TEXT}"
 
-# ── Dry run mode ──────────────────────────────────────────────────────────────
+info "Chapter text: $(wc -c < "$CHAPTER_FILE") bytes"
+
+# ── Dry run ────────────────────────────────────────────────────────────────────
 if [[ "$DRY_RUN" == true ]]; then
-    warn "DRY RUN — printing prompt only, not calling Claude."
+    warn "DRY RUN — not calling Claude."
     echo ""
-    echo "════════════════════════════════════════"
-    echo "$FULL_PROMPT"
-    echo "════════════════════════════════════════"
+    header "── System prompt (first 60 lines) ──"
+    head -60 "$SYS_PROMPT_FILE"
+    echo "..."
+    header "── Task prompt (first 20 lines) ──"
+    echo "$TASK_PROMPT" | head -20
+    echo "..."
     echo ""
-    info "Prompt length: $(echo "$FULL_PROMPT" | wc -c) characters"
+    info "Full system prompt: $SYS_PROMPT_FILE"
+    info "Output files would be written to: $TMP_DIR/"
     exit 0
 fi
 
-# ── Call Claude ───────────────────────────────────────────────────────────────
-info "Calling Claude... (this may take a minute)"
+# ── Call Claude ────────────────────────────────────────────────────────────────
+info "Calling Claude... (this will take a few minutes)"
 echo ""
 
-# Use claude -p (print mode) to get a single non-interactive response
-RESPONSE="$(echo "$FULL_PROMPT" | claude -p --dangerously-skip-permissions 2>&1)"
+# Use --system-prompt-file to load context (avoids large stdin bug)
+# Use -p for the task prompt (chapter text)
+# Allow only the Write tool — Claude only needs to write the three output files
+# --dangerously-skip-permissions required for non-interactive mode
+CLAUDE_LOG="$TMP_DIR/claude_log_${CHAPTER_STEM}.txt"
 
-if [[ $? -ne 0 ]]; then
-    error "Claude returned a non-zero exit code."
-    error "Response was:"
-    echo "$RESPONSE"
+if ! claude -p "$TASK_PROMPT" \
+        --system-prompt-file "$SYS_PROMPT_FILE" \
+        --allowedTools "Write" \
+        --dangerously-skip-permissions \
+        --output-format text \
+        2>&1 | tee "$CLAUDE_LOG"; then
+    err "Claude exited with an error. See log: $CLAUDE_LOG"
     exit 1
 fi
 
-# ── Parse the three output blocks ─────────────────────────────────────────────
-# Extract content between delimiters using awk
+echo ""
 
-extract_block() {
+# ── Verify output files were written ──────────────────────────────────────────
+if [[ ! -s "$TRANSLATION_OUT" ]]; then
+    err "Claude did not write the translation file: $TRANSLATION_OUT"
+    err "Claude's output was:"
+    cat "$CLAUDE_LOG"
+    exit 1
+fi
+
+ok "Translation file written ($(wc -c < "$TRANSLATION_OUT") bytes)"
+
+# ── Copy translation to output directory ──────────────────────────────────────
+cp "$TRANSLATION_OUT" "$OUTPUT_FILE"
+ok "Translation saved: $OUTPUT_FILE"
+
+# ── Helper: review and apply an update ────────────────────────────────────────
+apply_update() {
     local label="$1"
-    local text="$2"
-    # Match from "OUTPUT N: LABEL" line to the next "OUTPUT" delimiter or end of string
-    echo "$text" | awk -v lbl="$label" '
-        /^OUTPUT [0-9]+: / { in_block = ($0 ~ lbl); next }
-        in_block && /^═+$/ { in_block = 0; next }
-        in_block { print }
-    ' | sed '/^[[:space:]]*$/{ /./!d }' | sed '1{/^[[:space:]]*$/d}'
+    local target="$2"
+    local update_file="$3"
+    local tag="$4"
+
+    if [[ ! -f "$update_file" ]]; then
+        info "No $label update file found — skipping."
+        return
+    fi
+
+    local content
+    content="$(cat "$update_file")"
+    local trimmed
+    trimmed="$(echo "$content" | tr -d '[:space:]')"
+
+    if [[ -z "$trimmed" || "${trimmed^^}" == "NONE" ]]; then
+        info "No $label updates needed."
+        return
+    fi
+
+    echo ""
+    header "═══ PROPOSED ${label} UPDATES ═══"
+    cat "$update_file"
+    header "═════════════════════════════════════════"
+    echo ""
+
+    local do_apply=false
+    if [[ "$AUTO_YES" == true ]]; then
+        info "Auto-accepting $label updates."
+        do_apply=true
+    else
+        read -rp "Apply these updates to $label? [y/N] " c
+        [[ "$c" =~ ^[Yy]$ ]] && do_apply=true
+    fi
+
+    if [[ "$do_apply" == true ]]; then
+        cp "$target" "${target}.bak"
+        {
+            printf '\n\n---\n## Updates from %s (%s)\n\n' \
+                "$CHAPTER_STEM" "$(date +%Y-%m-%d)"
+            cat "$update_file"
+        } >> "$target"
+        ok "$label updated  (backup: $(basename "$target").bak)"
+    else
+        local sidecar="$UPDATES_DIR/${CHAPTER_STEM}_${tag}_update.md"
+        cp "$update_file" "$sidecar"
+        info "Proposal saved: $sidecar"
+    fi
 }
 
-TRANSLATION="$(extract_block "TRANSLATION" "$RESPONSE")"
-CTX_UPDATES="$(extract_block "CONTEXT_UPDATES" "$RESPONSE")"
-KB_UPDATES="$(extract_block "KNOWLEDGE_BASE_UPDATES" "$RESPONSE")"
+apply_update "context.md"        "$CONTEXT_FILE" "$CTX_UPDATE_OUT" "context"
+apply_update "knowledge_base.md" "$KB_FILE"      "$KB_UPDATE_OUT"  "kb"
 
-# Fallback: if delimiter parsing failed, dump full response to output
-if [[ -z "$TRANSLATION" ]]; then
-    warn "Could not parse structured output. Saving raw response as translation."
-    TRANSLATION="$RESPONSE"
-    CTX_UPDATES="NONE"
-    KB_UPDATES="NONE"
-fi
+# ── Cleanup temp files ─────────────────────────────────────────────────────────
+rm -f "$SYS_PROMPT_FILE" "$TRANSLATION_OUT" "$CTX_UPDATE_OUT" "$KB_UPDATE_OUT" "$CLAUDE_LOG"
 
-# ── Write translation ─────────────────────────────────────────────────────────
-echo "$TRANSLATION" > "$OUTPUT_FILE"
-success "Translation saved: $OUTPUT_FILE"
-
-# ── Apply context updates ─────────────────────────────────────────────────────
-if [[ "$CTX_UPDATES" == "NONE" || -z "$(echo "$CTX_UPDATES" | tr -d '[:space:]')" ]]; then
-    info "No context.md updates needed."
-else
-    echo ""
-    echo -e "${BOLD}═══ PROPOSED context.md UPDATES ═══${RESET}"
-    echo "$CTX_UPDATES"
-    echo -e "${BOLD}════════════════════════════════════${RESET}"
-    echo ""
-    read -rp "Apply these updates to context.md? [y/N] " confirm_ctx
-    if [[ "$confirm_ctx" =~ ^[Yy]$ ]]; then
-        # Back up first
-        cp "$CONTEXT_FILE" "${CONTEXT_FILE}.bak"
-        # Append a chapter-stamped update block
-        {
-            echo ""
-            echo "---"
-            echo "## Updates from ${CHAPTER_BASENAME}"
-            echo ""
-            echo "$CTX_UPDATES"
-        } >> "$CONTEXT_FILE"
-        success "context.md updated (backup: context.md.bak)"
-    else
-        info "context.md unchanged."
-        # Save the proposed updates to a sidecar file so they aren't lost
-        SIDECAR="${SCRIPT_DIR}/updates/${CHAPTER_BASENAME}_context_update.md"
-        mkdir -p "${SCRIPT_DIR}/updates"
-        echo "$CTX_UPDATES" > "$SIDECAR"
-        info "Proposed updates saved to: $SIDECAR"
-    fi
-fi
-
-# ── Apply knowledge base updates ─────────────────────────────────────────────
-if [[ "$KB_UPDATES" == "NONE" || -z "$(echo "$KB_UPDATES" | tr -d '[:space:]')" ]]; then
-    info "No knowledge_base.md updates needed."
-else
-    echo ""
-    echo -e "${BOLD}═══ PROPOSED knowledge_base.md UPDATES ═══${RESET}"
-    echo "$KB_UPDATES"
-    echo -e "${BOLD}══════════════════════════════════════════${RESET}"
-    echo ""
-    read -rp "Apply these updates to knowledge_base.md? [y/N] " confirm_kb
-    if [[ "$confirm_kb" =~ ^[Yy]$ ]]; then
-        cp "$KB_FILE" "${KB_FILE}.bak"
-        {
-            echo ""
-            echo "---"
-            echo "## Updates from ${CHAPTER_BASENAME}"
-            echo ""
-            echo "$KB_UPDATES"
-        } >> "$KB_FILE"
-        success "knowledge_base.md updated (backup: knowledge_base.md.bak)"
-    else
-        info "knowledge_base.md unchanged."
-        SIDECAR="${SCRIPT_DIR}/updates/${CHAPTER_BASENAME}_kb_update.md"
-        mkdir -p "${SCRIPT_DIR}/updates"
-        echo "$KB_UPDATES" > "$SIDECAR"
-        info "Proposed updates saved to: $SIDECAR"
-    fi
-fi
-
-# ── Done ──────────────────────────────────────────────────────────────────────
+# ── Done ───────────────────────────────────────────────────────────────────────
 echo ""
-success "Done. Chapter ${CHAPTER_BASENAME} complete."
+ok "Chapter '${CHAPTER_STEM}' complete."
 echo ""
-echo "  Translation:  $OUTPUT_FILE"
-echo "  Context:      $CONTEXT_FILE"
-echo "  Knowledge:    $KB_FILE"
+echo "  Translation:    $OUTPUT_FILE"
+echo "  Context:        $CONTEXT_FILE"
+echo "  Knowledge base: $KB_FILE"
 echo ""
