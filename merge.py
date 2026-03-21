@@ -17,10 +17,13 @@ MERGE BEHAVIOUR BY SECTION:
     SECONDARY CHARACTERS        — append new ### subsections
     PLACE NAMES AND LOCATIONS   — append new table rows before the closing ---
     WORLD-BUILDING REFERENCE    — append new ### subsections or bullet points
-    TIMELINE: CHAPTERS *        — new TIMELINE sections are added as entirely new
-                                  sections (each batch gets its own heading)
+    TIMELINE: CHAPTERS *        — append new table rows into the existing TIMELINE
+                                  section (matched by the TIMELINE keyword, ignoring
+                                  the chapter range in the heading)
     RECURRING THEMES AND MOTIFS — append new numbered items, renumbering if needed
-    TRANSLATOR NOTES *          — append new bullet points
+    TRANSLATOR NOTES *          — append new bullet points into the existing
+                                  TRANSLATOR NOTES section (matched by keyword,
+                                  ignoring the chapter range in the heading)
     COVERAGE LINE               — replace the *Current coverage* line at the top
     NEW SECTIONS                — any section not found in the existing file is
                                   appended at the end
@@ -252,26 +255,55 @@ def append_bullet_list(existing: str, addition: str) -> str:
 
 # ── Section routing ────────────────────────────────────────────────────────────
 
+# Keywords that identify each section type, regardless of trailing chapter ranges
+# e.g. "## TIMELINE: CHAPTERS 42–45" and "## TIMELINE: CHAPTERS 1–41" both match "TIMELINE"
+_SECTION_KEYWORDS: list[tuple[str, str]] = [
+    ("NAME ROMANIZATIONS",  "table"),
+    ("PLACE NAMES",         "table"),
+    ("CORE CHARACTERS",     "subsections"),
+    ("SECONDARY CHARACTERS","subsections"),
+    ("WORLD-BUILDING",      "subsections"),
+    ("TIMELINE",            "table"),       # append rows into existing timeline section
+    ("RECURRING THEMES",    "numbered_list"),
+    ("TRANSLATOR NOTES",    "bullet_list"), # append bullets into existing notes section
+]
+
+
 def classify_heading(heading: str) -> str:
     """Return the merge strategy for a given ## heading."""
     h = heading.upper()
-    if "NAME ROMANIZATIONS" in h:
-        return "table"
-    if "PLACE NAMES" in h:
-        return "table"
-    if "CORE CHARACTERS" in h:
-        return "subsections"
-    if "SECONDARY CHARACTERS" in h:
-        return "subsections"
-    if "WORLD-BUILDING" in h:
-        return "subsections"
-    if "TIMELINE" in h:
-        return "new_section"   # each batch gets its own timeline block
-    if "RECURRING THEMES" in h:
-        return "numbered_list"
-    if "TRANSLATOR NOTES" in h:
-        return "bullet_list"
-    return "append"            # default: append non-duplicate content
+    for keyword, strategy in _SECTION_KEYWORDS:
+        if keyword in h:
+            return strategy
+    return "append"
+
+
+def fuzzy_find_heading(addition_heading: str, kb_sections: dict[str, str]) -> str | None:
+    """
+    Find the best matching existing section heading for an additions heading.
+
+    Exact match is tried first. If that fails, we strip trailing parenthesised
+    chapter ranges and compare on the stable keyword portion. This handles cases
+    like:
+        additions: "## TIMELINE: CHAPTERS 42–45"
+        kb:        "## TIMELINE: CHAPTERS 1–41"
+    and:
+        additions: "## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–45)"
+        kb:        "## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–41)"
+    """
+    if addition_heading in kb_sections:
+        return addition_heading
+
+    add_upper = addition_heading.upper()
+    for keyword, _ in _SECTION_KEYWORDS:
+        if keyword in add_upper:
+            # Find the kb heading that also contains this keyword
+            for kb_heading in kb_sections:
+                if kb_heading == "_preamble":
+                    continue
+                if keyword in kb_heading.upper():
+                    return kb_heading
+    return None
 
 
 def merge_section(existing: str, addition: str, strategy: str) -> str:
@@ -283,8 +315,6 @@ def merge_section(existing: str, addition: str, strategy: str) -> str:
         return append_numbered_list(existing, addition)
     if strategy == "bullet_list":
         return append_bullet_list(existing, addition)
-    if strategy == "new_section":
-        return None   # signal: add as a brand-new section
     # default: append if content not already present
     stripped = addition.strip()
     if stripped and stripped not in existing:
@@ -345,7 +375,7 @@ def main():
 
     # ── Process each section in the additions file ─────────────────────────────
     for heading, add_content in add_sections.items():
-        if heading in ("_preamble",):
+        if heading == "_preamble":
             continue
         # Skip bare coverage directive lines
         if "Update coverage line to:" in add_content and len(add_content.strip().splitlines()) <= 2:
@@ -357,30 +387,19 @@ def main():
 
         strategy = classify_heading(heading)
 
-        if strategy == "new_section":
-            # TIMELINE sections — always add as a new top-level section
-            if heading not in kb_sections:
-                new_sections_to_append.append((heading, add_content))
-                changes.append(f"New section added: {heading}")
-            else:
-                # Extremely rare: same exact timeline heading — skip
-                warn(f"Timeline section already exists, skipping: {heading}")
-            continue
+        # Resolve the kb heading — exact match first, then fuzzy
+        kb_heading = fuzzy_find_heading(heading, kb_sections)
 
-        if heading in kb_sections:
-            original = kb_sections[heading]
+        if kb_heading is not None:
+            original = kb_sections[kb_heading]
             merged   = merge_section(original, add_content, strategy)
-            if merged is None:
-                # new_section signal for a known heading — treat as append
-                new_sections_to_append.append((heading, add_content))
-                changes.append(f"New section added: {heading}")
-            elif merged != original:
-                kb_sections[heading] = merged
-                changes.append(f"Updated: {heading}")
+            if merged != original:
+                kb_sections[kb_heading] = merged
+                changes.append(f"Updated: {kb_heading}")
             else:
-                info(f"No new content for: {heading}")
+                info(f"No new content for: {kb_heading}")
         else:
-            # Brand new section not in existing KB
+            # Brand new section not found anywhere in existing KB — append at end
             new_sections_to_append.append((heading, add_content))
             changes.append(f"New section added: {heading}")
 

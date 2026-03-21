@@ -1,0 +1,130 @@
+*Update coverage line to: Chapters 1–55*
+
+## NAME ROMANIZATIONS
+
+| Japanese | English | Role |
+| グラン＝アーグランド | Gran Agrand | Kokys's son; messenger/aide |
+| コリンツ | Korintz | First captain, black century (recruited by Dagra) |
+| ベーギル | Begil | First Battalion commander, First Corps (light infantry) |
+| ファグラン | Fagran | Second Battalion commander, First Corps (heavy infantry) |
+| キース | Keys | Third Battalion commander, First Corps |
+| バーガ | Barga | Fourth Battalion commander, First Corps |
+| ガインズ | Gainz | Fifth Battalion commander, First Corps (archers) |
+| ゲルツ＝ヴィリング | Geltz Willing | Gildanstein's general; center-rear defense commander |
+| カルメダ | Kalmeda | Gildanstein's general (mentioned in battlefield flashback) |
+| カルデラ | Caldera | Salva's family name |
+| バグ | Bug | Black century soldier; Mia's squad |
+| ケルス | Kels | Black century soldier; Mia's squad |
+| アドル | Adol | Black century soldier; Mia's squad |
+
+## CORE CHARACTERS
+
+### Krische Alberinea Krishtand
+- **Dragon's Maw strategy (C.51):** Proposes burning Mitskronia mountain to trap enemy forces, combined with a full-army breakthrough from Bernaich. Dismisses moral and environmental concerns with characteristic pragmatism. Argues victory should be the sole consideration.
+- **Pre-battle speech (C.53):** Delivers a speech to the black century that is simultaneously pragmatic and chilling: "killing someone doesn't hurt you one bit," "kill them before they kill you," and expresses her own anxiety only in terms of Selene's safety. Falls asleep standing against a tree with hand on sword hilt.
+- **Cliff descent assault (C.54):** Devised a tactic using the black century's mana-enhanced abilities to descend near-vertical cliffs at the Dragon's Maw. Led the descent personally, moving faster than freefall, and systematically eliminated enemy officers to break cohesion before the main force engaged.
+
+### Bery Argan
+- **Oath revelation to Selene (C.52):** Confessed to Selene that she offered her hidden name to Krische (as described in C.49). Gave extended account of her childhood — self-loathing, twisted, envious of Lazura, cold and intellectual. Described finding meaning at Krische's side. Selene teased about a possible ceremony; Bery's reaction confirmed she had imagined it.
+
+### Selene Christand
+- **Pre-battle leadership (C.53):** Commanded the First Corps at Bernaich. Managed personal tension while maintaining morale through humor and warmth with battalion commanders. Composition of her corps: First Battalion (light infantry, Begil), Second (heavy infantry, Fagran), Third (Keys), Fourth (new recruits guarding Selene, Barga), Fifth (archers, Gainz). Many new recruits with barely a month of training.
+- **Reaction to Bery's oath (C.52):** Learned of Bery's hidden-name oath from Bery directly the night before battle. Teased Bery about a wedding ceremony. Acknowledged with exasperation and affection. Recalled her mother Lazura's teachings about hidden names.
+
+### Bogan Argalitte Vezrinea Christand
+- **Ambush and likely death (C.53–54):** Lured by false report (Salva's betrayal via compromised messenger Gran) into riding to the right flank with only seven cavalry. Ambushed by Gildanstein personally with ~30 elite troops. Drew sword and attempted to flee rather than accept a duel. His fate — Gildanstein later displays a severed arm and sword, declaring Bogan slain.
+
+### Kreschenta Farna Viera Alberan
+- **War council role (C.51):** Performed a calculated emotional speech supporting Krische's mountain-burning plan, citing her father's (fictitious) words about accepting present hatred for future happiness. Privately recognized Krische's vulnerability to interpersonal schemes and felt unease about it.
+- **Unease about Krische (C.51):** Identified that Krische's lack of social caution and the existence of those who fear/dislike her (e.g., Salva) as the source of her battlefield anxiety. Recognized she could not systematically address this in wartime.
+
+### Gildanstein Kalnaros Vel Sarcarinea Alberan
+- **Backstory (C.55):** Extended origin story. Idealistic youth who gradually discovered the corruption surrounding the royal house. Killing a pet cat as a turning point — realization that all beings are beasts driven by desire. Became deliberately cruel and hedonistic. Later discovered genuine nobility on the battlefield — people who swore upon their names and fulfilled their duties unto death. Encountered Lazura Argan before Bogan rescued her; was moved by her dignity and released her. Developed respect for Bogan specifically through a battlefield incident where Bogan selflessly held the line.
+- **Salva operation (C.55):** Two weeks before the reinforcements arrived, personally captured the Third Corps' adjutant in Mitskronia. Used intelligence gathered through threats against soldiers' capital-based kin to identify and turn Salva. Methodology: identify frustrated subordinates, read their nature, and craft personalized temptation. Swore upon the name of Alberan to show maximum consideration for Selene and Krische at Salva's request.
+- **Full name variant:** サーカリネア appears in C.54 (vs. established サルカリネア). Likely author variation; flagged for review.
+
+## SECONDARY CHARACTERS
+
+### Salva (Caldera)
+- **Family name:** Caldera (カルデラ), revealed C.53.
+- **Betrayal (C.53, C.55):** Turned by Gildanstein two weeks before the reinforcements. Fed false report of Terious's death through compromised messenger Gran Agrand, luring Bogan into an ambush. Motivated by career frustration (capable but unable to advance under Christand's exceptional officers) and genuine fear of Krische's nature. Despite betraying Bogan, requested Gildanstein spare both Selene and Krische, showing moral complexity. Promised a general's rank by Gildanstein.
+- **Assessment of Krische (C.55):** Described her as a "genius of war" who is simultaneously pure and fundamentally different from other humans. Called her an "uncontrollable monster" but acknowledged she acts from devotion to Bogan and Selene, not from malice.
+
+### Gran Agrand (グラン＝アーグランド)
+- Kokys's son. Handsome young man serving as messenger. Compromised by Salva — delivered the false report of Terious's death that lured Bogan into ambush (C.53).
+
+### Korintz (コリンツ)
+- First captain (兵長) of the black century, recruited by Dagra. Previously mentioned as Dagra's unnamed former subordinate. Commanded squads eleven through nineteen during the cliff descent assault (C.54).
+
+### Begil (ベーギル)
+- First Battalion commander, First Corps. Commands light infantry. White-streaked beard. Valiant — volunteered "at the cost of this life" for the breakthrough role. Led the initial charge through enemy lines at Bernaich (C.53).
+
+### Fagran (ファグラン)
+- Second Battalion commander, First Corps. Commands heavy infantry (exclusively composed, no mixed medium infantry). Large man with a somewhat fresh quality despite his rough appearance (C.53).
+
+### Keys (キース)
+- Third Battalion commander, First Corps. Lean, middle-aged man. Quiet, amused demeanor (C.53).
+
+### Barga (バーガ)
+- Fourth Battalion commander, First Corps. Bear-like, extremely hairy, thick whiskers even on cheeks. Guards Selene directly. Joked about wanting a kiss on the cheek as reward (C.53).
+
+### Gainz (ガインズ)
+- Fifth Battalion commander, First Corps. Commands archers. Former hunter who rose from the ranks despite being unable to wield mana. Actually 44 but looks much older. Experienced, capable, trustworthy (C.53).
+
+### Geltz Willing (ゲルツ＝ヴィリング)
+- Gildanstein's general; commands center-rear defense at Bernaich. Pure white chin-beard, narrow eyes. Experienced tactician. Initially judged Selene's tactical decision to redirect light infantry toward the center as a youthful blunder, then was blindsided by the black century's cliff descent assault. Reacted quickly but was overwhelmed (C.54).
+
+### Lazura Argan (expanded)
+- **Gildanstein encounter (C.55):** Before Bogan rescued her, Lazura was brought to one of Gildanstein's depraved gatherings as a "plaything." When threatened with torture and death if she would give up her sister, she asked only that Gildanstein swear to love and protect Bery. Her composure and nobility impressed Gildanstein enough to release her without harm and invite her to return if no one claimed her. This encounter contributed to Gildanstein's growing recognition of genuine nobility.
+
+### Kalmeda (カルメダ)
+- General in Gildanstein's army. Mentioned in a flashback — Bogan directed Gildanstein to regroup with Kalmeda during a past battle (C.55). Minimal detail.
+
+## PLACE NAMES AND LOCATIONS
+
+| **Name** | Description |
+| **Bernaich (ベルナイク)** | Eastern mountain of the Twin Mountains at the Dragon's Maw. Site of the Christand army's main assault during the decisive battle (C.53–54). Features near-vertical cliffs used by the black century for descent assault. |
+
+## WORLD-BUILDING REFERENCE
+
+### Military Tactics (expanded)
+- **Flank breakthrough vs. envelopment (C.51):** A flank breakthrough is a purely tactical maneuver — breaking through the enemy's flank position and swinging behind them. An envelopment is a wider swing that avoids combat to reach the enemy's rear, approaching a strategic-level action that can threaten rear lines of communication. In kingdom military terminology, "strategy" refers to army-level movement and battlefield selection; "tactics" refers to methods of engagement after contact.
+- **Cliff descent assault (C.54):** A tactic devised by Krische exploiting the black century's mana-enhanced physical abilities. Soldiers descend near-vertical cliffs using protrusions as footholds, preceded by logs dropped to clear a landing zone and create confusion. Requires specialized training (three injuries during practice). Only feasible with an all-mana-user unit.
+- **False intelligence operation (C.53, C.55):** Gildanstein's operation to assassinate Bogan: turned a trusted subordinate (Salva) using intelligence gathered through coercion of soldiers' capital-based kin. The traitor fed false reports through a compromised messenger (Gran), luring the target into an ambush with a small elite unit. Salva created the false report of Terious's death to draw Bogan personally.
+- **Free standby (自由待機, C.53):** An informal order created by Krische. Unlike combat-ready alert standby, it signals full rest until the appointed time with no alertness required. Intended to prevent unnecessary fatigue before action.
+
+### Gildanstein's Personal History (C.55)
+- Childhood: began as an idealistic prince, studying governance to support his father and brother. Gradually discovered that courtiers were universally corrupt, using false faces to advance personal ambitions. The royal house was a system, not a family, and he had been dancing within a cage.
+- Breaking point: killed a pet cat on a whim; recognized that all beings are desire-driven beasts. Decided to become the strongest and ugliest beast himself. Pursued hedonistic cruelty thereafter.
+- Battlefield redemption: discovered genuine nobility among soldiers — people who swore upon their names and died fulfilling their duties. Found the battlefield's simplicity refreshing after court's complexity. Developed particular respect for Bogan Christand.
+- Encounter with Lazura: Before Bogan rescued her, Lazura was brought to one of Gildanstein's gatherings. Her composure when threatened with death — asking only that Bery be given genuine love — impressed him deeply. He released her unharmed.
+
+## TIMELINE: CHAPTERS 51–55
+
+| Chapter(s) | Event |
+|---|---|
+| C.51 | War council at Dragon's Maw: Krische proposes burning Mitskronia and full-army Bernaich breakthrough. Salva objects; Kokys, Elrouga support. Kreschenta performs emotional speech supporting the plan. Bogan approves. Evening: four-person scene — Krische leaves Bery in Kreschenta's care; kissing comedy; Selene explains battlefield uncertainty to Kreschenta. |
+| C.52 | Morning ascent of Bernaich. Selene recalls previous night's conversation with Bery: Bery revealed offering her hidden name to Krische, confessed her childhood self-loathing, declared her life's meaning is at Krische's side. Selene teases about a wedding ceremony. Present: Selene pinches Krische's cheeks; Krische interprets it as love. Black century marches behind; "Vulture" nickname comedy continues. |
+| C.53 | Battle begins. Mitskronia attacked by Gildanstein; Third Corps stages withdrawal. False report: Gran Agrand delivers fabricated news of Terious's death, luring Bogan to the right flank with seven cavalry. Bogan ambushed by Gildanstein's ~30-man elite unit, with Salva revealed as the traitor. Selene's pre-battle speech to five battalion commanders. Krische's speech to black century — pragmatic advice on killing, then falls asleep standing. |
+| C.54 | Bernaich assault. Geltz Willing commands Gildanstein's center-rear defense. Fourth Corps creates breach; First Corps light infantry (Begil) breaks through. Black century descends cliff: logs dropped first, then Krische leads descent faster than freefall. Mia's POV of first combat — kills enemy, captivated by Krische's fighting. Dagra commands from center without killing anyone. First Battalion and Second Corps link up — victory on the Bernaich front. Gildanstein appears atop Mitskronia, displays severed arm and sword, declares Bogan slain and the war over. |
+| C.55 | Gildanstein's extended backstory: idealistic youth, disillusionment, killing the cat, descent into cruelty, discovery of nobility on the battlefield, encounter with Lazura Argan, developing respect for Bogan. Flashback (two weeks prior): Gildanstein personally turns Salva — exploits career frustration and fear of Krische. Salva asks Gildanstein to spare Selene and Krische; Gildanstein swears upon the name of Alberan. |
+
+## RECURRING THEMES AND MOTIFS
+
+**Salva's moral complexity** — A traitor who is neither purely villainous nor purely self-serving. Fears Krische but acknowledges her purity; betrays Bogan but asks for mercy toward those Bogan loves. Embodies the novel's refusal to simplify moral categories.
+**Gildanstein's paradox of nobility** — A self-aware monster who genuinely recognizes and respects authentic nobility in others (Lazura, Bogan). His villainy coexists with aesthetic appreciation for virtue, making him a mirror-image of Krische (who is innocent but kills without feeling).
+**Cliff descent as spectacle** — Mia's POV during the descent renders Krische's killing as aesthetically "beautiful" — blood-flowers, dancing silver — reinforcing the novel's central tension between violence and beauty.
+**The lion and the insect** — Gildanstein's metaphor for his strategy against Bogan: creating a traitor within to make the lion offer its throat. Parallels the "birdcage" motif — both describe systems of trust that can be exploited from within.
+
+## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–55)
+
+- C.51: ノーザン (Nōzan) appears in text; likely author variation of established ノザン (Nozan). Used "Nozan" per established convention.
+- C.53: カルデラ (Caldera) revealed as Salva's family name.
+- C.53: グラン＝アーグランド (Gran Agrand) — Kokys's son. New character; messenger compromised by Salva.
+- C.53: コリンツ (Korintz) — first captain of the black century, previously mentioned as unnamed former subordinate.
+- C.53–54: Battalion commanders of the First Corps all introduced: ベーギル (Begil), ファグラン (Fagran), キース (Keys), バーガ (Barga), ガインズ (Gainz).
+- C.54: ゲルツ＝ヴィリング (Geltz Willing) — Gildanstein's general commanding center-rear. New character.
+- C.54: サーカリネア appears in Gildanstein's full name (vs. established サルカリネア). May be author variation; flagged.
+- C.55: カルメダ (Kalmeda) — Gildanstein's general, mentioned in flashback. Minimal detail.
+- C.55: 四刻 rendered as "roughly four hours" based on narrative context (sunset to late night), though traditional koku measurement would suggest a longer period.
+- C.55: Lazura-Gildanstein encounter is entirely new backstory, not previously referenced.

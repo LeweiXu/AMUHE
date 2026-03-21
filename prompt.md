@@ -39,6 +39,7 @@ Formatting rules:
 - Preserve the author's paragraph rhythm — do not merge or split paragraphs
 - Translator notes go inline at the relevant passage as: `(T/N: ...)`
 - Author's notes, if present, go at the end of their chapter after a `---` divider
+- If there is not an `――` em-dash in the original text, do not use an em-dash in the translation
 
 Do not invent formatting that has no basis in the source text. When in doubt, plain prose
 is correct. The goal is a clean reading experience, not aggressive annotation.
@@ -97,19 +98,3 @@ Update the heading's chapter range if needed (e.g. change C.1–41 to C.1–45).
 
 **Any entirely new section** not listed above: include it with its full `## HEADING`
 and complete content. The script will append it to the end of knowledge_base.md.
-
----
-
-<!-- PASTE CHAPTERS BELOW — replace the placeholders with your raw Japanese text -->
-
----
-
-## CHAPTER [N]: [paste Japanese title]
-
-[paste raw Japanese text]
-
----
-
-## CHAPTER [N+1]: [paste Japanese title]
-
-[paste raw Japanese text]

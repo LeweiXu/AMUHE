@@ -1,0 +1,136 @@
+*Update coverage line to: Chapters 1–50*
+
+## NAME ROMANIZATIONS
+
+| Japanese | English | Role |
+|---|---|---|
+| カルア | Kalua | Black century soldier; Mia's squad, centurion's guard detail |
+| ダッガ | Dagga | Soldier; selection number 78 |
+| ジルバン | Zilban | Soldier; selection number 182 |
+| トルカ | Tolka | Corporal; Fourth Battalion, Ninth Company, Seventeenth Squad |
+| ラズラ＝アルガン | Lazura Argan | Bery's older half-sister; Bogan's late wife (full name confirmed) |
+| シェルバーザ | Sherbaza | King of Alberan (deceased); Krische and Kreschenta's father |
+| テリウス＝メルキコス | Terious Melkikos | Third Corps Commander (family name new) |
+| エルーガ＝ファレン | Elrouga Faren | Fourth Corps Commander (family name new) |
+| ピルカーナ | Pilkarna | River fish; fatty and delicious in season but somewhat fishy |
+| ヒルキントス | Hilkintos | Western general or noble faction (context unclear; mentioned alongside Garhka as undecided parties in the civil war) |
+
+## CORE CHARACTERS
+
+### Krische Alberinea Krishtand
+- **Nickname among black century:** "Bunny" (うさちゃん / うさぎちゃん) — soldiers liken her silver hair, white skin, and small stature to a winter white rabbit. Carries both affection and mild derision; Dagra strictly forbids it.
+- **Memory:** Demonstrated ability to recall individual soldiers' names, selection numbers, squad assignments, and arrival dates from a single encounter during selection (C.48).
+- **Training approach (C.46):** Uses five-on-one mock combat against herself to humble the black century after they grew arrogant. Demands a 1:10 loss ratio in ambush scenarios against regular troops. States her goal is to turn every member of the black century into a copy of Dagra.
+- **Nickname for Dagra:** "Vulture" (ハゲワシ) — bestowed as an "affectionate nickname" based on his bald head and hooked nose. Krische genuinely believes this is a term of endearment (C.46).
+- **On rumors:** Does not care about negative rumors about herself; would use them if advantageous. However, deeply dislikes that such rumors cause Bery to be spoken of negatively (C.48).
+
+### Bery Argan
+- **Hidden name (真名):** Lips. Full noble name: Bery Lips Argan. Given by her parents at birth per noble tradition; never spoken aloud until she shared it with Krische. Performed an old-form oath of devotion using this name (C.49).
+- **Relationship with Lazura (flashback, C.47):** As a child, Bery was withdrawn, self-loathing, and physically frail, believing herself worthless. Lazura was bright, beautiful, and fiercely loving — insisted on being Bery's personal caretaker, overriding Bery's attempts to isolate herself. Lazura declared Bery her "treasure" and refused to let her diminish her own worth. This memory is triggered by hearing soldiers' rumor-mongering about Krische.
+- **Self-assessment (C.49):** Recognizes her own feelings as potentially impure — suspects she may have cultivated Krische's dependency partly out of a desire for possessive control and to be someone's sole indispensable person. Questions whether her resignation about Krische's abnormality is genuine acceptance or self-serving. Considers herself "warped" and an "imitation" compared to Krische's authentic nature.
+- **Changed demeanor (C.50):** After the oath scene, Bery no longer flushes or resists Krische's kisses — she accepts them happily and even subtly invites them. This shift is noticed by Kreschenta (irritated), Selene (amused but unconcerned), and the assembled officers.
+- **Full moon motif:** The flashback links Bery's love of the full moon to her admiration for Lazura — "like a full moon that never waned, her sister was perfect." The waning moon at the end of C.47 mirrors Bery's sense of her own imperfection.
+
+### Selene Christand
+- **Civil war logistics (C.50):** Successfully scraped together 8,500 reinforcement soldiers including 2,000 archers (primarily hunters recruited from villages), while simultaneously supplying steady replacement personnel to Bogan's front. Left behind cavalry recruits due to insufficient training. Bogan is deeply impressed.
+
+### Kreschenta Farna Viera Alberan
+- **Cooking (C.48):** Began learning to cook with Krische and Bery after feeling jealous of Krische's closeness with Bery. Shows competitive spirit — declares she will surpass Bery. Cannot follow advanced cooking discussions between Krische and Bery.
+- **Bath punishment (C.48):** Sentenced to bathe with Anne instead of Krische and Bery after repeatedly complaining about their mutual washing. Krische enforces this using a village rule: "if you miss with two arrows, you may not hunt that quarry" — a promise broken twice earns a penalty. Minimum one day of punishment.
+- **Public appearance (C.50):** Rides to the Dragon's Maw front with Selene and Krische for a morale-boosting performance. Shows her face openly to soldiers (breaking royal convention of wearing veils) as a deliberate strategy to boost morale. The "beautiful princess to fight for" framing draws on heroic tale conventions.
+
+### Bogan Argalitte Vezrinea Christand
+- **Dragon's Maw campaign (C.50):** Has been fighting at the Dragon's Maw for approximately two months. Situation is overall favorable but deadlocked. Seeks a decisive result — primary objective is Gildanstein himself, secondary is complete control of the Dragon's Maw. Shows significant fatigue.
+- **Exchange with Gildanstein (C.50):** A chivalrous exchange before battle. Gildanstein offers Bogan the chance to kneel and be spared; Bogan refuses, stating he has already committed as Kreschenta's blade. Both acknowledge the other as a worthy warrior. Gildanstein asks for a personal duel; Bogan declines, saying he cannot match the prince.
+
+## SECONDARY CHARACTERS
+
+### Kalua (カルア)
+- Female soldier in the black century's centurion guard squad (Mia's squad). Long black hair tied at the back. Swordsmanship rivaling Dagra's. Won a sword tournament in a sizable town before joining. Easygoing, adroit, and socially skilled — acts as an older-sister figure to Mia. The one who coined the "bunny" nickname for Krische; shows little concern about potential consequences. Escaped Dagra's wrath by vanishing the moment Krische left (C.46).
+
+### Lazura Argan (ラズラ＝アルガン)
+- Expanded detail from Bery's flashback (C.47): Bright, beautiful, free-spirited, careless, and fiercely loving. Wore a servant's apron dress to personally bring meals to the withdrawn Bery. Physically carried Bery, kissed her cheek, and refused to leave her alone despite Bery's protests. Declared Bery her "treasure" and told her that worth is determined by those who see it, not by oneself. Her smile is Bery's most cherished memory.
+
+### Sherbaza (シェルバーザ)
+- King of Alberan. Deceased — poisoned by Kreschenta. Father of both Krische and Kreschenta. Named for the first time in C.48 (previously referred to only as "the king").
+
+### Dagga (ダッガ) / Zilban (ジルバン)
+- New recruits at Fort Belgash; arrived ten days prior. Caught by Krische spreading exaggerated rumors about her. Selection numbers 78 and 182. Assigned to Fourth Battalion, Ninth Company, Seventeenth Squad under Corporal Tolka (C.48).
+
+### Terious Melkikos (テリウス＝メルキコス)
+- Third Corps Commander. Family name Melkikos revealed (C.50). Hook-nosed, gaunt — described as somewhat resembling Dagra. His corps bore the brunt of Gildanstein's personal breakthrough; losses heavy, morale damaged. Combat-effective strength: 2,800 with ~100 expected returns.
+
+### Elrouga Faren (エルーガ＝ファレン)
+- Fourth Corps Commander. Family name Faren revealed (C.50). Emaciated, skeletal appearance. Outstanding tactical commander. Led a night raid that nearly reached Gildanstein's position before being forced to withdraw. Combat-effective strength: 4,300 with fewer than 100 expected returns. Some unit fatigue.
+
+### Zalbak (ザルバック)
+- Expanded detail (C.48): Once aspired to be a palace chef and trained in the capital. Family misfortunes forced his return home. His culinary knowledge allowed him to anticipate Bery's salt-crust technique before she stated it. "Lightning Head Cook" — paralleled with Bogan's "Lightning General" epithet.
+
+### Kart (カート)
+- Expanded detail (C.48): Developed a counter-strategy against Zalbak by creating a mobile stockpile of ingredients on his wagon, conceding the initial move but ensuring comprehensive readiness. Catches Zalbak's thrown tray one-handed without spilling eggs.
+
+## PLACE NAMES AND LOCATIONS
+
+| **Name** | Description |
+|---|---|
+| **Pilkarna (ピルカーナ)** | River fish caught near Fort Belgash. Fatty and delicious in season but somewhat fishy; requires careful preparation. Bery makes it as salt-crust baked fish (C.48). |
+
+## WORLD-BUILDING REFERENCE
+
+### Fort Belgash Layout (expanded)
+- **Command center:** Central building of the fortress. First and second floors contain offices and practical rooms. Third floor opens onto a wide hall with battlements.
+- **Inner wall and towers:** Four corner towers connected to the third-floor hall by wooden bridges. The inner wall predates the outer wall and is partly converted to living quarters. Krische, Bery, Selene, and Kreschenta reside in one of these towers.
+- **Bathing facilities:** Stone-built rooms with small tubs. Conduit pipes fitted with magic crystals heat the water. Located in or near the tower living quarters.
+
+### Gildanstein's Military Reputation
+- **Title: "The Black Lion" (黒獅子)** — earned on the battlefield. Personally fought at the forefront during the kingdom's eastern expansion and conquest of Empire territory, wielding a great battle-axe in black iron armor adorned with gold. His martial valor was feared by friend and foe alike.
+- **Tactical approach in civil war (C.50):** Knows his troops and commanders are inferior to Christand's. Compensates by personally acting as a mobile strategic asset — using body doubles, concealing his location, and ranging freely to strike at critical moments. Led a personal mountain breakthrough that briefly imperiled the Christand position.
+
+### Noble Hidden Names (真名)
+- Noble families give their children a secret name (隠し名 / 真名) at birth. This name is never spoken aloud under normal circumstances. Sharing it constitutes an intimate act of trust. An old tradition exists of pledging one's true name as an oath of devotion — "this true name, together with all that I am, I give entirely to you" — described as "a rather old way of declaring one's love" (C.49).
+
+### Village Rules Referenced
+- **"If you miss with two arrows, you may not hunt that quarry" (二射を外せば狩ってはならぬ):** A Karka Village hunting code. Originally a caution against chasing prey too far; extended to promises. A promise broken twice is assumed it will be broken a third time. After two violations, a penalty is enforced. Krische applies this to Kreschenta's repeated complaints about bathing arrangements (C.48).
+
+### Propaganda and Rumor (C.47–48)
+- Gildanstein's propaganda claims: Kreschenta is a cursed child who murdered her father King Sherbaza; Krische is also of cursed birth; the Christands are using both to control the royal house and are traitors to the crown.
+- These rumors have penetrated Fort Belgash and create unease among soldiers. Some soldiers spread exaggerated versions (Krische as a laughing torturer, killer of her foster mother, etc.).
+- Selene's strategy: rather than hide Krische and Kreschenta's relationship, present it openly with confidence. Show Kreschenta's innocent side to soldiers. Kreschenta's skill at concealing her abnormality makes this low-risk.
+
+### Civil War Force Status (as of C.50)
+- **Christand forces at Dragon's Maw:** Second Corps: 3,800 (+200 returning). Third Corps: 2,800 (+100 returning). Fourth Corps: 4,300 (+<100 returning). HQ: 1,500. Reinforcements: 8,500 (including 2,000 archers). Total approximately 16,900.
+- **Gildanstein's forces:** Original 30,000 reduced through attrition and replenishment cycles. Uses ongoing skirmishes as live training. Employs body doubles and personal mobility as strategic assets. Cautious overall approach — conserving forces, aiming to grind Christand down.
+
+## TIMELINE: CHAPTERS 46–50
+
+| Chapter(s) | Event |
+|---|---|
+| C.46 | Black century forest training continues (week 2). Joint exercise with red results in ambush victory but only 7 casualties — black grows arrogant. Dagra requests Krische's help. Krische conducts five-on-one mock battles, defeating all squads. Mia's elite squad also defeated. Krische lectures on coordination and 1:10 loss ratio standard. Discovers "bunny" nickname; bestows "Vulture" on Dagra as reciprocal "affectionate nickname." |
+| C.47 | Bery's childhood flashback: Lazura's devotion to the withdrawn, self-loathing young Bery. Present day: Bery overhears soldiers spreading ugly rumors about Krische (including that she killed her foster mother). Bery confronts them subtly. Krische arrives, senses something wrong, but Bery deflects. The two return together; domestic sweetness contrasted with the rumor's content. Waning moon imagery. |
+| C.48 | Krische, Bery, and Kreschenta cook together (salt-crust pilkarna, pizza, tomato soup). Zalbak vs. Kart kitchen rivalry continues — Zalbak throws a tray; Anne disrupts both by taking the eggs and nearly dropping them; Krische saves them mid-air. Bath dispute: Kreschenta sentenced to bathe with Anne per village two-arrow rule. Soldiers beneath the bridge spread rumors; Krische leaps down, identifies them by name and assignment from memory, threatens them with the sword, and warns them. Returns to bridge as if nothing happened. |
+| C.49 | Bath scene: Krische and Bery. Bery's internal monologue — self-doubt about her motivations, fear that her love is possessive rather than pure, comparison of herself as "imitation" to Krische's "real." Krische offers to spoil Bery in return. Krische articulates something close to loneliness and love for the first time. Bery shares her hidden name (Lips); performs an old noble oath of devotion. Mutual declaration of love. They agree to bake cookies with Kreschenta and Selene. |
+| C.50 | Kreschenta's morale-boosting visit to the Dragon's Maw front — staged performance with line-abreast march and coordinated cheers. War council: force status reports from all corps commanders. Family names of Terious (Melkikos) and Elrouga (Faren) revealed. Bogan seeks decisive result; secondary objective is complete control of Dragon's Maw. Flashback to Bogan–Gildanstein exchange before battle (the Black Lion's offer to spare Bogan; Bogan's refusal). Krische proposes plan: withdraw Third Corps from Mitskronia, cede the mountain to the enemy, and burn it down. |
+
+## RECURRING THEMES AND MOTIFS
+
+**Bunny / Vulture nicknames** — Comic pair showing Krische's literal-mindedness and social obliviousness. She genuinely believes "Vulture" is as affectionate as "Bunny." Dagra is trapped by his own soldiers' culture.
+**Moon imagery (C.47–48)** — Full moon = Lazura's perfection and Bery's idealized love; waning moon = Bery's self-perceived imperfection. Explicitly linked through Bery's narration.
+**Imitation vs. real** — Bery sees Krische's emotions as authentic and her own as performed or suspect. Drives her internal conflict about whether her love is genuine or possessive (C.49).
+**Hidden name / oath** — Bery's sharing of her true name represents irreversible commitment. The old noble tradition of pledging one's name parallels the kiss-as-love motif but with greater gravity (C.49).
+**Rumor and reputation** — Krische's battlefield reputation spreads through the fortress in distorted forms. She is indifferent to rumors about herself but protective of Bery. Bery is disturbed but conceals it. The gap between Krische's private gentleness and public fearfulness is a recurring tension (C.47–48).
+**The Black Lion** — Gildanstein's battlefield title. Establishes him as a worthy, even chivalrous antagonist rather than a simple villain. His exchange with Bogan carries mutual respect (C.50).
+
+## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–50)
+
+- C.46: "うさちゃん" rendered as "bunny" — the soldiers' nickname for Krische based on her white-rabbit appearance. Carries both affection and mild derision.
+- C.46: "ハゲワシ" rendered as "Vulture" — preserves the ハゲ (bald) + ワシ (raptor) wordplay matching Dagra's appearance.
+- C.47: Bery's childhood flashback rendered in italics to mark the shift from present-tense narrative to memory.
+- C.48: 三間 (san-ken) ≈ 6 yards / 5.5 meters.
+- C.49: Bery's hidden name リプス romanized as "Lips."
+- C.49: The oath formula "言の葉紡ぐ場所より誓いを" translated somewhat literally — "A vow woven from the place where words are spun" — to preserve ritual quality.
+- C.50: コルキス＝アーグランド — family name differs from established アグランド (Agrand). May be author variation; flagged for review. Used "Kokys Agrand" per established convention with note.
+- C.50: テリウス＝メルキコス — Third Corps Commander's family name Melkikos appears for the first time.
+- C.50: エルーガ＝ファレン — Fourth Corps Commander's family name Faren appears for the first time.
+- C.50: ヒルキントス (Hilkintos) — new name referring to a western faction/figure. Not previously in knowledge base.
+- C.50: シェルバーザ (Sherbaza) — King of Alberan named for the first time (previously only "the king").
+- C.50: 三十間 ≈ 60 yards, 十間 ≈ 20 yards, 一里 ≈ 2.4 miles / 3.9 km.
