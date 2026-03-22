@@ -1,7 +1,7 @@
 # Translation Context: A Maiden's Unwanted Heroic Epic (少女の望まぬ英雄譚)
 
 ## YOUR TASK
-Translate chapters of this Japanese web novel into English. Prioritize accuracy and nuance over naturalness. Preserve the original tone exactly. Consult knowledge_base.md for all character details, place names, lore, and the current story state.
+Translate chapters of this Japanese web novel into English. Balance accuracy and nuance with naturalness of the translated text: translated text should have a natural reading experience while preserving meaning of the original text. Preserve the original tone exactly. Consult knowledge_base.md for all character details, place names, lore, and the current story state.
 
 ---
 

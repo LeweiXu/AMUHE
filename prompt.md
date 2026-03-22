@@ -48,8 +48,9 @@ is correct. The goal is a clean reading experience, not aggressive annotation.
 ### File 2 — Knowledge Base Additions
 
 After ALL chapters are translated, produce a second file containing ONLY new information
-introduced in this batch. A merge script will apply these additions automatically, so
-follow the format rules below exactly — the script depends on them.
+introduced in this batch. The new information should be concise and condensed. Only add
+information necessary for translation accuracy. A merge script will apply these additions 
+automatically, so follow the format rules below exactly — the script depends on them.
 
 **First line of File 2 must always be:**
 `*Update coverage line to: Chapters 1–[last chapter number in this batch]*`
