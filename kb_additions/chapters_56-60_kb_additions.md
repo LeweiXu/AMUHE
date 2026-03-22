@@ -69,7 +69,7 @@
 ### Geltz Willing (ゲルツ＝ヴィリング)
 - **Post-battle decisions (C.58, C.60):** Correctly ordered pursuit halted when Christand's withdrawal counterattack devastated his forces. Later organized three increasingly large mountain sweeps of Bernaich to deal with Krische's guerrilla campaign, culminating in a 2-battalion (2,000-man) sweep with four-squad mutual-support groups. Pulled troops off Bernaich for a day to give the black century a window to escape, judging that eliminating them was less important than stabilizing the Dragon's Maw.
 
-### Keys (キース)
+### Keith (キース)
 - **Wounded (C.58):** Third Battalion commander. Suffered a broken arm and critical blood loss during the mobile defense where his battalion was used as bait. His adjutant was killed. The Third Battalion lost half its number dead.
 
 ## WORLD-BUILDING REFERENCE

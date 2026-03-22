@@ -39,7 +39,6 @@ Formatting rules:
 - Preserve the author's paragraph rhythm — do not merge or split paragraphs
 - Translator notes go inline at the relevant passage as: `(T/N: ...)`
 - Author's notes, if present, go at the end of their chapter after a `---` divider
-- If there is not an `――` em-dash in the original text, do not use an em-dash in the translation
 
 Do not invent formatting that has no basis in the source text. When in doubt, plain prose
 is correct. The goal is a clean reading experience, not aggressive annotation.

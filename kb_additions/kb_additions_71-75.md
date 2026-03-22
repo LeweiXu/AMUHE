@@ -1,0 +1,145 @@
+*Update coverage line to: Chapters 1–75*
+
+## NAME ROMANIZATIONS
+
+| Japanese | English | Role |
+| アウルゴルン＝ヒルキントス | Aulgorn Hilkintos | Western General; sided with Gildanstein |
+| サルダン＝ガルカロン | Saldan Galkalon | Second Corps Commander, Velraigh army |
+| タキルス＝ゼンガー | Takilsu Zengar | Battalion Commander, Willing army |
+| アルバ | Alva | Centurion under Takilsu |
+| コーザ | Kohza | Squad Two leader, black century |
+| ベルツ | Beltz | Squad Twelve leader, black century |
+| エルヴェナ | Elvena | Servant at Roland's estate, Kirzalan |
+| キールザラン | Kirzalan | Major city west of Dragon's Maw |
+| ラウゼル | Rauzel | Centurion; killed during Bernaich campaign |
+
+## CORE CHARACTERS
+
+### Krische Alberinea Krishtand
+- **Food preservation magic (C.71):** Devised a spell to suspend food in stasis — adapted from a barrier spell originally designed to keep pot contents warm by insulating from outside air. Reverses the process to restore the food. Costs significant mana (causes dizziness and exhaustion). Used to preserve a rakura pie baked with Bery across a week-long campaign.
+- **Emotional state during campaign (C.71):** Experienced deepening hollowness when eating Bery's pie alone — realized the food was delicious because of Bery's presence, not just the cooking. Reflected on the growing disconnect between her improving killing ability and Bery's values. Expressed desire to become "the Krische who would never make Bery wear a sad face."
+- **Soundproofing magic (C.71):** Created a soundproofing spell by adapting the food-insulation formula. Deliberately made fragile so it breaks when someone enters the tent. Justified under Bery's rule as private use.
+- **Feast behavior (C.71–72):** Carried to the victory feast by Kalua; sat on her lap passively. Peeled fruit for dozens of soldiers without complaint — an activity that reminded her of peeling fruit for village children and of learning techniques from Bery. Became mildly drunk on fruit-diluted wine (three cups). Spoke at length about her dream of domestic life, repeating herself as drowsiness set in.
+- **Self-assessment on swords (C.72):** Stated plainly that she does not like swords — practices and improves because it's necessary, not because she enjoys it. Finds the optimization process satisfying but not the act itself.
+- **Hilkintos strategy (C.75):** Proposed personally leading the smaller force against Hilkintos rather than the Dragon's Maw, citing time advantage and the ability to choose better terrain further west. Plans to bait Hilkintos into pursuit by deliberately failing to secure a river crossing, then ambush when the enemy overextends. Dismissed frontal engagement as wasteful.
+- **Hilkintos execution (C.74):** Publicly executed Aulgorn Hilkintos before the Dragon's Maw garrison as a demonstration. Presented it as legal punishment for high treason (drawing a sword against royalty) and Sacred Convention violation (feigned surrender). Systematically dismembered him while delivering a speech combining legal argument, threat, and an ultimatum to the garrison. Announced she would personally assault the fortress that night.
+- **Black century unit flag (C.74):** First description — black-painted flag with a crescent moon sharp as a scythe and a skull, symbolizing heads reaped by a blade.
+- **Reaction to Roland (C.75):** Narrowed her eyes upon hearing Roland's name; toyed with her sword hilt beneath her cloak during their meeting. Ignored Roland throughout the dinner, focusing on food research with Elvena instead.
+- **Elvena encounter (C.75):** Was kissed by Elvena in the bath; responded with wide-eyed bewilderment rather than any romantic reaction. Lectured Elvena that kisses are only for people you really like. Found Elvena's manner reminiscent of Bery but noticed her facial features reminded her of someone else she couldn't identify.
+
+### Selene Christand
+- **Dragon's Maw siege (C.74):** Commands fifteen thousand Christand troops from the north side of the Dragon's Maw, conducting slow-pressure attacks with overhead shields and arrow screens. Deployed four trebuchets against the now-bare Mitskronia.
+
+### Nozan Velraigh
+- **Post-battle role (C.71–75):** Commands twenty-two thousand after absorbing prisoners from the Markelus battle. Proposed marching on the capital but deferred to Krische's plan. Showed open hostility toward Geltz Willing over Bogan's death — threatened him with a sea of blood. Agreed to wait five days at the Dragon's Maw for Krische's return from the Hilkintos campaign. Assigned Granmeld with two thousand soldiers to accompany Krische.
+- **Spy network (C.71):** Maintains intelligence operatives; his spy reported Hilkintos's defection to Gildanstein.
+
+### Elrouga Faren
+- **Post-battle decisions (C.73):** Created two new battalions from absorbed prisoners, contrasting with Krische's approach of reinforcing existing battalions. Chose this method because he commands from the rear and can maintain control over more units.
+- **Kirzalan dinner (C.75):** Handled contract negotiations with Roland. Showed open displeasure at the servants' revealing outfits. Cut off Granmeld when he nearly revealed sensitive information to Roland.
+
+## SECONDARY CHARACTERS
+
+### Aulgorn Hilkintos (アウルゴルン＝ヒルキントス)
+- Western General of the Alberan Kingdom; Margrave rank. Defected to Gildanstein's side after the Dragon's Maw defeat. Described by Nozan as a "fair-weather dog" who prioritized wealth and privileges over noble pride. Rated as an experienced and capable general — decorated war record, liberated Wulfenite during the Empire war. Reportedly mobilized nearly thirty thousand troops from the west.
+- **Fate (C.74):** Captured by Krische's forces; attempted to flee during a feigned surrender, which Krische cited as a Sacred Convention violation. Publicly executed by Krische before the Dragon's Maw garrison — limbs severed one by one, then neck stomped. His torn banner and bound body were displayed as psychological warfare.
+
+### Geltz Willing (expanded)
+- **Dragon's Maw defense (C.74):** Fortified Mitskronia with a substantial fortress, trained infantry as supplementary archers, and abandoned Bernaich entirely due to fear of repeated fire attacks and inability to rebuild. Commands approximately twelve thousand. Privately intends this as his death ground — his true objective is to pin down Christand forces and prevent reinforcements from reaching Krische's western campaign, allowing Hilkintos to break through. Does not expect to survive. Gave a measured speech to his troops, half-truthfully promising southern and western reinforcements.
+
+### Takilsu Zengar (タキルス＝ゼンガー)
+- Second Battalion Commander, First Corps, Willing army. Large, heavyset man. Experienced career officer who avoided danger while accumulating results. Has a dry, irreverent relationship with his centurion Alva. Has two daughters whose parentage he privately doubts. Accepts this will be his final battle. Noticed anomalies in the enemy's construction of arrow screens at the mountain base but could not determine their purpose before Krische's arrival.
+
+### Alva (アルバ)
+- Centurion under Takilsu. White-streaked beard. Long-time comrade and friend of Takilsu. Climbed Bernaich during the final sweep and survived by chance (the attacked squad was on the opposite side). Has an eldest son aged twenty-three. Bantering, dry-humored relationship with Takilsu — claims his dream is to die in bed.
+
+### Rauzel (ラウゼル)
+- Centurion in Gildanstein's army; killed during the Bernaich guerrilla campaign alongside Arond. Mentioned by Takilsu as a loss.
+
+### Kohza (コーザ)
+- Squad Two leader in the black century. Skilled cook; used leftover soup as a base to improve the next day's broth. Received Krische's praise and a cooking-duty reward (day off from other duties).
+
+### Beltz (ベルツ)
+- Squad Twelve leader in the black century. Co-responsible (with Kohza) for a particularly praised breakfast during the post-Markelus campaign.
+
+### Elvena (エルヴェナ)
+- Servant at Roland's Kirzalan estate. Black hair cut at the shoulders; graceful, warm manner strongly reminiscent of Bery. Facial features described as elegant and slender — different from Bery but reminding Krische of someone she can't identify. Bears a slave-trader's tattoo (misshapen star) on her left shoulder. Held through debt-bondage by Roland. Mentions having a sister with beautiful long hair whom she hasn't seen in a very long time. Kissed Krische in the bath as "mischief"; was reduced to helpless laughter by Krische's earnest reaction. Expressed genuine warmth toward Krische and wished her well.
+- **Possible connection:** Her backstory (sister with long hair, separated long ago, debt-bondage under Roland) combined with Roland's known involvement in the Argan sisters' bondage situation creates a strong implicit parallel. May be connected to Bery and/or Lazura.
+
+### Saldan Galkalon (サルダン＝ガルカロン)
+- Second Corps Commander, Velraigh army. Bald, sinewy face, wears spectacles. Initially raised objections to Krische's Hilkintos plan but bore no ill will — treated Krische with the kindness one would show to a young girl. Suggested using his merchant contact (Roland) in Kirzalan to feed intelligence to Hilkintos, and proposed establishing a supply-line façade to make the enemy believe Krische was conducting a delaying action.
+
+### Granmeld Vakus (expanded)
+- **Kirzalan dinner slip (C.75):** Nearly revealed sensitive information during dinner with Roland — reacted oddly when Roland mentioned "the Great Wolf" and then volunteered that Hilkintos coming from the west was a concern, before being cut off by Elrouga. Roland's eyes narrowed, suggesting he extracted useful intelligence.
+- **Hilkintos campaign (C.75):** Assigned by Nozan to accompany Krische with two thousand selected soldiers.
+
+### Roland (expanded)
+- **Kirzalan role (C.75):** Head of the Kirzalan Merchant Guild (キールザラン商会). Maintains the same ostentatious appearance and sycophantic manner. Estate features servants in provocatively modified apron dresses. Holds Elvena's debt-bondage contract. Extracted intelligence from Granmeld's dinner slip — Saldan specifically proposed using Roland as an information conduit to Hilkintos. Krische's reaction to his name was to narrow her eyes and toy with her sword hilt.
+
+## PLACE NAMES AND LOCATIONS
+
+| **Name (Japanese)** | Description |
+| **Kirzalan (キールザラン)** | Major city west of the Dragon's Maw; population 100,000+; commerce hub at the convergence of multiple highways. Features a walled hilltop center with Forged Stone buildings, surrounded by sprawling lower town and slums. Roland's merchant guild is headquartered here. |
+
+## WORLD-BUILDING REFERENCE
+
+### Black Century Unit Flag
+- Described for the first time in C.74: a black-painted flag bearing a crescent moon sharp as a scythe and a skull — symbolizing heads reaped by a blade. Carried alongside Krische during the Hilkintos execution.
+
+### Food Preservation Magic
+- Krische developed a stasis spell adapted from her food-insulation barrier. Suspends food in a frozen/model-like state; reversing the spell restores freshness and heat. Costs substantial mana. Used to preserve battlefield food supplies made at the estate (C.71).
+
+### Soundproofing Magic
+- Adapted from the food-insulation spell. Coats interior surfaces with a thin mana barrier that dampens external sound. Deliberately made fragile — any person stepping inside breaks the formula. Classified as private use under Bery's rule against public magic display (C.71).
+
+### Debt-Bondage Slavery
+- Although not publicly sanctioned in the kingdom, debt-bondage slavery exists in practice. The system operates through separated entities: abductors, debt-creators, and debt-buyers. Debts are passed between intermediaries to obscure the trail. Only abductors and debt-creators can be legally prosecuted; buyers are treated as innocent third parties. The state generally lacks the resources to investigate individual cases and looks the other way. Victims bear a misshapen star tattoo from the slave traders. Roland holds debt contracts and profits from this system (C.75).
+
+### Prisoner Absorption Protocol
+- After the Battle of the Central Plain, prisoners were given the choice to serve under Christand on equivalent pay, receive guaranteed food and escort to the nearest town, or simply leave. Of ~23,000 captured, ~3,000 fled overnight; of the remaining ~20,000, 15,000 accepted employment. Distribution: Krische and Elrouga each received ~5,000. Krische integrated prisoners into existing battalions (to maintain command simplicity given her front-line leadership style); Elrouga created two new battalions (feasible given his rear-command preference). Battalion commanders and above were interrogated/recruited individually; centurions were kept in command of their own men for organizational continuity (C.71, C.73).
+
+### Military Cuisine System (Black Century)
+- The black century operates its own cooking rotation independent of the battalion system. Squads rotate cooking duty; those producing especially good meals receive rewards (duty exemption, alcohol, fruit). Krische personally conducts cooking instruction. The competitive system has notably improved overall culinary skill. Meals prioritize breakfast > lunch > dinner; field camp breakfasts are generous because lunch may be skipped (C.73).
+
+### Trebuchets in Siege Warfare
+- Components prepared in workshops, disassembled for transport, reassembled on site. Require calibration time and skilled artisans. Effective against exposed positions like the deforested Mitskronia. Selene deployed four against the Dragon's Maw from the north (C.74).
+
+## TIMELINE: CHAPTERS 71–75
+
+| Chapter(s) | Event |
+|---|---|
+| C.71 | Post-battle: Krische meets Nozan at the Central Plain camp. Discussion of prisoner processing (20,000+ captured; 15,000 eventually absorbed). Nozan reveals Hilkintos has defected to Gildanstein. Agreement to discuss strategy the following day. Krische returns to tent; uses soundproofing and food-preservation magic; eats Bery's rakura pie alone and feels hollow. Reflects on the disconnect between killing and happiness. Kalua and Mia drag her to the victory feast. |
+| C.72 | Victory feast continues. Krische peels fruit for soldiers; becomes mildly drunk. Conversation with Kalua about loneliness, happiness as "beastly," and dreams. Krische describes her dream of domestic life at the estate. Kalua shares backstory: youngest sister was kidnapped and sold after Kalua tried to force independence. Mia pledges her sword to Krische and Kalua. All three sleep together. |
+| C.73 | Morning after: Mia backfists sleeping Krische. Breakfast at black century cooking station; Krische adds bahre fruit as a hidden ingredient. Inspection of prisoner integration — Keith appointed de facto adjutant/reserve commander (speech coached by Mia). Banter with Mia's squad. Soldiers show increased warmth toward Krische. |
+| C.74 | Dragon's Maw siege: Nozan confronts Geltz Willing; threatens retribution for Bogan. Geltz has fortified Mitskronia, abandoned Bernaich. Takilsu and Alva POV — notice anomalies in enemy construction. Krische appears with captured Hilkintos; publicly executes him by dismemberment as a demonstration. Delivers speech combining legal argument, threat, and surrender ultimatum. Announces night assault. Takilsu recognizes inevitable defeat. |
+| C.75 | Strategy meeting (day after Markelus battle): Krische proposes leading the Hilkintos campaign personally with Elrouga, while Nozan takes the Dragon's Maw. Explains bait-and-ambush strategy. Saldan suggests using Roland as intelligence conduit. Granmeld assigned with 2,000 troops. March to Kirzalan (2 days). Kalua pulls Krische away from a prostitute. Dinner at Roland's estate — Granmeld slips intelligence; Roland likely extracts it. Krische meets Elvena (Roland's debt-bonded servant); bath scene — Elvena kisses Krische, is disarmed by her innocence. Krische notices Elvena's resemblance to Bery and unidentified familiarity in her features. |
+
+## RECURRING THEMES AND MOTIFS
+
+**Food as emotional barometer** — Krische's pie eaten alone tastes hollow; the same food shared with Bery was perfect. Food's quality is inseparable from the company. Extended in C.72 when even simple nirkana berries at the feast cause no emptiness because she is among people.
+
+**Beastly happiness** — Kalua's philosophy that happiness lives in the animal part of humans (eating, sleeping, clinging) resonates with Krische's own instincts and validates desires she considered shameful.
+
+**Black century crescent-and-skull flag** — First appearance of the unit's heraldic identity; imagery of reaping heads with a scythe-blade reflects their battlefield role and reputation.
+
+**Elvena–Bery parallel** — Elvena's manner mirrors Bery; her backstory (separated sister, debt-bondage under Roland) parallels the Argan sisters' history. Krische senses both the similarity and something else she cannot identify.
+
+## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.71–75)
+
+- C.71: アウルゴルン＝ヒルキントス — new character. Western general. Romanization "Aulgorn Hilkintos" provisional.
+- C.71: Krische's food-preservation magic and soundproofing magic are new spell applications not previously described.
+- C.73: コーザ (Kohza) and ベルツ (Beltz) — new named characters in the black century. Romanizations provisional.
+- C.73: バーレ (Bahre) — new fruit term used as a cooking ingredient.
+- C.73: 二里 ≈ 5 miles / 8 km; 十里 ≈ 24 miles / 39 km.
+- C.73: "1/2 Krische" — the narration uses Krische's body as a humorous unit of measurement for a stock pot. Rendered with a translator note.
+- C.74: タキルス＝ゼンガー (Takilsu Zengar) and アルバ (Alva) — new characters. Romanizations provisional.
+- C.74: ラウゼル (Rauzel) — new name, mentioned alongside established character Arond. Romanization provisional.
+- C.74: クレシェンタ＝ファーナ＝ヴェラ＝アルベラン — variant of Kreschenta's full name (established: ファルナ＝ヴィエラ). Likely author variation; flagged.
+- C.74: Black century unit flag described for the first time.
+- C.75: サルダン＝ガルカロン (Saldan Galkalon) — new character. Romanization provisional.
+- C.75: キールザラン (Kirzalan) — new location. Romanization provisional.
+- C.75: エルヴェナ (Elvena) — new character. Romanization provisional. Strong implied connection to Bery/Lazura through backstory parallels.
+- C.75: フーレ (Fuhre) — southern herb. New food term. Romanization provisional.
+- C.75: エルキシュ (Elkishu) — seasoning berry. New food term. Romanization provisional.
+- C.75: Roland's title expanded: head of Kirzalan Merchant Guild (キールザラン商会).
+- C.75: Debt-bondage slavery system described in detail for the first time — represents significant world-building expansion.

@@ -21,7 +21,7 @@
 - **Nickname among black century:** "Bunny" (うさちゃん / うさぎちゃん) — soldiers liken her silver hair, white skin, and small stature to a winter white rabbit. Carries both affection and mild derision; Dagra strictly forbids it.
 - **Memory:** Demonstrated ability to recall individual soldiers' names, selection numbers, squad assignments, and arrival dates from a single encounter during selection (C.48).
 - **Training approach (C.46):** Uses five-on-one mock combat against herself to humble the black century after they grew arrogant. Demands a 1:10 loss ratio in ambush scenarios against regular troops. States her goal is to turn every member of the black century into a copy of Dagra.
-- **Nickname for Dagra:** "Vulture" (ハゲワシ) — bestowed as an "affectionate nickname" based on his bald head and hooked nose. Krische genuinely believes this is a term of endearment (C.46).
+- **Nickname for Dagra:** "Bald Eagle" (ハゲワシ) — bestowed as an "affectionate nickname" based on his bald head and hooked nose. Krische genuinely believes this is a term of endearment (C.46).
 - **On rumors:** Does not care about negative rumors about herself; would use them if advantageous. However, deeply dislikes that such rumors cause Bery to be spoken of negatively (C.48).
 
 ### Bery Argan
@@ -105,7 +105,7 @@
 
 | Chapter(s) | Event |
 |---|---|
-| C.46 | Black century forest training continues (week 2). Joint exercise with red results in ambush victory but only 7 casualties — black grows arrogant. Dagra requests Krische's help. Krische conducts five-on-one mock battles, defeating all squads. Mia's elite squad also defeated. Krische lectures on coordination and 1:10 loss ratio standard. Discovers "bunny" nickname; bestows "Vulture" on Dagra as reciprocal "affectionate nickname." |
+| C.46 | Black century forest training continues (week 2). Joint exercise with red results in ambush victory but only 7 casualties — black grows arrogant. Dagra requests Krische's help. Krische conducts five-on-one mock battles, defeating all squads. Mia's elite squad also defeated. Krische lectures on coordination and 1:10 loss ratio standard. Discovers "bunny" nickname; bestows "Bald Eagle" on Dagra as reciprocal "affectionate nickname." |
 | C.47 | Bery's childhood flashback: Lazura's devotion to the withdrawn, self-loathing young Bery. Present day: Bery overhears soldiers spreading ugly rumors about Krische (including that she killed her foster mother). Bery confronts them subtly. Krische arrives, senses something wrong, but Bery deflects. The two return together; domestic sweetness contrasted with the rumor's content. Waning moon imagery. |
 | C.48 | Krische, Bery, and Kreschenta cook together (salt-crust pilkarna, pizza, tomato soup). Zalbak vs. Kart kitchen rivalry continues — Zalbak throws a tray; Anne disrupts both by taking the eggs and nearly dropping them; Krische saves them mid-air. Bath dispute: Kreschenta sentenced to bathe with Anne per village two-arrow rule. Soldiers beneath the bridge spread rumors; Krische leaps down, identifies them by name and assignment from memory, threatens them with the sword, and warns them. Returns to bridge as if nothing happened. |
 | C.49 | Bath scene: Krische and Bery. Bery's internal monologue — self-doubt about her motivations, fear that her love is possessive rather than pure, comparison of herself as "imitation" to Krische's "real." Krische offers to spoil Bery in return. Krische articulates something close to loneliness and love for the first time. Bery shares her hidden name (Lips); performs an old noble oath of devotion. Mutual declaration of love. They agree to bake cookies with Kreschenta and Selene. |
@@ -113,7 +113,7 @@
 
 ## RECURRING THEMES AND MOTIFS
 
-**Bunny / Vulture nicknames** — Comic pair showing Krische's literal-mindedness and social obliviousness. She genuinely believes "Vulture" is as affectionate as "Bunny." Dagra is trapped by his own soldiers' culture.
+**Bunny / Bald Eagle nicknames** — Comic pair showing Krische's literal-mindedness and social obliviousness. She genuinely believes "Bald Eagle" is as affectionate as "Bunny." Dagra is trapped by his own soldiers' culture.
 **Moon imagery (C.47–48)** — Full moon = Lazura's perfection and Bery's idealized love; waning moon = Bery's self-perceived imperfection. Explicitly linked through Bery's narration.
 **Imitation vs. real** — Bery sees Krische's emotions as authentic and her own as performed or suspect. Drives her internal conflict about whether her love is genuine or possessive (C.49).
 **Hidden name / oath** — Bery's sharing of her true name represents irreversible commitment. The old noble tradition of pledging one's name parallels the kiss-as-love motif but with greater gravity (C.49).
@@ -123,7 +123,7 @@
 ## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–50)
 
 - C.46: "うさちゃん" rendered as "bunny" — the soldiers' nickname for Krische based on her white-rabbit appearance. Carries both affection and mild derision.
-- C.46: "ハゲワシ" rendered as "Vulture" — preserves the ハゲ (bald) + ワシ (raptor) wordplay matching Dagra's appearance.
+- C.46: "ハゲワシ" rendered as "Bald Eagle" — preserves the ハゲ (bald) + ワシ (raptor) wordplay matching Dagra's appearance.
 - C.47: Bery's childhood flashback rendered in italics to mark the shift from present-tense narrative to memory.
 - C.48: 三間 (san-ken) ≈ 6 yards / 5.5 meters.
 - C.49: Bery's hidden name リプス romanized as "Lips."

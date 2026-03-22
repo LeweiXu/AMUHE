@@ -60,7 +60,7 @@
 - **Backstory (C.63):** Once deserted during a losing battle. Was saved by Gallen and Bogan, who were gathering stragglers to counterattack. Bogan's speech about becoming "a pack of wolves" rather than fleeing sheep inspired Kokys to devote himself to Christand. His fighting style is modeled on young Bogan's wild, aggressive swordsmanship.
 - **Relationship with Bogan (C.63):** Served under Bogan since that first encounter alongside Gallen and Nozan. Offered Selene the northern spirit Bogan favored. Placed an empty glass beside Selene as an offering to Bogan.
 
-### Keys (expanded)
+### Keith (expanded)
 - **Post-battle (C.64):** Returned to duty with arm in sling and bandages. Accepted Krische's tactical critique without resentment, silencing his subordinates' anger by acknowledging that Krische fought in worse conditions. Manages the Third Battalion's survivors and reorganization.
 
 ### Barga (expanded)

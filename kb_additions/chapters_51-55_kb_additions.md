@@ -7,7 +7,7 @@
 | コリンツ | Korintz | First captain, black century (recruited by Dagra) |
 | ベーギル | Begil | First Battalion commander, First Corps (light infantry) |
 | ファグラン | Fagran | Second Battalion commander, First Corps (heavy infantry) |
-| キース | Keys | Third Battalion commander, First Corps |
+| キース | Keith | Third Battalion commander, First Corps |
 | バーガ | Barga | Fourth Battalion commander, First Corps |
 | ガインズ | Gainz | Fifth Battalion commander, First Corps (archers) |
 | ゲルツ＝ヴィリング | Geltz Willing | Gildanstein's general; center-rear defense commander |
@@ -28,7 +28,7 @@
 - **Oath revelation to Selene (C.52):** Confessed to Selene that she offered her hidden name to Krische (as described in C.49). Gave extended account of her childhood — self-loathing, twisted, envious of Lazura, cold and intellectual. Described finding meaning at Krische's side. Selene teased about a possible ceremony; Bery's reaction confirmed she had imagined it.
 
 ### Selene Christand
-- **Pre-battle leadership (C.53):** Commanded the First Corps at Bernaich. Managed personal tension while maintaining morale through humor and warmth with battalion commanders. Composition of her corps: First Battalion (light infantry, Begil), Second (heavy infantry, Fagran), Third (Keys), Fourth (new recruits guarding Selene, Barga), Fifth (archers, Gainz). Many new recruits with barely a month of training.
+- **Pre-battle leadership (C.53):** Commanded the First Corps at Bernaich. Managed personal tension while maintaining morale through humor and warmth with battalion commanders. Composition of her corps: First Battalion (light infantry, Begil), Second (heavy infantry, Fagran), Third (Keith), Fourth (new recruits guarding Selene, Barga), Fifth (archers, Gainz). Many new recruits with barely a month of training.
 - **Reaction to Bery's oath (C.52):** Learned of Bery's hidden-name oath from Bery directly the night before battle. Teased Bery about a wedding ceremony. Acknowledged with exasperation and affection. Recalled her mother Lazura's teachings about hidden names.
 
 ### Bogan Argalitte Vezrinea Christand
@@ -62,7 +62,7 @@
 ### Fagran (ファグラン)
 - Second Battalion commander, First Corps. Commands heavy infantry (exclusively composed, no mixed medium infantry). Large man with a somewhat fresh quality despite his rough appearance (C.53).
 
-### Keys (キース)
+### Keith (キース)
 - Third Battalion commander, First Corps. Lean, middle-aged man. Quiet, amused demeanor (C.53).
 
 ### Barga (バーガ)
@@ -104,7 +104,7 @@
 | Chapter(s) | Event |
 |---|---|
 | C.51 | War council at Dragon's Maw: Krische proposes burning Mitskronia and full-army Bernaich breakthrough. Salva objects; Kokys, Elrouga support. Kreschenta performs emotional speech supporting the plan. Bogan approves. Evening: four-person scene — Krische leaves Bery in Kreschenta's care; kissing comedy; Selene explains battlefield uncertainty to Kreschenta. |
-| C.52 | Morning ascent of Bernaich. Selene recalls previous night's conversation with Bery: Bery revealed offering her hidden name to Krische, confessed her childhood self-loathing, declared her life's meaning is at Krische's side. Selene teases about a wedding ceremony. Present: Selene pinches Krische's cheeks; Krische interprets it as love. Black century marches behind; "Vulture" nickname comedy continues. |
+| C.52 | Morning ascent of Bernaich. Selene recalls previous night's conversation with Bery: Bery revealed offering her hidden name to Krische, confessed her childhood self-loathing, declared her life's meaning is at Krische's side. Selene teases about a wedding ceremony. Present: Selene pinches Krische's cheeks; Krische interprets it as love. Black century marches behind; "Bald Eagle" nickname comedy continues. |
 | C.53 | Battle begins. Mitskronia attacked by Gildanstein; Third Corps stages withdrawal. False report: Gran Agrand delivers fabricated news of Terious's death, luring Bogan to the right flank with seven cavalry. Bogan ambushed by Gildanstein's ~30-man elite unit, with Salva revealed as the traitor. Selene's pre-battle speech to five battalion commanders. Krische's speech to black century — pragmatic advice on killing, then falls asleep standing. |
 | C.54 | Bernaich assault. Geltz Willing commands Gildanstein's center-rear defense. Fourth Corps creates breach; First Corps light infantry (Begil) breaks through. Black century descends cliff: logs dropped first, then Krische leads descent faster than freefall. Mia's POV of first combat — kills enemy, captivated by Krische's fighting. Dagra commands from center without killing anyone. First Battalion and Second Corps link up — victory on the Bernaich front. Gildanstein appears atop Mitskronia, displays severed arm and sword, declares Bogan slain and the war over. |
 | C.55 | Gildanstein's extended backstory: idealistic youth, disillusionment, killing the cat, descent into cruelty, discovery of nobility on the battlefield, encounter with Lazura Argan, developing respect for Bogan. Flashback (two weeks prior): Gildanstein personally turns Salva — exploits career frustration and fear of Krische. Salva asks Gildanstein to spare Selene and Krische; Gildanstein swears upon the name of Alberan. |
@@ -122,7 +122,7 @@
 - C.53: カルデラ (Caldera) revealed as Salva's family name.
 - C.53: グラン＝アーグランド (Gran Agrand) — Kokys's son. New character; messenger compromised by Salva.
 - C.53: コリンツ (Korintz) — first captain of the black century, previously mentioned as unnamed former subordinate.
-- C.53–54: Battalion commanders of the First Corps all introduced: ベーギル (Begil), ファグラン (Fagran), キース (Keys), バーガ (Barga), ガインズ (Gainz).
+- C.53–54: Battalion commanders of the First Corps all introduced: ベーギル (Begil), ファグラン (Fagran), キース (Keith), バーガ (Barga), ガインズ (Gainz).
 - C.54: ゲルツ＝ヴィリング (Geltz Willing) — Gildanstein's general commanding center-rear. New character.
 - C.54: サーカリネア appears in Gildanstein's full name (vs. established サルカリネア). May be author variation; flagged.
 - C.55: カルメダ (Kalmeda) — Gildanstein's general, mentioned in flashback. Minimal detail.
