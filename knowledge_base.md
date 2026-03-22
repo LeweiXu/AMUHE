@@ -57,7 +57,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | サルバ | Salva | Third Corps adjutant; traitor |
 | ラズラ | Lazura | Bogan's late wife; Bery's older half-sister |
 | コズ | Koz | Blacksmith; made Krische's sword |
-| グランメルド＝ヴァクス | Granmeld Vakus | First Corps, first battalion commander ("Wolf Pack") |
+| グランメルド＝ヴァクス | Granmeld Varkus | First Corps, first battalion commander ("Wolf Pack") |
 | ザルバック | Zalbak | Head cook, Fort Belgash |
 | カート | Kart | Meal distribution manager, Fort Belgash |
 | ミア | Mia | Black century sergeant; Dagra's adjutant |
@@ -275,8 +275,8 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - Second Corps Commander. Enormous, tiger-themed armor. Former deserter saved by Bogan; utterly loyal since. Son Gran was compromised by Salva (C.53).
 - Battlefield philosophy revealed (C.105): Prioritizes training soldiers over complex tactics. Believes superiority of force decides battles; drills raw recruits into elite warriors. Considers tactics "minor techniques" subordinate to fundamentals. Personally hunted the jade tiger Gran failed to kill, with minimal casualties. Killed Gran and Leeba Tobal in C.105. Wields an 8 shaku 3 sun (~250 cm) solid-steel heavy lance; wears tiger-crested armor that serves as ballast for the weapon.
 
-### Granmeld Vakus
-- First Corps, first battalion commander ("Wolf Pack"). Full name: Granmeld Rinea Vakus. Wolf-themed armor, great war mace, deep scar on cheek. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische, C.80). Character alignment: "Neutral / Neutral."
+### Granmeld Varkus
+- First Corps, first battalion commander ("Wolf Pack"). Full name: Granmeld Rinea Varkus. Wolf-themed armor, great war mace, deep scar on cheek. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische, C.80). Character alignment: "Neutral / Neutral."
 
 ### Salva (Caldera)
 - Full name: Salva Rinea Caldera. Third Corps adjutant; turned by Gildanstein (C.55) out of career frustration and fear of Krische. Requested Gildanstein spare Selene and Krische despite betraying Bogan. Alignment: "Law / Good."
@@ -687,7 +687,7 @@ International agreement on POW treatment and town protections. Violations have d
 - ガーカ shorthand for Garhka → use "Garhka."
 - ノーザン variant of ノザン → use "Nozan."
 - カルゲラ variant of カルデラ → use "Caldera."
-- グランメルド＝ヴァーカス variant of ヴァクス → use "Vakus."
+- グランメルド＝ヴァーカス variant of ヴァクス → use "Varkus."
 - コルキス variant of コキス for Kokys → use "Kokys."
 - ガルシャーン variant of ガルシャン → use "Galshan."
 - クレシェンタ＝ファーナ＝ヴェラ author variant → use established romanization.
@@ -805,7 +805,7 @@ International agreement on POW treatment and town protections. Violations have d
 - **Post-war (C.111, C.115):** Surrendered after Gildanstein's death was confirmed (blue flags raised). Accepted defeat gracefully, remarking that his neck must carry the goddess's protection. Currently under house arrest (謹慎中). Despite being the strongest Marshal candidate, cannot be appointed due to having sided with Gildanstein.
 - **Full name confirmed (C.112):** Felwors Zaran Dorishe Yagelinea Keesliton.
 
-### Granmeld Vakus
+### Granmeld Varkus
 - **Post-war (C.111):** Broke through to the Keesliton army headquarters just as the ceasefire flags went up. Complained about the anticlimactic ending. Ordered Carlis to prevent unnecessary casualties during the transition.
 
 ### Daglis
