@@ -84,7 +84,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ゲルツ＝ヴィリング | Geltz Wirring | Gildanstein's general; Dragon's Maw defender |
 | カルメダ | Kalmeda | Gildanstein's general (flashback mention) |
 | カルデラ | Caldera | Salva's family name |
-| バグ | Bug | Black century soldier; Mia's squad |
+| バグ | Bagu | Black century soldier; Mia's squad |
 | ケルス | Kels | Black century soldier; Mia's squad |
 | アドル | Adol | Black century soldier; Mia's squad |
 | ナキルス＝フェリザー | Nakilus Ferizar | Gildanstein's elite warrior; dual great-axe wielder |
@@ -646,7 +646,7 @@ International agreement on POW treatment and town protections. Violations have d
 | C.107 | Gildanstein kills Terrius in single combat (Terrius inflicts thigh wound). Gildanstein breaks through to Selene's HQ with ~1,500. Selene fights Gildanstein with black century support; identifies his large-weapon vulnerability. Gallen repels five mana users solo; earns Salva's wary respect as "the forgotten champion." Nakilus Ferizar breaks through Elrouga with 300 and arrives at HQ. |
 | C.108 | Nakilus's arrival tips the balance. Selene flees toward Elrouga's Fourth Corps. Mia commands black century defense; adapts after tactical error. Mia nearly killed by Nakilus's thrown axe. Krische arrives, kicks the axe away, saves Mia. |
 | C.109 | Recap of Day 1 on Nozan's front: Krische and Granmeld destroy enemy right wing; Velraigh army takes clear advantage (30,000 vs 32,000). Nozan keeps Krische overnight for rest. Next morning: Krische rides toward Selene; comic battle with flapping skirt; rescues a messenger; switches horses. Arrives at battlefield; assesses situation; saves Mia; kills Nakilus (one-sided). |
-| C.110 | Selene pursued by Gildanstein. Black century soldiers (Adol, Kels, Keenitz, Squad Ten) sacrifice themselves as rear guard. Kalua and Bug fight as vanguard pair; Bug killed shielding Kalua. Elrouga delays Gildanstein with one exchange. Kokys arrives. Gildanstein requests duel with Krische. Krische kills Gildanstein in single combat — steps onto his sword, severs throat. Kokys announces victory; civil war effectively won. |
+| C.110 | Selene pursued by Gildanstein. Black century soldiers (Adol, Kels, Keenitz, Squad Ten) sacrifice themselves as rear guard. Kalua and Bagu fight as vanguard pair; Bagu killed shielding Kalua. Elrouga delays Gildanstein with one exchange. Kokys arrives. Gildanstein requests duel with Krische. Krische kills Gildanstein in single combat — steps onto his sword, severs throat. Kokys announces victory; civil war effectively won. |
 | C.111 | Salva surrenders and is executed by Gallen at his own request. Keesliton army surrenders after ceasefire flags. Post-war feast. Kalua and Mia's tent scene (mourning, mutual comfort). Krische departs for Bery two days later; travels on Bururun (sidesaddle). Reunites with Bery and Kreschenta en route. |
 | C.112 | Author's supplementary chapter: full character profiles with alignments, heights, full names, combat styles, and personality descriptions for all major and secondary characters through Arc Five. Felwors's full name revealed. |
 | C.113 | Author's supplementary chapter: visual character references (CHARAT). Profiles written in Krische's childlike voice. |
@@ -792,7 +792,7 @@ International agreement on POW treatment and town protections. Violations have d
 - **Post-battle (C.111):** Issued final orders despite trembling. Later sought out Kalua and confronted her about bottling up grief. Took responsibility for the deaths as captain, arguing her tactical prioritization was wrong — she should have sent an additional squad to support Kalua and Selene's position. Got drunk trying to confiscate Kalua's alcohol. Kissed Kalua while drunk and fell asleep immediately after.
 
 ### Kalua (Kalua Belyus)
-- **Post-battle (C.111):** Drank heavily alone, mourning Adol, Kels, Bug, and the others. Expressed frustration at her own helplessness — fifteen against one and still forced to flee from Gildanstein. Acknowledged that if Krische had been there instead, nobody would have died. Comforted by Mia. Kissed by a drunk Mia (one-sided; Mia fell asleep).
+- **Post-battle (C.111):** Drank heavily alone, mourning Adol, Kels, Bagu, and the others. Expressed frustration at her own helplessness — fifteen against one and still forced to flee from Gildanstein. Acknowledged that if Krische had been there instead, nobody would have died. Comforted by Mia. Kissed by a drunk Mia (one-sided; Mia fell asleep).
 - **Worry added (C.111):** Mia's drunken behavior. Resolved to never let Mia drink again.
 
 ### Anne (Anne Gietelens)
@@ -818,7 +818,7 @@ International agreement on POW treatment and town protections. Violations have d
 | Character | Death | Chapter |
 |---|---|---|
 | Salva Rinea Caldera | Beheaded by Gallen at his own request | C.111 |
-| Bug | Killed shielding Kalua from Gildanstein | C.110 (confirmed C.111) |
+| Bagu | Killed shielding Kalua from Gildanstein | C.110 (confirmed C.111) |
 | Adol | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
 | Kels | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
 
