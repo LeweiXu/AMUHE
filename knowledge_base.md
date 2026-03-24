@@ -194,7 +194,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - **Speech:** Third-person self-reference ("Krische thinks…"); formal register (desu/masu); literal interpretation; "Nn……", "Err……"; "Ehehe" laugh.
 - **Combat:** Elite swordswoman. Physical enhancement magic perfected from ~age 3 (uniquely efficient — no stiffening). Can cast magic without crystals (secret known only to Bery, Selene, Kreschenta). Exceptional tactical mind.
 - **Rank:** Senior Knight (Rinea). Working title: "Corps Commander's Adjutant" (軍団長副官). Later: First Corps Commander (C.64).
-- **Nickname:** "Usa-chan" (うさちゃん) among soldiers; "Head-Hunter Krische" (首狩人のクリシェ) among enemies. Calls Dagra "Vulture" (ハゲワシ), Elrouga "Gaikotsu" (Skeleton), Granmeld "Woof-woof" (わんわん) — all presented to recipients as affectionate nicknames.
+- **Nickname:** "Bunny" (うさちゃん) among soldiers; "Head-Hunter Krische" (首狩人のクリシェ) among enemies. Calls Dagra "Vulture" (ハゲワシ), Elrouga "Gaikotsu" (Skeleton), Granmeld "Woof-woof" (わんわん) — all presented to recipients as affectionate nicknames.
 - **Kiss habit:** Bery inadvertently taught her kissing = love. She now kisses Bery and Selene freely; innocent on her part.
 - **Character alignment (C.84):** "Law / Evil." Height: ~147 cm.
 - **Key decisions:** Accepted Gildanstein's deal (C.57) — first time she chose emotional security over tactical optimality. Developed healing magic (C.80). Articulated terror-as-doctrine strategy (C.81–83).
@@ -587,7 +587,7 @@ International agreement on POW treatment and town protections. Violations have d
 | C.42 | Kitchen scene; Zalbak vs. Kart rivalry; Anne arrives. |
 | C.43–44 | War update (deadlocked); Selene–Kreschenta confrontation and understanding. |
 | C.45 | Black century training; Krische's tactical lecture; Mia appointed Dagra's adjutant. |
-| C.46 | Black century forest training; Krische humbles arrogant century 5-on-1; "Usa-chan" and "Vulture" nicknames. |
+| C.46 | Black century forest training; Krische humbles arrogant century 5-on-1; "Bunny" and "Vulture" nicknames. |
 | C.47 | Bery's childhood flashback (Lazura); soldiers spread ugly rumors about Krische. |
 | C.48 | Cooking scene; Zalbak/Kart/Anne chaos; Kreschenta bath punishment; Krische memorizes soldiers' names. |
 | C.49 | Bery shares hidden name; noble oath of devotion; mutual declaration of love. |
@@ -670,7 +670,7 @@ International agreement on POW treatment and town protections. Violations have d
 - 七色の欠点 = "seven-colored flaws" = idiomatic "many and varied flaws."
 - 聖戦 used satirically for kitchen-cart rivalry (C.42).
 - 伍長 = "sergeant" (Mia's rank); 五人長 = "corporal"; 兵長 = "captain."
-- うさちゃん = "usa-chan"; ハゲワシ = "Vulture" (preserves ハゲ+ワシ wordplay).
+- うさちゃん = "bunny"; ハゲワシ = "Vulture" (preserves ハゲ+ワシ wordplay).
 - ガイコツ = "Skeleton" (English) as nickname proper; "Gaikotsu" in direct address — parallels "Hagawashi" treatment.
 - リプス = "Lips" (Bery's hidden name).
 - Oath formula "言の葉紡ぐ場所より誓いを" = "A vow woven from the place where words are spun."

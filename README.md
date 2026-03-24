@@ -47,6 +47,13 @@ I also did some quality testing by having Opus 4.6 translate the first few chapt
 was great, the LLM translation didn't fall far behind. If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
 would be like a 4/10).
 
+## T/N Errors and T/N Notes
+
+T/N notes can be found at the end of each batch of 5 chapters (i.e. at the end of each .md file).
+
+If you find any serious T/N errors, especially between chapters 42-55 which I haven't looked over, feel free to contact me at leweixu@gmail.com or if you know how to use github, I'm pretty
+sure you can fork the repo, make your changes, then do a pull request without being a collaborator. After which I can review the changes and merge the edits in this main repo.
+
 ## Copyright Stuff
 
 No copyright, do whatever y'all want with this. Download it, clone the repo, share it with your friends, whatever.
