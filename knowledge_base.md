@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–125*
+*Current coverage: Chapters 1–140*
 *Update this file after each translated chapter.*
 
 ---
@@ -192,6 +192,21 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ガスレ | Gasre | Historical duke; Grabareyne's consort (deceased) |
 | ケイズ | Keiz | Koz's son; Gurgain weapon shop |
 | ネリプ | Nerip | Fictional herb used in cooking |
+| カティアス | Katias | Karka village boy; killed by Krische (childhood) |
+| カーニャ | Kanya | Katias's mother; disappeared during foraging |
+| バゼル | Bazel | Kirnan village; Mia's childhood friend; confessed to Mia |
+| ミルナ | Milna | Mia's mother; skilled weaver; Kirnan village |
+| ダーザ | Darza | Mia's father; hunter; Kirnan village |
+| ミース | Mees | Mia's eldest sister; married to Teks; gentle and oblivious |
+| ミー | Mi | Mia's second sister; teasing personality |
+| テクス | Teks | Mees's husband; skilled hunter; Bazel's confidant |
+| ミーリア | Miria | Mia's younger sister; fond of Bazel |
+| ファーレ＝アーカサコス | Fahre Arcasakos | Duke Arcasakos's son; co-conspirator |
+| アーカサコス公爵 | Duke Arcasakos | Central noble; opposes Kreschenta; plots assassination |
+| ナルケス | Narkes | Earl; noble intermediary; Fahre's childhood friend |
+| オールガン | Olgan | Vice Chairman, Galshan Republic |
+| クロルス | Krolus | Chancellor, Elderant Kingdom |
+| エルベバート | Elbebart | Archbishop, Holy Elsren Empire |
 ---
 
 ## CORE CHARACTERS
@@ -211,6 +226,10 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - New epithet revealed: "Sword Princess" (剣姫) — used by the century.
 - Traveled ~120 ri (≈48 km) from Nozan's camp to Selene's battlefield, partially on horseback. Had comic struggle with skirt flapping on horseback; refused to wear trousers on principle. Arrived in time to save Mia from Nakilus, killed Nakilus, then killed Gildanstein in single combat.
 - Swordsmanship philosophy elaborated (C.107 flashback, C.110): prefers light sword matching her body; prioritizes center-of-gravity stability; never goes defensive; always attacks; shifts stances to deliver attacks opponents cannot handle. Her style described as "formless" (無形) — transcending all swordsmanship, producing the optimal action for each instant.
+- **Name etymology (C.127, explicit):** "Krische" (クリシェ) means "crescent moon." Grace named her after the crescent moon visible on the night she received Gorka's proposal, wishing the same happiness for her daughter. Krische had always considered the wish meaningless because she felt nothing looking at scenery — until the moonlit night with Bery in C.127.
+- **Childhood killings (C.126, detailed):** Killed Keil (Galla's son) and Katias after they spread malicious rumors and harassed her for years. She viewed them as nuisances to be "cleaned away" like dirt. Took less than a quarter-hour. Also killed an unnamed man who had been touching her body (before the bandit attack). Felt refreshed afterward; no guilt over the killings themselves.
+- **Confession to Galla (C.127):** Attempted to confess to Galla but was stopped midway. Galla told her to say no more and imposed "keeping silent" as Krische's punishment. Krische accepted reluctantly.
+- **Emotional development (C.127):** On the moonlit night with Bery, Krische experiences what appears to be genuine aesthetic appreciation and overwhelming emotional happiness for the first time — recognizing beauty in Bery's face, the snow, the moonlight. Connects this feeling to her mother's wish embedded in her name. Initiates repeated kisses with Bery.
 
 ### Bery Argan
 - **Full name:** Bery Lips Argan (hidden name: Lips)
@@ -220,6 +239,8 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - **Abilities:** Master-level cook; physical enhancement magic (crystal-free technique taught by Krische). Faster than Selene at administrative calculations.
 - **Relationship with Krische:** Deeply affectionate, complex. Too soft on Krische; knows it. Accepts Krische's kisses (after initial resistance). Performed an old noble oath of devotion using her hidden name (C.49).
 - **Character alignment (C.84):** "Chaos / Good." Height: ~152 cm.
+- **Philosophical stance on truth (C.127):** Articulates that truth is "trivial" — people choose convenient truths that lead to happiness. Neither she nor Krische can truly see inside the other's heart; they choose to believe in each other's love. Rightness and morality are "convenient interpretations." Falls backward into the snow in a carefree gesture to reset the mood.
+- **Stance on Krische's sins (C.126–127):** Refuses to give Krische a direct answer about whether to confess to Galla; insists Krische must think and decide for herself. Affirms that the *process* of struggling with the question is what matters, not the result. Pledges to call Krische "not wrong" even if the entire world disagrees. Acknowledges she may be making Krische weaker/more unhappy by teaching her "ordinary happiness."
 
 ### Selene Christand
 - **Full name:** Selene Argalitte Rinea Christand (full name post-investiture, C.64)
@@ -411,11 +432,64 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 ### Pell
 - Now significantly taller than Krische (head taller). Entering adolescence; visibly flustered around Krische and Bery. Still lives in Karka Village as part of the self-defense militia. First entered the village swordsmanship contest (C.125).
+- **Update (C.128):** Wants to join the black century at age fifteen. Told bluntly by Krische he can't (no mana) and would die quickly. Has a girl who follows him around (unnamed). Still flustered around Bery.
 
 ### Galla
 - **Health (C.124):** Illness was partly caused by stress over Krische's safety during the civil war, compounded by an epidemic. Collapsed while working the fields. Stable but not fully recovered.
 - **Son's death (C.125):** Krische reveals at chapter's end that she killed Galla's son long ago. The death was presented to the village as an accident (fell with friends while chased by a boar). The wooden grave tag fell from its tree, marking the "rebirth" in village belief.
 - **Relationship with Krische (C.125):** Entrusted Krische's care to Bery. Asked Bery to "punch" any future suitor.
+- **Knowledge of son's death (C.127):** Had suspected Krische's involvement long ago but let the suspicion fade as daily life with Krische became routine. When Krische attempted to confess, Galla stopped her — said she didn't want to hear the rest, that she'd already accepted Keil's death, and that she could no longer resent Krische. Imposed silence as Krische's "punishment."
+- **Farewell (C.128):** Gave Krische a pie; told her to come home anytime; said she and Grace and Gorka would watch over her from afar. Entrusted Krische's care to Bery formally.
+
+### Mia
+- **Family (C.128–130):** From Kirnan village. Large family: father Darza (hunter), mother Milna (skilled weaver), eldest sister Mees (married to Teks), second sister Mi, two younger brothers (~10 years old), younger sister Miria. Family home is one of the larger in the village.
+- **Background expanded (C.128–129):** Left the village impulsively when a recruitment wagon came; felt out of place because she couldn't weave (the primary measure of a woman's worth in Kirnan). Sent money home from military pay. Mother furious about the danger.
+- **Childhood friend Bazel (C.128–130):** Bazel proposed marriage; Mia was shocked (completely oblivious to years of courtship). Refused — not because she dislikes him, but because she values her current role and comrades. Fought Kalua to 56 losses to prove her resolve to stay; won by exploiting Kalua's kindness (refused to actually knock her out). Kalua and Dagra had pre-arranged permission for Mia to resign if she chose to.
+- **Speech register confirmed:** Casual, direct, occasionally petulant; childlike stubbornness when pushed. Formal/stiff only with superiors.
+
+### Kalua (Kalua Belyus)
+- **Pre-arranged exit plan (C.129–130):** Before the trip, asked Dagra for permission to let Mia resign if she chose to stay in Kirnan. Dagra agreed, saying it was Mia's choice and Krische would understand. Kalua wanted Mia to choose a safe, peaceful life.
+- **Feelings about Mia (C.129–130):** Genuinely wanted Mia to stay in the village for her safety and happiness. Called losing the fight her "defeat" and accepted Mia's decision. Admitted she'd be lonely. Gave Mia her hair tie during the conversation.
+- **Combat ability vs. Mia:** Decisively stronger; beat Mia 56 times without breaking a sweat using a curved sword. The gap is described as unbridgeable by effort alone.
+
+### Bazel
+- **New character (C.128–130):** Mia's childhood friend from Kirnan. Lean build. Has been in love with Mia for years; consulted Teks (Mees's husband) for two years on strategy. Proposed directly after multiple failed indirect approaches. Rejected by Mia but took it gracefully; asked if he'd have had a chance before she left, and was told "maybe." Offered to see them off at departure.
+
+### Milna
+- **New character (C.128–130):** Mia's mother. Skilled weaver; strong-willed, sharp-tongued, deeply caring. Wanted Mia to quit the military and marry Bazel. Lost the argument to Mia's resolve but remains worried.
+
+### Mees
+- **New character (C.129):** Mia's eldest sister. Long-haired, gentle, beautiful, extremely oblivious (parallels Mia's denseness). Married to Teks after he spent ten years pursuing her. Over-praises Mia sincerely.
+
+### Kirik
+- **Role expanded (C.128):** Accompanied Krische to Karka Village; trained with Pell during the visit; encouraged Pell to consider village militia work as valuable.
+
+### Aleha Sarshenka
+- **Post-war status (C.131–133):** Excommunicated by the Empire's Pontifical Court after the defeat at Arzlen; titles stripped with no possibility of reinstatement. Traveling with Waltza as a civilian. Encountered Krische by chance while under bandit attack in the northern forest.
+- **Purpose in the kingdom:** Ostensibly a "pilgrimage" — visiting General Christand's grave and reflecting on his own arrogance. After sparring with Krische and witnessing her abilities firsthand, decided to offer his sword to the kingdom's military.
+- **Sparring with Krische (C.133):** Fought eight rounds total; lost every one. His signature high-guard-to-downward-slash combination was defeated when Krische kicked his blade aside with a spinning back kick and placed her sword at his neck. Krische assessed him as "reasonably fast" but predictable, and offered detailed tactical feedback on his weaknesses. He was struck by the vast gap in ability and inspired rather than demoralized.
+- **Swordsmanship style:** Left-side lead stance (left foot forward), high guard (大上段). Signature technique: high-guard downward strike followed by upward slash — a two-stage combination. Solid fundamentals, long reach, explosive forward momentum. Krische identified his tendency to over-commit and recommended tighter, more precise strokes at range against smaller opponents.
+- **Personality expanded:** Earnest, reflective, warm. Takes defeat gracefully and learns from it. Sees the gap between himself and Krische as cause for joy rather than despair. Views Bogan's legacy and the Christand crest with genuine reverence.
+- **Past battles mentioned (C.133):** Once fought Kokys Agrand to a near-draw during a corps-level engagement; considers Kokys the superior fighter. Failed to reach Bogan's command post during a flanking assault; forced to retreat when Nozan's First Corps overran his headquarters.
+
+### Waltza Del Grizlandy
+- **Post-war status (C.131–133):** Excommunicated alongside Aleha. One-armed (left arm severed by Krische at Arzlen). Traveling as Aleha's companion and advisor. Willingly surrendered his sword and submitted to Krische's custody.
+- **Relationship with Aleha:** Described by Aleha as "like a parent." His survival is the debt Aleha feels toward Krische.
+
+### Duke Arcasakos
+- **New character (C.134–135):** Thin, long-bearded old man. Duke rank; holds an administrative territory. Leader of a noble faction opposing Kreschenta. Compromised allies defected after Kreschenta used Roland's secret ledger against them. Plans to assassinate Kreschenta within six months, delegating execution to his son Fahre. Received Krische's midnight warning: an unsheathed knife and threatening letter placed at his bedside while he slept, along with a knife bearing his son's crest to sow internal suspicion.
+
+### Fahre Arcasakos
+- **New character (C.134):** Duke Arcasakos's son. Lean build, appears middle-aged. More cautious than his father but compliant. Tasked with arranging Kreschenta's assassination within six months.
+
+### Narkes
+- **New character (C.138):** Earl Narkes. Noble intermediary who offers his first-class quarter estate as a meeting place for covert noble dealings. Elevated by Duke Arcasakos, but gradually turned into Fahre's personal agent. Wide information network from intermediary work. Childhood friend of Fahre; similar age (late fifties, looks older due to graying hair). Relationship described as genuine friendship overlaid with cold pragmatism — both would betray the other for profit. Agrees to assist Fahre's plan to have Kreschenta eliminate Duke Arcasakos.
+
+### Fahre Arcasakos (update)
+- **Plan (C.138):** Intends to betray his father by allowing the pre-planned assassination of Kreschenta to proceed and fail, giving Kreschenta a pretext to eliminate the duke. Then Fahre will submit completely to the queen, offering the Arcasakos network in exchange for survival. Motivated by fatigue and pragmatism rather than ambition. Views obedience to Kreschenta as preferable to continued servitude under his father.
+
+### Duke Arcasakos (update)
+- **Response to warning (C.138):** Interrogated all household members including Fahre. Suspects Krische based on rumors of a "giant bat" over the capital (connecting the rooftop infiltration to a mana-user). Plans to "plant seeds" at the upcoming international conference — intends to provoke a war to create chaos that prevents Kreschenta from eliminating him. Believes the kingdom's strong military will fight any war without the capital being threatened.
 
 ## PLACE NAMES AND LOCATIONS
 
@@ -444,6 +518,9 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | **Dogra Plain (ドグラ平原)** | Plains south of Nozan's encampment; originally planned as the site for the decisive battle against Gildanstein. Features a tactically useful hill. |
 | **Elderant Kingdom (エルデラント王国)** | Western nation; Christand once deployed there as reinforcements for Hilkintos in a border war. |
 | **キルナン (Kirnan)** | Mia's home village; neighboring Karka. On the road between Gurgain and Karka. |
+| **アーカサコス公爵邸** | Duke Arcasakos's grand estate; red-roofed U-shaped mansion in the first-class quarter of Albernaria. Guarded by ~10 armed patrols and window sentries. |
+| **大鐘楼** | Great Bell Tower; tall structure (~150 shaku / ~45m) in Albernaria's first-class quarter; used by Krische as a launch point for infiltration. |
+| **ナルケス伯爵邸** | Earl Narkes's estate in Albernaria's first-class quarter; used as a covert meeting place for noble dealings. |
 ---
 
 ## WORLD-BUILDING REFERENCE
@@ -616,6 +693,58 @@ International agreement on POW treatment and town protections. Violations have d
 - Original curved sword (made by Koz ~3 years prior) severely worn from civil war use. Blade thinned, shrunken, heavily reground. Koz commissioned to forge a replacement: harder, thicker edge; same weight balance; ~1 month production time.
 - Selene ordered a spare sword (C.120); Bery paid Koz 6 gold coins (~20,000 pumpkins) as combined payment and farewell gift from Christand household.
 
+### Karka Village Customs (expanded)
+- **Counting-ten feast (十数え):** Boys who turn ten are permitted to apprentice as hunters; celebrated as the stars of the spring festival. A coming-of-age milestone.
+
+### Krische's Name Etymology (explicit, C.127)
+- クリシェ means "crescent moon" in the novel's world. Grace named her after the crescent moon visible the night Gorka proposed. The wish: that the happiness Grace felt that night would visit her daughter, and that she would one day gaze upon such a moon with someone she loved.
+
+### Political Developments (C.134–135)
+- **Arcasakos conspiracy:** Duke Arcasakos and his son Fahre plot to assassinate Queen Kreschenta within six months, viewing it as self-preservation against her campaign to strip their power. They explicitly decided not to claim the throne ("too brazen").
+- **Kreschenta's reform agenda:** Reducing noble stipends (割り当て金) to fund military reorganization. Establishing civic schools (市民小学) — minimal-cost literacy/arithmetic programs using existing government buildings and publicly recruited teachers. Long-term plan: raise general education levels, then implement examination-based official selection to replace incompetent hereditary nobles. Decades-long strategy.
+- **Roland's ledger:** The secret ledger obtained by Krische from Roland Seba's operations continues to be Kreschenta's primary weapon for political leverage; used to turn Arcasakos's allied nobles against him.
+
+### Imperial Excommunication System
+- **Excommunication (破門):** Imperial punishment heavier than title-stripping; issued by the Pontifical Court (法王庁). No possibility of reinstatement. Aleha and Waltza received this as punishment for the Arzlen defeat.
+
+### Krische's Infiltration Capabilities (C.135)
+- Demonstrated ability to: leap from a ~45m tower, kick off walls to convert vertical momentum into horizontal glide, run across rooftops silently, manipulate metal locks with magic from outside, and scale city walls. Completed infiltration of a heavily guarded mansion and return to the royal estate in minimal time. Guards described as competent but "lacking in imagination" for not considering aerial approach.
+
+### Jaleia Gashea (Iron War-Golem)
+- **Name origin:** Krische named it "Jaragasha" (じゃらがしゃ) after the sound of its chains (*jara-jara*) and footsteps (*gashan*). Kreschenta retroactively translated this into ancient language: Jaleia (勝利/victory, superiority) + Gashea (鉄/iron, dull-gleaming ore). The dignified name stuck through a group conspiracy; Krische's protests were deflected repeatedly. The narrator notes this true origin was never recorded in any book.
+- **Specifications:** ~8 shaku (~240 cm) tall. Ball joints with internal magic crystals (replacing earlier chain joints). Spring-loaded Achilles tendons. Oversized wooden-shoe feet for weight distribution. Birdcage-style torso and head housing magic crystals.
+- **Control system:** "Pika-Piika" (ピカピーカ) transmitter pendant sends mana-wave patterns (short/long flashes) to the head core, which relays commands to limb crystals. Operates autonomously within patterned behavior sets once activated.
+- **Combat role:** Short-engagement line-breaker. Deployed ahead of infantry to shatter enemy formations. Compared to war elephants but superior in versatility, maintenance, transport, and defense. Modeled on Granmeld's fighting style (brute-force mace combat).
+- **Operational time:** ~1.5 koku (~3 hours) in combat mode. Extendable with additional crystals but each requires 3 mana-users to charge.
+- **Armor plan:** Cloth padding under plate armor; thicker than standard issue. Vulnerable only at the head core crystal (exposed for friend-or-foe identification).
+- **Speed:** Comparable to a mana-user despite enormous size.
+- **Cost:** ~3 small gold coins per unit (raw materials; labor excluded). Expected to decrease with ongoing orders.
+- **Deployment plan:** 10 per corps (40 total) as long-term goal. Initial 10 units to Krische's direct forces for field testing. Kingdom-wide deployment pending Kreschenta's authorization.
+- **Historical significance (narrator):** The prototype of iron war-golems that would dominate the world for centuries.
+
+### Prosthetic Limbs Project (C.136)
+- Krische conceived prosthetic limbs for wounded fabrication squad soldiers by adapting Jaragasha's arm/leg components. Resized, made from wood, and controlled via the soldier's own mana (same phantom-muscle principle as the golem). Not yet built; concept stage.
+
+### Poison-Piririn (毒ぴりりん) (C.140)
+- Magic crystal that detects common poisons when held close and charged with mana (produces tingling sensation). Krische collected regional poisons and encoded their "particle configurations" into the crystal. Uses cipher inscription (暗号刻印) — self-modifying formula that absorbs ambient mana to rewrite its surface layer, protecting the core detection formula. Given to Bery as a necklace.
+
+### Krische's Particle Theory (C.140)
+- Krische describes matter as composed of tiny "particles" (粒々) that combine to form all substances, including the body and poisons. Mana can interact with, break down, and recombine particles. Mana itself can become particles and vice versa. This aligns with an existing scholarly hypothesis that "the world is composed of mana." Krische has not fully mapped the interactions but has leveraged this understanding for poison detection and healing.
+
+### Cipher Inscription (暗号刻印) (C.140)
+- Elvena's formal name for Krische's self-modifying magic formula system. Surface formula continuously rewrites using absorbed ambient mana, protecting the core formula. Requires magic (airborne formula drawing) to disable. Even someone who understands the mechanism would take years to crack it blindly. Krische calls it "unyounyo" (squiggly).
+
+### International Conference / Queen's Debut (C.139)
+- Scheduled shortly after coronation. All five major nations attending: Arna Empire (Grand Priest Zarnalibea), Galshan Republic (Vice Chairman Olgan), Elderant Kingdom (Chancellor Krolus), Holy Elsren Empire (Archbishop Elbebart). Empire deliberately sent lower-ranked delegate (archbishop instead of primate/cardinal) as intimidation.
+- De facto ceasefire: diplomatic convention holds that nations don't attack shortly after celebrating a new monarch's accession. Guarantees safety until at least the next harvest season.
+- Elderant-Galshan armistice: five-year ceasefire signed; both nations likely repositioning to target Alberan. Simultaneous two- or three-nation invasion considered most probable threat.
+
+### Northern Defense Strategy (C.139)
+- Krische's plan: Request only 1,000–2,000 imperial personnel (centurion rank and above) rather than a large army. Use kingdom soldiers under imperial officers for training. The imperial presence is purely symbolic — the empire's existence behind it deters attack on the north regardless of force size. Avoids the financial trap of maintaining a large foreign army indefinitely. Krische explicitly prefers enemies to attack sooner rather than later, judging that delay does not change the outcome.
+
+### Kreschenta's Financial Strategy (C.139)
+- Offers tariff reduction on Arna Empire mineral/crystal exports as payment for military cooperation. True motive: buy up cheap, high-quality imperial magic crystals in bulk before their value spikes due to Krische's research developments. Uses the military deployment as cover for what is effectively free imperial military service with a bonus.
+
 ## RECURRING THEMES AND MOTIFS
 
 1. **Pumpkin** — Krische's contentment; foiled pumpkin plans = chaos.
@@ -732,6 +861,21 @@ International agreement on POW treatment and town protections. Violations have d
 | C.123 | Arrive in Gurgain. Krische's worn sword examined by Koz; new sword commissioned (harder edge, thicker). Bery pays 6 gold coins as farewell gift from Christand. Mia considers buying a sword. Estate belongings packed (mostly books and wine). Bery reminisces about Lazura, Bogan, and young Selene. Krische and Bery share an intimate moment discussing "stretching." Last night at the Gurgain estate; Krische bakes cookies for Galla. |
 | C.124 | Mia and Kalua split off toward Kirnan. Arrive at Karka Village. Reunion with Pell (now much taller). Bery introduced; "poison for the eyes" misunderstanding. Galla embraces Krische. Village chief and men show deference/guilt; women and children welcome Krische warmly. Visit to Galla's house; cookies shared. Galla reflects on Krische's growth; learns Bery is nearly 30. Krische declares Bery will never marry. |
 | C.125 | Village feast. Krische serves food, helps with preparations. Swordsmanship contest: Kirik wins, spars with Krische as entertainment. Galla tells Bery about her son's death and how Krische's visits saved her. Entrusts Krische to Bery. Grave visit: Gorka and Grace's tree; old script on tags. Galla's son's tag has fallen (spirit "departed"). Krische helps bury the tag. Galla begins telling the story behind Krische's name but is interrupted. Krische confesses to Bery that she killed Galla's son. |
+| C.126 | Extended flashback: Krische's childhood in Karka — harassment by Keil and Katias, sword training, killing both boys and Katias's mother's subsequent disappearance. Krische confesses the killings to Bery. Bery refuses to give a direct answer, insists Krische decide for herself. |
+| C.127 | Krische attempts to confess to Galla but is stopped; Galla imposes silence as punishment, affirms love for Krische. Bery's philosophical speech on truth, sin, and law. Moonlit scene: Krische experiences genuine beauty/emotion for the first time; connects it to her name's meaning. Repeated kisses between Krische and Bery. |
+| C.128 | Farewell at Karka Village; Galla sees Krische off. Scene shifts to Kirnan Village (several days earlier): Mia reunites with mother Milna; immediate quarrel over Mia's military career. Kalua meets Milna. Mia's childhood friend Bazel attempts confession but is interrupted by Kalua's arrival. |
+| C.129 | Mia's family dinner; sisters tease about romance. Village tour with Kalua; snowball fight with siblings. Bazel proposes to Mia directly; Mia is shocked, asks for time. Flashback: Kalua had pre-arranged with Dagra for Mia's potential resignation. Kalua watches from afar, hoping Mia will choose to stay. |
+| C.130 | Mia declares she'll refuse Bazel. Milna argues for marriage; Kalua sides with Milna. Mia storms out; challenges Kalua to a duel (if she loses, she stays). Beaten 56 times but refuses to yield; wins by pressing sword to Kalua's heart when Kalua can't bring herself to truly finish it. Bazel takes rejection gracefully. Mia and Kalua reconcile; walk home under the crescent moon. |
+| C.131 | Krische encounters Aleha Sarshenka and Waltza Del Grizlandy being attacked by bandits in the forest between Karka and Gurgain. Kills a bandit survivor with a casual back kick. Learns they are excommunicated former Empire officers. Postpones serious discussion in favor of lunch. Recruits Aleha to the kingdom's military in an offhand remark. |
+| C.132 | Aleha repeatedly delayed by Krische's disinterest; finally gets to speak after Bery intervenes. Expresses gratitude for Waltza's life and reverence for Bogan. Krische formally offers a position in the kingdom's army. Aleha begins instructing Black Flag soldiers in sword fundamentals during the journey. Kalua loses a sparring match to Aleha and seeks revenge. Krische demands Mia do 1,000 daily practice swings. Kalua engineers a sparring match between Krische and Aleha. |
+| C.133 | Krische vs. Aleha sparring match on the moonlit snowfield. Krische defeats him instantly with a spinning back kick to his descending blade, then provides detailed analysis of his weaknesses. Eight rounds total; Krische wins all. Aleha recalls past battles against Christand and Kokys. Decides to take up the sword for the kingdom. |
+| C.134 | Council session in Albernaria: Kreschenta pushes through noble stipend reduction over Arcasakos's objections using Roland's ledger to turn his allies. Arcasakos and son Fahre plot Kreschenta's assassination (within 6 months). Kreschenta arrives home to find Aleha and Waltza visiting; embarrassing entrance followed by regal recovery. Selene and Kreschenta discuss Aleha's potential value. Kreschenta asks Krische to assassinate Arcasakos; debate over methods ensues. Compromise: Krische will deliver a warning rather than kill him. |
+| C.135 | Krische infiltrates Arcasakos's mansion at night — leaps from the Great Bell Tower, glides to the roof, enters the bedchamber via magic-unlocked door. Places Kreschenta's prepared knife (bearing the son's crest) and threatening letter at his bedside. Returns to find Kreschenta has fallen asleep despite promising to wait up. Next morning: screams in the Arcasakos household, excuses in the royal estate; rumor of a giant bat over the capital. |
+| C.136 | Aleha and Waltza introduced to Kokys and Elrouga at Christand estate; accepted without issue. Aleha swears formal oath of loyalty to Krische. Underground lab: Jaragasha frame completed; Krische demonstrates remote activation. Prosthetic limb concept revealed to fabrication squad. Selene, Kreschenta, Elrouga, and Anne visit the lab. |
+| C.137 | Selene, Kreschenta, and Elrouga inspect Jaragasha. Kreschenta renames it "Jaleia Gashea" using ancient language; group conspires to make the name stick over Krische's protests. Krische briefs them on capabilities: line-breaker role, combat specs, cost (~3 small gold coins), deployment plan (10 per corps). Kreschenta approves development; will transition from personal project to kingdom-led deployment. Narrator notes Jaleia Gashea as the prototype of centuries of iron war-golem dominance. |
+| C.138 | Duke Arcasakos berates Fahre over the knife incident; suspects Krische based on "giant bat" rumors. Plans to provoke war at the conference. Fahre separately meets Earl Narkes; reveals plan to betray his father by letting the assassination attempt fail, giving Kreschenta a pretext to eliminate the duke. Fahre will then submit to the queen. Meanwhile: Krische trains Kreschenta in swordsmanship (self-defense pretext); Bery suggests joint locks; training devolves into escape artistry with Kreschenta bound on the sofa. |
+| C.139 | Pre-conference preparations. All five nations confirmed attending (Elsren sent deliberately low-ranked archbishop). Kreschenta meets Zarnalibea; secures tariff reduction deal in exchange for imperial military deployment. Krische presents northern defense plan: minimal imperial personnel (1,000–2,000 officers) as symbolic deterrent; prefers enemies to attack sooner. Zarnalibea realizes Kreschenta deliberately left north vacant to exploit imperial obligation. Krische states she'll crush all three nations one by one if they attack. |
+| C.140 | Bery and Krische select dresses ahead of the conference (Krische's initiative to prevent dress-war breakfast casualties). Krische gives Bery a poison-detecting Piririn necklace; explains her particle theory of matter. Discussion of Krische's growing sense of beauty and her relationship with Bery. The pre-selected dress plan fails: Selene and Bery's dress war erupts regardless. |
 ---
 
 ## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–90)
@@ -849,6 +993,33 @@ International agreement on POW treatment and town protections. Violations have d
 - レイネ = "Reyne" (historical queen); グラバレイネ = "Grabareyne" (already established); ガスレ = "Gasre" (historical duke).
 - "Show Onee-sama How Cool I Am as Queen Operation" (女王として格好良いところを見せますわ大作戦) — Kreschenta's latest failed operation name, C.121.
 - Galla's son's death presented as accident in village; Krische's confession in C.125 reveals she killed him. Circumstances not yet detailed.
+- バゼル = "Bazel"; ミルナ = "Milna"; ミー = "Mi"; ミース = "Mees"; テクス = "Teks"; ダーザ = "Darza"; ミーリア = "Miria"; カーニャ = "Kanya"; ケイル = "Keil"; カティアス = "Katias" — new named characters, C.126–130.
+- 十数え = "counting-ten feast"; Karka coming-of-age celebration for boys at age ten (C.126).
+- Kalua's weapon described as 大曲剣 = "great curved sword" (C.130); consistent with established 湾曲した剣 = "curved sword" convention. Larger variant.
+- Mia's family members' names follow a pattern: mother ミルナ (Milna), sisters ミース (Mees) and ミー (Mi), sister ミーリア (Miria) — all ミ-prefixed.
+- ガロ reference in C.126–127: this is the bandit Garo from C.1, not a new character. The unnamed "old man" who touched Krische is a separate individual.
+- Krische's name etymology (クリシェ = crescent moon) made fully explicit in C.127. Previously hinted.
+- 大上段 (dai-jōdan): High guard / overhead stance. Translated descriptively; T/N added for martial arts context.
+- 三間 (san-ken): ~6 yards / 5.5 meters. Approximate conversion noted inline.
+- 百五十尺 (hyaku-gojū shaku): ~150 feet / 45 meters. Approximate conversion noted inline.
+- 割り当て金: "stipend" — the share of tax revenue allocated to nobles managing administrative territories. Not a salary; a portion of royal tax redirected to the managing noble.
+- 市民小学: "civic school" — Kreschenta's minimal-cost public education initiative. Not a formal school; more of a periodic literacy program using existing facilities.
+- 破門 in imperial context: "excommunication" — heavier than title-stripping (爵位剥奪); no reinstatement possible. Parallels religious excommunication given the Empire's theocratic structure.
+- 法王庁: "Pontifical Court" — the imperial authority that issues excommunication. Consistent with the Empire's religious governance structure.
+- Fahre (ファーレ): New name not previously established. Romanized following standard convention for the ファ sound.
+- アーカサコス: "Arcasakos" — new ducal house. Romanized phonetically; no prior appearance in knowledge base.
+- ペネツ銀貨 = "penets silver coin"; new currency denomination, C.137.
+- ジャレィア＝ガシェア = "Jaleia Gashea"; ancient-language rendering of じゃらがしゃ ("Jaragasha"). Maintain both names: "Jaleia Gashea" for the official/narrator usage, "Jaragasha" when Krische insists on her original name.
+- ピカピーカ = "Pika-Piika"; Krische's name for the golem transmitter pendant.
+- 毒ぴりりん = "poison-Piririn"; poison-detecting variant of established Piririn crystal.
+- 暗号刻印 = "cipher inscription"; Elvena's name for Krische's self-modifying formula system. Krische calls it うねうね ("squiggly").
+- 粒々 (tsubutsubu) = "particles"; Krische's layperson term for atomic/molecular-level matter.
+- ベリー経典 = "Bery Scripture"; narrator's comic term for Bery's internalized philosophical teachings within Krische.
+- ナルケス = "Narkes"; Earl; intermediary noble.
+- オールガン = "Olgan"; Vice Chairman, Galshan Republic.
+- クロルス = "Krolus"; Chancellor, Elderant Kingdom.
+- エルベバート = "Elbebart"; Archbishop, Holy Elsren Empire.
+- 大司教 = "archbishop"; 総大司教 = "primate"; 枢機卿 = "cardinal" — Empire's ecclesiastical hierarchy. Archbishop is lower than the expected rank for this diplomatic occasion.
 ## CORE CHARACTER UPDATES
 
 ### Krische Alberinea Krishtand

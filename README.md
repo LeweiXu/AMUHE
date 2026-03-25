@@ -4,6 +4,8 @@ Info here: https://www.novelupdates.com/series/a-maidens-unwanted-heroic-epic/
 
 This repo contain's a translated version of this masterpiece of a novel that ticks all my boxes.
 
+DO NOT OPEN ANY OTHER FILES OUTSIDE OF `translated_chapters`, `raw_chapters` & `scripts` IF YOU DON'T WANT TO BE SPOILED.
+
 You may find that this novel is already translated here at [inoveltranslations](https://inoveltranslation.com/novels/a8509c16-0da1-4401-a852-14d3995077a9)
 but if you just click on any chapter you'll find the worst translation known to man. I'm not sure how they did it, but they manage to misspell the main character's
 name in almost every single chapter, and entire passages are completely incomprehensible. The only way such a shoddy translation is possible is if it was completed 
