@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–110*
+*Current coverage: Chapters 1–120*
 *Update this file after each translated chapter.*
 
 ---
@@ -179,6 +179,16 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ベラル | Beral | Nakilus Ferizar's adjutant; killed by Krische (C.109) |
 | ラクル | Lakle | Squad Ten member, black century; killed in delaying action (C.110) |
 | ファーナス | Farnas | Messenger's horse; lent to Krische |
+| ベーゼリア | Bezelia | Royal treasure sword; only the monarch may wield it |
+| ぶるるん | Bururun | Krische's horse; named by Krische for its snorting |
+| フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagelinea Keesliton | Gildanstein's deputy commander (full name; C.112) |
+| ヴァナテラ | Vanatela | Elrouga Faren's wife |
+| ネッキ | Nekki | Black Flag soldier; fabrication squad; lost a leg |
+| ダズ | Daz | Black Flag soldier; former Eighth Squad leader; lost an arm; First Piririn Squad Leader |
+| ネイガル | Neigal | Black Flag soldier; wounded; literate |
+| ザッツ | Zatts | Black Flag soldier; wounded; literate |
+| アルゲン | Argen | Black Flag soldier; wounded; literate |
+| キリース | Kirees | Black Flag soldier; wounded; craft/smithing background |
 ---
 
 ## CORE CHARACTERS
@@ -385,6 +395,12 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 ### Neltas
 - Terrius Melkikos's new adjutant (replacing Salva after the betrayal). Named only briefly.
 
+### Vanatela
+- Elrouga Faren's wife. First appearance C.116. Slender, sharp-featured tall beauty with golden hair; slight crow's feet at eyes. Married Elrouga at age 35. Energetic matchmaker personality; tries to set up Bery with a marriage prospect (declined). Recognized Bery as Lazura's sister by resemblance. Was close friends with Lazura. Kind-hearted, socially forward. Speech: lively, assertive, occasionally overbearing.
+
+### Daz
+- Former Eighth Squad leader, Black Flag Special Service. Lost an arm fighting Nakilus Ferizar. Appointed First Piririn Squad Leader (selection/screening squad for mana-user recruits). First named C.118.
+
 ## PLACE NAMES AND LOCATIONS
 
 | Name | Description |
@@ -522,6 +538,50 @@ International agreement on POW treatment and town protections. Violations have d
 ### Eternal Magic Lamps — Testing Function
 - Non-internally-stored eternal magic lamps were historically used among nobles to gauge mana-handling ability. Require steady, precisely calibrated mana input; flicker if the feed is uneven. This function is now vestigial but still works for informal assessment. Elvena demonstrated refined skill with this type (C.101).
 
+### Titles and Ranks
+
+- **Alberinea (アルベリネア / 天剣 "Heavenly Sword"):** Unique title created by Queen Kreschenta (C.115). The highest military rank alongside Marshal. Held by Krische. Grants authority roughly equivalent to the Marshal but without supreme command. Effectively: military advisor to the queen with extraordinary personal latitude. The title is an extension of the Rinea (Senior Knight) naming convention but exceeds all precedent.
+- **Marshal (元帥):** Supreme military commander. Held by Selene Christand (C.115 onward). Assisted by Elrouga Faren.
+- **Bezelia (ベーゼリア):** The royal treasure sword. A great sword that only the reigning monarch may wield. Presented by Kreschenta to Krische during the investiture ceremony as a symbolic act — Krische received it standing (not kneeling), signifying equality with the queen.
+
+### Political Developments (C.111–115)
+
+- **War's end:** The War for the Alberan Crown concluded with Gildanstein's death. Keesliton's army surrendered after blue ceasefire flags were raised. Total casualties: tens of thousands, with many generals lost on both sides.
+- **Post-war policy:** Punishment for rebel soldiers minimized. Enemy troops given wine at the victory feast. Rationale: the kingdom cannot afford further losses; all are subjects of the same kingdom. This was pre-agreed policy, presented as "the queen's mercy."
+- **Coronation:** Coronation, parade, and victory ceremony held on the same day to save costs and minimize the number of times powerful nobles are gathered in one place.
+- **Public perception management:** Agents planted in parade crowds to reframe Krische as a wronged princess. First-impression strategy: her beauty contradicts the "cursed child" image; once people reject that label, a second smear campaign will be ineffective.
+- **Military appointments (C.115):**
+  - Marshal: Selene Christand
+  - Marshal's advisor: Elrouga Faren
+  - Alberinea (Heavenly Sword): Krische
+  - Eastern General: Nozan Velraigh (retained)
+  - Felwors Keesliton: under house arrest; ineligible for appointment
+
+---
+
+### Magic System — New Developments (C.117)
+- **Duplication Crystal (複製水晶):** Magic crystal that temporarily memorizes a formula from another crystal and can write it into a blank crystal. Named by Elvena. User-locked: bonds to the first person who channels mana into it; unusable by others. Clearing memorized formulae requires a separate magical procedure. Only Krische, Bery, and Elvena possess one.
+- **Detection Crystal / "Piririn" (ぴりりん):** Magic crystal that sends a tingling feedback to the holder when it detects mana above a threshold in a nearby person. Named by Krische. User-locked like the duplication crystal. Used to screen mana-user recruits for the Black Flag Special Service. Classified information; name used internally only.
+- **Mana-Powered Automaton (C.117):** Krische is developing a metal humanoid figure (~seven shaku / ~210 cm tall) powered by mana via magic crystals. Uses 24 joint crystals + 1 torso crystal + 1 head crystal. Mana creates phantom muscles on the metal frame. Still in prototype stage (chains at joints cause mana loss; needs rigid connections, wider feet, dual-bone design for load distribution). Components ordered from multiple craftsmen to prevent information leaks. Intended as tireless iron soldiers for battlefield use.
+
+### Military Structure — Updates (C.118)
+- **Black Flag Special Service (黒旗特務):** Formerly the black century (黒の百人隊); upgraded from century to company (中隊) to reflect planned expansion to 200+ soldiers. Full designation: Royal Central Army, Alberinea Direct Command, Black Flag Special Service. Krische wanted to name it "Kurofuyo Squad" (くろふよ隊); Selene overruled this.
+- **Internal subdivisions (C.118):**
+  - Fabrication Squad (工作班): Wounded soldiers assisting Krische's secret projects. Highest information security classification.
+  - First Piririn Squad (第一ぴりりん班) / publicly "Selection Squad": Wounded soldiers screening mana-user recruits using Piririn crystals. Squad Leader: Daz.
+  - Seventeenth Squad / Medical Squad: Bilza's squad designated as official emergency medical squad. Assigned physician-led first aid training.
+- **Mana Training Course:** Krische attempted to name it "Fuyofuyo——" before being cut off by Dagra; naming delegated to unit leadership.
+
+### Political Developments (C.117, C.120)
+- **International conference:** Scheduled for two months after coronation. New queen's formal introduction to neighboring nations: Arna Empire, Elderant Kingdom, Galshan Republic, Holy Elsren Empire. All except the Holy Elsren Empire have confirmed attendance. Secures at least two months of peace and diplomatic cover for domestic recovery.
+- **Military Academy (C.120):** Selene established a military academy in the capital based on Bogan's long-planned staff officer (参謀) system. Purpose: retrain capable second/third sons of nobles as staff officers to supplement commanders. Kreschenta supported it publicly by fabricating a story that Bogan had shared this dream with her personally. Elrouga is the most enthusiastic supporter. Still in early stages (building converted, books being moved in); functional results years away. Immediate use: slot top recruits as provisional staff officers for under-qualified commanders promoted during reorganization.
+
+### Christand Household — Post-War Status (C.117, C.120)
+- Residence: Small estate in the royal domain (former guest preparation facility). Six residents: Krische, Kreschenta, Bery, Selene, Anne, Elvena (part-time). Rooms to spare.
+- Gurgain estate: To be sold. Bery tasked with selecting items to bring and handling the sale. Selene requests all books and Bogan's liquor collection.
+- Krische's daily routine: "pre-breakfast" (leftovers) → breakfast prep → castle work → home for snack time → chores → dinner → bath with Bery → sleep. Structured around maximizing time with Bery.
+- Krische's finances: Almost entirely savings. Rewards from both wars untouched. Spends only on cooking and minor work expenses. Extreme reluctance to spend (pumpkin-denominated accounting). Kreschenta's personal adornments valued at ~300,000 pumpkins ("the million-pumpkin woman").
+
 ## RECURRING THEMES AND MOTIFS
 
 1. **Pumpkin** — Krische's contentment; foiled pumpkin plans = chaos.
@@ -623,6 +683,16 @@ International agreement on POW treatment and town protections. Violations have d
 | C.108 | Nakilus's arrival tips the balance. Selene flees toward Elrouga's Fourth Corps. Mia commands black century defense; adapts after tactical error. Mia nearly killed by Nakilus's thrown axe. Krische arrives, kicks the axe away, saves Mia. |
 | C.109 | Recap of Day 1 on Nozan's front: Krische and Granmeld destroy enemy right wing; Velraigh army takes clear advantage (30,000 vs 32,000). Nozan keeps Krische overnight for rest. Next morning: Krische rides toward Selene; comic battle with flapping skirt; rescues a messenger; switches horses. Arrives at battlefield; assesses situation; saves Mia; kills Nakilus (one-sided). |
 | C.110 | Selene pursued by Gildanstein. Black century soldiers (Adol, Kels, Keenitz, Squad Ten) sacrifice themselves as rear guard. Kalua and Bagu fight as vanguard pair; Bagu killed shielding Kalua. Elrouga delays Gildanstein with one exchange. Kokys arrives. Gildanstein requests duel with Krische. Krische kills Gildanstein in single combat — steps onto his sword, severs throat. Kokys announces victory; civil war effectively won. |
+| C.111 | Salva surrenders and is executed by Gallen at his own request. Keesliton army surrenders after ceasefire flags. Post-war feast. Kalua and Mia's tent scene (mourning, mutual comfort). Krische departs for Bery two days later; travels on Bururun (sidesaddle). Reunites with Bery and Kreschenta en route. |
+| C.112 | Author's supplementary chapter: full character profiles with alignments, heights, full names, combat styles, and personality descriptions for all major and secondary characters through Arc Five. Felwors's full name revealed. |
+| C.113 | Author's supplementary chapter: visual character references (CHARAT). Profiles written in Krische's childlike voice. |
+| C.114 | Pre-ceremony dress dispute (Bery vs. Selene; white vs. black). Bery wins via coin trick. Coronation parade: Krische presented alongside Kreschenta on the royal carriage. Agents manage crowd perception. |
+| C.115 | Coronation ceremony. Victory ceremony. Kreschenta crowned queen. Krische receives the title Alberinea (Heavenly Sword) and the treasure sword Bezelia. Selene appointed Marshal; Elrouga as advisor. Kreschenta catalogs hostile nobles during her speech. |
+| C.116 | Post-ceremony intermission: snack break averts dress-dispute civil war. Banquet: Elrouga rescues Krische and Selene from socializing; introduces wife Vanatela. Vanatela tries to matchmake Bery; Krische declares Bery will stay with her forever. Bery declines. Vanatela understands. |
+| C.117 | Underground laboratory: Elvena finishes duplication crystal batch (56 total). Krische demonstrates mana-powered metal automaton prototype (salutes, walks). Krische gives Bery a personal duplication crystal (user-locked). Bery asks why she wasn't chosen as Krische's assistant; Krische explains she doesn't want Bery to see her war-focused side — wants home to remain their sanctuary. Bery accepts; they kiss. |
+| C.118 | Training ground: Black Flag Special Service reorganized. Dagra returns from recovery. Wounded soldiers assigned to fabrication squad (secret projects) and Piririn Squad (mana-user screening). Krische names detection crystals "Piririn" and the screening team "First Piririn Squad." Century upgraded to company; Krische's rejected name "Kurofuyo Squad" replaced with "Black Flag Special Service" by Selene. Dagra diplomatically saves the unit from further naming. Medical training ordered; Bilza's squad designated medical squad. |
+| C.119 | Kalua, Mia, Elvena's apartment life. Mia's romantic obliviousness backstory. Krische plans trip to Karka Village (Galla unwell). Mia revealed as from neighboring Kirnan Village; recalls seeing young Krische on a Karka wagon. Dagra insists Mia and Kalua join the trip. Kalua asks to speak with Dagra privately. |
+| C.120 | Gallen delivers news of Galla's illness. Krische decides to go after hearing Bery's concern. Selene approves; assigns Bery to handle Gurgain estate sale and retrieve belongings. Staff officer academy backstory. Kreschenta upset about being left behind. Selene orders a spare sword from Koz. Krische balks at cost; Kreschenta reveals her accessories' value (~300,000 pumpkins), shocking Krische. Bery and Kreschenta lecture Krische on spending. Krische lectures Kreschenta on pumpkin values. |
 ---
 
 ## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–90)
@@ -711,3 +781,97 @@ International agreement on POW treatment and town protections. Violations have d
 - Terrius's "flesh fortress" tactic: rendered descriptively; no single Japanese term beyond 肉の砦.
 - Krische's sword philosophy 無形 rendered as "formless"; 無空 rendered as "the void."
 - キースリトン軍 = "Keesliton army" — used when referring to the enemy army after Gildanstein left for Selene's front. Gildanstein's army effectively split: Keesliton commands the main body; Gildanstein takes a strike force.
+- ベーゼリア = "Bezelia"; royal treasure sword. First appearance C.115.
+- アルベリネア (title) = "Alberinea" / "Heavenly Sword" (天剣). Note: this is the same word as Krische's middle name (クリシェ＝アルベリネア＝クリシュタンド), implying the name always carried this significance.
+- 元帥 = "Marshal"; supreme military commander.
+- ぶるるん = "Bururun"; Krische's horse. Named for the onomatopoeia of its snorting.
+- フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン = Felwors Zaran Dorishe Yagelinea Keesliton (full name; C.112). Note: ヤゲルリネア as an honorary title connects to ヤゲルナウス (the Arna Empire's dragon deity), suggesting deep historical ties between the Keesliton house and the Arna Empire.
+- 式典はおねえさまとべったり過ごすのですわ大作戦 = "Spend the Ceremony Glued to Onee-sama Operation" — Kreschenta's failed plan. Rendered literally for comic effect.
+- 前朝食 = "pre-breakfast" — Krische's invented meal of eating last night's leftovers before actual breakfast. Comic detail about her post-war lifestyle escalation.
+- The dress dispute in C.114 uses mock-political/military faction language. Faction names rendered in English with parenthetical membership counts to preserve the comedy structure.
+- Bery's coin-reading ability (C.114): She can track a spinning coin's rotation and trajectory to determine its landing side. Consistent with her established backstory of mastering indoor activities during her sickly childhood.
+- 聖霊協約 appears again in C.111 (Felwors's dialogue) — maintained as "Sacred Convention" per established decision. Kanji variant noted previously.
+- 黒旗特務 = "Black Flag Special Service"; formal reading こっきとくむ, colloquial くろはたとくむ.
+- くろふよ隊 = "Kurofuyo Squad" (rejected name); portmanteau of 黒 + ふよふよ.
+- ぴりりん = "Piririn"; detection crystal. Kept as proper noun.
+- 複製水晶 = "duplication crystal."
+- 参謀 = "staff officer."
+- コーズ long-vowel variant of コズ → use established "Koz."
+- ヴァナテラ = "Vanatela"; Elrouga's wife.
+- ダズ = "Daz"; ネッキ = "Nekki"; ネイガル = "Neigal"; ザッツ = "Zatts"; アルゲン = "Argen"; キリース = "Kirees" — new named soldiers, C.118.
+- 百万カボチャの女 = "The Million-Pumpkin Woman" (chapter title, C.120).
+- 人形 (ningyō) in context of Krische's automaton rendered as "figure" to match neutral source tone.
+## CORE CHARACTER UPDATES
+
+### Krische Alberinea Krishtand
+- **New title (C.115):** Alberinea (アルベリネア) — "Heavenly Sword" (天剣). The highest military rank alongside Marshal. Created by Kreschenta as a unique position: the queen's sword, military advisor, and other half. Practical authority corresponds roughly to the existing Marshal, but the Marshal retains supreme command authority. Effectively a supreme commander's assistant with extraordinary personal latitude.
+- **Post-war status:** Returned to Bery ahead of Selene; traveled partly on horseback (sidesaddle, under duress) on a horse she named Bururun. Fell ill with fever after the final battle; recovered after two days. Left corps affairs with Keith. Elvena assigned as temporary attendant.
+- **Corps status:** The black century lost nearly half of its deployed strength. Given leave. Dagra recovering at Fort Belgash (from C.93).
+- **Relationship with Bururun:** The horse (an infamous unmanageable stallion) recognized Krische as its rider after C.109. Krische reluctantly accepted it. She named it Bururun (ぶるるん) because she needed something to call it.
+
+### Selene Christand
+- **New title (C.115):** Marshal (元帥) — Supreme military commander of the kingdom. Appointed by Kreschenta. Youngest Marshal in kingdom history. Elrouga Faren serves as her advisor/assistant.
+- **Post-war duties:** Remained at the front to organize the army and prepare the palace for Kreschenta's arrival. Mountains of administrative work.
+
+### Bery Argan
+- **Post-war:** Traveled with Kreschenta and the imperial army (40,000) back toward the capital. Knitted multiple scarves for Krische during the journey (white, gray, brown, green — aiming to cover every color). Presented the white scarf upon reunion.
+- **Reunion with Krische (C.111):** Krische leapt into her arms at the carriage, accidentally crushing Kreschenta beneath Bery in the process.
+
+### Kreschenta Farna Viera Alberan
+- **New status (C.115):** Crowned Queen of Alberan. Full style: Kreschenta Farna Viera Alberan. Coronation, parade, and victory ceremony held on same day (cost-saving measure).
+- **Political strategy (C.114–115):** Used Elrouga's personal intelligence network and Daglis (Kirzalan) to manage public perception during the parade. Planted "well-informed" agents in the crowd to reframe Krische as a wronged princess rather than a cursed child. Attempted to make Krische a figurehead queen but was refused (bribed into acceptance with three cookies and two head-pats). Created the Alberinea title as an alternative.
+- **Coronation speech (C.115):** Performed vulnerability — tearfully asking nobles for patience with her youth and inexperience — while simultaneously cataloguing every face showing hostility, defiance, or doubt for future elimination. Classic dual-nature moment.
+- **Failed operation:** "Spend the Ceremony Glued to Onee-sama Operation" (式典はおねえさまとべったり過ごすのですわ大作戦) — derailed by the dress dispute.
+
+### Gallen
+- **Post-war:** Fell ill from overexertion (like Krische). Anne Gietelens is tending to him. He is very fond of Anne and praises her lavishly.
+
+### Elrouga Faren
+- **New title (C.115):** Marshal's advisor/assistant (元帥補佐). Serves alongside Selene.
+
+### Nozan Velraigh
+- **Post-war (C.115):** Declined the Marshal position. Cannot leave the east — his rebuilding work there was interrupted by the civil war and remains unfinished. Retains Eastern General position.
+
+---
+
+## SECONDARY CHARACTER UPDATES
+
+### Salva (Caldera)
+- **Death (C.111):** After Gildanstein's death, Salva understood defeat and voluntarily surrendered to Gallen. Requested to die as a warrior on the battlefield rather than face execution as a traitor. Gallen granted his request and beheaded him with Salva's own sword (Gallen's short sword being too light). Last words: asked that punishment fall on him alone and that his family be spared. Gallen promised to report that his end was honorable.
+
+### Mia
+- **Post-battle (C.111):** Issued final orders despite trembling. Later sought out Kalua and confronted her about bottling up grief. Took responsibility for the deaths as captain, arguing her tactical prioritization was wrong — she should have sent an additional squad to support Kalua and Selene's position. Got drunk trying to confiscate Kalua's alcohol. Kissed Kalua while drunk and fell asleep immediately after.
+
+### Kalua (Kalua Belyus)
+- **Post-battle (C.111):** Drank heavily alone, mourning Adol, Kels, Bagu, and the others. Expressed frustration at her own helplessness — fifteen against one and still forced to flee from Gildanstein. Acknowledged that if Krische had been there instead, nobody would have died. Comforted by Mia. Kissed by a drunk Mia (one-sided; Mia fell asleep).
+- **Worry added (C.111):** Mia's drunken behavior. Resolved to never let Mia drink again.
+
+### Anne (Anne Gietelens)
+- **Post-war:** Tending to the recovering Gallen with great enthusiasm. Gallen finds her normalcy refreshing compared to Krische and Bery, and dotes on her. Krische is mildly worried Anne may be causing trouble.
+
+### Elvena
+- **Post-war:** Preparing luggage for Krische's journey. Will be given leave to match the black century's schedule. Assigned to Selene temporarily until then. Accompanied Krische on the journey to meet Bery's column. Aghast at Bery's domineering behavior during the dress dispute.
+
+### Felwors Keesliton
+- **Post-war (C.111, C.115):** Surrendered after Gildanstein's death was confirmed (blue flags raised). Accepted defeat gracefully, remarking that his neck must carry the goddess's protection. Currently under house arrest (謹慎中). Despite being the strongest Marshal candidate, cannot be appointed due to having sided with Gildanstein.
+- **Full name confirmed (C.112):** Felwors Zaran Dorishe Yagelinea Keesliton.
+
+### Granmeld Varkus
+- **Post-war (C.111):** Broke through to the Keesliton army headquarters just as the ceasefire flags went up. Complained about the anticlimactic ending. Ordered Carlis to prevent unnecessary casualties during the transition.
+
+### Daglis
+- **Post-war (C.114–115):** Used by Kreschenta as an intelligence operative during the coronation parade, planting favorable rumors about Krische among the populace.
+
+---
+
+## DECEASED CHARACTERS (confirm/add to ● list)
+
+| Character | Death | Chapter |
+|---|---|---|
+| Salva Rinea Caldera | Beheaded by Gallen at his own request | C.111 |
+| Bagu | Killed shielding Kalua from Gildanstein | C.110 (confirmed C.111) |
+| Adol | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
+| Kels | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
+
+---
+

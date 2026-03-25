@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–110*
+*Current coverage: Chapters 1–125*
 *Update this file after each translated chapter.*
 
 ---
@@ -182,6 +182,16 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ベーゼリア | Bezelia | Royal treasure sword; only the monarch may wield it |
 | ぶるるん | Bururun | Krische's horse; named by Krische for its snorting |
 | フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagelinea Keesliton | Gildanstein's deputy commander (full name; C.112) |
+| ヴァナテラ | Vanatela | Elrouga Faren's wife |
+| ネッキ | Nekki | Black Flag soldier; fabrication squad; lost a leg |
+| ダズ | Daz | Black Flag soldier; former Eighth Squad leader; lost an arm; First Piririn Squad Leader |
+| ネイガル | Neigal | Black Flag soldier; wounded; literate |
+| ザッツ | Zatts | Black Flag soldier; wounded; literate |
+| アルゲン | Argen | Black Flag soldier; wounded; literate |
+| キリース | Kirees | Black Flag soldier; wounded; craft/smithing background |
+| ガスレ | Gasre | Historical duke; Grabareyne's consort (deceased) |
+| ケイズ | Keiz | Koz's son; Gurgain weapon shop |
+| ネリプ | Nerip | Fictional herb used in cooking |
 ---
 
 ## CORE CHARACTERS
@@ -363,6 +373,8 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 ### Felwors Keesliton
 - Gildanstein's deputy commander (副将). Over 100 years old; kingdom's oldest general. Right hand of the warrior-king Albaza two generations prior. Retired from public life 30 years ago but retains formidable intellect. Commands respect as the warrior soldiers aspire to emulate. Stern, plain-spoken, commands moral authority even over Gildanstein. Met infant Krische once. Addresses Gildanstein with the familiarity of a long-serving retainer.
+- **Post-war (C.121):** Met with Kreschenta and Krische in the royal palace. Explained his siding with Gildanstein as personal sentiment and obligation rather than political conviction. Accepted reinstatement as a general after Krische directly asked whether he would serve. Currently awaiting orders from the Marshal.
+- **Prior consultation (C.121):** Visited Elrouga at the former Markelus estate (now Faren residence). Elrouga vouched for Krische's character and encouraged Felwors to meet her.
 
 ### Albaza
 - Former king of Alberan, two generations prior. Known as the "Warrior-King" (武王). Personally took up arms to defend the kingdom during a more violent era of warfare.
@@ -387,6 +399,23 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 ### Neltas
 - Terrius Melkikos's new adjutant (replacing Salva after the betrayal). Named only briefly.
+
+### Vanatela
+- Elrouga Faren's wife. First appearance C.116. Slender, sharp-featured tall beauty with golden hair; slight crow's feet at eyes. Married Elrouga at age 35. Energetic matchmaker personality; tries to set up Bery with a marriage prospect (declined). Recognized Bery as Lazura's sister by resemblance. Was close friends with Lazura. Kind-hearted, socially forward. Speech: lively, assertive, occasionally overbearing.
+
+### Daz
+- Former Eighth Squad leader, Black Flag Special Service. Lost an arm fighting Nakilus Ferizar. Appointed First Piririn Squad Leader (selection/screening squad for mana-user recruits). First named C.118.
+
+### Keiz
+- Koz's son; works at the Gurgain weapon shop. First appearance C.123.
+
+### Pell
+- Now significantly taller than Krische (head taller). Entering adolescence; visibly flustered around Krische and Bery. Still lives in Karka Village as part of the self-defense militia. First entered the village swordsmanship contest (C.125).
+
+### Galla
+- **Health (C.124):** Illness was partly caused by stress over Krische's safety during the civil war, compounded by an epidemic. Collapsed while working the fields. Stable but not fully recovered.
+- **Son's death (C.125):** Krische reveals at chapter's end that she killed Galla's son long ago. The death was presented to the village as an accident (fell with friends while chased by a boar). The wooden grave tag fell from its tree, marking the "rebirth" in village belief.
+- **Relationship with Krische (C.125):** Entrusted Krische's care to Bery. Asked Bery to "punch" any future suitor.
 
 ## PLACE NAMES AND LOCATIONS
 
@@ -414,6 +443,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | **Dobal Plain (ドーバル平原)** | Battlefield east of Kirzalan; site of the Battle of Dobal Plain (Selene vs. Salva). |
 | **Dogra Plain (ドグラ平原)** | Plains south of Nozan's encampment; originally planned as the site for the decisive battle against Gildanstein. Features a tactically useful hill. |
 | **Elderant Kingdom (エルデラント王国)** | Western nation; Christand once deployed there as reinforcements for Hilkintos in a border war. |
+| **キルナン (Kirnan)** | Mia's home village; neighboring Karka. On the road between Gurgain and Karka. |
 ---
 
 ## WORLD-BUILDING REFERENCE
@@ -546,6 +576,46 @@ International agreement on POW treatment and town protections. Violations have d
 
 ---
 
+### Magic System — New Developments (C.117)
+- **Duplication Crystal (複製水晶):** Magic crystal that temporarily memorizes a formula from another crystal and can write it into a blank crystal. Named by Elvena. User-locked: bonds to the first person who channels mana into it; unusable by others. Clearing memorized formulae requires a separate magical procedure. Only Krische, Bery, and Elvena possess one.
+- **Detection Crystal / "Piririn" (ぴりりん):** Magic crystal that sends a tingling feedback to the holder when it detects mana above a threshold in a nearby person. Named by Krische. User-locked like the duplication crystal. Used to screen mana-user recruits for the Black Flag Special Service. Classified information; name used internally only.
+- **Mana-Powered Automaton (C.117):** Krische is developing a metal humanoid figure (~seven shaku / ~210 cm tall) powered by mana via magic crystals. Uses 24 joint crystals + 1 torso crystal + 1 head crystal. Mana creates phantom muscles on the metal frame. Still in prototype stage (chains at joints cause mana loss; needs rigid connections, wider feet, dual-bone design for load distribution). Components ordered from multiple craftsmen to prevent information leaks. Intended as tireless iron soldiers for battlefield use.
+
+### Military Structure — Updates (C.118)
+- **Black Flag Special Service (黒旗特務):** Formerly the black century (黒の百人隊); upgraded from century to company (中隊) to reflect planned expansion to 200+ soldiers. Full designation: Royal Central Army, Alberinea Direct Command, Black Flag Special Service. Krische wanted to name it "Kurofuyo Squad" (くろふよ隊); Selene overruled this.
+- **Internal subdivisions (C.118):**
+  - Fabrication Squad (工作班): Wounded soldiers assisting Krische's secret projects. Highest information security classification.
+  - First Piririn Squad (第一ぴりりん班) / publicly "Selection Squad": Wounded soldiers screening mana-user recruits using Piririn crystals. Squad Leader: Daz.
+  - Seventeenth Squad / Medical Squad: Bilza's squad designated as official emergency medical squad. Assigned physician-led first aid training.
+- **Mana Training Course:** Krische attempted to name it "Fuyofuyo——" before being cut off by Dagra; naming delegated to unit leadership.
+
+### Political Developments (C.117, C.120)
+- **International conference:** Scheduled for two months after coronation. New queen's formal introduction to neighboring nations: Arna Empire, Elderant Kingdom, Galshan Republic, Holy Elsren Empire. All except the Holy Elsren Empire have confirmed attendance. Secures at least two months of peace and diplomatic cover for domestic recovery.
+- **Military Academy (C.120):** Selene established a military academy in the capital based on Bogan's long-planned staff officer (参謀) system. Purpose: retrain capable second/third sons of nobles as staff officers to supplement commanders. Kreschenta supported it publicly by fabricating a story that Bogan had shared this dream with her personally. Elrouga is the most enthusiastic supporter. Still in early stages (building converted, books being moved in); functional results years away. Immediate use: slot top recruits as provisional staff officers for under-qualified commanders promoted during reorganization.
+
+### Christand Household — Post-War Status (C.117, C.120)
+- Residence: Small estate in the royal domain (former guest preparation facility). Six residents: Krische, Kreschenta, Bery, Selene, Anne, Elvena (part-time). Rooms to spare.
+- Gurgain estate: To be sold. Bery tasked with selecting items to bring and handling the sale. Selene requests all books and Bogan's liquor collection.
+- Krische's daily routine: "pre-breakfast" (leftovers) → breakfast prep → castle work → home for snack time → chores → dinner → bath with Bery → sleep. Structured around maximizing time with Bery.
+- Krische's finances: Almost entirely savings. Rewards from both wars untouched. Spends only on cooking and minor work expenses. Extreme reluctance to spend (pumpkin-denominated accounting). Kreschenta's personal adornments valued at ~300,000 pumpkins ("the million-pumpkin woman").
+
+### Historical Lore: Grabareyne and Elsreyne (expanded, C.121)
+- ~300 years before present. Reyne ("strong light"), a cursed child, became queen at 15. Married Duke Gasre to seize power; likely killed him. Reshaped the kingdom in 10 years; expanded territory aggressively. Known as licentious and ruthless.
+- Later called Grabareyne ("Great Reyne") after her daughter Elsreyne ("Little Reyne") was born — also a cursed child.
+- Elsreyne was quiet and artistically inclined; rebelled against Grabareyne with discontented vassals. Founded the Republic of Elsren ("Little Paradise"), later the Holy Elsren Empire.
+- Civil war lasted decades. Kingdom lost much territory. Ended with Grabareyne's assassination and a peace treaty.
+- This history is the origin of the kingdom's tradition of killing cursed children.
+
+### Karka Village Burial Customs (C.125)
+- Trees in the forest serve as graves. Bones/ashes buried at the base; a wooden name tag hung from a branch by cord.
+- Cord thickness varies by death type: thick rope for old age / parents of young children (spirit stays to watch over them); thin cord for unfortunate deaths (spirit departs sooner).
+- When the cord naturally decays and the tag falls, the dead are said to have been "reborn" into a new form.
+- Separate from the kingdom's blood-worship faith (拝血信仰); an indigenous forest-cycle faith.
+
+### Krische's Sword (C.123 update)
+- Original curved sword (made by Koz ~3 years prior) severely worn from civil war use. Blade thinned, shrunken, heavily reground. Koz commissioned to forge a replacement: harder, thicker edge; same weight balance; ~1 month production time.
+- Selene ordered a spare sword (C.120); Bery paid Koz 6 gold coins (~20,000 pumpkins) as combined payment and farewell gift from Christand household.
+
 ## RECURRING THEMES AND MOTIFS
 
 1. **Pumpkin** — Krische's contentment; foiled pumpkin plans = chaos.
@@ -652,6 +722,16 @@ International agreement on POW treatment and town protections. Violations have d
 | C.113 | Author's supplementary chapter: visual character references (CHARAT). Profiles written in Krische's childlike voice. |
 | C.114 | Pre-ceremony dress dispute (Bery vs. Selene; white vs. black). Bery wins via coin trick. Coronation parade: Krische presented alongside Kreschenta on the royal carriage. Agents manage crowd perception. |
 | C.115 | Coronation ceremony. Victory ceremony. Kreschenta crowned queen. Krische receives the title Alberinea (Heavenly Sword) and the treasure sword Bezelia. Selene appointed Marshal; Elrouga as advisor. Kreschenta catalogs hostile nobles during her speech. |
+| C.116 | Post-ceremony intermission: snack break averts dress-dispute civil war. Banquet: Elrouga rescues Krische and Selene from socializing; introduces wife Vanatela. Vanatela tries to matchmake Bery; Krische declares Bery will stay with her forever. Bery declines. Vanatela understands. |
+| C.117 | Underground laboratory: Elvena finishes duplication crystal batch (56 total). Krische demonstrates mana-powered metal automaton prototype (salutes, walks). Krische gives Bery a personal duplication crystal (user-locked). Bery asks why she wasn't chosen as Krische's assistant; Krische explains she doesn't want Bery to see her war-focused side — wants home to remain their sanctuary. Bery accepts; they kiss. |
+| C.118 | Training ground: Black Flag Special Service reorganized. Dagra returns from recovery. Wounded soldiers assigned to fabrication squad (secret projects) and Piririn Squad (mana-user screening). Krische names detection crystals "Piririn" and the screening team "First Piririn Squad." Century upgraded to company; Krische's rejected name "Kurofuyo Squad" replaced with "Black Flag Special Service" by Selene. Dagra diplomatically saves the unit from further naming. Medical training ordered; Bilza's squad designated medical squad. |
+| C.119 | Kalua, Mia, Elvena's apartment life. Mia's romantic obliviousness backstory. Krische plans trip to Karka Village (Galla unwell). Mia revealed as from neighboring Kirnan Village; recalls seeing young Krische on a Karka wagon. Dagra insists Mia and Kalua join the trip. Kalua asks to speak with Dagra privately. |
+| C.120 | Gallen delivers news of Galla's illness. Krische decides to go after hearing Bery's concern. Selene approves; assigns Bery to handle Gurgain estate sale and retrieve belongings. Staff officer academy backstory. Kreschenta upset about being left behind. Selene orders a spare sword from Koz. Krische balks at cost; Kreschenta reveals her accessories' value (~300,000 pumpkins), shocking Krische. Bery and Kreschenta lecture Krische on spending. Krische lectures Kreschenta on pumpkin values. |
+| C.121 | Felwors meets Kreschenta and Krische in royal palace; accepts reinstatement as general. Flashback: Felwors previously visited Elrouga, who vouched for Krische. Historical lore about Grabareyne, Elsreyne, and the origin of the cursed child tradition. |
+| C.122 | Travel north through Dragon's Maw; snow forces carriage-to-sled conversion. Overnight at Fort Belgash. Krische and Bery cook in the fort kitchen; comic Zalbak vs. Kart rivalry over plate delivery; Mia unwittingly resolves the standoff. |
+| C.123 | Arrive in Gurgain. Krische's worn sword examined by Koz; new sword commissioned (harder edge, thicker). Bery pays 6 gold coins as farewell gift from Christand. Mia considers buying a sword. Estate belongings packed (mostly books and wine). Bery reminisces about Lazura, Bogan, and young Selene. Krische and Bery share an intimate moment discussing "stretching." Last night at the Gurgain estate; Krische bakes cookies for Galla. |
+| C.124 | Mia and Kalua split off toward Kirnan. Arrive at Karka Village. Reunion with Pell (now much taller). Bery introduced; "poison for the eyes" misunderstanding. Galla embraces Krische. Village chief and men show deference/guilt; women and children welcome Krische warmly. Visit to Galla's house; cookies shared. Galla reflects on Krische's growth; learns Bery is nearly 30. Krische declares Bery will never marry. |
+| C.125 | Village feast. Krische serves food, helps with preparations. Swordsmanship contest: Kirik wins, spars with Krische as entertainment. Galla tells Bery about her son's death and how Krische's visits saved her. Entrusts Krische to Bery. Grave visit: Gorka and Grace's tree; old script on tags. Galla's son's tag has fallen (spirit "departed"). Krische helps bury the tag. Galla begins telling the story behind Krische's name but is interrupted. Krische confesses to Bery that she killed Galla's son. |
 ---
 
 ## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–90)
@@ -750,6 +830,25 @@ International agreement on POW treatment and town protections. Violations have d
 - The dress dispute in C.114 uses mock-political/military faction language. Faction names rendered in English with parenthetical membership counts to preserve the comedy structure.
 - Bery's coin-reading ability (C.114): She can track a spinning coin's rotation and trajectory to determine its landing side. Consistent with her established backstory of mastering indoor activities during her sickly childhood.
 - 聖霊協約 appears again in C.111 (Felwors's dialogue) — maintained as "Sacred Convention" per established decision. Kanji variant noted previously.
+- 黒旗特務 = "Black Flag Special Service"; formal reading こっきとくむ, colloquial くろはたとくむ.
+- くろふよ隊 = "Kurofuyo Squad" (rejected name); portmanteau of 黒 + ふよふよ.
+- ぴりりん = "Piririn"; detection crystal. Kept as proper noun.
+- 複製水晶 = "duplication crystal."
+- 参謀 = "staff officer."
+- コーズ long-vowel variant of コズ → use established "Koz."
+- ヴァナテラ = "Vanatela"; Elrouga's wife.
+- ダズ = "Daz"; ネッキ = "Nekki"; ネイガル = "Neigal"; ザッツ = "Zatts"; アルゲン = "Argen"; キリース = "Kirees" — new named soldiers, C.118.
+- 百万カボチャの女 = "The Million-Pumpkin Woman" (chapter title, C.120).
+- 人形 (ningyō) in context of Krische's automaton rendered as "figure" to match neutral source tone.
+- ネリプ = "nerip"; fictional cooking herb. First appearance C.122.
+- ケイズ = "Keiz"; Koz's son. First appearance C.123.
+- 五尺一寸 ≈ ~150 cm / ~4'11"; consistent with Krische's ~147 cm plus slight growth.
+- 拝血信仰 = "blood-worship faith"; the kingdom's established religion, distinct from Karka's indigenous forest-cycle faith.
+- 射儀 = archery rite; village custom of shooting arrows into the forest as thanks before a feast.
+- 後の先 (go no sen) = martial arts term "reacting after the opponent"; used humorously in C.122 Zalbak/Kart rivalry.
+- レイネ = "Reyne" (historical queen); グラバレイネ = "Grabareyne" (already established); ガスレ = "Gasre" (historical duke).
+- "Show Onee-sama How Cool I Am as Queen Operation" (女王として格好良いところを見せますわ大作戦) — Kreschenta's latest failed operation name, C.121.
+- Galla's son's death presented as accident in village; Krische's confession in C.125 reveals she killed him. Circumstances not yet detailed.
 ## CORE CHARACTER UPDATES
 
 ### Krische Alberinea Krishtand

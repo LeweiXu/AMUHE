@@ -151,6 +151,8 @@ def load_chapter_sources(input_dir: Path, encoding: str, recursive: bool) -> lis
 
 	for file_path in files:
 		content = read_text_file(file_path, encoding=encoding)
+		if not content.strip():
+			continue
 		suffix = file_path.suffix.lower()
 
 		if suffix == ".txt":
@@ -266,15 +268,15 @@ def build_parser() -> argparse.ArgumentParser:
 	parser = argparse.ArgumentParser(
 		description="Convert a directory of TXT chapter files into a single EPUB.",
 	)
-	parser.add_argument("input_dir", type=Path, help="Directory containing chapter .txt files")
+	parser.add_argument("input_dir", type=Path, nargs="?", default=Path("translated_chapters"), help="Directory containing chapter .txt files (default: translated_chapters)")
 	parser.add_argument(
 		"-o",
 		"--output",
 		type=Path,
-		default=None,
+		default=Path("AMUHE.epub"),
 		help="Output EPUB path (default: <input_dir_name>.epub next to directory)",
 	)
-	parser.add_argument("--title", type=str, default=None, help="Book title")
+	parser.add_argument("--title", type=str, default="AMUHE.epub", help="Book title")
 	parser.add_argument("--author", type=str, default="", help="Author name")
 	parser.add_argument("--language", type=str, default="en", help="Language code (default: en)")
 	parser.add_argument(
