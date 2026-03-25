@@ -324,11 +324,21 @@ def merge_section(existing: str, addition: str, strategy: str) -> str:
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
+def latest_kb_addition(kb_additions_dir: Path) -> Path | None:
+    """Return the most recently modified .md file in kb_additions_dir, or None."""
+    candidates = list(kb_additions_dir.glob("*.md"))
+    if not candidates:
+        return None
+    return max(candidates, key=lambda p: p.stat().st_mtime)
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Merge knowledge base additions into knowledge_base.md"
     )
-    parser.add_argument("additions", help="Path to the additions .md file from Claude")
+    parser.add_argument("additions", nargs="?", default=None,
+                        help="Path to the additions .md file from Claude "
+                             "(default: latest file in kb_additions/)")
     parser.add_argument("--kb", default=None,
                         help="Path to knowledge_base.md (default: ./knowledge_base.md)")
     parser.add_argument("--dry-run", action="store_true",
@@ -337,7 +347,16 @@ def main():
 
     script_dir = Path(__file__).resolve().parent
     kb_path = Path(args.kb) if args.kb else script_dir / "knowledge_base.md"
-    add_path = Path(args.additions)
+
+    if args.additions:
+        add_path = Path(args.additions)
+    else:
+        kb_additions_dir = script_dir / "kb_additions"
+        add_path = latest_kb_addition(kb_additions_dir)
+        if add_path is None:
+            err(f"No .md files found in {kb_additions_dir}")
+            sys.exit(1)
+        info(f"Using latest additions file: {add_path.name}")
 
     if not kb_path.exists():
         err(f"knowledge_base.md not found: {kb_path}")

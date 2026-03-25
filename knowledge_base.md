@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–140*
+*Current coverage: Chapters 1–150*
 *Update this file after each translated chapter.*
 
 ---
@@ -16,1081 +16,410 @@
 
 All established romanizations. Do not deviate. Flag any new name in translator notes.
 
-| Japanese | English | Role |
+| Japanese | English | Role/Notes |
 |---|---|---|
 | クリシェ＝アルベリネア＝クリシュタンド | Krische Alberinea Krishtand | Protagonist |
 | ベリー / ベリ | Bery | Servant, Christand household |
-| セレーヌ | Selene | Bogan's daughter |
-| ボーガン＝アルガリット＝ヴェズリネア＝クリシュタンド | Bogan Argalitte Vezrinea Christand | Northern General |
-| ガレン | Gallen | Krische's grandfather |
-| クレシェンタ＝ファルナ＝ヴィエラ＝アルベラン | Kreschenta Farna Viera Alberan | First Princess |
-| グレイス | Grace | Krische's foster mother (deceased) |
-| ゴルカ | Gorka | Krische's foster father (deceased) |
+| セレーヌ / セレネ＝アルガリッテ＝リネア＝クリシュタンド | Selene / Selene Argalitte Rinea Christand | Bogan's daughter; Marshal |
+| ボーガン＝アルガリット＝ヴェズリネア＝クリシュタンド | Bogan Argalitte Vezrinea Christand | Northern General (deceased) |
+| ガレン | Gallen | Krische's grandfather; Senior Knight |
+| クレシェンタ＝ファルナ＝ヴィエラ＝アルベラン | Kreschenta Farna Viera Alberan | Queen of Alberan |
+| グレイス / ゴルカ | Grace / Gorka | Krische's foster parents (both deceased) |
 | ガラ | Galla | Village widow, Karka |
-| ノーラ | Nora | Kreschenta's servant (deceased) |
-| アルガン | Argan | Bery's family name |
 | アルベラン | Alberan | Kingdom name |
 | ガーガイン | Gurgain | Northern town; Christand estate location |
 | アルベルナリア | Albernaria | Capital city ("The White City") |
-| ウルフェナイト | Wulfenite | Fortified eastern city |
-| カルカの村 | Karka Village | Krische's childhood village |
+| カルカの村 / キルナン | Karka Village / Kirnan | Krische's childhood village / Mia's home village |
 | 竜の顎 | Dragon's Maw | Mountain pass; only north-center trade route |
-| ミツクロニア / ベルナイク | Mitskronia / Bernaich | The Twin Mountains; named for heroes |
+| ミツクロニア / ベルナイク | Mitskronia / Bernaich | The Twin Mountains |
 | ミツクロネティア | Mitskronetia | Trading town at the Dragon's Maw |
 | ベルガシュ砦 | Fort Belgash | Key northern fortress; civil war HQ |
-| アルゼン川 | Arzlen River | Site of the Battle of Arzlen |
-| ベゼン川 | Bezlen River | Flooded as part of Krische's strategy |
-| エルネ邸 | Erune Estate | Royal guest estate, capital |
-| ギルダンシュタイン＝カルナロス＝ヴェル＝サルカリネア＝アルベラン | Gildanstein Kalnaros Vel Sarcarinea Alberan | Royal Prince; civil war antagonist |
+| ウルフェナイト | Wulfenite | Fortified eastern city |
+| ギルダンシュタイン＝カルナロス＝ヴェル＝サルカリネア＝アルベラン | Gildanstein Kalnaros Vel Sarcarinea Alberan | Royal Prince; killed by Krische (C.110) |
 | ダグレン＝ナクル＝ドウガリネア＝ガーフカ | Dagren Nakul Dougarinea Garhka | Southern General; Duke |
-| コキス＝ナクトラ＝リネア＝アグランド | Kokys Nakutra Rinea Agrand | Second Corps Commander |
-| ノザン＝ヴェルレイ | Nozan Velraigh | First Corps Commander (later Eastern General) |
-| エルルガ | Elrouga | Fourth Corps Commander |
-| テリアス | Terrius | Third Corps Commander |
+| コキス＝ナクトラ＝リネア＝アーグランド | Kokys Nakutra Rinea Agrand | Second Corps Commander; "Nyan-nyan" |
+| ノザン＝ネルレ＝ウルフェリネア＝ヴェルライヒ | Nozan Nelre Wulferinea Velraigh | Eastern General |
+| エルーガ＝ギグライテ＝リネア＝ファレン | Elrouga Gigraite Rinea Faren | Fourth Corps Commander; Marshal's advisor |
+| テリウス＝サーザ＝リネア＝メルキコス | Terrius Sarza Rinea Melkikos | Third Corps Commander (deceased C.105) |
+| ダグラ | Dagra | Centurion; Black Flag Special Service |
+| グランメルド＝ヴァクス (リネア＝ヴァクス) | Granmeld Varkus (Granmeld Rinea Varkus) | First Corps, First Battalion commander; "Woof-woof" |
+| ミア | Mia | Black Flag sergeant/adjutant |
+| カルア＝ベリュース | Kalua Belyus | Black Flag soldier |
+| コリンツ | Korintz | First captain, Black Flag |
+| タゲル | Tagel | Captain, Black Flag |
+| ラズラ＝アルガン | Lazura Argan | Bery's half-sister; Bogan's late wife |
+| シェルバーザ | Sherbaza | King of Alberan (deceased; poisoned by Kreschenta) |
+| ローランド＝セーバ | Roland Seba | Merchant; executed by Krische (C.97) |
+| エルヴェナ | Elvena | Former debt-bonded servant; now Krische's assistant |
+| アン＝ギーテルンス | Anne Gietelens | Christand household servant |
+| ダグリス | Daglis | Former Roland spy; now Kreschenta's operative |
+| ガインズ＝リネア＝トスカ | Gainz Rinea Tosca | Fifth Battalion commander (archers) |
+| ベーギル＝リネア＝サンディカ | Begil Rinea Sandika | First Battalion commander (light infantry) |
+| ファグラン＝リネア＝アルハジード | Fagran Rinea Alhajeed | Second Battalion commander (heavy infantry) |
+| キース＝セール＝リネア＝キルティンス | Keith Serl Rinea Kiltins | Third Battalion commander |
+| バーガ＝ネア＝クルトス | Barga Nea Kurtoss | Fourth Battalion commander |
+| サルダン＝リネア＝ガルカロン | Saldan Rinea Galkalon | Second Corps Commander, Velraigh army |
+| ゲルツ＝ネザラリウス＝リネア＝ヴィリング | Geltz Nezararius Rinea Wirring | Gildanstein's general; surrendered at Dragon's Maw |
+| フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagelinea Keesliton | Gildanstein's deputy commander; under house arrest |
+| アレハ＝クラウゼラ＝シュインデル＝サルシェンカ | Aleha Klauzera Shuindel Sarshenka | Former Empire general; now serves Krische |
+| ワルツァ＝デル＝グリズランディ | Waltza Del Grizlandy | Aleha's companion; one-armed; excommunicated |
+| コズ / ケイズ | Koz / Keiz | Blacksmith / his son; Gurgain weapon shop |
+| ザルバック / カート | Zalbak / Kart | Head cook / meal manager, Fort Belgash |
+| サルバ＝リネア＝カルデラ | Salva Rinea Caldera | Traitor; beheaded by Gallen (C.111) |
 | ザール | Zaal | Sword instructor, Karka Village (deceased) |
-| ダグラ | Dagra | Centurion; commands "black" century |
-| アレハ＝クラウゼラ＝シュインデル＝サルシェンカ | Aleha Klauzera Shuindel Sarshenka | Empire general; defeated at Arzlen |
-| ウォルター＝デル＝グリズランディ | Walter Del Grizlandy | Aleha's aide; captured; later died |
-| ローランド | Roland | Merchant; connected to Bery's traumatic past |
 | ペル | Pell | Boy Krische trained in Karka Village |
-| アン | Anne | Servant; formerly royal estate; now at Fort Belgash |
-| サルバ | Salva | Third Corps adjutant; traitor |
-| ラズラ | Lazura | Bogan's late wife; Bery's older half-sister |
-| コズ | Koz | Blacksmith; made Krische's sword |
-| グランメルド＝ヴァクス | Granmeld Varkus | First Corps, first battalion commander ("Wolf Pack") |
-| ザルバック | Zalbak | Head cook, Fort Belgash |
-| カート | Kart | Meal distribution manager, Fort Belgash |
-| ミア | Mia | Black century sergeant; Dagra's adjutant |
-| タゲル | Tagel | Black century captain |
-| ナルガ | Narga | Black century trainee |
-| オーダル | Odal | Black century trainee |
-| カルア | Kalua | Black century soldier; Mia's squad |
-| ダッガ | Dagga | Soldier; selection number 78 |
-| ジルバン | Zilban | Soldier; selection number 182 |
-| トルカ | Tolka | Corporal; Fourth Battalion, Ninth Company, Seventeenth Squad |
-| ラズラ＝アルガン | Lazura Argan | Bery's older half-sister; Bogan's late wife (full name) |
-| シェルバーザ | Sherbaza | King of Alberan (deceased); Krische and Kreschenta's father |
-| テリウス＝メルキコス | Terrius Melkikos | Third Corps Commander |
-| エルーガ＝ファレン | Elrouga Faren | Fourth Corps Commander |
-| ピルカーナ | Pilkarna | River fish; fatty, somewhat fishy; requires careful prep |
-| ヒルキントス | Hilkintos | Western general; sided with Gildanstein |
-| グラン＝アーグランド | Gran Agrand | Kokys's son; compromised messenger |
-| コリンツ | Korintz | First captain, black century |
-| ベーギル | Begil | First Battalion commander, First Corps (light infantry) |
-| ファグラン | Fagran | Second Battalion commander, First Corps (heavy infantry) |
-| キース | Keith | Third Battalion commander, First Corps |
-| バーガ | Barga | Fourth Battalion commander, First Corps |
-| ガインズ | Gainz | Fifth Battalion commander, First Corps (archers) |
-| ゲルツ＝ヴィリング | Geltz Wirring | Gildanstein's general; Dragon's Maw defender |
-| カルメダ | Kalmeda | Gildanstein's general (flashback mention) |
-| カルデラ | Caldera | Salva's family name |
-| バグ | Bagu | Black century soldier; Mia's squad |
-| ケルス | Kels | Black century soldier; Mia's squad |
-| アドル | Adol | Black century soldier; Mia's squad |
-| ナキルス＝フェリザー | Nakilus Ferizar | Gildanstein's elite warrior; dual great-axe wielder |
-| ウォルター＝ザーガン | Walter Zargan | Gildanstein's elite warrior; Zain-style; killed by Krische (C.57). Not to be confused with Walter Del Grizlandy. |
-| バーグラ | Bargra | Gildanstein's soldier; PTSD after witnessing Krische on Bernaich |
-| アロンド | Arond | Gildanstein's veteran centurion; killed by Krische on Bernaich |
-| ザーカ | Zarka | Black century soldier; wounded during Bernaich campaign |
 | ヤルズ | Yaruz | Merchant; Vaazler Trading Company |
-| ヴァーズラー | Vaazler | Trading company; northern focus; allied with Christand |
-| セレネ＝アルガリッテ＝リネア＝クリシュタンド | Selene Argalitte Rinea Christand | General; Christand commander (full name post-investiture) |
-| クイネズ＝カーザ | Kyunez Karza | Adjutant to Elrouga Faren |
-| クラレ＝マルケルス | Klare Markelus | Gildanstein's central general; deceased (C.70) |
-| ドーラ | Dora | Adjutant to Klare; female; deceased (C.70) |
-| アルケイル山脈 | Arcail Mountain Range | Southwest of Mitskronia |
-| クーレイル山脈 | Kureil Mountain Range | East of Bernaich; separates north from center |
-| 大樹海 | Great Forest | Vast forest east of the Kureil Range |
-| アウルゴルン＝ヒルキントス | Aulgorn Hilkintos | Western General; sided with Gildanstein; executed by Krische (C.74) |
-| サルダン＝ガルカロン | Saldan Galkalon | Second Corps Commander, Velraigh army |
-| タキルス＝ゼンガー | Takilsu Zengar | Battalion Commander, Wirring army; deceased (C.82) |
-| アルバ | Alva | Centurion under Takilsu; deceased (C.82) |
-| コーザ | Kohza | Squad Two leader, black century |
-| ベルツ | Beltz | Squad Twelve leader, black century |
-| エルヴェナ | Elvena | Servant at Roland's estate, Kirzalan; debt-bonded |
-| キールザラン | Kirzalan | Major city west of Dragon's Maw; Roland's guild HQ |
-| ラウゼル | Rauzel | Centurion; killed during Bernaich campaign |
-| ダグリス | Daglis | Roland's spy/assassin; recruited as double agent by Krische |
-| ベルーゼ | Beruse | Aulgorn Hilkintos's adjutant; bald-headed |
-| アルキネス | Alkines | Roland's subordinate |
-| カーリス | Carlis | First Battalion officer under Granmeld |
-| トルクス | Tolkus | Officer under Granmeld |
-| ダルケンス | Dalkens | Hilkintos right wing corps commander; killed by Krische |
-| キルティンス | Kiltins | Keith's family name |
-| ビルザ | Bilza | Seventeenth Squad leader, black century; former herbalist |
-| サキズレン＝ニルクリネア | Sakizren Nilkrinea | Aulgorn Hilkintos's middle names |
-| ベーギル＝リネア＝サンディカ | Begil Rinea Sandika | Begil's full name |
-| ルーベンス＝リネア＝アルケルド | Rubens Rinea Alkerd | Geltz Wirring's adjutant; deceased (C.82) |
-| ギーカル | Gikal | Centurion in Geltz's army; deceased (C.82) |
-| エリッツ | Elittes | Selene's cavalry escort commander |
-| ロランド＝セーバ | Roland Seba | Merchant; full name |
-| アーネ＝ギーテルンス | Anne Gietelens | Christand household servant |
-| カルア＝ベリュース | Kalua Belyus | Black century soldier |
-| エルビン＝ターカ＝デル＝ダクラーシャ | Elbin Tarka Del Dakrasha | Empire vice-general; killed by Krische |
-| バド＝キータス | Bado Kitas | Empire messenger; survived Krische's raid |
-| キリク | Kirik | Black century Squad Nineteen leader |
-| ゲルツ＝ネザラリウス＝リネア＝ヴィリング | Geltz Nezararius Rinea Wirring | Gildanstein's general (full name) |
-| ノーザン＝ネルレ＝ウルフェリネア＝ヴェルライヒ | Nozan Nelre Wulferinea Velraigh | Eastern General (full name) |
-| テリウス＝サーザ＝リネア＝メルキコス | Terrius Sarza Rinea Melkikos | Third Corps Commander (full name) |
-| エルーガ＝ギグライテ＝リネア＝ファレン | Elrouga Gigraite Rinea Faren | Fourth Corps Commander (full name) |
-| クラレ＝ドラーズ＝リネア＝マルケルス | Klare Drars Rinea Markelus | Central general; deceased (full name) |
-| サルヴァ＝リネア＝カルデラ | Salva Rinea Caldera | Former Third Corps adjutant; traitor (full name) |
-| コルキス＝ナクトラ＝リネア＝アーグランド | Kokys Nakutra Rinea Agrand | Second Corps Commander (confirmed variant) |
-| バーガ＝ネア＝クルトス | Barga Nea Kurtoss | Fourth Battalion commander (full name) |
-| ファグラン＝リネア＝アルハジード | Fagran Rinea Alhajeed | Second Battalion commander (full name) |
-| キース＝セール＝リネア＝キルティンス | Keith Serl Rinea Kiltins | Third Battalion commander (full name) |
-| ガインズ＝リネア＝トスカ | Gainz Rinea Tosca | Fifth Battalion commander (full name) |
-| サルダン＝リネア＝ガルカロン | Saldan Rinea Galkalon | Second Corps Commander, Velraigh army (full name) |
-| ザーナリベア | Zarnalibea | Grand Priest (大神官), Arna Empire; third-ranking; pro-Alberan |
-| エーラン | Ehran | Cavalry captain; commands Kreschenta's escort riders |
-| ハルビス | Harbis | Grand Priest (大神官), Arna Empire; hawkish toward Kreschenta |
-| 巫女姫 | Priestess Princess | Supreme ruler of the Arna Empire; nameless after coronation |
-| ナウトアーナ | Naut Arna | Capital city of the Arna Empire ("City of Water") |
-| ヤゲルナウス | Yagelnaus | Ancient dragon; chief deity of the Arna Empire |
-| アセラム | Aseram | Tea variety; sweet and full-bodied; suited to milk tea |
-| ネールカ共和国 | Republic of Nerka | Southern nation; has public elementary education |
-| クレシェンタ＝ファーナ＝ヴェラ＝アルベラン | Kreschenta Farna Viera Alberan | Author variant; use established romanization |
-
-| コレイス | Coreis | God of martial valor (武勇の神) |
-| エルメル＝ザイン | Elmer Zain | Founder of Zain-style swordsmanship |
-| ホールザ兄弟 | Holza brothers | Roland's elite guards; mana-users; Kirzalan |
-| エルゼー | Elze | Chief Judicial Officer (第一法務官), Kirzalan |
-| コーナル男爵 | Baron Kornal | City governor of Kirzalan; opportunist noble |
-| ファナクトア＝エルベキール＝コーナル | Fanaktoa Elbekiir Kornal | Baron Kornal's full name |
-| ファルクス＝エルゼー | Falkus Elze | Elze's full name (first name revealed C.97) |
-| フェルワース＝キースリトン | Felwors Keesliton | Gildanstein's deputy commander; legendary old general |
-| アルバーザ | Albaza | Former king of Alberan (two generations prior); "Warrior-King" |
-| グラバレイネ | Grabareyne | Ancient queen; unified surrounding nations under the Alberan name |
-| エルスレイネ | Elsreyne | First empress of Holy Elsren Empire; Grabareyne's daughter; famous painter |
-| セリシュ | Selishu | Tart berry fruit; Selene's favorite |
-| ドーバル平原 | Dobal Plain | Battlefield; Selene vs. Salva (C.99) |
-| ドグラ平原 | Dogra Plain | Originally planned decisive battle site; south of Nozan's encampment |
-| エルデラント王国 | Elderant Kingdom | Western nation; fought border war with Christand |
-| 翠虎 | Jade Tiger | Magical beast (魔獣); mana-enhanced tiger |
-| リーバ＝トーバル | Leeba Tobal | Gildanstein's left-wing corps commander; killed by Kokys (C.105) |
-| ボーネッツ | Bonnets | Cavalry officer under Gran |
-| ギスカ | Giska | Gildanstein's central corps commander |
-| クラリアス | Clarrias | Centurion; Second Battalion under Gildanstein's general; fought alongside Gildanstein |
-| ネルタス | Neltas | Terrius's new adjutant (replacing Salva) |
-| キーニッツ | Keenitz | Squad Ten leader, black century; killed by Gildanstein (C.110) |
-| ヴィリッツ | Villitts | Soldier under Salva's command |
-| ナクライス | Nakrais | Soldier under Salva's command |
-| ニケラ | Nikera | Archer; responded to Gallen's orders during HQ defense |
-| ベラル | Beral | Nakilus Ferizar's adjutant; killed by Krische (C.109) |
-| ラクル | Lakle | Squad Ten member, black century; killed in delaying action (C.110) |
-| ファーナス | Farnas | Messenger's horse; lent to Krische |
-| ベーゼリア | Bezelia | Royal treasure sword; only the monarch may wield it |
-| ぶるるん | Bururun | Krische's horse; named by Krische for its snorting |
-| フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagelinea Keesliton | Gildanstein's deputy commander (full name; C.112) |
-| ヴァナテラ | Vanatela | Elrouga Faren's wife |
-| ネッキ | Nekki | Black Flag soldier; fabrication squad; lost a leg |
-| ダズ | Daz | Black Flag soldier; former Eighth Squad leader; lost an arm; First Piririn Squad Leader |
-| ネイガル | Neigal | Black Flag soldier; wounded; literate |
-| ザッツ | Zatts | Black Flag soldier; wounded; literate |
-| アルゲン | Argen | Black Flag soldier; wounded; literate |
-| キリース | Kirees | Black Flag soldier; wounded; craft/smithing background |
-| ガスレ | Gasre | Historical duke; Grabareyne's consort (deceased) |
-| ケイズ | Keiz | Koz's son; Gurgain weapon shop |
-| ネリプ | Nerip | Fictional herb used in cooking |
-| カティアス | Katias | Karka village boy; killed by Krische (childhood) |
-| カーニャ | Kanya | Katias's mother; disappeared during foraging |
-| バゼル | Bazel | Kirnan village; Mia's childhood friend; confessed to Mia |
-| ミルナ | Milna | Mia's mother; skilled weaver; Kirnan village |
-| ダーザ | Darza | Mia's father; hunter; Kirnan village |
-| ミース | Mees | Mia's eldest sister; married to Teks; gentle and oblivious |
-| ミー | Mi | Mia's second sister; teasing personality |
-| テクス | Teks | Mees's husband; skilled hunter; Bazel's confidant |
-| ミーリア | Miria | Mia's younger sister; fond of Bazel |
-| ファーレ＝アーカサコス | Fahre Arcasakos | Duke Arcasakos's son; co-conspirator |
-| アーカサコス公爵 | Duke Arcasakos | Central noble; opposes Kreschenta; plots assassination |
-| ナルケス | Narkes | Earl; noble intermediary; Fahre's childhood friend |
+| ナキルス＝フェリザー | Nakilus Ferizar | Gildanstein's elite guard; killed by Krische (C.109) |
+| ウォルター＝ザーガン | Walter Zargan | Gildanstein's elite guard; Zain-style; killed by Krische (C.57). ≠ Waltza Del Grizlandy |
+| アウルゴルン＝サキズレン＝ニルクリネア＝ヒルキントス | Aulgorn Sakizren Nilkrinea Hilkintos | Western General; executed by Krische (C.74) |
+| クラレ＝ドラーズ＝リネア＝マルケルス | Klare Drars Rinea Markelus | Central general; killed by Krische (C.70) |
+| ヴァナテラ | Vanatela | Elrouga's wife; energetic matchmaker |
+| ビルザ | Bilza | Seventeenth Squad leader; medic background |
+| ダズ | Daz | First Piririn Squad leader; lost an arm |
+| キルク | Kirik | Squad Nineteen leader, Black Flag |
+| ミア's family: ダーザ/ミルナ/ミース/ミー/ミーリア/コルダ | Darza/Milna/Mees/Mi/Miria/Korda | Mia's family (Kirnan Village) |
+| バゼル | Bazel | Mia's childhood friend; proposed to her |
+| ファーレ＝アーカサコス | Fahre Arcasakos | Duke's son; killed by Krische (C.143) |
+| アーカサコス公爵 | Duke Arcasakos | Noble conspirator (deceased, C.143) |
+| ナルケス | Narkes | Earl; intermediary noble; killed by Krische (C.143) |
+| ミルキレス | Milkires | Marquis; formerly Arcasakos-aligned; submitted to Kreschenta |
 | オールガン | Olgan | Vice Chairman, Galshan Republic |
 | クロルス | Krolus | Chancellor, Elderant Kingdom |
 | エルベバート | Elbebart | Archbishop, Holy Elsren Empire |
+| ザルヴァーグ | Zalvarg | Master-at-Arms, Galshan Republic |
+| ザーナリベア | Zarnalibea | Grand Priest, Arna Empire; pro-Alberan |
+| ハルビス | Harbis | Grand Priest, Arna Empire; hawkish |
+| 巫女姫 | Priestess Princess | Supreme ruler, Arna Empire |
+| エーラン | Ehran | Cavalry captain; Kreschenta's escort |
+| リラ＝シャラナ | Lila Sharana | Creisharana girl; griffin handler; guiding Krische |
+| ラーネル | Larnel | Lila's juvenile griffin |
+| ヴィンスリール | Vinsreel | Warrior Leader, Creisharana; Lila's brother |
+| ヴェルヴァス | Velvas | Guardian of forbidden domain; defeated by Krische (C.149) |
+| アルキーレンス | Alkirens | Chieftain, Creisharana; Lila and Vinsreel's father |
+| ビーキルス | Bikirles | Elder; previous Creisharana chieftain |
+| アルゼン川 / ベゼン川 | Arzlen River / Bezlen River | Battle of Arzlen site / flooded by Krische |
+| エルネ邸 | Erune Estate | Royal guest estate, capital |
+| キールザラン | Kirzalan | Major city west of Dragon's Maw |
+| ナウトアーナ | Naut Arna | Capital of the Arna Empire |
+| アルビャーゲル | Albyagel | Mountain range; Creisharana homeland |
+| 禁域 | Forbidden Domain | Area surrounding Yagelnaus's lair |
+| ヤゲルナウス | Yagelnaus | Ancient dragon; chief deity, Arna Empire |
+| ぐるるん | Gururun | Krische's jade tiger companion |
+| ぶるるん | Bururun | Krische's horse |
+| ベーゼリア | Bezelia | Royal treasure sword; presented to Krische at coronation |
+| グラバレイネ / エルスレイネ | Grabareine / Elsreine | Ancient queen / first Elsren empress (historical) |
+| アルバーザ | Albaza | Warrior-King, two generations prior |
+| バザリーシェ | Bazarishe | Founding king of Alberan |
+| ガラ / ノーラ | Galla / Nora | Karka widow / Kreschenta's servant (deceased) |
+| ラシェルナ | Lasherna | Creisharana hunter-goddess (mythological) |
+| ヴァーグサリド | Vagusarido | Pre-Alberan tribal confederation |
+| ネールカ共和国 / エルデラント王国 / クースラン王国 | Republic of Nerka / Elderant Kingdom / Kingdom of Kuslan | Other nations |
+
 ---
 
 ## CORE CHARACTERS
 
 ### Krische Alberinea Krishtand
-- **Identity:** First princess of Alberan; designated a "cursed child," abandoned in forest, found by Gorka (~age 3). Adopted by Bogan (C.7) on Gallen's arrangement.
-- **Appearance:** Silver hair to the waist, violet eyes, snow-white skin, petite (~147 cm). Wears simple dresses; black cloak with falcon-and-lightning crest. Custom curved nata-like sword (made by Koz) and two knives.
-- **Psychology:** No empathy or guilt. Purely gain/loss thinking. Kills with the same detachment as housework. Gradually develops an approximation of normal emotion through Bery. Genuinely affectionate toward Bery, Selene, Bogan, Gallen, Kreschenta.
+- **Identity:** First princess of Alberan; designated "cursed child," abandoned in forest, found by Gorka (~age 3), adopted by Bogan (C.7).
+- **Appearance:** Silver hair to waist, violet eyes, snow-white skin, ~147 cm. Black cloak with falcon-and-lightning crest. Custom curved nata-like sword (by Koz) and two knives.
+- **Psychology:** No empathy or guilt. Purely gain/loss thinking. Kills with the same detachment as housework. Has developed an approximation of normal emotion through Bery. Genuinely affectionate toward Bery, Selene, Bogan, Gallen, Kreschenta.
 - **Loves:** Cooking (especially pumpkin), being patted on the head, sweets, sleeping while holding someone, Bery.
 - **Speech:** Third-person self-reference ("Krische thinks…"); formal register (desu/masu); literal interpretation; "Nn……", "Err……"; "Ehehe" laugh.
-- **Combat:** Elite swordswoman. Physical enhancement magic perfected from ~age 3 (uniquely efficient — no stiffening). Can cast magic without crystals (secret known only to Bery, Selene, Kreschenta). Exceptional tactical mind.
-- **Rank:** Senior Knight (Rinea). Working title: "Corps Commander's Adjutant" (軍団長副官). Later: First Corps Commander (C.64).
-- **Nickname:** "Bunny" (うさちゃん) among soldiers; "Head-Hunter Krische" (首狩人のクリシェ) among enemies. Calls Dagra "Vulture" (ハゲワシ), Elrouga "Gaikotsu" (Skeleton), Granmeld "Woof-woof" (わんわん) — all presented to recipients as affectionate nicknames.
-- **Kiss habit:** Bery inadvertently taught her kissing = love. She now kisses Bery and Selene freely; innocent on her part.
-- **Character alignment (C.84):** "Law / Evil." Height: ~147 cm.
-- **Key decisions:** Accepted Gildanstein's deal (C.57) — first time she chose emotional security over tactical optimality. Developed healing magic (C.80). Articulated terror-as-doctrine strategy (C.81–83).
-- New epithet revealed: "Sword Princess" (剣姫) — used by the century.
-- Traveled ~120 ri (≈48 km) from Nozan's camp to Selene's battlefield, partially on horseback. Had comic struggle with skirt flapping on horseback; refused to wear trousers on principle. Arrived in time to save Mia from Nakilus, killed Nakilus, then killed Gildanstein in single combat.
-- Swordsmanship philosophy elaborated (C.107 flashback, C.110): prefers light sword matching her body; prioritizes center-of-gravity stability; never goes defensive; always attacks; shifts stances to deliver attacks opponents cannot handle. Her style described as "formless" (無形) — transcending all swordsmanship, producing the optimal action for each instant.
-- **Name etymology (C.127, explicit):** "Krische" (クリシェ) means "crescent moon." Grace named her after the crescent moon visible on the night she received Gorka's proposal, wishing the same happiness for her daughter. Krische had always considered the wish meaningless because she felt nothing looking at scenery — until the moonlit night with Bery in C.127.
-- **Childhood killings (C.126, detailed):** Killed Keil (Galla's son) and Katias after they spread malicious rumors and harassed her for years. She viewed them as nuisances to be "cleaned away" like dirt. Took less than a quarter-hour. Also killed an unnamed man who had been touching her body (before the bandit attack). Felt refreshed afterward; no guilt over the killings themselves.
-- **Confession to Galla (C.127):** Attempted to confess to Galla but was stopped midway. Galla told her to say no more and imposed "keeping silent" as Krische's punishment. Krische accepted reluctantly.
-- **Emotional development (C.127):** On the moonlit night with Bery, Krische experiences what appears to be genuine aesthetic appreciation and overwhelming emotional happiness for the first time — recognizing beauty in Bery's face, the snow, the moonlight. Connects this feeling to her mother's wish embedded in her name. Initiates repeated kisses with Bery.
+- **Combat:** Elite swordswoman. Physical enhancement magic perfected from ~age 3. Can cast magic without crystals (secret known only to Bery, Selene, Kreschenta). Exceptional tactical mind. Swordsmanship style: "formless" (無形/無空 "the void") — transcends all technique; optimal action at each instant.
+- **Current rank/title:** Alberinea (アルベリネア / "Heavenly Sword" 天剣) — highest military rank alongside Marshal; created by Kreschenta (C.115). Also holds Rinea (Senior Knight).
+- **Nicknames:** "Bunny" (うさちゃん) among soldiers; "Head-Hunter Krische" among enemies; "Sword Princess" (剣姫) in the century. Assigns nicknames: Dagra = "Vulture," Elrouga = "Gaikotsu" (Skeleton), Granmeld = "Woof-woof," Kokys = "Nyan-nyan."
+- **Kiss habit:** Bery accidentally taught her that kissing = love. Kisses Bery and Selene freely; innocent on her part.
+- **Name etymology:** "Krische" = crescent moon. Grace named her after the moon on the night she received Gorka's proposal.
+- **Key current status:** Bery is frozen in a time-stasis sphere (Krische's emergency measure after Bery was stabbed with night's drop poison, C.142–143). Krische is traveling to Albyagel to obtain Yagelnaus's heart/blood as a cure. Has a jade tiger companion (Gururun) and has coerced Creisharana girl Lila Sharana into guiding her to the dragon.
+- **Recent actions:** Purged 17 nobles in one night (C.143). Defeated Velvas at the forbidden domain entrance (C.149). Reached Yagelnaus's lair and threw a spear that pierced the dragon's wing base (C.150).
+- **Childhood:** Killed Galla's son Keil and boy Katias after years of harassment; also killed an unnamed man who touched her. Viewed them as nuisances. No guilt. Attempted to confess to Galla; Galla stopped her and imposed silence as punishment (C.127).
+- **Emotional development:** Experienced genuine aesthetic appreciation and overwhelming happiness for the first time on a moonlit night with Bery (C.127), connecting the feeling to her name's meaning. Initiated repeated kisses.
 
 ### Bery Argan
 - **Full name:** Bery Lips Argan (hidden name: Lips)
-- **Role:** Sole Christand servant; Selene's aunt (half-sister of Bogan's late wife Lazura). Height: ~152 cm.
-- **Appearance:** Red shoulder-length hair, brown eyes, womanly figure. White-and-black apron dress.
-- **Background:** House Argan (baron rank) went bankrupt; she and Lazura were effectively bonded as mistresses. Bogan rescued both by marrying Lazura. Weak constitution; cannot bear children. Has despised Roland since childhood.
-- **Abilities:** Master-level cook; physical enhancement magic (crystal-free technique taught by Krische). Faster than Selene at administrative calculations.
-- **Relationship with Krische:** Deeply affectionate, complex. Too soft on Krische; knows it. Accepts Krische's kisses (after initial resistance). Performed an old noble oath of devotion using her hidden name (C.49).
-- **Character alignment (C.84):** "Chaos / Good." Height: ~152 cm.
-- **Philosophical stance on truth (C.127):** Articulates that truth is "trivial" — people choose convenient truths that lead to happiness. Neither she nor Krische can truly see inside the other's heart; they choose to believe in each other's love. Rightness and morality are "convenient interpretations." Falls backward into the snow in a carefree gesture to reset the mood.
-- **Stance on Krische's sins (C.126–127):** Refuses to give Krische a direct answer about whether to confess to Galla; insists Krische must think and decide for herself. Affirms that the *process* of struggling with the question is what matters, not the result. Pledges to call Krische "not wrong" even if the entire world disagrees. Acknowledges she may be making Krische weaker/more unhappy by teaching her "ordinary happiness."
+- **Role:** Sole Christand servant; Selene's aunt (half-sister of Bogan's late wife Lazura). ~152 cm.
+- **Appearance:** Red shoulder-length hair, brown eyes. White-and-black apron dress.
+- **Background:** House Argan (baron rank) went bankrupt; bonded as mistress. Bogan rescued her by marrying Lazura. Weak constitution; cannot bear children. Has despised Roland since childhood.
+- **Abilities:** Master cook; physical enhancement magic (crystal-free, taught by Krische). Faster than Selene at administrative calculations.
+- **Relationship with Krische:** Deeply affectionate, complex. Too soft on Krische; knows it. Accepts Krische's kisses. Performed old noble oath of devotion using her hidden name (C.49). Pledges to call Krische "not wrong" even if the entire world disagrees.
+- **Current status:** Frozen in Krische's time-stasis sphere after being stabbed with a night's drop-coated knife (C.142). Condition critical; survival requires Krische to obtain the dragon remedy.
 
 ### Selene Christand
-- **Full name:** Selene Argalitte Rinea Christand (full name post-investiture, C.64)
-- **Role:** Bogan's daughter and heir; General of Christand (C.64 onward). Height: ~159 cm.
-- **Appearance:** Blonde hair, sharp cat-like eyes, dignified bearing. Often in military dress.
-- **Age:** Not yet 16 as of C.43.
-- **Background:** Mother Lazura died after a second pregnancy Selene blamed on herself. Driven to overwork as a result.
-- **Habit:** Pinches Krische's cheeks as primary expression of exasperation/affection — consistent and recurring.
-- **Character alignment (C.84):** "Neutral / Good."
-- Fled HQ toward Elrouga's Fourth Corps when situation deteriorated (C.108). Demonstrated growing tactical maturity: had pre-briefed corps commanders on her escape plan before the battle. Applied Krische's combat theory (exploiting large-weapon openings) to direct the fight against Gildanstein.
+- **Full name:** Selene Argalitte Rinea Christand
+- **Role:** Bogan's daughter; Marshal of Alberan (C.115). ~159 cm. Youngest Marshal in kingdom history.
+- **Appearance:** Blonde hair, sharp cat-like eyes.
+- **Habit:** Pinches Krische's cheeks as expression of exasperation/affection.
+- **Current status:** Left in charge of military affairs and the Jaragasha project while Krische is away (C.143).
 
 ### Kreschenta Farna Viera Alberan
-- **Title:** First Princess of Alberan. Height: early 130s cm (still growing).
-- **Identity:** Also a "cursed child." Nora taught her to cry to survive. Krische's biological younger sister (same father, different mothers).
-- **Appearance:** Strawberry-blonde hair; face nearly identical to Krische's; small, fairy-like.
+- **Title:** Queen of Alberan (crowned C.115). Early 130s cm (still growing).
+- **Appearance:** Strawberry-blonde hair; face nearly identical to Krische's.
 - **Psychology:** Same type as Krische — no empathy, pure gain/loss — but far more skilled at social performance. Affection for Krische is genuine.
-- **History:** Killed two younger brothers, others who suspected her nature, and the king (her father) to orchestrate the civil war in her favor.
-- **Quirks:** Cat-tongue (cannot drink hot beverages, conceals it). Extreme sweet tooth. Competes for the seat beside Krische at meals. Calls Krische "onee-sama."
-- **Dog-mode:** Voluntarily enters "dog" persona with Krische and Bery. Daily occurrence by C.86–90; rationalizes it elaborately.
-- **Character alignment (C.84):** "Law / Evil."
+- **History:** Also a "cursed child." Nora taught her to cry to survive. Killed two younger brothers and the king (her father) to orchestrate the civil war in her favor.
+- **Quirks:** Cat-tongue (cannot drink hot beverages). Extreme sweet tooth. Competes for the seat beside Krische at meals. Calls Krische "onee-sama." Voluntarily enters "dog" persona with Krische and Bery.
+- **Current status:** Running the kingdom. Performed the Great Purge (17 nobles killed in one night, C.143), officially framed as foreign assassination. Aware Krische is at Albyagel; concerned about political fallout.
 
 ### Bogan Argalitte Vezrinea Christand
-- **Title:** Margrave; Northern General. Nickname: "Lightning Quick" (迅雷).
-- **Appearance:** Blonde hair with white streaks, beard, scarred, imposing. Crest: falcon and lightning bolt.
-- **Background:** Low-ranking noble who rose entirely through merit. Widower (Lazura died). Adopted Krische on Gallen's recommendation.
-- **Death (C.56, C.58):** Lured into ambush by Salva's betrayal; fought a final duel against Gildanstein, lost his right arm, survived briefly, and died at Mitskronia with Selene present.
+- **Title:** Margrave; Northern General. Nickname: "Lightning Quick." Crest: falcon and lightning bolt.
+- **Death (C.58):** Lured into ambush by Salva's betrayal; lost right arm in a duel with Gildanstein; died at Mitskronia with Selene present.
 
 ### Gallen
-- **Role:** Krische's maternal grandfather (Grace's father); Bogan's adjutant from C.15 onward.
-- **Background:** Former centurion; 7 campaigns; legendary for rising from private to centurion. Rank: Senior Knight (Rinea).
-- Solo defense of Selene's HQ (C.107): killed five mana users sent by Salva using bow and close-quarters combat. Demonstrated that mana users are vulnerable in grappling/chaotic melee because they rely on distance and composure to maintain enhancement. His fighting philosophy: use the enemy's force against them ("the fighting style of one who had nothing"). Salva acknowledged him as "the forgotten champion" whose true arena was chaotic melee.
-
-### Nozan Velraigh
-- **Role:** First Corps Commander; later Eastern General. Full name: Nozan Nelre Wulferinea Velraigh.
-- **Character:** Handsome; leads the elite "Wolf Pack" first battalion. Devoted fanatic to Bogan/Christand. Surpasses Bogan in pure swordsmanship (Rollka style with greatshield). Height: tall and slim.
-- **Key role:** Commands the east; decisive at the Battle of the Central Plain (C.69–70) and Dragon's Maw final battle (C.82).
-- **Character alignment (C.84):** "Law / Neutral."
-
-### Elrouga Faren
-- **Role:** Fourth Corps Commander. Full name: Elrouga Gigraite Rinea Faren.
-- **Appearance:** Gaunt, skull-like face ("Gaikotsu" nickname from Krische). Privately kind; loves peace and flowers; was moved to tears by Krische's candy gesture (C.68).
-- **Adjutant:** Kyunez Karza.
-- **Character alignment (C.84):** "Law / Good." Royal blood; Bogan's former superior.
-
-### Dagra
-- **Role:** Centurion; commands the black century. Full name: Dagra Rinea Alkus.
-- **Appearance:** Hook-nosed, shaved head (by choice, not baldness).
-- **Background:** Commoner who mastered mana through combat. Values discipline and individual excellence.
-- **Key event:** Stabbed by Aulgorn (C.80); secretly healed by Krische.
-- **Character alignment (C.84):** "Law / Good."
-
-### Gildanstein Kalnaros Vel Sarcarinea Alberan
-- **Role:** Royal Prince; civil war antagonist. Nickname: "The Black Lion" (黒獅子).
-- **Background:** Disillusioned idealist turned deliberately cruel; found genuine respect for soldiers and Bogan on the battlefield.
-- **Tactics:** Uses body doubles; acts as personal mobile strike force. Style: King's Sword (正眼 / middle guard, two-handed greatsword).
-- **Civil war status:** Forces ~20,000 after Dragon's Maw losses. Controls the capital.
-- Killed by Krische in single combat (C.110). Final battle progression: broke through Third Corps, killed Terrius, reached Selene's HQ with ~1,500; fought fifteen-to-one against black century and Selene; pursued Selene when she fled. Accepted a duel with Krische knowing he would lose. Krische defeated him by stepping onto his horizontally swung great sword, using it as a foothold, and severing his throat. His final thoughts acknowledged Krische as the "rightful heir of the twisted, mad royal bloodline." Kokys took custody of his sword to preserve royal dignity.
-
-### Dagren Nakul Dougarinea Garhka
-- Southern General; Duke. Bear-like build, loud voice. Holds the south; struck final blow against the Empire's main force. Met Krische at the victory dinner.
-
-### Kokys Nakutra Rinea Agrand
-- Second Corps Commander. Enormous, tiger-themed armor. Former deserter saved by Bogan; utterly loyal since. Son Gran was compromised by Salva (C.53).
-- Battlefield philosophy revealed (C.105): Prioritizes training soldiers over complex tactics. Believes superiority of force decides battles; drills raw recruits into elite warriors. Considers tactics "minor techniques" subordinate to fundamentals. Personally hunted the jade tiger Gran failed to kill, with minimal casualties. Killed Gran and Leeba Tobal in C.105. Wields an 8 shaku 3 sun (~250 cm) solid-steel heavy lance; wears tiger-crested armor that serves as ballast for the weapon.
-
-### Granmeld Varkus
-- First Corps, first battalion commander ("Wolf Pack"). Full name: Granmeld Rinea Varkus. Wolf-themed armor, great war mace, deep scar on cheek. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische, C.80). Character alignment: "Neutral / Neutral."
-
-### Salva (Caldera)
-- Full name: Salva Rinea Caldera. Third Corps adjutant; turned by Gildanstein (C.55) out of career frustration and fear of Krische. Requested Gildanstein spare Selene and Krische despite betraying Bogan. Alignment: "Law / Good."
-
-### Roland (Roland Seba)
-- Fat, gaudy merchant; head of Kirzalan Merchant Guild. Connected to House Argan's bondage and the debt-slavery system. Alignment: "Chaos / Evil."
-
-### Mia
-- Black century sergeant/adjutant. Chestnut hair; northern village girl; illiterate. One of two recruits who could manipulate mana before training. Sharp tactical thinking despite timidity. Height: ~158 cm. From Kirnan Village (neighbor to Karka Village).
-- Commanded black century defense of HQ against Nakilus (C.108-109). Made tactical error misjudging Nakilus's breakthrough power (attempted double envelopment when she should have massed troops). Adapted with improvised weapon-throwing barrage. Nearly killed by Nakilus's thrown axe before Krische intervened.
-
-### Kalua (Kalua Belyus)
-- Black century soldier. Long black hair; swordsmanship rivaling Dagra's. Easygoing, older-sister figure. Background: village chief's daughter who spent years searching for a kidnapped sister before joining Christand. Height: ~168–169 cm. Alignment: "Chaos / Neutral."
-
-### Dagra (expanded combat notes)
-- Wounded by Aulgorn (C.80); secretly healed by Krische's new healing magic. Mia assumed temporary command in his absence.
-
-### Elrouga/Nozan (key story beats already above)
-
-### Anne (Anne Gietelens)
-- Royal servant; clumsy, earnest, overactive imagination. Daughter of a marquis house; abandoned position to serve Christand. Admires Bery intensely. Alignment: "Neutral / Good."
-
-### Secondary named characters (condensed)
-
-| Character | Key facts |
-|---|---|
-| **Grace** | Krische's foster mother; killed by Gado (C.5); her death is Krische's primary "failure." |
-| **Gorka** | Krische's foster father; skilled hunter; killed by Gado (C.4). |
-| **Galla** | Village widow; owns the oven Krische uses. Unknowingly loves Krische despite Krische having killed her son. |
-| **Nora** | Kreschenta's servant; abandoned baby Krische in forest; taught Kreschenta to cry; committed suicide to atone (C.39). |
-| **Lazura Argan** | Bery's older half-sister; Bogan's late wife. Fiercely loving; her dignity impressed Gildanstein (C.55). |
-| **Sherbaza** | King of Alberan; deceased; poisoned by Kreschenta; father of both Krische and Kreschenta. |
-| **Koz** | Retired soldier, master blacksmith; made Krische's sword. |
-| **Zalbak** | Head cook, Fort Belgash; portly, magnificent mustache; competes with Kart for the honor of serving Krische and Bery. |
-| **Kart** | Meal distribution manager; sharp logistical mind; Zalbak's rival. |
-| **Tagel** | Black century captain; mid-thirties, prior military experience; one of two recruits who could wield mana before training. |
-| **Korintz** | First captain, black century; Dagra's former subordinate. |
-| **Begil (Begil Rinea Sandika)** | First Battalion (light infantry). Alignment: "Chaos / Neutral." Former Wolf Pack member. |
-| **Fagran (Fagran Rinea Alhajeed)** | Second Battalion (heavy infantry). Alignment: "Chaos / Neutral." Former bandit under Granmeld. |
-| **Keith (Keith Serl Rinea Kiltins)** | Third Battalion. Alignment: "Law / Neutral." De facto relay commander for First Corps. |
-| **Barga (Barga Nea Kurtoss)** | Fourth Battalion. Alignment: "Law / Good." Deep rift with Krische over bait order (C.58). |
-| **Gainz (Gainz Rinea Tosca)** | Fifth Battalion (archers). Cannot use mana; rose through pure tactical ability. Alignment: "Neutral / Neutral." |
-| **Geltz Wirring (Geltz Nezararius Rinea Wirring)** | Gildanstein's general at Dragon's Maw. Experienced tactician. Surrendered (C.82); his adjutant Rubens (Rubens Rinea Alkerd) was killed by Krische. |
-| **Aulgorn Hilkintos** | Western General; defected to Gildanstein. Captured; publicly executed by Krische (C.74) after attempting to flee after surrender (Sacred Convention violation). Full name: Aulgorn Sakizren Nilkrinea Hilkintos. |
-| **Klare Markelus (Klare Drars Rinea Markelus)** | Gildanstein's central general; 60 years old; inherited rank. Killed by Krische personally (C.70). |
-| **Saldan Galkalon (Saldan Rinea Galkalon)** | Second Corps Commander, Velraigh army. Proposed using Roland as intelligence conduit. |
-| **Gran Agrand** | Kokys's son; compromised by Salva; delivered false report luring Bogan into ambush. |
-| **Kyunez Karza** | Elrouga's adjutant; plump, gentle-faced, competent; frequently alarmed by Krische. |
-| **Daglis** | Roland's spy/assassin (age 60, mana-user, 20 years in Roland's employ). Ambushed and recruited by Krische as double agent (C.76). |
-| **Elvena** | Servant at Roland's Kirzalan estate; debt-bonded with slave-trader tattoo. Background closely parallels Bery/Lazura — possible connection. |
-| **Bilza** | Seventeenth Squad leader, black century; quasi-medical background; assigned to Dagra's care (C.80). |
-| **Beruse** | Aulgorn's bald adjutant. |
-| **Zarnalibea** | Grand Priest (third-ranking), Arna Empire; elderly, sharp, pro-Alberan moderate. Outmaneuvered by Kreschenta (C.88). |
-| **Priestess Princess** | Supreme ruler of the Arna Empire. Long black hair, beauty mark; reigned 40 years. Recognized Kreschenta as a "cursed child" (C.90). |
-| **Ehran** | Cavalry captain; Kreschenta's escort. |
-| **Harbis** | Grand Priest, Arna Empire; hawkish; rebuked by Priestess Princess (C.90). |
-| **Nakilus Ferizar** | Gildanstein's elite guard; twin great-axes; present at Bogan's ambush. |
-| **Walter Zargan** | Gildanstein's elite guard; Zain-style swordsmanship inheritor; killed by Krische (C.57). ≠ Walter Del Grizlandy. |
-| **Walter Del Grizlandy** | Aleha's aide; captured at Arzlen; died covering Aleha's retreat. |
-| **Aleha Sarshenka** | Empire general; defeated at Battle of Arzlen; sworn to avenge Walter. |
+- **Role:** Krische's maternal grandfather (Grace's father); Bogan's adjutant.
+- **Background:** Rose from private to centurion in 7 campaigns. Rank: Senior Knight (Rinea).
+- **Current status:** Recovering from post-war illness; Anne is tending to him.
 
 ---
 
-### Gran Agrand
-- Full backstory revealed (C.104): Trained obsessively to become Kokys's heir. First campaign was against the Elderant Kingdom (western border, reinforcing Hilkintos). Led a 500-man flanking detachment through forest in torrential rain; unit was attacked by a jade tiger (magical beast). Failed to kill it, failed to complete objective, lost ~200 soldiers. Kokys declared him unfit for frontline command; reassigned as Bogan's courier. Salva recruited him during this low period. In C.105, executed a brilliant flanking assault on Kokys's Second Corps but was outmaneuvered when Kokys doubled back. Killed by Kokys in single combat.
-
-### Terrius Melkikos
-- Killed by Gildanstein in single combat (C.107). Lost left arm first; continued fighting one-handed. Final act: threw his remaining sword, inflicting a shallow thigh wound on Gildanstein. Known as a master of field fortification who built "flesh fortresses" — layered pike/swordsmen/archer defenses that functioned like siege architecture in open battle.
-- Backstory (C.106): 15 years prior, was abandoned during eastern campaign retreat. Bogan rescued him and proposed a daring counterattack from their desperate position. This was Terrius's first significant interaction with Bogan. Initially disliked Bogan as a reckless upstart; came to respect his drive for victory.
-
-### Nakilus Ferizar
-- Killed by Krische (C.109). Threw away most of his 5,000 troops to force a breakthrough past Elrouga and reach Selene's HQ with ~300. Height: ~seven shaku (≈210 cm / ~6'11"). Fighting style: unique twin great-axe art for fighting outnumbered; dominant hand is actually left (uses right as primary to bait skilled opponents). Sacrificed his right arm to deflect Krische's thrown axe; killed when Krische caught his thrown axe mid-spin and redirected it to bisect his torso.
-
 ## SECONDARY CHARACTERS
 
-### Elze
-- Chief Judicial Officer (第一法務官) of Kirzalan. Elderly man. Had dealings with Roland. Served as legal witness during Roland's interrogation and torture. Physically unable to cope with the proceedings.
+### Military — Christand side
 
-### Holza Brothers
-- Elite guard pair at Roland's Kirzalan estate. Both mana-users; well-known in Kirzalan. Killed by Krische during the estate raid (C.94).
+**Dagra** — Centurion; commands Black Flag Special Service. Hook-nosed, shaved head (by choice). Commoner who mastered mana through combat. Wounded by Aulgorn (C.80); secretly healed by Krische. Alignment: Law/Good.
 
-### Baron Kornal (Fanaktoa Elbekiir Kornal)
-- City governor of Kirzalan. Thin-framed, figure-eight mustache. Opportunist who sided with whoever held power. Long association with Roland; accepted bribes; complicit in illegal dealings. Immediately switched allegiance to the Christands upon seeing Roland's letters. Terrified of Krische after witnessing Elze's state.
+**Granmeld Varkus** — First Corps, First Battalion ("Wolf Pack"). Wolf-themed armor, great war mace. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische). Alignment: Neutral/Neutral.
 
-### Felwors Keesliton
-- Gildanstein's deputy commander (副将). Over 100 years old; kingdom's oldest general. Right hand of the warrior-king Albaza two generations prior. Retired from public life 30 years ago but retains formidable intellect. Commands respect as the warrior soldiers aspire to emulate. Stern, plain-spoken, commands moral authority even over Gildanstein. Met infant Krische once. Addresses Gildanstein with the familiarity of a long-serving retainer.
-- **Post-war (C.121):** Met with Kreschenta and Krische in the royal palace. Explained his siding with Gildanstein as personal sentiment and obligation rather than political conviction. Accepted reinstatement as a general after Krische directly asked whether he would serve. Currently awaiting orders from the Marshal.
-- **Prior consultation (C.121):** Visited Elrouga at the former Markelus estate (now Faren residence). Elrouga vouched for Krische's character and encouraged Felwors to meet her.
+**Kokys Nakutra Rinea Agrand** — Second Corps Commander. Enormous, tiger-themed armor, 8-shaku 3-sun solid-steel lance. Former deserter saved by Bogan; utterly loyal. Killed his compromised son Gran (C.105). Nickname "Nyan-nyan" (given by Krische, C.141). Alignment: Law/Neutral.
 
-### Albaza
-- Former king of Alberan, two generations prior. Known as the "Warrior-King" (武王). Personally took up arms to defend the kingdom during a more violent era of warfare.
+**Nozan Velraigh** — Eastern General. Handsome, leads elite Wolf Pack. Devoted to Bogan/Christand. Declined the Marshal position post-war; retained eastern command. Alignment: Law/Neutral.
 
-### Grabareyne
-- Ancient queen of Alberan who rapidly annexed surrounding nations and spread the Alberan name across the known world. Mother of Elsreyne. One of the two "cursed children" referenced in Arna Empire history (alongside Elsreyne).
+**Elrouga Faren** — Fourth Corps Commander; Marshal's advisor. Gaunt, skull-like face (Krische calls him "Gaikotsu"). Privately kind. Royal blood; Bogan's former superior. Wife: Vanatela. Alignment: Law/Good.
 
-### Elsreyne
-- First empress of the Holy Elsren Empire. Grabareyne's daughter. Praised as a beautiful and wise sovereign but rarely appeared publicly. Famous for thousands of religious paintings depicting an idyllic paradise. Early works featured adults and children; later works showed only children. Final painting was a white canvas smothered in black, called "Light in the Dark Night" (暗夜の光). Died without husband or children; possibly suicide. Her paintings serve as religious imagery for the Empire.
+**Mia** — Black Flag sergeant/adjutant. Chestnut hair, ~158 cm. Northern village girl (Kirnan); illiterate. Sharp tactical thinking. Fought Kalua 56 times to prove resolve to stay in the military (C.130). Refused childhood friend Bazel's marriage proposal. Speech: casual, direct, childlike stubbornness.
 
-### Leeba Tobal
-- Corps commander in Gildanstein's army; assigned to the left wing alongside Gran Agrand. Killed by Kokys during C.105; his head was thrown at Gran's feet.
+**Kalua (Kalua Belyus)** — Black Flag soldier. Long black hair, ~168–169 cm. Swordsmanship rivaling Dagra's. Easygoing, older-sister figure. Reconnected with her kidnapped sister Elvena (C.94). Alignment: Chaos/Neutral.
 
-### Bonnets
-- Cavalry officer under Gran Agrand. Led pursuit cavalry during the flanking maneuver at the Battle of Dobal Plain (C.105).
+**Bilza** — Seventeenth Squad leader; quasi-medical background; assigned to emergency medical duties.
 
-### Giska
-- Corps commander in Gildanstein's army; assigned to the center. Named briefly by Gildanstein in battle orders (C.104).
+**Daz** — Former Eighth Squad leader; lost an arm fighting Nakilus. First Piririn Squad Leader (mana-user screening).
 
-### Clarrias
-- Centurion in Gildanstein's army, Second Battalion directly under the general. Common-born, no mana. Veteran with decades of service; approached old age but retained sharp instincts and commanding presence. Fought alongside Gildanstein during the Third Corps breakthrough without knowing his identity; later served as witness to Gildanstein's death. Survived the battle.
+**Keith Serl Rinea Kiltins** — Third Battalion commander; acts as de facto relay commander for First Corps.
 
-### Neltas
-- Terrius Melkikos's new adjutant (replacing Salva after the betrayal). Named only briefly.
+**Felwors Keesliton** — Gildanstein's former deputy commander; ~100 years old. Accepted reinstatement after Krische directly asked (C.121). Currently under house arrest (cannot be appointed Marshal due to having sided with Gildanstein).
 
-### Vanatela
-- Elrouga Faren's wife. First appearance C.116. Slender, sharp-featured tall beauty with golden hair; slight crow's feet at eyes. Married Elrouga at age 35. Energetic matchmaker personality; tries to set up Bery with a marriage prospect (declined). Recognized Bery as Lazura's sister by resemblance. Was close friends with Lazura. Kind-hearted, socially forward. Speech: lively, assertive, occasionally overbearing.
+### Household / Civilian
 
-### Daz
-- Former Eighth Squad leader, Black Flag Special Service. Lost an arm fighting Nakilus Ferizar. Appointed First Piririn Squad Leader (selection/screening squad for mana-user recruits). First named C.118.
+**Elvena** — Formerly debt-bonded at Roland's estate; Kalua's long-lost sister. Refined mana-handling skill. Now serves as Krische's research assistant (duplication crystals, etc.). Speech: polite (desu/masu), warm, slightly self-deprecating.
 
-### Keiz
-- Koz's son; works at the Gurgain weapon shop. First appearance C.123.
+**Anne (Anne Gietelens)** — Christand household servant. Clumsy, earnest, overactive imagination. Daughter of a marquis house. Admires Bery intensely. Currently tending to Gallen. Alignment: Neutral/Good.
 
-### Pell
-- Now significantly taller than Krische (head taller). Entering adolescence; visibly flustered around Krische and Bery. Still lives in Karka Village as part of the self-defense militia. First entered the village swordsmanship contest (C.125).
-- **Update (C.128):** Wants to join the black century at age fifteen. Told bluntly by Krische he can't (no mana) and would die quickly. Has a girl who follows him around (unnamed). Still flustered around Bery.
+**Dagren Nakul Dougarinea Garhka** — Southern General; Duke. Bear-like build. Holds the south; struck final blow against the Empire's main force.
 
-### Galla
-- **Health (C.124):** Illness was partly caused by stress over Krische's safety during the civil war, compounded by an epidemic. Collapsed while working the fields. Stable but not fully recovered.
-- **Son's death (C.125):** Krische reveals at chapter's end that she killed Galla's son long ago. The death was presented to the village as an accident (fell with friends while chased by a boar). The wooden grave tag fell from its tree, marking the "rebirth" in village belief.
-- **Relationship with Krische (C.125):** Entrusted Krische's care to Bery. Asked Bery to "punch" any future suitor.
-- **Knowledge of son's death (C.127):** Had suspected Krische's involvement long ago but let the suspicion fade as daily life with Krische became routine. When Krische attempted to confess, Galla stopped her — said she didn't want to hear the rest, that she'd already accepted Keil's death, and that she could no longer resent Krische. Imposed silence as Krische's "punishment."
-- **Farewell (C.128):** Gave Krische a pie; told her to come home anytime; said she and Grace and Gorka would watch over her from afar. Entrusted Krische's care to Bery formally.
+**Aleha Sarshenka** — Former Empire general; excommunicated after Arzlen defeat. Now serves Krische. Left-side lead stance, high guard, signature two-stage downward+upward combination. Earnest, reflective. Lost all eight sparring rounds against Krische (C.133).
 
-### Mia
-- **Family (C.128–130):** From Kirnan village. Large family: father Darza (hunter), mother Milna (skilled weaver), eldest sister Mees (married to Teks), second sister Mi, two younger brothers (~10 years old), younger sister Miria. Family home is one of the larger in the village.
-- **Background expanded (C.128–129):** Left the village impulsively when a recruitment wagon came; felt out of place because she couldn't weave (the primary measure of a woman's worth in Kirnan). Sent money home from military pay. Mother furious about the danger.
-- **Childhood friend Bazel (C.128–130):** Bazel proposed marriage; Mia was shocked (completely oblivious to years of courtship). Refused — not because she dislikes him, but because she values her current role and comrades. Fought Kalua to 56 losses to prove her resolve to stay; won by exploiting Kalua's kindness (refused to actually knock her out). Kalua and Dagra had pre-arranged permission for Mia to resign if she chose to.
-- **Speech register confirmed:** Casual, direct, occasionally petulant; childlike stubbornness when pushed. Formal/stiff only with superiors.
+**Waltza Del Grizlandy** — Aleha's companion/advisor. One-armed (left arm severed by Krische at Arzlen). Willingly submitted to Krische's custody.
 
-### Kalua (Kalua Belyus)
-- **Pre-arranged exit plan (C.129–130):** Before the trip, asked Dagra for permission to let Mia resign if she chose to stay in Kirnan. Dagra agreed, saying it was Mia's choice and Krische would understand. Kalua wanted Mia to choose a safe, peaceful life.
-- **Feelings about Mia (C.129–130):** Genuinely wanted Mia to stay in the village for her safety and happiness. Called losing the fight her "defeat" and accepted Mia's decision. Admitted she'd be lonely. Gave Mia her hair tie during the conversation.
-- **Combat ability vs. Mia:** Decisively stronger; beat Mia 56 times without breaking a sweat using a curved sword. The gap is described as unbridgeable by effort alone.
+**Roland Seba** — Fat merchant; operated debt-bondage network. Executed by Krische in Kirzalan (C.97).
 
-### Bazel
-- **New character (C.128–130):** Mia's childhood friend from Kirnan. Lean build. Has been in love with Mia for years; consulted Teks (Mees's husband) for two years on strategy. Proposed directly after multiple failed indirect approaches. Rejected by Mia but took it gracefully; asked if he'd have had a chance before she left, and was told "maybe." Offered to see them off at departure.
+**Salva Rinea Caldera** — Former Third Corps adjutant; traitor. Voluntarily surrendered to Gallen after Gildanstein's death; beheaded at his own request (C.111).
 
-### Milna
-- **New character (C.128–130):** Mia's mother. Skilled weaver; strong-willed, sharp-tongued, deeply caring. Wanted Mia to quit the military and marry Bazel. Lost the argument to Mia's resolve but remains worried.
+**Gildanstein** — Royal Prince; civil war antagonist; "The Black Lion." Uses two-handed greatsword (middle guard / King's Sword). Killed by Krische in single combat: she stepped onto his horizontally swung blade and severed his throat (C.110).
 
-### Mees
-- **New character (C.129):** Mia's eldest sister. Long-haired, gentle, beautiful, extremely oblivious (parallels Mia's denseness). Married to Teks after he spent ten years pursuing her. Over-praises Mia sincerely.
+### Creisharana
 
-### Kirik
-- **Role expanded (C.128):** Accompanied Krische to Karka Village; trained with Pell during the visit; encouraged Pell to consider village militia work as valuable.
+**Lila Sharana** — Chieftain's daughter; "Priestess of the divine being" (聖霊の巫女); griffin handler (juvenile female griffin: Larnel). Coerced by Krische into guiding her to Yagelnaus. Cannot bring herself to hate Krische. Attempted to address Yagelnaus as an "audience" rather than combat; overcome by terror; thrown clear by Krische when dragon attacked (C.150).
 
-### Aleha Sarshenka
-- **Post-war status (C.131–133):** Excommunicated by the Empire's Pontifical Court after the defeat at Arzlen; titles stripped with no possibility of reinstatement. Traveling with Waltza as a civilian. Encountered Krische by chance while under bandit attack in the northern forest.
-- **Purpose in the kingdom:** Ostensibly a "pilgrimage" — visiting General Christand's grave and reflecting on his own arrogance. After sparring with Krische and witnessing her abilities firsthand, decided to offer his sword to the kingdom's military.
-- **Sparring with Krische (C.133):** Fought eight rounds total; lost every one. His signature high-guard-to-downward-slash combination was defeated when Krische kicked his blade aside with a spinning back kick and placed her sword at his neck. Krische assessed him as "reasonably fast" but predictable, and offered detailed tactical feedback on his weaknesses. He was struck by the vast gap in ability and inspired rather than demoralized.
-- **Swordsmanship style:** Left-side lead stance (left foot forward), high guard (大上段). Signature technique: high-guard downward strike followed by upward slash — a two-stage combination. Solid fundamentals, long reach, explosive forward momentum. Krische identified his tendency to over-commit and recommended tighter, more precise strokes at range against smaller opponents.
-- **Personality expanded:** Earnest, reflective, warm. Takes defeat gracefully and learns from it. Sees the gap between himself and Krische as cause for joy rather than despair. Views Bogan's legacy and the Christand crest with genuine reverence.
-- **Past battles mentioned (C.133):** Once fought Kokys Agrand to a near-draw during a corps-level engagement; considers Kokys the superior fighter. Failed to reach Bogan's command post during a flanking assault; forced to retreat when Nozan's First Corps overran his headquarters.
+**Vinsreel** — Warrior Leader; Lila's brother. Creisharana's strongest warrior. Currently tracking Krische by following signs of magical beast kills.
 
-### Waltza Del Grizlandy
-- **Post-war status (C.131–133):** Excommunicated alongside Aleha. One-armed (left arm severed by Krische at Arzlen). Traveling as Aleha's companion and advisor. Willingly surrendered his sword and submitted to Krische's custody.
-- **Relationship with Aleha:** Described by Aleha as "like a parent." His survival is the debt Aleha feels toward Krische.
+**Velvas** — Guardian of the forbidden domain. Former Warrior Leader. Carries jade tiger claw scars. Defeated by Krische (C.149); slammed into cliff face; refused to yield.
 
-### Duke Arcasakos
-- **New character (C.134–135):** Thin, long-bearded old man. Duke rank; holds an administrative territory. Leader of a noble faction opposing Kreschenta. Compromised allies defected after Kreschenta used Roland's secret ledger against them. Plans to assassinate Kreschenta within six months, delegating execution to his son Fahre. Received Krische's midnight warning: an unsheathed knife and threatening letter placed at his bedside while he slept, along with a knife bearing his son's crest to sow internal suspicion.
+**Alkirens** — Chieftain; Lila and Vinsreel's father. White-bearded elder. Mobilized all warriors upon learning of the forbidden domain breach (C.150).
 
-### Fahre Arcasakos
-- **New character (C.134):** Duke Arcasakos's son. Lean build, appears middle-aged. More cautious than his father but compliant. Tasked with arranging Kreschenta's assassination within six months.
+**Bikirles** — Elder; previous chieftain. Bald, chest-length beard, frail but sharp-eyed.
 
-### Narkes
-- **New character (C.138):** Earl Narkes. Noble intermediary who offers his first-class quarter estate as a meeting place for covert noble dealings. Elevated by Duke Arcasakos, but gradually turned into Fahre's personal agent. Wide information network from intermediary work. Childhood friend of Fahre; similar age (late fifties, looks older due to graying hair). Relationship described as genuine friendship overlaid with cold pragmatism — both would betray the other for profit. Agrees to assist Fahre's plan to have Kreschenta eliminate Duke Arcasakos.
+### Diplomatic / Political
 
-### Fahre Arcasakos (update)
-- **Plan (C.138):** Intends to betray his father by allowing the pre-planned assassination of Kreschenta to proceed and fail, giving Kreschenta a pretext to eliminate the duke. Then Fahre will submit completely to the queen, offering the Arcasakos network in exchange for survival. Motivated by fatigue and pragmatism rather than ambition. Views obedience to Kreschenta as preferable to continued servitude under his father.
+**Olgan** — Galshan Vice Chairman. Former royalty who led a revolution ~20 years ago. Plans joint attack on Alberan with the Empire. Assessed Krische as a "monster not to be underestimated." Loud, values battles of pride and honor.
 
-### Duke Arcasakos (update)
-- **Response to warning (C.138):** Interrogated all household members including Fahre. Suspects Krische based on rumors of a "giant bat" over the capital (connecting the rooftop infiltration to a mana-user). Plans to "plant seeds" at the upcoming international conference — intends to provoke a war to create chaos that prevents Kreschenta from eliminating him. Believes the kingdom's strong military will fight any war without the capital being threatened.
+**Zalvarg** — Galshan Master-at-Arms. Tall, lean; former commoner shoemaker; Olgan's most trusted warrior.
 
-## PLACE NAMES AND LOCATIONS
+**Zarnalibea** — Arna Empire Grand Priest (third-ranking); elderly, pro-Alberan moderate. Outmaneuvered by Kreschenta (C.88–139).
 
-| Name | Description |
-|---|---|
-| **Karka Village** | Rural northern village; Krische's childhood home. |
-| **Gurgain** | Northern town; Christand estate location. |
-| **Albernaria** | Capital of Alberan; "The White City" (Forged Stone buildings). |
-| **Dragon's Maw (竜の顎)** | Mountain pass between Mitskronia and Bernaich; only north-center trade route. Key civil war objective. |
-| **Mitskronia / Bernaich** | The Twin Mountains flanking the Dragon's Maw. Bernaich features near-vertical cliffs used by the black century. |
-| **Mitskronetia** | Trading town at the Dragon's Maw. |
-| **Fort Belgash** | Large northern fortress; ~10,000 capacity; Christand civil war HQ. |
-| **Wulfenite** | Impregnable fortified eastern city. |
-| **Erune Estate** | Royal guest estate in the capital. |
-| **Arzlen River** | Site of the decisive Battle of Arzlen. |
-| **Arcail Mountain Range** | Southwest of Mitskronia. |
-| **Kureil Mountain Range** | East of Bernaich; separates north from center. Crossed by Krische's flanking force (C.68). |
-| **Great Forest (大樹海)** | Vast forest east of the Kureil Range. |
-| **Kirzalan** | Major city (~100,000 pop.) west of Dragon's Maw; Roland's guild HQ. |
-| **Naut Arna** | Capital of the Arna Empire; cliff-carved fortress city with waterways. |
-| **Republic of Nerka** | Southern nation; public elementary education system. |
-| **Royal Tower (王家の塔)** | Isolated royal tower where cursed children are confined. Krische lived here as an infant. |
+**Priestess Princess** — Supreme ruler, Arna Empire. Long black hair, beauty mark; reigned 40 years. Recognized Kreschenta as a "cursed child."
 
-| **Name (Japanese)** | Description |
-| **Dobal Plain (ドーバル平原)** | Battlefield east of Kirzalan; site of the Battle of Dobal Plain (Selene vs. Salva). |
-| **Dogra Plain (ドグラ平原)** | Plains south of Nozan's encampment; originally planned as the site for the decisive battle against Gildanstein. Features a tactically useful hill. |
-| **Elderant Kingdom (エルデラント王国)** | Western nation; Christand once deployed there as reinforcements for Hilkintos in a border war. |
-| **キルナン (Kirnan)** | Mia's home village; neighboring Karka. On the road between Gurgain and Karka. |
-| **アーカサコス公爵邸** | Duke Arcasakos's grand estate; red-roofed U-shaped mansion in the first-class quarter of Albernaria. Guarded by ~10 armed patrols and window sentries. |
-| **大鐘楼** | Great Bell Tower; tall structure (~150 shaku / ~45m) in Albernaria's first-class quarter; used by Krische as a launch point for infiltration. |
-| **ナルケス伯爵邸** | Earl Narkes's estate in Albernaria's first-class quarter; used as a covert meeting place for noble dealings. |
+**Krolus** — Chancellor, Elderant Kingdom.
+
+**Elbebart** — Archbishop, Holy Elsren Empire (deliberately low-ranked delegate).
+
+**Daglis** — Former Roland spy (60 years old, mana-user). Recruited by Krische as double agent (C.76); now serves as Kreschenta's personal operative.
+
+**Galla** — Karka widow. Unknowingly loves Krische despite Krische having killed her son Keil. Stopped Krische's attempted confession; imposed silence as punishment; formally entrusted Krische to Bery (C.127–128).
+
+**Vanatela** — Elrouga's wife. Energetic matchmaker personality. Was close friends with Lazura; recognized Bery by resemblance.
+
 ---
 
 ## WORLD-BUILDING REFERENCE
 
 ### Magic System
-- **Mana (魔力):** Internal energy. Most nobles have it; rare commoners too. Mana-users age slower.
-- **Physical Enhancement:** Using mana as "imaginary muscles" — standard combat magic. Requires complete relaxation; Krische's version is uniquely efficient, mastered from ~age 3.
-- **Magic Crystals (魔石):** Carved circuits produce effects (heat, cold, light). Break down over time.
-- **Eternal Magic Lamps (常魔灯):** Mana-powered lights; common in upper-class homes.
-- **Krische's Secret Technique:** Casting magic circuits directly within her own mana — no crystal needed. Kept secret by Bery's request. Can produce fire, water, heat, etc.
-- **Healing Magic (C.80):** Krische perceives internal wounds via mana, physically manipulates tissue, and inscribes a sustaining formula inside the patient. Costs significant mana. Classified as secret.
-- **Food Preservation Magic (C.71):** Stasis spell adapted from Krische's barrier technique; suspends food fresh. High mana cost.
-- **Soundproofing Magic (C.71):** Adapted from the insulation formula; deliberately fragile — breaks if someone enters.
+- **Mana:** Internal energy. Most nobles have it; rare commoners too. Mana-users age slower; also experience higher infertility, disease/poison resistance, and (if fully converted) no need for excretion.
+- **Physical Enhancement:** Using mana as "imaginary muscles" — standard combat magic. Requires complete relaxation; Krische's version uniquely efficient (mastered from ~age 3). Vulnerable to disruption in chaotic melee/grappling.
+- **Magic Crystals:** Carved circuits produce effects (heat, cold, light). Break down over time.
+- **Eternal Magic Lamps (常魔灯):** Mana-powered lights.
+- **Krische's Secret Technique:** Casting magic circuits within her own mana — no crystal needed. Kept secret by Bery's request. Applications include: fire, water, heat, healing, food preservation, soundproofing, time-stasis.
+- **Healing Magic:** Krische perceives internal wounds via mana, manipulates tissue, inscribes sustaining formula. High mana cost. Secret.
+- **Time-Stasis (C.143):** Enormous mana expenditure. Sealed sphere that stops all processes within — used to preserve Bery indefinitely.
+- **Duplication Crystal (複製水晶):** Copies formula from one crystal to another. User-locked (bonds to first person who channels mana into it).
+- **Detection Crystal / "Piririn" (ぴりりん):** Sends tingling feedback when detecting mana above a threshold. Used to screen mana-user recruits.
+- **Poison-Piririn (毒ぴりりん):** Detects common poisons. Given to Bery as necklace (C.140).
+- **Cipher Inscription (暗号刻印):** Elvena's name for Krische's self-modifying formula system. Surface formula rewrites using absorbed ambient mana to protect the core. Krische calls it "unyounyo" (squiggly).
+- **Jaleia Gashea (Jaragasha):** Iron war-golem prototype (~240 cm). Controlled by "Pika-Piika" transmitter pendant. ~3-hour combat operation. Line-breaker role. Officially named "Jaleia Gashea" (ancient language: victory + iron) from Krische's original "Jaragasha" (onomatopoeia). Deployment plan: 10 per corps.
 
 ### Military Structure
-- **General** → **Corps Commander** (~5,000) → **Battalion Commander** (~1,000) → **Centurion** (100) → **Captain** (~50) → **Corporal** (squad of 5)
-- **Sergeant (伍長):** Below captain; used for Mia's adjutant appointment.
-- **Black Century (黒の百人隊):** ~98 mana-capable soldiers; strike/reserve force. Structure: Dagra (centurion), Tagel (captain), Korintz (captain), Mia (sergeant/adjutant).
-- **Wolf Pack:** Elite first battalion of First Corps; all career soldiers.
-- **Senior Knight (Rinea):** Honorary title for battlefield achievement; "warrior" in old language. Not heritable; no land. Krische, Selene, Gallen all hold it.
+- **Ranks (high to low):** General → Corps Commander (~5,000) → Battalion Commander (~1,000) → Centurion (100) → Captain (~50) → Corporal (squad of 5). Sergeant (伍長) below captain.
+- **Black Flag Special Service (黒旗特務):** Formerly the black century; upgraded to company status. ~200 mana-capable soldiers. Krische's direct command. Internal: Fabrication Squad (secret projects), First Piririn Squad (mana recruitment screening), Medical Squad (Bilza's squad).
+- **Wolf Pack:** Elite first battalion of First Corps.
+- **Senior Knight (Rinea):** Honorary title for battlefield achievement; "warrior" in old language. Not heritable; no land.
 
-### Noble Ranks
-Archduke → Duke → Margrave (highest non-royal; Bogan's rank) → Earl → Baron (Bery's family) → Senior/Junior Knight
+### Noble Ranks and Name Structure
+- **Ranks (high to low):** Archduke → Duke → Margrave (Bogan's rank) → Earl → Baron (Bery's family) → Senior/Junior Knight
+- **Name structure:** (1) Given name, (2) Largest administered territory, (3) Royal succession marker (Vel/Viera/Vera), (4) Honorary title (Rinea etc.), (5) Surname.
+- **Hidden names (真名):** Secret birth name; sharing it is a profound trust; pledging it is an old declaration of love. Bery's hidden name: Lips.
 
-### Noble Name Structure (C.84)
-(1) Given name, (2) Largest administered territory, (3) Royal succession marker (Vel/Viera/Vera), (4) Honorary title (Rinea etc.), (5) Surname.
+### Titles
+- **Alberinea (アルベリネア / "Heavenly Sword" 天剣):** Unique title created for Krische (C.115). Highest military rank alongside Marshal. The queen's sword and military advisor with extraordinary personal latitude.
+- **Marshal (元帥):** Supreme military commander. Held by Selene (C.115).
+- **Bezelia (ベーゼリア):** Royal treasure sword; only the reigning monarch may wield it. Presented to Krische at investiture standing (not kneeling), signifying equality with the queen.
 
-### Noble Hidden Names (真名)
-A secret birth name never spoken aloud. Sharing it is a profound act of trust; pledging it is an old declaration of love. Bery's hidden name: Lips.
-
-### Sacred Convention (聖典協定)
-International agreement on POW treatment and town protections. Violations have diplomatic consequences. Key rule: a subordinate's surrender can be refused if a superior is still alive and capable of revoking it.
-
-### Social/Cultural Details
+### Cultural and Legal Details
 - **Cursed Child (呪われた子):** Royal infant who does not cry at birth; traditionally killed. Both Krische and Kreschenta were designated this.
 - **Forged Stone (鍛石):** Building material from compressed volcanic ash; used throughout the capital.
 - **Military Salute:** Right palm to left chest = "I offer my life." Reply: right thumb to heart = "Your loyalty is my flesh and blood."
-- **Debt-bondage slavery:** Exists in practice despite lacking public sanction. Victims bear a misshapen star tattoo. Roland operates within this system.
+- **Sacred Convention (聖典協定):** International agreement on POW treatment and town protections. Originated from the Alberan–Creisharana peace accord, mediated by Yagelnaus. Spread continent-wide by Grabareine. Key rule: a subordinate's surrender can be refused if a superior is still alive and capable of revoking it.
+- **Debt-bondage slavery:** Exists in practice; victims bear a misshapen star tattoo. Roland operated within this system.
+- **Karka burial customs:** Trees serve as graves; wooden name tags hung from branches. When the cord decays and the tag falls, the dead are said to have been "reborn."
+- **Stipend (割り当て金):** Share of tax revenue allocated to nobles managing administrative territories.
+- **Civic schools (市民小学):** Kreschenta's minimal-cost public literacy/arithmetic program — long-term plan to raise general education levels and eventually replace incompetent hereditary nobles with examination-selected officials.
 
-### Political Landscape
-
-**Princess Faction (Christand/Kreschenta):** Controls north and Dragon's Maw. Forces ~60,000 combined (Christand + Velraigh) by C.83. Narrative: Gildanstein murdered the king.
-
-**Prince Faction (Gildanstein):** Controls capital; forces ~20,000 after Dragon's Maw losses. Narrative: Kreschenta murdered the king.
-
-**Other powers:** Holy Elsren Empire (eastern; defeated at Arzlen; inactive). Arna Empire (northern ally; internally divided over civil war). Galshan Republic (southern; status uncertain). Elderant Kingdom (western).
+### Political Landscape (current)
+- **War concluded:** Gildanstein killed (C.110); Keesliton army surrendered. Civil war over.
+- **Kreschenta's government:** Reducing noble stipends; the Great Purge (C.143) eliminated 17 hostile nobles; officially framed as foreign assassination. Roland's secret ledger remains the primary political weapon.
+- **International threats:** Galshan Republic and Elderant Kingdom both planning to attack. Simultaneous two/three-nation invasion considered most probable. Ceasefire holds at least until the harvest season (diplomatic convention after a new monarch's accession).
+- **Arna Empire:** Provides symbolic northern military presence (1,000–2,000 officers); Kreschenta secured this by offering tariff reduction on imperial crystal exports.
 
 ### Swordsmanship Styles
-- **Rollka style:** Military style; left-side forward stance; left hand used to lure/deflect/grapple. Bogan and Nozan's primary style. Nozan uses it with a greatshield to devastating effect.
-- **King's Sword / Middle Guard (正眼 / 王者の剣):** Two-handed greatsword; central guard. Gildanstein's style.
-- **Zain style:** Distinct sword school; Walter Zargan was its inheritor. No further details.
-- **Elmer Zain (エルメル＝ザイン):** Named founder/originator of Zain-style swordsmanship. Walter Zargan was its legitimate successor.
-- **King's Sword / Middle Guard — expanded philosophy (C.110):** Right hand = heaven (commands the sword's shifting arc); left hand = earth (axis and foundation). The stance gathers the whole of heaven and earth into the blade. Gildanstein's execution described as "breathtakingly beautiful."
-- **Krische's style — formless (無形):** Not technique perfected or power possessed; it transcends all swordsmanship, producing the optimal response at each instant. Exists outside the "human law" framework of conventional styles. Described as "the void" (無空).
+- **Rollka style:** Military style; left-side forward stance; left hand used to lure/deflect/grapple. Bogan and Nozan's style.
+- **King's Sword / Middle Guard (正眼):** Two-handed greatsword; central guard. Gildanstein's style.
+- **Zain style:** Distinct sword school; Walter Zargan was its inheritor.
+- **Krische's style — formless (無形/無空):** Transcends all swordsmanship; produces the optimal response at each instant. Described as "the void."
 
-### Military Tactics (reference terms)
-- **Flank breakthrough:** Tactical; breaks through enemy flank and swings behind.
-- **Envelopment:** Wider strategic swing to reach enemy rear without contact.
-- **Mobile defense (機動防御):** Deliberately opens line to lure pursuers into a killing zone; high risk/reward. Used by Krische at Bernaich withdrawal (C.58).
-- **Echelon formation (斜線陣):** Staircase advance concentrating force on one wing. Used by Nozan at Central Plain as a coordinated signal to Krische.
-- **Temporary assumption of command (指揮代行):** Regulation allowing subordinates to relieve an unfit commander by unanimous consent. Used by Dagra on Krische (C.60).
-- **Terrius's "flesh fortress" (C.106):** Layered defensive formation — pike row, kill zone gap, swordsmen, pike row again, with archers firing into the gaps from the flanks. Functions like a siege fortress made of human bodies; enemies are funneled into kill zones.
-- **Mana user vulnerability in melee (C.107):** Mana users require composure and concentration to maintain physical enhancement. In chaotic grappling, they lose this advantage. Most unconsciously avoid close-quarters brawling, creating an exploitable habit for non-mana fighters like Gallen.
+### Food and Cooking Terms (fixed translations)
+- Rakura: sweet red juicy fruit. Nirkana: small sweet strawberry-like fruit. Pilkarna: river fish, fatty, fishy. Selishu: tart berry, Selene's favorite. Aseram: tea suited to milk tea. Graberas (natural fragrance) / Almarei (artificially scented): tea varieties. Bahre, Fuhre, Elkishu: cooking ingredients/herbs. Nerip: fictional cooking herb. Pilkrus: fruit with slight tartness and sweetness.
 
-### Food and Cooking Terms
-- **Pumpkin (カボチャ):** Krische's favorite; motif for domestic peace.
-- **Rakura (ラクーラ):** Sweet red juicy fruit; explodes when bitten.
-- **Nirkana (ニルカナ):** Small sweet strawberry-like fruit.
-- **Pilkarna (ピルカーナ):** River fish; fatty, somewhat fishy; requires careful prep.
-- **Bahre (バーレ):** Fruit used as a cooking ingredient.
-- **Fuhre (フーレ):** Southern herb.
-- **Elkishu (エルキシュ):** Seasoning berry.
-- **Graberas / Almarei (グラベラス / アルマレイ):** Tea varieties. Graberas: natural fragrance; Almarei: artificially scented.
-- **Aseram (アセラム):** Tea with subtle sweetness; suited to milk tea.
-- **Black soy tea (黒豆茶):** Bitter; Krische adds excessive honey and milk.
-- **Algana wood (アルガナの木):** Sturdy wood used for spear shafts.
-- **Selishu (セリシュ):** Small, tart berry fruit similar to lemon but with a sweeter fragrance. Selene's favorite in cookie form.
+### Magical Beasts
+- **Jade Tiger (翠虎):** Mana-enhanced tiger; black-and-jade fur that repels blades; shoulder height exceeds a man; body length over 2 jō. Wire-like fur resists slashing. Gururun is Krische's tamed companion.
+- **Indigo deer (藍鹿, ranka):** House-sized; running alone uproots trees.
+- **Storm-wing (嵐翼, ranyoku):** Mentioned only.
+- **Griffin (獅子鷲):** Eagle head, lion body; shoulder height ~5 shaku at maturity; ridden by Creisharana.
+
+### Yagelnaus
+- **Appearance:** Body the size of a small hill; grey, rock-like scales; bat-like wings; red-purple gem-like eyes.
+- **Mana:** Estimated to exceed thousands of Krisches combined. Its spilling mana distorts the entire basin.
+- **Communication:** Telepathic; voice carried by mana directly into the listener's skull.
+- **Vulnerability:** Krische's thrown spear pierced the scales at the base of its left wing (C.150), confirming the scales can be pierced by Krische's attacks.
+- **Significance:** Chief deity of the Arna Empire. Dragon's blood/heart believed to grant extraordinary power — what Krische seeks as a cure for Bery. No confirmed dragon sighting for centuries before this.
+
+### Creisharana
+- **Population:** ~3,000. Homeland: Albyagel mountain range.
+- **Military:** ~100 griffin cavalry; total military ~1,500 (levied warriors: 従士). Strictly martial society.
+- **Faith:** Worship Yagelnaus as a holy spirit. Offerings made periodically; approach to the dragon's domain otherwise forbidden. Three permanent sentinels guard the domain entrance.
+- **Language:** The Creisharana language = "Old Tongue" (古語), formerly spoken in the kingdom's north. Krische can speak it (learned from books; imperfect pronunciation).
+- **History:** Defeated by Vagusarido (Alberan's predecessor) ~500 years ago; driven into Albyagel. Decline is ongoing — small population, isolation.
+- **Alarm system:** "Tiger-entry bell" (虎入りの鐘) — cascading bell signals trigger full mobilization.
+- **Forbidden domain (禁域):** Barren terrain of cliffs and ravines. Ambient mana overwhelmingly dense; temperature abnormally high (Yagelnaus's influence). The dragon's lair is an enormous basin (~2 ri across) before a massive magic-crystal cliff face.
 
 ### Arna Empire
-- Matrilineal theocracy; chief deity is the ancient dragon Yagelnaus. Priestess Princess is supreme ruler; nameless after coronation.
-- Internally divided over the Alberan civil war (prince-faction vs. princess-faction supporters).
-- Blue is a sacred color; avoid in diplomatic contexts.
-- Historical: two cursed children (Grabareyne and Elsreyne) caused the ancient split of Alberan into the current kingdom and the Holy Elsren Empire.
+- Matrilineal theocracy; Priestess Princess is supreme ruler (nameless after coronation). Chief deity: Yagelnaus. Crossbow-focused military; high magic crystal processing technology (major export). Blue is a sacred color — avoid in diplomatic contexts. Internally divided over Alberan civil war.
+
+### Historical Lore
+- **Grabareine:** Ancient queen who unified surrounding nations. Daughter: Elsreine (first empress of Holy Elsren Empire). Both were "cursed children." Their civil war is the origin of the tradition of killing cursed children.
+- **Elsreine:** Famous for thousands of religious paradise paintings; final work ("Light in the Dark Night") was a white canvas painted black; died without issue (likely suicide).
+- **Albaza:** Warrior-King two generations prior; Felwors Keesliton was his right-hand man.
+- **Sacred Convention origin:** Peace accord between Alberan and Creisharana, mediated by Yagelnaus (~500 years ago); Bazarishe then convened a multi-nation council; spread by Grabareine's conquests.
 
 ---
 
-### Religion
-- **Coreis (コレイス):** God of martial valor (武勇の神). Invoked by soldiers before battle.
+## RECURRING TERMS (fixed translations)
 
-### Legal System
-- **Chief Judicial Officer (第一法務官):** Head of a city's judiciary; a noble-born legal specialist. Required as witness for military-conducted interrogations and executions. Every city has at least one legal official (法務官).
-- **Slave debt mechanics:** Slaves carry a legally recognized debt that functions as a minimum price. Freeing a slave requires paying this debt. Slave traders pass victims through multiple intermediaries to create good-faith third-party status, making legal challenges extremely difficult.
-
-### Historical Figures
-- **Albaza (アルバーザ):** Warrior-King of Alberan, two generations before the current era. Personally fought to defend the kingdom. Felwors Keesliton was his right-hand man.
-- **Grabareyne (グラバレイネ):** Ancient queen who unified nations under the Alberan banner. Mother of Elsreyne.
-- **Elsreyne (エルスレイネ):** First empress of the Holy Elsren Empire; Grabareyne's daughter. Famous painter of thousands of paradise scenes. Her final work, "Light in the Dark Night," was a white canvas painted over with black. Died without issue; widely suspected to have committed suicide. Elvena interprets her art as the expression of someone who could find happiness only in an imagined paradise and ultimately despaired of everything.
-
-### Legal/Political Notes
-- **Merchant neutrality under kingdom law:** Merchants are legally neutral parties who must not hold power; they cooperate with authority only through contracts. Breaking this neutrality (e.g., colluding with an enemy while posing as an ally) is a capital offense.
-- **Gift vs. bribe distinction:** Kingdom law draws complicated distinctions between gifts and bribes from merchants to nobles. Krische interprets these strictly. Military logistical support discounts and donations are classified as civic cooperation, not bribes.
-
-### Magical Beasts (魔獣)
-- Jade Tiger (翠虎): Mana-enhanced tiger with black-and-jade fur that repels blades. Shoulder height exceeds a man; body length over two jō (~6 m). Possesses mana far exceeding a human's. Extremely rare; individual encounters are uncommon. Wire-like fur resists slashing weapons. Encountered by Gran's detachment during the Elderant campaign (C.104).
-
-### Military Signaling
-- Colored-flag system used to communicate sensitive information (e.g., corps commander deaths) without broadcasting to rank-and-file soldiers. Knowledge of flag meanings restricted to generals, battalion commanders, flag-bearers, and select messengers. Example: six yellow flags + red-black-red = left-wing corps commander killed (C.105).
-
-### Eternal Magic Lamps — Testing Function
-- Non-internally-stored eternal magic lamps were historically used among nobles to gauge mana-handling ability. Require steady, precisely calibrated mana input; flicker if the feed is uneven. This function is now vestigial but still works for informal assessment. Elvena demonstrated refined skill with this type (C.101).
-
-### Titles and Ranks
-
-- **Alberinea (アルベリネア / 天剣 "Heavenly Sword"):** Unique title created by Queen Kreschenta (C.115). The highest military rank alongside Marshal. Held by Krische. Grants authority roughly equivalent to the Marshal but without supreme command. Effectively: military advisor to the queen with extraordinary personal latitude. The title is an extension of the Rinea (Senior Knight) naming convention but exceeds all precedent.
-- **Marshal (元帥):** Supreme military commander. Held by Selene Christand (C.115 onward). Assisted by Elrouga Faren.
-- **Bezelia (ベーゼリア):** The royal treasure sword. A great sword that only the reigning monarch may wield. Presented by Kreschenta to Krische during the investiture ceremony as a symbolic act — Krische received it standing (not kneeling), signifying equality with the queen.
-
-### Political Developments (C.111–115)
-
-- **War's end:** The War for the Alberan Crown concluded with Gildanstein's death. Keesliton's army surrendered after blue ceasefire flags were raised. Total casualties: tens of thousands, with many generals lost on both sides.
-- **Post-war policy:** Punishment for rebel soldiers minimized. Enemy troops given wine at the victory feast. Rationale: the kingdom cannot afford further losses; all are subjects of the same kingdom. This was pre-agreed policy, presented as "the queen's mercy."
-- **Coronation:** Coronation, parade, and victory ceremony held on the same day to save costs and minimize the number of times powerful nobles are gathered in one place.
-- **Public perception management:** Agents planted in parade crowds to reframe Krische as a wronged princess. First-impression strategy: her beauty contradicts the "cursed child" image; once people reject that label, a second smear campaign will be ineffective.
-- **Military appointments (C.115):**
-  - Marshal: Selene Christand
-  - Marshal's advisor: Elrouga Faren
-  - Alberinea (Heavenly Sword): Krische
-  - Eastern General: Nozan Velraigh (retained)
-  - Felwors Keesliton: under house arrest; ineligible for appointment
-
----
-
-### Magic System — New Developments (C.117)
-- **Duplication Crystal (複製水晶):** Magic crystal that temporarily memorizes a formula from another crystal and can write it into a blank crystal. Named by Elvena. User-locked: bonds to the first person who channels mana into it; unusable by others. Clearing memorized formulae requires a separate magical procedure. Only Krische, Bery, and Elvena possess one.
-- **Detection Crystal / "Piririn" (ぴりりん):** Magic crystal that sends a tingling feedback to the holder when it detects mana above a threshold in a nearby person. Named by Krische. User-locked like the duplication crystal. Used to screen mana-user recruits for the Black Flag Special Service. Classified information; name used internally only.
-- **Mana-Powered Automaton (C.117):** Krische is developing a metal humanoid figure (~seven shaku / ~210 cm tall) powered by mana via magic crystals. Uses 24 joint crystals + 1 torso crystal + 1 head crystal. Mana creates phantom muscles on the metal frame. Still in prototype stage (chains at joints cause mana loss; needs rigid connections, wider feet, dual-bone design for load distribution). Components ordered from multiple craftsmen to prevent information leaks. Intended as tireless iron soldiers for battlefield use.
-
-### Military Structure — Updates (C.118)
-- **Black Flag Special Service (黒旗特務):** Formerly the black century (黒の百人隊); upgraded from century to company (中隊) to reflect planned expansion to 200+ soldiers. Full designation: Royal Central Army, Alberinea Direct Command, Black Flag Special Service. Krische wanted to name it "Kurofuyo Squad" (くろふよ隊); Selene overruled this.
-- **Internal subdivisions (C.118):**
-  - Fabrication Squad (工作班): Wounded soldiers assisting Krische's secret projects. Highest information security classification.
-  - First Piririn Squad (第一ぴりりん班) / publicly "Selection Squad": Wounded soldiers screening mana-user recruits using Piririn crystals. Squad Leader: Daz.
-  - Seventeenth Squad / Medical Squad: Bilza's squad designated as official emergency medical squad. Assigned physician-led first aid training.
-- **Mana Training Course:** Krische attempted to name it "Fuyofuyo——" before being cut off by Dagra; naming delegated to unit leadership.
-
-### Political Developments (C.117, C.120)
-- **International conference:** Scheduled for two months after coronation. New queen's formal introduction to neighboring nations: Arna Empire, Elderant Kingdom, Galshan Republic, Holy Elsren Empire. All except the Holy Elsren Empire have confirmed attendance. Secures at least two months of peace and diplomatic cover for domestic recovery.
-- **Military Academy (C.120):** Selene established a military academy in the capital based on Bogan's long-planned staff officer (参謀) system. Purpose: retrain capable second/third sons of nobles as staff officers to supplement commanders. Kreschenta supported it publicly by fabricating a story that Bogan had shared this dream with her personally. Elrouga is the most enthusiastic supporter. Still in early stages (building converted, books being moved in); functional results years away. Immediate use: slot top recruits as provisional staff officers for under-qualified commanders promoted during reorganization.
-
-### Christand Household — Post-War Status (C.117, C.120)
-- Residence: Small estate in the royal domain (former guest preparation facility). Six residents: Krische, Kreschenta, Bery, Selene, Anne, Elvena (part-time). Rooms to spare.
-- Gurgain estate: To be sold. Bery tasked with selecting items to bring and handling the sale. Selene requests all books and Bogan's liquor collection.
-- Krische's daily routine: "pre-breakfast" (leftovers) → breakfast prep → castle work → home for snack time → chores → dinner → bath with Bery → sleep. Structured around maximizing time with Bery.
-- Krische's finances: Almost entirely savings. Rewards from both wars untouched. Spends only on cooking and minor work expenses. Extreme reluctance to spend (pumpkin-denominated accounting). Kreschenta's personal adornments valued at ~300,000 pumpkins ("the million-pumpkin woman").
-
-### Historical Lore: Grabareyne and Elsreyne (expanded, C.121)
-- ~300 years before present. Reyne ("strong light"), a cursed child, became queen at 15. Married Duke Gasre to seize power; likely killed him. Reshaped the kingdom in 10 years; expanded territory aggressively. Known as licentious and ruthless.
-- Later called Grabareyne ("Great Reyne") after her daughter Elsreyne ("Little Reyne") was born — also a cursed child.
-- Elsreyne was quiet and artistically inclined; rebelled against Grabareyne with discontented vassals. Founded the Republic of Elsren ("Little Paradise"), later the Holy Elsren Empire.
-- Civil war lasted decades. Kingdom lost much territory. Ended with Grabareyne's assassination and a peace treaty.
-- This history is the origin of the kingdom's tradition of killing cursed children.
-
-### Karka Village Burial Customs (C.125)
-- Trees in the forest serve as graves. Bones/ashes buried at the base; a wooden name tag hung from a branch by cord.
-- Cord thickness varies by death type: thick rope for old age / parents of young children (spirit stays to watch over them); thin cord for unfortunate deaths (spirit departs sooner).
-- When the cord naturally decays and the tag falls, the dead are said to have been "reborn" into a new form.
-- Separate from the kingdom's blood-worship faith (拝血信仰); an indigenous forest-cycle faith.
-
-### Krische's Sword (C.123 update)
-- Original curved sword (made by Koz ~3 years prior) severely worn from civil war use. Blade thinned, shrunken, heavily reground. Koz commissioned to forge a replacement: harder, thicker edge; same weight balance; ~1 month production time.
-- Selene ordered a spare sword (C.120); Bery paid Koz 6 gold coins (~20,000 pumpkins) as combined payment and farewell gift from Christand household.
-
-### Karka Village Customs (expanded)
-- **Counting-ten feast (十数え):** Boys who turn ten are permitted to apprentice as hunters; celebrated as the stars of the spring festival. A coming-of-age milestone.
-
-### Krische's Name Etymology (explicit, C.127)
-- クリシェ means "crescent moon" in the novel's world. Grace named her after the crescent moon visible the night Gorka proposed. The wish: that the happiness Grace felt that night would visit her daughter, and that she would one day gaze upon such a moon with someone she loved.
-
-### Political Developments (C.134–135)
-- **Arcasakos conspiracy:** Duke Arcasakos and his son Fahre plot to assassinate Queen Kreschenta within six months, viewing it as self-preservation against her campaign to strip their power. They explicitly decided not to claim the throne ("too brazen").
-- **Kreschenta's reform agenda:** Reducing noble stipends (割り当て金) to fund military reorganization. Establishing civic schools (市民小学) — minimal-cost literacy/arithmetic programs using existing government buildings and publicly recruited teachers. Long-term plan: raise general education levels, then implement examination-based official selection to replace incompetent hereditary nobles. Decades-long strategy.
-- **Roland's ledger:** The secret ledger obtained by Krische from Roland Seba's operations continues to be Kreschenta's primary weapon for political leverage; used to turn Arcasakos's allied nobles against him.
-
-### Imperial Excommunication System
-- **Excommunication (破門):** Imperial punishment heavier than title-stripping; issued by the Pontifical Court (法王庁). No possibility of reinstatement. Aleha and Waltza received this as punishment for the Arzlen defeat.
-
-### Krische's Infiltration Capabilities (C.135)
-- Demonstrated ability to: leap from a ~45m tower, kick off walls to convert vertical momentum into horizontal glide, run across rooftops silently, manipulate metal locks with magic from outside, and scale city walls. Completed infiltration of a heavily guarded mansion and return to the royal estate in minimal time. Guards described as competent but "lacking in imagination" for not considering aerial approach.
-
-### Jaleia Gashea (Iron War-Golem)
-- **Name origin:** Krische named it "Jaragasha" (じゃらがしゃ) after the sound of its chains (*jara-jara*) and footsteps (*gashan*). Kreschenta retroactively translated this into ancient language: Jaleia (勝利/victory, superiority) + Gashea (鉄/iron, dull-gleaming ore). The dignified name stuck through a group conspiracy; Krische's protests were deflected repeatedly. The narrator notes this true origin was never recorded in any book.
-- **Specifications:** ~8 shaku (~240 cm) tall. Ball joints with internal magic crystals (replacing earlier chain joints). Spring-loaded Achilles tendons. Oversized wooden-shoe feet for weight distribution. Birdcage-style torso and head housing magic crystals.
-- **Control system:** "Pika-Piika" (ピカピーカ) transmitter pendant sends mana-wave patterns (short/long flashes) to the head core, which relays commands to limb crystals. Operates autonomously within patterned behavior sets once activated.
-- **Combat role:** Short-engagement line-breaker. Deployed ahead of infantry to shatter enemy formations. Compared to war elephants but superior in versatility, maintenance, transport, and defense. Modeled on Granmeld's fighting style (brute-force mace combat).
-- **Operational time:** ~1.5 koku (~3 hours) in combat mode. Extendable with additional crystals but each requires 3 mana-users to charge.
-- **Armor plan:** Cloth padding under plate armor; thicker than standard issue. Vulnerable only at the head core crystal (exposed for friend-or-foe identification).
-- **Speed:** Comparable to a mana-user despite enormous size.
-- **Cost:** ~3 small gold coins per unit (raw materials; labor excluded). Expected to decrease with ongoing orders.
-- **Deployment plan:** 10 per corps (40 total) as long-term goal. Initial 10 units to Krische's direct forces for field testing. Kingdom-wide deployment pending Kreschenta's authorization.
-- **Historical significance (narrator):** The prototype of iron war-golems that would dominate the world for centuries.
-
-### Prosthetic Limbs Project (C.136)
-- Krische conceived prosthetic limbs for wounded fabrication squad soldiers by adapting Jaragasha's arm/leg components. Resized, made from wood, and controlled via the soldier's own mana (same phantom-muscle principle as the golem). Not yet built; concept stage.
-
-### Poison-Piririn (毒ぴりりん) (C.140)
-- Magic crystal that detects common poisons when held close and charged with mana (produces tingling sensation). Krische collected regional poisons and encoded their "particle configurations" into the crystal. Uses cipher inscription (暗号刻印) — self-modifying formula that absorbs ambient mana to rewrite its surface layer, protecting the core detection formula. Given to Bery as a necklace.
-
-### Krische's Particle Theory (C.140)
-- Krische describes matter as composed of tiny "particles" (粒々) that combine to form all substances, including the body and poisons. Mana can interact with, break down, and recombine particles. Mana itself can become particles and vice versa. This aligns with an existing scholarly hypothesis that "the world is composed of mana." Krische has not fully mapped the interactions but has leveraged this understanding for poison detection and healing.
-
-### Cipher Inscription (暗号刻印) (C.140)
-- Elvena's formal name for Krische's self-modifying magic formula system. Surface formula continuously rewrites using absorbed ambient mana, protecting the core formula. Requires magic (airborne formula drawing) to disable. Even someone who understands the mechanism would take years to crack it blindly. Krische calls it "unyounyo" (squiggly).
-
-### International Conference / Queen's Debut (C.139)
-- Scheduled shortly after coronation. All five major nations attending: Arna Empire (Grand Priest Zarnalibea), Galshan Republic (Vice Chairman Olgan), Elderant Kingdom (Chancellor Krolus), Holy Elsren Empire (Archbishop Elbebart). Empire deliberately sent lower-ranked delegate (archbishop instead of primate/cardinal) as intimidation.
-- De facto ceasefire: diplomatic convention holds that nations don't attack shortly after celebrating a new monarch's accession. Guarantees safety until at least the next harvest season.
-- Elderant-Galshan armistice: five-year ceasefire signed; both nations likely repositioning to target Alberan. Simultaneous two- or three-nation invasion considered most probable threat.
-
-### Northern Defense Strategy (C.139)
-- Krische's plan: Request only 1,000–2,000 imperial personnel (centurion rank and above) rather than a large army. Use kingdom soldiers under imperial officers for training. The imperial presence is purely symbolic — the empire's existence behind it deters attack on the north regardless of force size. Avoids the financial trap of maintaining a large foreign army indefinitely. Krische explicitly prefers enemies to attack sooner rather than later, judging that delay does not change the outcome.
-
-### Kreschenta's Financial Strategy (C.139)
-- Offers tariff reduction on Arna Empire mineral/crystal exports as payment for military cooperation. True motive: buy up cheap, high-quality imperial magic crystals in bulk before their value spikes due to Krische's research developments. Uses the military deployment as cover for what is effectively free imperial military service with a bonus.
-
-## RECURRING THEMES AND MOTIFS
-
-1. **Pumpkin** — Krische's contentment; foiled pumpkin plans = chaos.
-2. **Kissing as love** — Bery's accidental teaching; comedy and tenderness.
-3. **Cheek-pinching** — Selene's expression of affection/exasperation with Krische.
-4. **Head-patting** — Universal comfort gesture; Krische loves receiving it; instinctively extends it to Kreschenta.
-5. **"A shame" (残念)** — Krische's substitute for "sad." Bery corrects her. Kreschenta uses the same word — shows their identical natures.
-6. **Sleeping together** — Safety and trust.
-7. **Gains and losses (損得)** — Krische's entire worldview until Bery teaches her about love.
-8. **The birdcage** — Kreschenta's metaphor for the Christand household as a place to stop performing.
-9. **Kitchen as sanctuary** — Cooking with Bery is Krische's "supreme bliss."
-10. **Selene's burden** — Weight of command; her youth and tendency to overwork.
-11. **Krische vs. Selene leadership contrast** — Selene aims for "better," earns devotion; Krische demands "the best," earns respect through results. Two effective poles.
-12. **Seating wars** — Kreschenta's futile attempts to sit beside Krische at meals vs. Krische defending the seat beside Bery.
-13. **Anne Category** — Krische's classification for well-meaning but clumsy people. Anne is the prototype.
-
----
-
-## TIMELINE: CHAPTERS 1–90
-
-| Chapter(s) | Event |
-|---|---|
-| C.1 | Krische kills Garo; village life flashback; prologue framing. |
-| C.2–3 | Village daily life; sword training with Zaal; bandits arrive. |
-| C.4–5 | Bandit attack; Gorka and Grace killed; Krische kills bandit leader and Gado. |
-| C.6–7 | Krische ostracized; Gallen takes her to Bogan's estate. |
-| C.8–11 | Meets Bery; meets Selene; sword ordered from Koz; empathy lessons; first tea party realization. |
-| C.12 | War games; Krische beats Salva; tactics training. |
-| C.13–14 | Empire invades; Krische joins supply train; kills bandits. |
-| C.15–16 | Krische proposes damming strategy; Bogan approves. |
-| C.17–20 | Empire campaign; Krische constructs "wicked fort"; river crossing assault; Kokys cuts supply lines. |
-| C.21–23 | Mountain infiltration; Walter captured; Krische's "tea-time" answer. |
-| C.24 | Battle of Arzlen; decisive victory; Krische gets fever; returns home. |
-| C.25 | Magic-without-crystals demonstrated to Bery; Bery requests secrecy. |
-| C.26–30 | Victory ceremony preparations; Roland encountered; Krische nearly kills him; first mutual kiss with Bery. |
-| C.31–34 | Capital visit; Anne introduced; Gildanstein's secret warning to Bogan; victory ceremony; Krische receives Rinea title; first sight of Kreschenta. |
-| C.35–39 | Sisters meet; Kreschenta's plan revealed; king dies (poisoned); Christand shelters Kreschenta; Nora's suicide; Kreschenta's full backstory. |
-| C.40–41 | Fort Belgash mobilization; Krische sorts soldiers; Dagra introduced. |
-| C.42 | Kitchen scene; Zalbak vs. Kart rivalry; Anne arrives. |
-| C.43–44 | War update (deadlocked); Selene–Kreschenta confrontation and understanding. |
-| C.45 | Black century training; Krische's tactical lecture; Mia appointed Dagra's adjutant. |
-| C.46 | Black century forest training; Krische humbles arrogant century 5-on-1; "Bunny" and "Vulture" nicknames. |
-| C.47 | Bery's childhood flashback (Lazura); soldiers spread ugly rumors about Krische. |
-| C.48 | Cooking scene; Zalbak/Kart/Anne chaos; Kreschenta bath punishment; Krische memorizes soldiers' names. |
-| C.49 | Bery shares hidden name; noble oath of devotion; mutual declaration of love. |
-| C.50 | Kreschenta's morale visit to Dragon's Maw; war council; Krische proposes burning Mitskronia. |
-| C.51 | Mountain-burning plan approved; Kreschenta's calculated emotional speech supports it. |
-| C.52–53 | Battle begins; Salva revealed as traitor; Bogan lured into ambush; Krische's pre-battle speech to black century. |
-| C.54 | Bernaich assault; black century cliff descent; Gildanstein displays Bogan's arm and sword. |
-| C.55 | Gildanstein's extended backstory; Lazura-Gildanstein encounter; Salva turned by Gildanstein. |
-| C.56 | Bogan vs. Gildanstein duel; Bogan loses arm; enemy reinforcements end fight. |
-| C.57 | Krische ambushes Gildanstein's guard solo; nearly kills him; accepts deal (Bogan's sword for withdrawal); reunites with Bery. |
-| C.58 | Krische takes command of First Corps; mobile defense; Bogan dies with Selene present; Selene strikes Krische. |
-| C.59 | Selene rejects Krische's comfort. Bery gives candy pouch. Krische departs for guerrilla campaign. |
-| C.60 | Guerrilla campaign on Bernaich (fortress burned twice, 700+ killed). Dagra invokes temporary command assumption; Krische collapses. |
-| C.61 | Krische returns critically ill; unconscious 2 days; wakes and reconciles with Selene. |
-| C.62–63 | "Spoiled Krische" recovery; dog-and-owner game begins; Gallen visits; Kokys confesses guilt over Gran. |
-| C.64 | Black century rewards; Krische appointed First Corps Commander; Selene promoted to General; "Dancer Krische" incident. |
-| C.65 | Resharpened sword; meets Yaruz; Bery explains "dreams"; Krische and Bery share dream of domestic life. |
-| C.66 | Gildanstein proposes ceasefire; Kreschenta's calculated speech eliminates it; flanking strategy planned; Bery volunteers for Arna mission. |
-| C.67 | Kreschenta's fabricated departure speech to 15,000 soldiers; farewell scene; Krische and Elrouga depart west; Bery and Kreschenta depart for Arna. |
-| C.68 | Kureil flanking maneuver; Elrouga counsels Krische on delegation; "Gaikotsu" nickname bestowed. |
-| C.69 | Nozan vs. Markelus (day 3); Nozan deduces Krische's position; plans echelon formation signal. |
-| C.70 | Battle of the Central Plain: Markelus misreads situation; Elrouga's lance-charge opens rear; Krische kills Markelus. |
-| C.71 | Post-battle; 20,000 prisoners; Hilkintos's defection revealed; food-preservation and soundproofing magic; Krische eats Bery's pie alone and feels hollow. |
-| C.72–73 | Victory feast; Kalua's backstory; prisoner integration; Keith as relay commander. |
-| C.74 | Hilkintos captured and publicly executed (dismemberment) before Dragon's Maw garrison. |
-| C.75 | Hilkintos campaign strategy; march to Kirzalan; Roland dinner; Elvena introduced; bath scene. |
-| C.76 | Daglis ambushed and recruited by Krische; Roland execution plan approved; Elvena discussion with Elrouga. |
-| C.77 | Daglis delivers Roland's letter as double agent; Aulgorn deduces Christand's plan and force-marches west. |
-| C.78–79 | Battle against Hilkintos: three-layer trap executes; Gainz's hidden archers, Granmeld's breakthrough, black century river crossing; right wing annihilated; Begil strikes center rear. |
-| C.80 | Casualties tallied; Aulgorn surrenders then attacks — stabs Dagra; Krische severs his arms. Krische uses healing magic secretly on Dagra. Woof-woof nickname. |
-| C.81–82 | Smoke screen operation; Nozan's battle vs. Geltz's sortie; Krische clears Dragon's Maw fortress; Geltz surrenders. Dragon's Maw secured. |
-| C.83 | Dawn aftermath; Selene and Nozan discuss post-war strategy; reunion with Krische; Krische outlines terror doctrine and future defensive strategy. |
-| C.84 | Author's supplementary chapter: full character profiles, alignments, heights, full names. |
-| C.85 | Author's supplementary chapter: visual character references; Anne's and Kalua's family names revealed. |
-| C.86–87 | Flashback: Kreschenta and Bery's journey to Arna Empire; dog-mode daily routine; Zarnalibea arrives. |
-| C.88 | Kreschenta meets Zarnalibea; wager proposed and won; audience with Priestess Princess secured. |
-| C.89 | Selene/Krische morning scene at front. Kreschenta arrives at Naut Arna; Bery's crescent-moon speech. |
-| C.90 | Audience with Priestess Princess: Kreschenta extracts commitment of post-war aid via diplomatic misdirection. Priestess Princess recognizes Kreschenta as a cursed child. |
-
-| C.91 | Post-Dragon's Maw rest at Mitskronetia. Selene vs. Kalua sparring match (Selene wins). Impromptu tournament; Kokys defeated by Krische. Dancer Krische encore performance. |
-| C.92 | Dagra requests to accompany the army; Krische refuses on health grounds but affirms long-term loyalty. War council: Selene (25,000) holds rear/blocks flanking; Nozan + Krische (37,000) as main attack toward capital. Krische explains Gildanstein will likely target Selene, not risk facing Krische directly. Walter Zargan confirmed killed by Krische. "Woof-woof" nickname revealed publicly; Granmeld accepts it. |
-| C.93 | Dagra departs for Fort Belgash to recover; entrusts century to Mia. Kalua's extended backstory: Elvena kidnapped, years of fruitless searching, killing slave traders, returning home to rejection, joining the army out of inertia. Kalua recognizes her attachment to Krische as a compensatory act for failing Elvena. Squad One accompanies Krische to Kirzalan. |
-| C.94 | Krische's group infiltrates Kirzalan; meets Daglis. Kalua disguises herself as a noblewoman. Raid on Roland's estate: Krische kills Holza brothers and garden guards in seconds. Roland captured in his bedroom. Kalua discovers Elvena is her long-lost sister. |
-| C.95 | Roland interrogated and tortured by Krische (with Elze as witness). Krische debates whether to spend Christand funds to free Elvena (debt: ~30,000 pumpkins). Imagines Bery's, Selene's, and Kreschenta's perspectives; decides to help based on Bery's "fortunate turns of fate" philosophy. Execution scheduled for the following day. |
-| C.96 | Kalua and Elvena reunite; Krische purchases Elvena's debt and restructures repayment at 1% interest (~11 pumpkins/day). Kalua swears her sword to Krische. Sisters reconcile and promise to stay together. Krische headbutted awake by Mia the next morning. |
-| C.97 | Roland publicly executed in Kirzalan square. Elze and Baron Kornal deliver speeches out of terror. Krische negotiates debt purchase from merchant (chaotic exchange resolved by Daglis). All of Roland's slaves set to be freed as a side effect. Krische cooks in Roland's kitchen; Elvena begins serving as Krische's attendant. |
-| C.98 | Selene arrives and reviews Krische's actions; mild reproof but ultimate approval. Selene declares the debt effectively void. Elvena attached to Krische's entourage. Selene pampers Krische extensively (cookie-cracking puppet scene). Next day: Selene and Krische's market date in Kirzalan. |
-| C.99 | Pre-battle parley: Selene vs. Salva — Salva argues Kreschenta and Krische are cursed children who orchestrated the war; urges surrender. Selene refuses; Terrius denounces Salva. Kokys and Gran confront each other. Battle of Dobal Plain begins. Meanwhile, Krische receives intelligence ~100 ri south-southwest of Kirzalan. Elvena reflects on Elsreyne's paintings and sees parallels with Krische. |
-| C.100 | War council: Nozan decides to hold position rather than advance further south. Gildanstein's army: ~45,000 with deputy Felwors Keesliton; Nakilus Ferizar's 5,000 split east as reinforcement to Salva. Krische halts supply trains and redirects escort troops to Selene. Pre-battle parley: Krische threatens Gildanstein, draws blade to his throat under Sacred Convention protection. Gildanstein psychologically provokes Krische; Nozan challenges Gildanstein; Felwors intervenes. Krische declares intent for frontal breakthrough and first-day kill. Both sides hold for the night; decisive battle set for the next day. |
-| C.101 | Pre-battle dawn: Krische struggles with insecurity about Bery's love; Elvena comforts her. Krische discusses post-war research plans (magic crystal work, healing mechanisms) and offers Elvena a role as assistant. Elvena demonstrates refined mana-handling skill. |
-| C.102 | Battle Day 2 (Nozan's front): Krische's javelin charge devastates Gildanstein's front line; Granmeld and the Wolf Pack exploit the breach. Krische and Granmeld break through to the enemy headquarters and kill Gildanstein — revealed to be a body double. Krische deduces that Gildanstein moved overnight to join Ferizar's reinforcements and is targeting Selene. Meanwhile, on the Dobal Plain: Gildanstein reveals himself to Selene, demands surrender. Selene refuses. Kalua and the black century (under Mia) emerge to confront Gildanstein. |
-| C.103 | Evening war council (Selene's camp): After the day's fighting (enemy losses ~5,000 vs. Christand ~2,000), Selene debates offensive vs. defensive vs. withdrawal. Gallen proposes withdrawing 40 ri west to buy time; Elrouga supports; Kokys and Terrius favor attacking. Selene chooses withdrawal, citing her own limitations and trust in Krische's eventual victory. Elrouga volunteers for rearguard. Gallen and Elrouga agree to share drinks after the war. |
-| C.104 | Gran's backstory: failed jade tiger encounter during Elderant campaign; Kokys's rejection; Salva's recruitment. Gildanstein plans to target Terrius's Third Corps while Gran handles Kokys. Christand army withdraws 40 ri west past Kirzalan as predicted; Gildanstein pursues before dawn. Gran reflects on Selene and his own lost honor. |
-| C.105 | Battle of Dobal Plain resumes: both sides advance in echelon. Elrouga creates improvised firing salient to cover the left wing. Kokys charges through the enemy seam; Gran executes a flanking assault splitting the Second Corps — but Kokys doubles back, destroys the allied left wing, and confronts Gran. Kokys kills Gran in single combat after shattering his spear and sword. Flag signal announces Terrius Melkikos's death on the left wing. |
-| C.106 | Flashback: 15 years ago, Terrius rescued by Bogan in eastern campaign; their first meeting and joint counterattack. Present: Terrius holds left wing against Gildanstein/Salva/Nakilus assault. Elrouga independently handles Nakilus's flank pressure. Gildanstein and Salva break through Terrius's triple-layered defense. Salva and Gildanstein execute coordinated pincer on Terrius. |
-| C.107 | Gildanstein kills Terrius in single combat (Terrius inflicts thigh wound). Gildanstein breaks through to Selene's HQ with ~1,500. Selene fights Gildanstein with black century support; identifies his large-weapon vulnerability. Gallen repels five mana users solo; earns Salva's wary respect as "the forgotten champion." Nakilus Ferizar breaks through Elrouga with 300 and arrives at HQ. |
-| C.108 | Nakilus's arrival tips the balance. Selene flees toward Elrouga's Fourth Corps. Mia commands black century defense; adapts after tactical error. Mia nearly killed by Nakilus's thrown axe. Krische arrives, kicks the axe away, saves Mia. |
-| C.109 | Recap of Day 1 on Nozan's front: Krische and Granmeld destroy enemy right wing; Velraigh army takes clear advantage (30,000 vs 32,000). Nozan keeps Krische overnight for rest. Next morning: Krische rides toward Selene; comic battle with flapping skirt; rescues a messenger; switches horses. Arrives at battlefield; assesses situation; saves Mia; kills Nakilus (one-sided). |
-| C.110 | Selene pursued by Gildanstein. Black century soldiers (Adol, Kels, Keenitz, Squad Ten) sacrifice themselves as rear guard. Kalua and Bagu fight as vanguard pair; Bagu killed shielding Kalua. Elrouga delays Gildanstein with one exchange. Kokys arrives. Gildanstein requests duel with Krische. Krische kills Gildanstein in single combat — steps onto his sword, severs throat. Kokys announces victory; civil war effectively won. |
-| C.111 | Salva surrenders and is executed by Gallen at his own request. Keesliton army surrenders after ceasefire flags. Post-war feast. Kalua and Mia's tent scene (mourning, mutual comfort). Krische departs for Bery two days later; travels on Bururun (sidesaddle). Reunites with Bery and Kreschenta en route. |
-| C.112 | Author's supplementary chapter: full character profiles with alignments, heights, full names, combat styles, and personality descriptions for all major and secondary characters through Arc Five. Felwors's full name revealed. |
-| C.113 | Author's supplementary chapter: visual character references (CHARAT). Profiles written in Krische's childlike voice. |
-| C.114 | Pre-ceremony dress dispute (Bery vs. Selene; white vs. black). Bery wins via coin trick. Coronation parade: Krische presented alongside Kreschenta on the royal carriage. Agents manage crowd perception. |
-| C.115 | Coronation ceremony. Victory ceremony. Kreschenta crowned queen. Krische receives the title Alberinea (Heavenly Sword) and the treasure sword Bezelia. Selene appointed Marshal; Elrouga as advisor. Kreschenta catalogs hostile nobles during her speech. |
-| C.116 | Post-ceremony intermission: snack break averts dress-dispute civil war. Banquet: Elrouga rescues Krische and Selene from socializing; introduces wife Vanatela. Vanatela tries to matchmake Bery; Krische declares Bery will stay with her forever. Bery declines. Vanatela understands. |
-| C.117 | Underground laboratory: Elvena finishes duplication crystal batch (56 total). Krische demonstrates mana-powered metal automaton prototype (salutes, walks). Krische gives Bery a personal duplication crystal (user-locked). Bery asks why she wasn't chosen as Krische's assistant; Krische explains she doesn't want Bery to see her war-focused side — wants home to remain their sanctuary. Bery accepts; they kiss. |
-| C.118 | Training ground: Black Flag Special Service reorganized. Dagra returns from recovery. Wounded soldiers assigned to fabrication squad (secret projects) and Piririn Squad (mana-user screening). Krische names detection crystals "Piririn" and the screening team "First Piririn Squad." Century upgraded to company; Krische's rejected name "Kurofuyo Squad" replaced with "Black Flag Special Service" by Selene. Dagra diplomatically saves the unit from further naming. Medical training ordered; Bilza's squad designated medical squad. |
-| C.119 | Kalua, Mia, Elvena's apartment life. Mia's romantic obliviousness backstory. Krische plans trip to Karka Village (Galla unwell). Mia revealed as from neighboring Kirnan Village; recalls seeing young Krische on a Karka wagon. Dagra insists Mia and Kalua join the trip. Kalua asks to speak with Dagra privately. |
-| C.120 | Gallen delivers news of Galla's illness. Krische decides to go after hearing Bery's concern. Selene approves; assigns Bery to handle Gurgain estate sale and retrieve belongings. Staff officer academy backstory. Kreschenta upset about being left behind. Selene orders a spare sword from Koz. Krische balks at cost; Kreschenta reveals her accessories' value (~300,000 pumpkins), shocking Krische. Bery and Kreschenta lecture Krische on spending. Krische lectures Kreschenta on pumpkin values. |
-| C.121 | Felwors meets Kreschenta and Krische in royal palace; accepts reinstatement as general. Flashback: Felwors previously visited Elrouga, who vouched for Krische. Historical lore about Grabareyne, Elsreyne, and the origin of the cursed child tradition. |
-| C.122 | Travel north through Dragon's Maw; snow forces carriage-to-sled conversion. Overnight at Fort Belgash. Krische and Bery cook in the fort kitchen; comic Zalbak vs. Kart rivalry over plate delivery; Mia unwittingly resolves the standoff. |
-| C.123 | Arrive in Gurgain. Krische's worn sword examined by Koz; new sword commissioned (harder edge, thicker). Bery pays 6 gold coins as farewell gift from Christand. Mia considers buying a sword. Estate belongings packed (mostly books and wine). Bery reminisces about Lazura, Bogan, and young Selene. Krische and Bery share an intimate moment discussing "stretching." Last night at the Gurgain estate; Krische bakes cookies for Galla. |
-| C.124 | Mia and Kalua split off toward Kirnan. Arrive at Karka Village. Reunion with Pell (now much taller). Bery introduced; "poison for the eyes" misunderstanding. Galla embraces Krische. Village chief and men show deference/guilt; women and children welcome Krische warmly. Visit to Galla's house; cookies shared. Galla reflects on Krische's growth; learns Bery is nearly 30. Krische declares Bery will never marry. |
-| C.125 | Village feast. Krische serves food, helps with preparations. Swordsmanship contest: Kirik wins, spars with Krische as entertainment. Galla tells Bery about her son's death and how Krische's visits saved her. Entrusts Krische to Bery. Grave visit: Gorka and Grace's tree; old script on tags. Galla's son's tag has fallen (spirit "departed"). Krische helps bury the tag. Galla begins telling the story behind Krische's name but is interrupted. Krische confesses to Bery that she killed Galla's son. |
-| C.126 | Extended flashback: Krische's childhood in Karka — harassment by Keil and Katias, sword training, killing both boys and Katias's mother's subsequent disappearance. Krische confesses the killings to Bery. Bery refuses to give a direct answer, insists Krische decide for herself. |
-| C.127 | Krische attempts to confess to Galla but is stopped; Galla imposes silence as punishment, affirms love for Krische. Bery's philosophical speech on truth, sin, and law. Moonlit scene: Krische experiences genuine beauty/emotion for the first time; connects it to her name's meaning. Repeated kisses between Krische and Bery. |
-| C.128 | Farewell at Karka Village; Galla sees Krische off. Scene shifts to Kirnan Village (several days earlier): Mia reunites with mother Milna; immediate quarrel over Mia's military career. Kalua meets Milna. Mia's childhood friend Bazel attempts confession but is interrupted by Kalua's arrival. |
-| C.129 | Mia's family dinner; sisters tease about romance. Village tour with Kalua; snowball fight with siblings. Bazel proposes to Mia directly; Mia is shocked, asks for time. Flashback: Kalua had pre-arranged with Dagra for Mia's potential resignation. Kalua watches from afar, hoping Mia will choose to stay. |
-| C.130 | Mia declares she'll refuse Bazel. Milna argues for marriage; Kalua sides with Milna. Mia storms out; challenges Kalua to a duel (if she loses, she stays). Beaten 56 times but refuses to yield; wins by pressing sword to Kalua's heart when Kalua can't bring herself to truly finish it. Bazel takes rejection gracefully. Mia and Kalua reconcile; walk home under the crescent moon. |
-| C.131 | Krische encounters Aleha Sarshenka and Waltza Del Grizlandy being attacked by bandits in the forest between Karka and Gurgain. Kills a bandit survivor with a casual back kick. Learns they are excommunicated former Empire officers. Postpones serious discussion in favor of lunch. Recruits Aleha to the kingdom's military in an offhand remark. |
-| C.132 | Aleha repeatedly delayed by Krische's disinterest; finally gets to speak after Bery intervenes. Expresses gratitude for Waltza's life and reverence for Bogan. Krische formally offers a position in the kingdom's army. Aleha begins instructing Black Flag soldiers in sword fundamentals during the journey. Kalua loses a sparring match to Aleha and seeks revenge. Krische demands Mia do 1,000 daily practice swings. Kalua engineers a sparring match between Krische and Aleha. |
-| C.133 | Krische vs. Aleha sparring match on the moonlit snowfield. Krische defeats him instantly with a spinning back kick to his descending blade, then provides detailed analysis of his weaknesses. Eight rounds total; Krische wins all. Aleha recalls past battles against Christand and Kokys. Decides to take up the sword for the kingdom. |
-| C.134 | Council session in Albernaria: Kreschenta pushes through noble stipend reduction over Arcasakos's objections using Roland's ledger to turn his allies. Arcasakos and son Fahre plot Kreschenta's assassination (within 6 months). Kreschenta arrives home to find Aleha and Waltza visiting; embarrassing entrance followed by regal recovery. Selene and Kreschenta discuss Aleha's potential value. Kreschenta asks Krische to assassinate Arcasakos; debate over methods ensues. Compromise: Krische will deliver a warning rather than kill him. |
-| C.135 | Krische infiltrates Arcasakos's mansion at night — leaps from the Great Bell Tower, glides to the roof, enters the bedchamber via magic-unlocked door. Places Kreschenta's prepared knife (bearing the son's crest) and threatening letter at his bedside. Returns to find Kreschenta has fallen asleep despite promising to wait up. Next morning: screams in the Arcasakos household, excuses in the royal estate; rumor of a giant bat over the capital. |
-| C.136 | Aleha and Waltza introduced to Kokys and Elrouga at Christand estate; accepted without issue. Aleha swears formal oath of loyalty to Krische. Underground lab: Jaragasha frame completed; Krische demonstrates remote activation. Prosthetic limb concept revealed to fabrication squad. Selene, Kreschenta, Elrouga, and Anne visit the lab. |
-| C.137 | Selene, Kreschenta, and Elrouga inspect Jaragasha. Kreschenta renames it "Jaleia Gashea" using ancient language; group conspires to make the name stick over Krische's protests. Krische briefs them on capabilities: line-breaker role, combat specs, cost (~3 small gold coins), deployment plan (10 per corps). Kreschenta approves development; will transition from personal project to kingdom-led deployment. Narrator notes Jaleia Gashea as the prototype of centuries of iron war-golem dominance. |
-| C.138 | Duke Arcasakos berates Fahre over the knife incident; suspects Krische based on "giant bat" rumors. Plans to provoke war at the conference. Fahre separately meets Earl Narkes; reveals plan to betray his father by letting the assassination attempt fail, giving Kreschenta a pretext to eliminate the duke. Fahre will then submit to the queen. Meanwhile: Krische trains Kreschenta in swordsmanship (self-defense pretext); Bery suggests joint locks; training devolves into escape artistry with Kreschenta bound on the sofa. |
-| C.139 | Pre-conference preparations. All five nations confirmed attending (Elsren sent deliberately low-ranked archbishop). Kreschenta meets Zarnalibea; secures tariff reduction deal in exchange for imperial military deployment. Krische presents northern defense plan: minimal imperial personnel (1,000–2,000 officers) as symbolic deterrent; prefers enemies to attack sooner. Zarnalibea realizes Kreschenta deliberately left north vacant to exploit imperial obligation. Krische states she'll crush all three nations one by one if they attack. |
-| C.140 | Bery and Krische select dresses ahead of the conference (Krische's initiative to prevent dress-war breakfast casualties). Krische gives Bery a poison-detecting Piririn necklace; explains her particle theory of matter. Discussion of Krische's growing sense of beauty and her relationship with Bery. The pre-selected dress plan fails: Selene and Bery's dress war erupts regardless. |
----
-
-## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–90)
-
-**Established decisions — maintain for consistency.**
-
-- Krische speaks in polite Japanese (desu/masu) throughout.
-- Krische's third-person self-reference is absolute. Never change it.
-- Garo was technically still alive (paralyzed) when buried in C.1.
-- Cheek-pinching garbled speech rendered phonetically in original translation.
-- Corps Commander Salva (C.12) commands ~5,000.
-- 湾曲した剣 = "curved sword," not "sabre."
-- Measurement convention: 寸≈inch, 尺≈foot, 間≈2 yards. Add T/N.
-- **C.78 exception:** Author's note gives 一里≈400m (vs. standard ~3.9km) for forest tactical distances in this arc. Render as "one ri" with note; flag the discrepancy.
-- Graberas = natural fragrance; Almarei = artificially scented.
-- 七色の欠点 = "seven-colored flaws" = idiomatic "many and varied flaws."
-- 聖戦 used satirically for kitchen-cart rivalry (C.42).
-- 伍長 = "sergeant" (Mia's rank); 五人長 = "corporal"; 兵長 = "captain."
-- うさちゃん = "bunny"; ハゲワシ = "Vulture" (preserves ハゲ+ワシ wordplay).
-- ガイコツ = "Skeleton" (English) as nickname proper; "Gaikotsu" in direct address — parallels "Hagawashi" treatment.
-- リプス = "Lips" (Bery's hidden name).
-- Oath formula "言の葉紡ぐ場所より誓いを" = "A vow woven from the place where words are spun."
-- Bery's flashback (C.47) in italics to mark memory shift.
-- 半刻 = "quarter-hour" per established convention.
-- 甘えクリシェ = 'Spoiled Krische' (single quotes; internal-persona framing).
-- 踊り子クリシェ = "Dancer Krische."
-- 残念 / 残念です = "a shame" / "what a shame." **Not** "sad."
-- わんわん (Granmeld's nickname) = "Woof-woof."
-- 邪気 (jaki) = "harmful agents" with T/N (pre-germ-theory infection concept).
-- 竜巫女の間 = "Chamber of the Dragon Priestess."
-- ロールカ式 = "Rollka style"; ザイン式剣術 = "Zain-style swordsmanship"; 正眼 = "middle guard" / "the king's sword."
-- ベルガーシュ城砦 variant → use established "Fort Belgash."
-- ガーカ shorthand for Garhka → use "Garhka."
-- ノーザン variant of ノザン → use "Nozan."
-- カルゲラ variant of カルデラ → use "Caldera."
-- グランメルド＝ヴァーカス variant of ヴァクス → use "Varkus."
-- コルキス variant of コキス for Kokys → use "Kokys."
-- ガルシャーン variant of ガルシャン → use "Galshan."
-- クレシェンタ＝ファーナ＝ヴェラ author variant → use established romanization.
-- ワルツァ appears as Walter Del Grizlandy's given name (C.84) — maintain "Walter" per convention.
-- 三里 (C.87): left as "three ri" with note; scale ambiguous (author's 400m-ri vs. geographic ri).
-- 一丈 = 10 shaku ≈ 3m / 10 feet; 六尺 ≈ 180cm / 6 feet (per author's note: 一尺≈30cm).
-- Measurement references: 三間≈6 yards; 三十間≈60 yards; 十間≈20 yards; 一里≈2.4 miles/3.9km (standard); 半里≈1.2 miles/2km; 二里≈5 miles/8km; 十里≈24 miles/39km; 四十里≈16km/10 miles (C.78 author scale); 六十間～七十間≈120–140 yards; 六間≈12 yards; 四間≈8 yards; 半刻≈quarter-hour; 一刻≈2 hours; 六尺七寸≈200cm/6'7".
-- Kalua's extended internal monologue (C.93) rendered in italics, consistent with Bery flashback treatment (C.47).
-- コレイス = "Coreis" (god of martial valor); first appearance C.93.
-- エルメル＝ザイン = "Elmer Zain" (Zain-style founder); first named C.92.
-- ホールザ兄弟 = "Holza brothers"; Roland's elite guards C.94.
-- エルゼー = "Elze"; Chief Judicial Officer C.95.
-- 第一法務官 = "Chief Judicial Officer."
-- Elvena's slave debt described in pumpkin units per Krische's internal accounting (C.95); ~30,000 pumpkins ≈ cost of three Krische-grade swords.
-- コーナル男爵 = "Baron Kornal"; city governor, not a military noble.
-- ファルクス = "Falkus"; Elze's given name, first revealed C.97.
-- フェルワース＝キースリトン = "Felwors Keesliton"; Gildanstein's deputy commander.
-- アルバーザ = "Albaza"; warrior-king two generations prior.
-- グラバレイネ = "Grabareyne"; ancient Alberan queen.
-- エルスレイネ = "Elsreyne"; first empress of Holy Elsren Empire.
-- セリシュ = "Selishu"; tart berry fruit.
-- ドーバル平原 = "Dobal Plain."
-- ドグラ平原 = "Dogra Plain."
-- 聖霊協約 (C.100) variant of 聖典協定 → both rendered "Sacred Convention" for consistency. Note: kanji differ (聖霊 = "holy spirit" vs. 聖典 = "sacred text"). May be authorial variation or distinct but related concept; maintain single English term unless author distinguishes them later.
-- 暗夜の光 = "Light in the Dark Night" (Elsreyne's final painting).
-- レイネの天国 = "Reyne's Paradise" (common name for Elsreyne's paintings).
-- 二間 = "two ken" ≈ 4 yards / ~3.6m.
-- Elvena's speech register: polite (desu/masu), warm, slightly self-deprecating. Formal with Krische-sama; casual aspiration with Kalua but defaults to polite out of habit.
-- Felwors's speech: archaic gravitas; uses わし-style phrasing; addresses Gildanstein as 殿下 but speaks as an equal.
-- 翠虎 = "jade tiger"; magical beast (魔獣). 翠 = jade/emerald green.
-- エルデラント王国 = "Elderant Kingdom" (western nation).
-- リーバ＝トーバル = "Leeba Tobal"; Gildanstein's left-wing corps commander.
-- ボーネッツ = "Bonnets"; cavalry officer under Gran.
-- ギスカ = "Giska"; Gildanstein's central corps commander.
-- 八尺三寸 ≈ 250 cm / ~8'2" (Kokys's lance length).
-- Colored-flag signaling system introduced C.105: restricted knowledge; six yellow + red-black-red = left-wing corps commander death.
-- Gran's speech register: earnest, military-formal, occasionally strained. Internal monologue rendered in italics consistent with prior conventions.
-- Elvena's speech continues polite (desu/masu) register; warm, slightly self-deprecating, per established convention.
-- クラリアス = "Clarrias"; centurion under Gildanstein's general. First appearance C.106.
-- ネルタス = "Neltas"; Terrius's new adjutant. First appearance C.106.
-- キーニッツ = "Keenitz"; Squad Ten leader, black century. First appearance C.110.
-- ベラル = "Beral"; Nakilus's adjutant. First appearance C.108.
-- ファーナス = "Farnas"; horse name. First appearance C.109.
-- ランド = "Land"; ラクル = "Lakle"; Squad Ten members, black century. C.110.
-- ヴィリッツ = "Villitts"; ナクライス = "Nakrais"; ニケラ = "Nikera" — minor named soldiers. C.107–109.
-- 剣姫 = "Sword Princess"; new Krische epithet. First appearance C.108.
-- 七尺 (Nakilus's height) ≈ 210 cm / ~6'11".
-- 百二十里 = 120 ri ≈ 48 km / ~30 miles (at author's 400 m/ri scale).
-- 五間 = five ken ≈ 10 yards / ~9 m; consistent with prior measurement conventions.
-- Terrius's "flesh fortress" tactic: rendered descriptively; no single Japanese term beyond 肉の砦.
-- Krische's sword philosophy 無形 rendered as "formless"; 無空 rendered as "the void."
-- キースリトン軍 = "Keesliton army" — used when referring to the enemy army after Gildanstein left for Selene's front. Gildanstein's army effectively split: Keesliton commands the main body; Gildanstein takes a strike force.
-- ベーゼリア = "Bezelia"; royal treasure sword. First appearance C.115.
-- アルベリネア (title) = "Alberinea" / "Heavenly Sword" (天剣). Note: this is the same word as Krische's middle name (クリシェ＝アルベリネア＝クリシュタンド), implying the name always carried this significance.
-- 元帥 = "Marshal"; supreme military commander.
-- ぶるるん = "Bururun"; Krische's horse. Named for the onomatopoeia of its snorting.
-- フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン = Felwors Zaran Dorishe Yagelinea Keesliton (full name; C.112). Note: ヤゲルリネア as an honorary title connects to ヤゲルナウス (the Arna Empire's dragon deity), suggesting deep historical ties between the Keesliton house and the Arna Empire.
-- 式典はおねえさまとべったり過ごすのですわ大作戦 = "Spend the Ceremony Glued to Onee-sama Operation" — Kreschenta's failed plan. Rendered literally for comic effect.
-- 前朝食 = "pre-breakfast" — Krische's invented meal of eating last night's leftovers before actual breakfast. Comic detail about her post-war lifestyle escalation.
-- The dress dispute in C.114 uses mock-political/military faction language. Faction names rendered in English with parenthetical membership counts to preserve the comedy structure.
-- Bery's coin-reading ability (C.114): She can track a spinning coin's rotation and trajectory to determine its landing side. Consistent with her established backstory of mastering indoor activities during her sickly childhood.
-- 聖霊協約 appears again in C.111 (Felwors's dialogue) — maintained as "Sacred Convention" per established decision. Kanji variant noted previously.
-- 黒旗特務 = "Black Flag Special Service"; formal reading こっきとくむ, colloquial くろはたとくむ.
-- くろふよ隊 = "Kurofuyo Squad" (rejected name); portmanteau of 黒 + ふよふよ.
-- ぴりりん = "Piririn"; detection crystal. Kept as proper noun.
-- 複製水晶 = "duplication crystal."
-- 参謀 = "staff officer."
-- コーズ long-vowel variant of コズ → use established "Koz."
-- ヴァナテラ = "Vanatela"; Elrouga's wife.
-- ダズ = "Daz"; ネッキ = "Nekki"; ネイガル = "Neigal"; ザッツ = "Zatts"; アルゲン = "Argen"; キリース = "Kirees" — new named soldiers, C.118.
-- 百万カボチャの女 = "The Million-Pumpkin Woman" (chapter title, C.120).
-- 人形 (ningyō) in context of Krische's automaton rendered as "figure" to match neutral source tone.
-- ネリプ = "nerip"; fictional cooking herb. First appearance C.122.
-- ケイズ = "Keiz"; Koz's son. First appearance C.123.
-- 五尺一寸 ≈ ~150 cm / ~4'11"; consistent with Krische's ~147 cm plus slight growth.
-- 拝血信仰 = "blood-worship faith"; the kingdom's established religion, distinct from Karka's indigenous forest-cycle faith.
-- 射儀 = archery rite; village custom of shooting arrows into the forest as thanks before a feast.
-- 後の先 (go no sen) = martial arts term "reacting after the opponent"; used humorously in C.122 Zalbak/Kart rivalry.
-- レイネ = "Reyne" (historical queen); グラバレイネ = "Grabareyne" (already established); ガスレ = "Gasre" (historical duke).
-- "Show Onee-sama How Cool I Am as Queen Operation" (女王として格好良いところを見せますわ大作戦) — Kreschenta's latest failed operation name, C.121.
-- Galla's son's death presented as accident in village; Krische's confession in C.125 reveals she killed him. Circumstances not yet detailed.
-- バゼル = "Bazel"; ミルナ = "Milna"; ミー = "Mi"; ミース = "Mees"; テクス = "Teks"; ダーザ = "Darza"; ミーリア = "Miria"; カーニャ = "Kanya"; ケイル = "Keil"; カティアス = "Katias" — new named characters, C.126–130.
-- 十数え = "counting-ten feast"; Karka coming-of-age celebration for boys at age ten (C.126).
-- Kalua's weapon described as 大曲剣 = "great curved sword" (C.130); consistent with established 湾曲した剣 = "curved sword" convention. Larger variant.
-- Mia's family members' names follow a pattern: mother ミルナ (Milna), sisters ミース (Mees) and ミー (Mi), sister ミーリア (Miria) — all ミ-prefixed.
-- ガロ reference in C.126–127: this is the bandit Garo from C.1, not a new character. The unnamed "old man" who touched Krische is a separate individual.
-- Krische's name etymology (クリシェ = crescent moon) made fully explicit in C.127. Previously hinted.
-- 大上段 (dai-jōdan): High guard / overhead stance. Translated descriptively; T/N added for martial arts context.
-- 三間 (san-ken): ~6 yards / 5.5 meters. Approximate conversion noted inline.
-- 百五十尺 (hyaku-gojū shaku): ~150 feet / 45 meters. Approximate conversion noted inline.
-- 割り当て金: "stipend" — the share of tax revenue allocated to nobles managing administrative territories. Not a salary; a portion of royal tax redirected to the managing noble.
-- 市民小学: "civic school" — Kreschenta's minimal-cost public education initiative. Not a formal school; more of a periodic literacy program using existing facilities.
-- 破門 in imperial context: "excommunication" — heavier than title-stripping (爵位剥奪); no reinstatement possible. Parallels religious excommunication given the Empire's theocratic structure.
-- 法王庁: "Pontifical Court" — the imperial authority that issues excommunication. Consistent with the Empire's religious governance structure.
-- Fahre (ファーレ): New name not previously established. Romanized following standard convention for the ファ sound.
-- アーカサコス: "Arcasakos" — new ducal house. Romanized phonetically; no prior appearance in knowledge base.
-- ペネツ銀貨 = "penets silver coin"; new currency denomination, C.137.
-- ジャレィア＝ガシェア = "Jaleia Gashea"; ancient-language rendering of じゃらがしゃ ("Jaragasha"). Maintain both names: "Jaleia Gashea" for the official/narrator usage, "Jaragasha" when Krische insists on her original name.
-- ピカピーカ = "Pika-Piika"; Krische's name for the golem transmitter pendant.
-- 毒ぴりりん = "poison-Piririn"; poison-detecting variant of established Piririn crystal.
-- 暗号刻印 = "cipher inscription"; Elvena's name for Krische's self-modifying formula system. Krische calls it うねうね ("squiggly").
-- 粒々 (tsubutsubu) = "particles"; Krische's layperson term for atomic/molecular-level matter.
-- ベリー経典 = "Bery Scripture"; narrator's comic term for Bery's internalized philosophical teachings within Krische.
-- ナルケス = "Narkes"; Earl; intermediary noble.
-- オールガン = "Olgan"; Vice Chairman, Galshan Republic.
-- クロルス = "Krolus"; Chancellor, Elderant Kingdom.
-- エルベバート = "Elbebart"; Archbishop, Holy Elsren Empire.
-- 大司教 = "archbishop"; 総大司教 = "primate"; 枢機卿 = "cardinal" — Empire's ecclesiastical hierarchy. Archbishop is lower than the expected rank for this diplomatic occasion.
-## CORE CHARACTER UPDATES
-
-### Krische Alberinea Krishtand
-- **New title (C.115):** Alberinea (アルベリネア) — "Heavenly Sword" (天剣). The highest military rank alongside Marshal. Created by Kreschenta as a unique position: the queen's sword, military advisor, and other half. Practical authority corresponds roughly to the existing Marshal, but the Marshal retains supreme command authority. Effectively a supreme commander's assistant with extraordinary personal latitude.
-- **Post-war status:** Returned to Bery ahead of Selene; traveled partly on horseback (sidesaddle, under duress) on a horse she named Bururun. Fell ill with fever after the final battle; recovered after two days. Left corps affairs with Keith. Elvena assigned as temporary attendant.
-- **Corps status:** The black century lost nearly half of its deployed strength. Given leave. Dagra recovering at Fort Belgash (from C.93).
-- **Relationship with Bururun:** The horse (an infamous unmanageable stallion) recognized Krische as its rider after C.109. Krische reluctantly accepted it. She named it Bururun (ぶるるん) because she needed something to call it.
-
-### Selene Christand
-- **New title (C.115):** Marshal (元帥) — Supreme military commander of the kingdom. Appointed by Kreschenta. Youngest Marshal in kingdom history. Elrouga Faren serves as her advisor/assistant.
-- **Post-war duties:** Remained at the front to organize the army and prepare the palace for Kreschenta's arrival. Mountains of administrative work.
-
-### Bery Argan
-- **Post-war:** Traveled with Kreschenta and the imperial army (40,000) back toward the capital. Knitted multiple scarves for Krische during the journey (white, gray, brown, green — aiming to cover every color). Presented the white scarf upon reunion.
-- **Reunion with Krische (C.111):** Krische leapt into her arms at the carriage, accidentally crushing Kreschenta beneath Bery in the process.
-
-### Kreschenta Farna Viera Alberan
-- **New status (C.115):** Crowned Queen of Alberan. Full style: Kreschenta Farna Viera Alberan. Coronation, parade, and victory ceremony held on same day (cost-saving measure).
-- **Political strategy (C.114–115):** Used Elrouga's personal intelligence network and Daglis (Kirzalan) to manage public perception during the parade. Planted "well-informed" agents in the crowd to reframe Krische as a wronged princess rather than a cursed child. Attempted to make Krische a figurehead queen but was refused (bribed into acceptance with three cookies and two head-pats). Created the Alberinea title as an alternative.
-- **Coronation speech (C.115):** Performed vulnerability — tearfully asking nobles for patience with her youth and inexperience — while simultaneously cataloguing every face showing hostility, defiance, or doubt for future elimination. Classic dual-nature moment.
-- **Failed operation:** "Spend the Ceremony Glued to Onee-sama Operation" (式典はおねえさまとべったり過ごすのですわ大作戦) — derailed by the dress dispute.
-
-### Gallen
-- **Post-war:** Fell ill from overexertion (like Krische). Anne Gietelens is tending to him. He is very fond of Anne and praises her lavishly.
-
-### Elrouga Faren
-- **New title (C.115):** Marshal's advisor/assistant (元帥補佐). Serves alongside Selene.
-
-### Nozan Velraigh
-- **Post-war (C.115):** Declined the Marshal position. Cannot leave the east — his rebuilding work there was interrupted by the civil war and remains unfinished. Retains Eastern General position.
-
----
-
-## SECONDARY CHARACTER UPDATES
-
-### Salva (Caldera)
-- **Death (C.111):** After Gildanstein's death, Salva understood defeat and voluntarily surrendered to Gallen. Requested to die as a warrior on the battlefield rather than face execution as a traitor. Gallen granted his request and beheaded him with Salva's own sword (Gallen's short sword being too light). Last words: asked that punishment fall on him alone and that his family be spared. Gallen promised to report that his end was honorable.
-
-### Mia
-- **Post-battle (C.111):** Issued final orders despite trembling. Later sought out Kalua and confronted her about bottling up grief. Took responsibility for the deaths as captain, arguing her tactical prioritization was wrong — she should have sent an additional squad to support Kalua and Selene's position. Got drunk trying to confiscate Kalua's alcohol. Kissed Kalua while drunk and fell asleep immediately after.
-
-### Kalua (Kalua Belyus)
-- **Post-battle (C.111):** Drank heavily alone, mourning Adol, Kels, Bagu, and the others. Expressed frustration at her own helplessness — fifteen against one and still forced to flee from Gildanstein. Acknowledged that if Krische had been there instead, nobody would have died. Comforted by Mia. Kissed by a drunk Mia (one-sided; Mia fell asleep).
-- **Worry added (C.111):** Mia's drunken behavior. Resolved to never let Mia drink again.
-
-### Anne (Anne Gietelens)
-- **Post-war:** Tending to the recovering Gallen with great enthusiasm. Gallen finds her normalcy refreshing compared to Krische and Bery, and dotes on her. Krische is mildly worried Anne may be causing trouble.
-
-### Elvena
-- **Post-war:** Preparing luggage for Krische's journey. Will be given leave to match the black century's schedule. Assigned to Selene temporarily until then. Accompanied Krische on the journey to meet Bery's column. Aghast at Bery's domineering behavior during the dress dispute.
-
-### Felwors Keesliton
-- **Post-war (C.111, C.115):** Surrendered after Gildanstein's death was confirmed (blue flags raised). Accepted defeat gracefully, remarking that his neck must carry the goddess's protection. Currently under house arrest (謹慎中). Despite being the strongest Marshal candidate, cannot be appointed due to having sided with Gildanstein.
-- **Full name confirmed (C.112):** Felwors Zaran Dorishe Yagelinea Keesliton.
-
-### Granmeld Varkus
-- **Post-war (C.111):** Broke through to the Keesliton army headquarters just as the ceasefire flags went up. Complained about the anticlimactic ending. Ordered Carlis to prevent unnecessary casualties during the transition.
-
-### Daglis
-- **Post-war (C.114–115):** Used by Kreschenta as an intelligence operative during the coronation parade, planting favorable rumors about Krische among the populace.
-
----
-
-## DECEASED CHARACTERS (confirm/add to ● list)
-
-| Character | Death | Chapter |
+| Japanese | English | Notes |
 |---|---|---|
-| Salva Rinea Caldera | Beheaded by Gallen at his own request | C.111 |
-| Bagu | Killed shielding Kalua from Gildanstein | C.110 (confirmed C.111) |
-| Adol | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
-| Kels | Killed in delaying action against Gildanstein | C.110 (confirmed C.111) |
+| えへへ | Ehehe | Krische's laugh. Invariant. |
+| ふわふわしたもの | "the floofy thing" / "the floof" | Krische's casual term for mana only. |
+| 味見 | "taste-testing" | Always in quotation marks when Krische uses it as an excuse to eat. |
+| かあさま / とうさま / おじいさま / おじょうさま / おねえさま / おばさん | Kaa-sama / Tou-sama / Ojii-sama / Ojou-sama (Bery→Selene) / Onee-sama (Kreschenta→Krische) / Oba-san | Keep all honorifics as-is. |
+| 残念 / 残念です | "a shame" / "what a shame" | **Not** "sad." Krische lacks normal emotional vocabulary; Kreschenta uses the same word (reveals identical natures). |
+| リネア | Rinea | Honorary title: "warrior" in old language. Senior Knight. |
+| 常魔灯 | eternal magic lamp | |
+| 鍛石 | Forged Stone | Volcanic ash building material. |
+| 英雄の時代 | Age of Heroes | Historical era. |
+| 黒旗特務 | Black Flag Special Service | Formerly the black century. |
+| ぴりりん | Piririn | Detection crystal (proper noun). |
+| じゃらがしゃ / ジャレィア＝ガシェア | Jaragasha / Jaleia Gashea | Krische's name / official ancient-language name for the iron war-golem. Use both; Jaleia Gashea for narrator/official context. |
+| ピカピーカ | Pika-Piika | Golem transmitter pendant. |
+| 禁域 | Forbidden Domain | Yagelnaus's domain. |
+| 一夜の雫 | night's drop | Lethal poison; used to stab Bery. |
+| 暗号刻印 | cipher inscription | Krische's self-modifying formula. Krische calls it うねうね ("squiggly"). |
 
 ---
 
+## TRANSLATION CONVENTIONS
+
+### Measurements
+- 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
+- 里: **two scales in use.** Standard geographic ri ≈ 3.9 km. Author's tactical-arc ri ≈ 400 m (established C.78). Render as "one ri" etc. and add T/N flagging which scale applies.
+- 半刻 = quarter-hour (standard). Note: used as "half-hour" once in C.141 (comic exaggeration context); flag discrepancy in T/N.
+- 一刻 ≈ 2 hours.
+
+### Speech Registers
+- **Krische:** Formal (desu/masu), third-person self-reference, literal interpretation. Never changes.
+- **Bery:** Gentle, measured, occasionally formal even with intimates. "Krische-sama," "ojou-sama" for Selene.
+- **Selene:** Direct, confident, occasionally sharp. "Krische" with no honorific.
+- **Kreschenta:** Preternaturally composed, controlled. "Onee-sama" for Krische. Rare genuine moments land quietly.
+- **Gallen:** Old soldier's economy of speech. Archaic gravity.
+- **Mia:** Casual, direct, childlike stubbornness. Formal/stiff only with superiors.
+- **Elvena:** Polite (desu/masu), warm, slightly self-deprecating. Formal with Krische-sama.
+- **Cheek-pinching garbled speech:** Render phonetically, e.g. "Fue, fuerere, ihyairesu……"
+
+### Recurring Translation Decisions
+- 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
+- ガイコツ = "Skeleton" (as English nickname proper); "Gaikotsu" in direct address.
+- リプス = "Lips" (Bery's hidden name).
+- Oath formula 言の葉紡ぐ場所より誓いを = "A vow woven from the place where words are spun."
+- 残念 = "a shame" (not "sad") — consistent for Krische and Kreschenta.
+- わんわん (Granmeld) = "Woof-woof." にゃんにゃん (Kokys) = "Nyan-nyan."
+- 邪気 (jaki) = "harmful agents" (pre-germ-theory infection concept; add T/N).
+- 聖典協定 / 聖霊協約 (variant kanji): both rendered "Sacred Convention."
+- 七色の欠点 = "seven-colored flaws" = idiomatic "many and varied flaws."
+- 前朝食 = "pre-breakfast" (Krische's invented meal of last night's leftovers before actual breakfast).
+- うさちゃん = "bunny"; ハゲワシ = "Vulture."
+- ロールカ式 = "Rollka style"; ザイン式剣術 = "Zain-style swordsmanship"; 正眼 = "middle guard" / "the king's sword."
+- 無形 = "formless"; 無空 = "the void" (Krische's swordsmanship).
+- グラバレイネ = "Grabareine"; エルスレイネ = "Elsreine"; レイネ = "Reine."
+- 聖霊の巫女 = "priestess of the divine being" (Lila's title).
+- 従士 = "levied warriors" (Creisharana non-cavalry fighters).
+- 虎入りの鐘 = "tiger-entry bell."
+- 古語 = "Old Tongue" (Creisharana language = formerly the kingdom's northern language).
+- 拝血信仰 = "blood-worship faith" (kingdom's established religion; distinct from Karka's indigenous forest-cycle faith).
+- ベリー経典 = "Bery Scripture" (narrator's comic term for Krische's internalized Bery-philosophy).
+- コルキス in dialogue → "Kokys" per convention.
+- Kalua's internal monologue: italics (consistent with Bery flashback treatment).
+- 暗夜の光 = "Light in the Dark Night" (Elsreine's final painting).
+- 武官長 = "Master-at-Arms."
+- ヤゲルリネア in Felwors's honorary title connects to Yagelnaus (ヤゲルナウス); suggests historical ties between the Keesliton house and the Arna Empire.
+- 半刻 standard = "quarter-hour"; C.141 usage = "half-hour" (flag discrepancy).
+- 粒々 (tsubutsubu) = "particles" (Krische's layperson term for atomic-level matter).
+
+---
+
+## TIMELINE SUMMARY (C.1–150, condensed)
+
+**Arc 1 (C.1–24):** Krische's village childhood → Gorka and Grace killed by bandits → Krische kills bandits → adopted by Bogan → meets Bery and Selene → Empire invasion → Battle of Arzlen (decisive victory). Krische proposes damming strategy, flanking assault, captures Walter.
+
+**Arc 2 (C.25–51):** Capital visit → Roland encounter → Bery relationship deepens (oath of devotion, hidden name) → Kreschenta introduced → king dies (Kreschenta's doing) → Christand shelters Kreschenta → civil war begins → Fort Belgash mobilization → Black century formed → Kreschenta proposes burning Mitskronia.
+
+**Arc 3 (C.52–83):** Dragon's Maw campaign → Salva's betrayal → Bogan dies → Krische takes First Corps command → guerrilla campaign on Bernaich → Battle of Central Plain (Markelus killed) → Hilkintos captured and executed → Roland executed in Kirzalan → Kokys kills his son Gran → Terrius killed by Gildanstein → Dragon's Maw secured (Geltz surrenders). Selene appointed General; Krische appointed First Corps Commander.
+
+**Arc 4 (C.84–110):** Kreschenta's Arna Empire mission → Nozan advances east → final campaign → Gildanstein personally leads strike against Selene → Terrius dies → Gildanstein breaks through to Selene's HQ → Nakilus arrives; Krische intercepts, kills Nakilus → Krische kills Gildanstein in single combat. Civil war ends.
+
+**Arc 5 (C.111–143):** Salva beheaded by Gallen → Selene becomes Marshal, Krische becomes Alberinea, Kreschenta crowned queen → coronation/victory ceremony → Black Flag reorganized → Karka Village visit (Galla, Pell, Galla's son's death confession) → Mia's Kirnan visit (refuses Bazel's proposal) → Aleha/Waltza join Krische → Kirzalan: Roland's secret ledger used against noble faction → international conference → Bery stabbed with night's drop (C.142) → Krische creates time-stasis sphere to preserve Bery → Kreschenta's Great Purge (17 nobles killed, C.143).
+
+**Arc 6 (C.144–150):** Krische travels to Albyagel → acquires jade tiger Gururun → encounters Lila Sharana → coerces Lila into guiding her to Yagelnaus → defeats Velvas at forbidden domain entrance → reaches Yagelnaus's lair → confronts the dragon (C.150, ongoing).

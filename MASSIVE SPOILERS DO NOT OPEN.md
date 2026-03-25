@@ -22,7 +22,17 @@ I passed in 7 files (`knowledge_base.md` + `context.md` + 5 chapters in txt form
 Instead of having Opus 4.6 redo the knowledge base from scratch which takes a lot of time, I simple had it generate any additions necessary, then used the `merge.py` script to merge
 the information into the existing knowledge base.
 
-### Prompt
+## Translation Quality
+
+I can confidently say that the translation quality is at the very least **on par if not better** than your average translator. One thing that LLMs can guarantee is that there will be no
+spelling or grammar issues. A model as powerful as Opus 4.6 also won't miss entire passages or truncate the text or try to shorten the text like GPT did back in 2025. The only things that 
+it could potentially mess up is missing some specific references/idioms, but that is easy to forgive considering how fast and accurate it is.
+
+I also did some quality testing by having Opus 4.6 translate the first few chapters and compared it against HecateHonryuu's translation and obviously, while HecateHonryuu's translation 
+was great, the LLM translation didn't fall far behind. If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
+would be like a 4/10).
+
+## Prompt
 
 Translate the following chapters of 少女の望まぬ英雄譚 in order.
 
@@ -30,11 +40,11 @@ Follow all rules in context.md and knowledge_base.md exactly.
 Treat all chapters as one continuous session — maintain perfect consistency in character
 voice, name romanizations, and terminology across all of them.
 
-## Output: two files
+### Output: two files
 
 ---
 
-### File 1 — Translation (Markdown)
+#### File 1 — Translation (Markdown)
 
 Produce a single `.md` file containing all translated chapters in order.
 
@@ -57,7 +67,7 @@ is correct. The goal is a clean reading experience, not aggressive annotation.
 
 ---
 
-### File 2 — Knowledge Base Additions
+#### File 2 — Knowledge Base Additions
 
 After ALL chapters are translated, produce a second file containing ONLY new information
 introduced in this batch. The new information should be concise and condensed. Only add
@@ -110,13 +120,3 @@ Update the heading's chapter range if needed (e.g. change C.1–41 to C.1–45).
 
 **Any entirely new section** not listed above: include it with its full `## HEADING`
 and complete content. The script will append it to the end of knowledge_base.md.
-
-## Translation Quality
-
-I can confidently say that the translation quality is at the very least **on par if not better** than your average translator. One thing that LLMs can guarantee is that there will be no
-spelling or grammar issues. A model as powerful as Opus 4.6 also won't miss entire passages or truncate the text or try to shorten the text like GPT did back in 2025. The only things that 
-it could potentially mess up is missing some specific references/idioms, but that is easy to forgive considering how fast and accurate it is.
-
-I also did some quality testing by having Opus 4.6 translate the first few chapters and compared it against HecateHonryuu's translation and obviously, while HecateHonryuu's translation 
-was great, the LLM translation didn't fall far behind. If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
-would be like a 4/10).
