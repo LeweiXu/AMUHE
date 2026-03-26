@@ -123,15 +123,3 @@ One line per character. Do not create subsections or headers within this block.
 For existing characters, only add a new entry line if there is a genuinely new
 fact that affects translation (e.g. a new speech register note, a name change,
 a status change that will alter how other characters address them).
-
----
-
-`## TIMELINE SUMMARY`
-Output the updated Arc line for the **current arc only** — the arc that covers
-the chapters in this batch. Use the exact format:
-```
-**Arc N (C.X–Y):** One-sentence-per-beat summary of the arc through the end of this batch.
-```
-The script will find the matching Arc N line in context.md and replace it in-place.
-If this batch begins a new arc, output a new Arc line and the script will append it.
-Do NOT output lines for arcs not touched by this batch.

@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–170*
+*Current coverage: Chapters 1–190*
 *Update this file after each translated chapter.*
 
 ---
@@ -50,7 +50,19 @@ For each chapter:
 - **Mia:** Casual, direct, childlike stubbornness. Formal/stiff only with superiors.
 - **Elvena:** Polite (desu/masu), warm, slightly self-deprecating. Formal with Krische-sama.
 - **Cheek-pinching garbled speech:** Render phonetically, e.g. "Fue, fuerere, ihyairesu……"
-
+- **Dagreen Gahka:** Rough, frank, masculine. Uses わし for self-reference. Blunt familiarity with equals and subordinates. Gruff but not unkind; bandit-chief energy masking sharp calculation.
+- **Gal Bilkees:** Measured, veteran soldier. Respectful of worthy enemies. Speaks with the gravity of long battlefield experience.
+- **Olgan:** Bold, hearty, grandiloquent. Mixes warmth with commanding gravity. Uses 俺 for self-reference. Laughs freely and loudly even in dire situations. Speaks to enemies with frank respect.
+- **Zalvarg:** Dry, weary, sardonic. Measured speech masking sharp intellect. Habitually exasperated by Olgan's impulsiveness. Respectful but blunt with superiors.
+- **Elkaarl:** Terse, blunt, soldier's economy. Speaks in short declarative sentences. Uses 俺. Gruff confidence.
+- **Kilrea:** Formal-lean, analytical. Uses ですな/ません forms. Scholar-warrior register. Respectful but direct.
+- **Aleha (battlefield):** Eloquent, philosophical, with controlled intensity. Speaks in longer cadences than most soldiers. Aesthetic appreciation of warfare. Uses わたし/私.
+- **Zaaka:** Casual veteran. Blunt, irreverent with superiors in a way that signals trust. Uses 俺.
+- **Neigal:** Earnest, slightly nervous around Krische. Respectful (です/ます). Struggles with "Jaragasha" pronunciation.
+- **Begil (Begil Sandika):** Normally easygoing and approachable. In battle, shifts to roaring, bombastic, bloodthirsty register. Mixes taunting bravado toward enemies with performative charm. Zain-style swordsman; attack-oriented personality reflected in speech.
+- **Lakoul:** Analytical, clipped battlefield speech. War-lion commander register — rapid orders under pressure.
+- **Zalvarg:** Dry, weary, sardonic base register. In flashback/internal monologue, more raw and vulnerable. Respectful but blunt with Olgan. Uses 私 (watashi). Terse when assessing tactical situations. No wasted words.
+- **Beltz:** Earnest, respectful (です/ます). Deferential to Krische. Cooking-focused anxiety when his food might not please her.
 ## TONE GUIDE
 
 The novel's tone shifts dramatically by scene. Do not flatten these shifts — the contrast is load-bearing.
@@ -185,6 +197,34 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ネリプ | Nerip | Herb with a kick; used in cooking (C.162) |
 | アーネリュース | Annelyuse | Goddess of spring (mythological; Anne named after her) |
 | オーザル | Ozal | Royal district administrator (mentioned, historical context) |
+| アリカ＝サーズベルン | Arika Sazubern | Tailor; third daughter of a great noble house |
+| ガル＝ビルケース | Gal Bilkees | Captain, Galshan sand-lizard cavalry |
+| エルケ | Elke | Gal Bilkees's adjutant |
+| アルカザーリス | Alkazaris | Magical beast elephant; Galshan war asset (deceased C.172) |
+| ナクリア | Nakria | Walled city, kingdom's south |
+| ミルヒレア平原 | Milhirea Plain | Southern battlefield |
+| ビルフェ大樹海 | Bilfe Forest | Great forest west of Nakria |
+| カルビャス山脈 | Kalbyas Mountains | Mountain range east of Nakria |
+| エルカール | Elkaarl | Galshan eastern general; "the Giant" |
+| キルレア | Kilrea | Galshan western general; "the Sword-Saint" |
+| ネイクル | Neikrul | Elkaarl's deputy commander |
+| ダルケリス | Dalkeris | Dagreen's adjutant; scarred face |
+| ダールトン | Dahlton | Commander, Elkaarl's center division |
+| ザーカ | Zaaka | Black Flag squad leader; one-eyed |
+| ボグス | Bogus | Flag-bearer, Zaaka's squad |
+| コーザ | Koza | Black Flag archer captain; flag-bearer |
+| ガーレン | Gahren | Present at Gahka manor meeting (C.177); likely Gahka-side officer — distinct from ガレン (Gallen). Requires confirmation. |
+| ラクール | Lakoul | War-lion commander, Elkaarl's left wing |
+| キーニア | Kiinia | War-lion commander, Kilrea's formation |
+| ダズール | Dazurl | Galshan common soldier (POV character) |
+| オルカ | Orka | Kilrea's adjutant (killed shielding Kilrea) |
+| ネッキ | Nekki | Engineering squad member; signal operator for Krische |
+| レックス | Reks | Begil's escort; carries his lance |
+| ベーグ | Beeg | Creisharana warrior; carries Mia on his griffin |
+| エーリュケ | Ehryuke | Galshan officer under Zalvarg (tentative romanization) |
+| ローゲリウス | Rogerius | Zalvarg's camel cavalry captain (tentative romanization) |
+| ベルツ | Beltz | Black Flag Special Service cooking instructor |
+| オールガン＝ディケル＝シャーニア | Olgan Dikel Shahnia | Vice Chairman, Galshan Republic (full name) |
 ---
 
 ## RECURRING TERMS
@@ -213,6 +253,32 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 簡略紋 | simplified crest | Heraldic mark granted to artisans/merchants as quality endorsement |
 | 洗いっこ | "washy-washy" | Krische's term for mutual bathing/washing; rendered in quotes |
 | ガーターベルト | garter belt | Bery's invention; waist wrap with stocking garter straps |
+| 砂蜥蜴 / 地竜 | sand lizard / land dragon | Galshan war beast; giant tawny lizard. |
+| 地竜騎兵隊 | sand-lizard cavalry | Galshan elite mounted unit riding sand lizards. |
+| 戦象 | war elephant | Galshan war beast; standard grey elephants. |
+| ピエリム | Pierim | Herb used to flavor spirits; sweet fragrance. |
+| 黒豆茶 | black soybean tea | Krische's preferred non-alcoholic drink at southern war council. |
+| 蒸留酒 | distilled spirit | Northern island liquor favored by Bogan. |
+| 戦獅子長 | war-lion commander | Galshan senior unit commander rank beneath a general; literal "battle lion chief." Unstandardized — flagged for future decision. |
+| 上位者会議 | High Council | Galshan's top-level military council; extremely restricted attendance. |
+| 開戦礼 | opening salute | Pre-battle meeting of opposing commanders in no-man's land; customary, implies fair battle. |
+| 投槍兵 | javelin troops | General term; Krische's mana-user javelin unit called "Alberinea's hunters" (アルベリネアの狩人). |
+| 一角獣 | unicorn | Author clarifies: rhinoceros-like creature (not mythical unicorn). |
+| ぼんじゃら | Bonjara | Krische's mana-crystal fragmentation bomb. Absurd name given by creator (Krische). Causes mana crystal structural collapse → explosion → scatters metal fragments. Kill zone ~3 ken. |
+| くろふよ隊 | Kuro-Fuyo Squad | Black Flag's informal earlier designation; mentioned in narrator's description of the javelin troops' origin. |
+| びゅんびゅん兵 | "whoosh-whoosh soldiers" | Krische's original nickname for the magical javelin troops before formal designation. |
+| 魔槍兵 | magical javelin troops | Formal designation for the Black Flag's mana-user javelin unit. |
+| 仮想筋肉 | virtual musculature | Krische's mana-based technique: replacing/supplementing physical muscles with mana constructs, optimized on the fly for each action. Allows 100% output in all directions/movements regardless of human biomechanical limits. |
+| 重いの / 軽いの | "the heavy one" / "the light one" | Krische's names for her left-hand and right-hand curved swords respectively. "The light one" is older and worn thin but sharper; "the heavy one" is newer, harder, with minimal wear per kill. |
+| シャーン語 | Shahni | Galshan language; derived from "Shahnia" in Olgan's lineage |
+| ベーズ豆 | beez beans | Sweet bean cultivated in southern kingdom/Galshan; Mia dislikes them |
+| ラクラ | rakura | Fictional fruit/ingredient used for pie; Kreschenta's favorite as rakura pie with honey |
+| 拝雨教 | rain-worship | Galshan faith venerating destruction and rebirth through strong rain |
+| まどろみクレシェンタ | 'Drowsy Kreschenta' | Narrator's comic label for Stage Two of Kreschenta's morning awakening |
+| ぷりぷりクレシェンタ | 'Huffy Kreschenta' | Narrator's comic label for Kreschenta's angry state when forced to wake alone; requires three cookies to pacify |
+| 覚醒クレシェンタ | 'Awakened Kreschenta' | Narrator's comic label for Kreschenta's final waking state |
+| わんわんクレシェンタ | 'Woof-Woof Kreschenta' | Narrator's comic label for Kreschenta's docile tea-time state with Bery |
+| 段階的覚醒 | 'staged awakening' | Narrator's mock-clinical term for Kreschenta's multi-stage waking process |
 ## TRANSLATION DECISIONS
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
 - ガイコツ = "Skeleton" (as English nickname proper); "Gaikotsu" in direct address.
@@ -270,6 +336,61 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 虚飾の王国 = "The Kingdom of Pretense" (虚飾 = empty/false ornamentation; chapter title captures Lila's ironic realization)
 - クレシェンタ＝ファーナ＝ヴェラ＝アルベラン in C.168 = "Kreschenta Farna Vera Alberan" (uses shortened Vera form consistent with C.154 diplomatic convention already noted)
 - オーザル = "Ozal" (royal district overseer; mentioned only in Anne's flashback)
+- ダグレーン＝ナクル＝ドーガリネア＝ガーカ = "Dagreen Nakul Dougarinea Gahka" — Source text consistently uses long vowels (ダグレーン, ドーガリネア, ガーカ) vs. context.md's ダグレン/ドウガリネア/ガーフカ. These refer to the same character. The long-vowel rendering "Dagreen" is used in this batch to match the source; reconciliation with existing "Dagren Nakul Dougarinea Garhka" entry recommended.
+- アルカザーリス = "Alkazaris" — 全てを蹂躙するもの = "The One Who Tramples All" (Galshan epithet for the magical beast elephant).
+- 戦神 (senjin, Olgan's epithet) = "war-god" — lowercase; used as descriptor, not a proper title.
+- コルキス in dialogue = "Kokys" (per existing convention; source uses コルキス for Kokys throughout).
+- ベリーボーナス = "Bery Bonus" — Krische's internal evaluation term for items/events that gain value because Bery arranged them. Rendered in quotes.
+- クリシュタンド裁判 = "Christand Trial" — narrator's comic term for the garter belt argument (C.171).
+- クリシェ様可愛いです教 = "'Krische-sama Is Adorable Church'" — narrator's satirical description of Bery's faction.
+- クリシュタンド風紀向上会議 = "'Christand Public Morals Improvement Council'" — narrator's satirical description of Selene.
+- 焦土作戦 = "scorched earth" — narrator's term for Bery's if-I-can't-win-neither-will-you tactic.
+- 魔法少女マジカル☆ベリーReincarnation (C.174) — April Fools' non-canon chapter. Title kept as-is in mixed Japanese/English.
+- 有賀ベリー = "Aruga Bery" — Bery's modern-AU surname in the joke chapter.
+- エルカール = "Elkaarl" (long vowel preserved; "the Giant" epithet).
+- キルレア = "Kilrea" (no long vowel; "the Sword-Saint" epithet).
+- ネイクル = "Neikrul" (Elkaarl's deputy).
+- ダルケリス = "Dalkeris" (Dagreen's adjutant).
+- ダールトン = "Dahlton" (Elkaarl's center commander).
+- ザーカ = "Zaaka" (Black Flag squad leader).
+- ボグス = "Bogus" (flag-bearer).
+- コーザ = "Koza" (archer captain/flag-bearer).
+- ガーレン = "Gahren" — flagged: appears in C.177 at the Gahka manor meeting. Distinct from ガレン (Gallen, Krische's grandfather). Likely a Gahka-side officer; romanization tentative pending confirmation.
+- 戦獅子長 = left contextually as "war-lion commander" — Galshan's senior unit commanders. Not yet standardized.
+- 上位者会議 = "High Council" (Galshan's restricted military council).
+- 一角獣 = "unicorn" per author's note (rhinoceros-like creature); kept as "unicorn" following source.
+- 巨人 (Elkaarl's epithet) = "the Giant."
+- 剣豪 (Kilrea's epithet) = "the Sword-Saint."
+- 開戦礼 (C.179 title) = "Opening Salute" — the pre-battle commanders' meeting.
+- 求婚の対価 (C.177 title) = "The Price of a Proposal."
+- 必勝法 (C.178 title) = "The Certain Victory" (lit. "sure-win method").
+- 少女クリシェと和平の使者 (C.176 title) = "The Maiden Krische and the Envoy of Peace."
+- アルベリネアの黒き旗 (C.180 title) = "The Black Flag of Alberinea."
+- アルベリネアの狩人 = "Alberinea's hunters" (the mana-user javelin unit's battlefield name).
+- 石拳 = "rock-paper-scissors" (Krische's metaphor for battle-line clashes; lit. "stone fist").
+- 果実酒 = "fruit wine" (Galshan beverage; southern origin).
+- ラクール = "Lakoul" (war-lion commander, Elkaarl's left wing; killed by Begil).
+- キーニア = "Kiinia" (war-lion commander, Kilrea's formation; killed by Bonjara).
+- ダズール = "Dazurl" (Galshan common soldier; POV character showing ground-level experience of Bonjara).
+- オルカ = "Orka" (Kilrea's adjutant; shields Kilrea from Krische's javelin, killed).
+- ネッキ = "Nekki" (engineering squad member who lost his Jaleia Gashea to Elkaarl).
+- ベーグ = "Beeg" (Creisharana warrior who carries Mia on his griffin).
+- レックス = "Reks" (Begil's lance-bearer escort).
+- ぼんじゃら = "Bonjara" — Krische's name for her fragmentation bomb. Kept as-is; the narrator notes the name is absurd.
+- 仮想筋肉 = "virtual musculature" — Krische's mana-based full-body muscle replacement/optimization.
+- 重いの / 軽いの = "the heavy one" / "the light one" — Krische's pet names for her two curved swords, rendered in quotes.
+- くろふよ隊のびゅんびゅん兵 = "the 'whoosh-whoosh soldiers' of the Kuro-Fuyo Squad" — preserved informal naming.
+- 魔槍兵 = "magical javelin troops" — formal unit designation.
+- シャーン語 = "Shahni" (language name derived from Shahnia in Olgan's full name; parallel to how other language names derive from nation/people names).
+- ベーズ豆 = "beez beans" (transliterated; fictional cultivated bean).
+- ラクラ = "rakura" (untranslated fictional ingredient).
+- 拝雨教 = "rain-worship" (descriptive rendering of Galshan faith).
+- エーリュケ = "Ehryuke" (tentative; Galshan officer name, no confirmed romanization).
+- ローゲリウス = "Rogerius" (tentative; Latinized rendering based on katakana).
+- ベルツ = "Beltz" (Germanic rendering matching katakana).
+- オールガン＝ディケル＝シャーニア = "Olgan Dikel Shahnia" (full name revealed in C.187 flashback).
+- Kreschenta's morning routine comic narration: treated same as prior narrator comic labels ("Bery Scripture," "Christand Trial," etc.) — rendered in quotes with mock-serious tone preserved.
+- ベギル in C.187 line "ベギル、そのまま手当てを" — likely a minor character (orderly/medic) rather than Begil Sandika; flagged as ambiguous.
 ## Measurements
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
 - 里: **two scales in use.** Standard geographic ri ≈ 3.9 km. Author's tactical-arc ri ≈ 400 m (established C.78). Render as "one ri" etc. and add T/N flagging which scale applies.
@@ -350,7 +471,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 **Aleha Sarshenka** — Former Empire general; excommunicated after Arzlen defeat. Now serves Krische. Left-side lead stance, high guard, signature two-stage downward+upward combination. Earnest, reflective. Lost all eight sparring rounds against Krische (C.133).
 
-**Waltza Del Grizlandy** — Aleha's companion/advisor. One-armed (left arm severed by Krische at Arzlen). Willingly submitted to Krische's custody.
+**Waltza Del Grizlandy** — Aleha's companion/advisor. One-armed (left arm severed by Krische at Arzlen). Willingly submitted to Krische's custody. — (Existing entry update) Fought Zalvarg at Alberinea headquarters defense (C.186). Prosthetic left arm (confirmed metal/Jaleia Gashea material) blocked Zalvarg's curved blade — the same material as the war-golems. Threw a Bonjara at Zalvarg's cavalry. Despite prior injuries, his spear technique remains sharp. Addressed by Aleha with concern about recklessness.
 
 **Roland Seba** — Fat merchant; operated debt-bondage network. Executed by Krische in Kirzalan (C.97).
 
@@ -373,16 +494,59 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 **Bery Argan** — Lost her sense of taste as a side effect of the dragon's blood treatment (C.160). All seasonings taste like "sand"; she can detect only texture and aroma. Hiding this from Krische, cooking only well-practiced dishes from memory. This affects how her cooking scenes should be rendered from C.160 onward: her usual confident, sensory-rich internal voice when seasoning is now underlaid with concealed anxiety.
 
 **Ozal** — Overseer of the royal district estates. Mentioned in Anne's flashback (C.169) as having issued instructions to treat Bery as the margravine. Minor historical reference only.
-## TIMELINE SUMMARY
 
-**Arc 1 (C.1–24):** Krische's village childhood → Gorka and Grace killed by bandits → Krische kills bandits → adopted by Bogan → meets Bery and Selene → Empire invasion → Battle of Arzlen (decisive victory). Krische proposes damming strategy, flanking assault, captures Walter.
+**Arika Sazubern** — Tailor; third daughter of a great noble house. Female. Known for slightly mature, alluring designs popular in high society. Made Krische's garter belt. Not a commercial tailor by origin — started as a hobbyist with her own wardrobe.
 
-**Arc 2 (C.25–51):** Capital visit → Roland encounter → Bery relationship deepens (oath of devotion, hidden name) → Kreschenta introduced → king dies (Kreschenta's doing) → Christand shelters Kreschenta → civil war begins → Fort Belgash mobilization → Black century formed → Kreschenta proposes burning Mitskronia.
+**Gal Bilkees** — Captain of the Galshan sand-lizard cavalry (elite). Wears a dragon-jawed helm. Veteran with sharp battlefield instincts. Immediately recognized Krische as dangerous on instinct; ordered a change from disruption to breakthrough before the battle began. Speech: measured, respectful of enemies.
 
-**Arc 3 (C.52–83):** Dragon's Maw campaign → Salva's betrayal → Bogan dies → Krische takes First Corps command → guerrilla campaign on Bernaich → Battle of Central Plain (Markelus killed) → Hilkintos captured and executed → Roland executed in Kirzalan → Kokys kills his son Gran → Terrius killed by Gildanstein → Dragon's Maw secured (Geltz surrenders). Selene appointed General; Krische appointed First Corps Commander.
+**Elke** — Gal Bilkees's young adjutant. Minor role; admires Gal.
 
-**Arc 4 (C.84–110):** Kreschenta's Arna Empire mission → Nozan advances east → final campaign → Gildanstein personally leads strike against Selene → Terrius dies → Gildanstein breaks through to Selene's HQ → Nakilus arrives; Krische intercepts, kills Nakilus → Krische kills Gildanstein in single combat. Civil war ends.
+**Alkazaris** — Galshan magical beast; a blue-skinned elephant of immense size (shoulder height ~40 shaku). Called "The One Who Tramples All." Born by chance during Galshan elephant breeding. Female. Killed by Krische's thrown spear before the battle began (C.172). Failed to reproduce despite extensive efforts (7 male elephants killed in the attempts).
 
-**Arc 5 (C.111–143):** Salva beheaded by Gallen → Selene becomes Marshal, Krische becomes Alberinea, Kreschenta crowned queen → coronation/victory ceremony → Black Flag reorganized → Karka Village visit (Galla, Pell, Galla's son's death confession) → Mia's Kirnan visit (refuses Bazel's proposal) → Aleha/Waltza join Krische → Kirzalan: Roland's secret ledger used against noble faction → international conference → Bery stabbed with night's drop (C.142) → Krische creates time-stasis sphere to preserve Bery → Kreschenta's Great Purge (17 nobles killed, C.143).
+**Dagreen Nakul Dougarinea Gahka** — Southern General; Duke. Six-shaku (180+ cm), heavily muscled, bearded, bandit-like appearance. Long-time rival of Olgan. Defended the southern border for decades. Uses わし; frank, rough speech masking sharp intelligence. Well-informed through extensive spy networks. Offered himself as sacrificial pawn to Krische; visibly delighted by her confidence. (Note: existing entry for "Dagren Nakul Dougarinea Garhka" refers to this character — long-vowel rendering matches source text.)
 
-**Arc 6 (C.144–170):** Krische travels to Albyagel → acquires jade tiger Gururun → coerces Lila Sharana into guiding her → defeats Velvas at the forbidden domain entrance → confronts Yagelnaus → pierces the dragon's wing with a thrown spear → negotiates for dragon's blood → obtains the remedy and returns → Bery wakes (C.156) → Privy Council session frames the Albyagel trip as a diplomatic mission (C.157) → major strategy meeting establishes interior-lines defensive war plan with central generals (C.158) → Gallen confronts Krische over the noble killings (C.159) → Bery's taste loss revealed; Krische may have noticed (C.160) → Krische confirms Bery's taste loss via salty cookies; flees in distress (C.161) → Selene and Kreschenta comfort Bery; Bery finds Krische in underground lab planning tongue-transplant experiments on mice; Bery reframes the situation — asks Krische to be her tongue instead; they reconcile over cooking (C.162) → jade tiger viewing party for the army; Koz delivers a masterwork curved sword with Gurgain craftsmen's collaborative embellishments; dual-sword belt; Bery invents the garter belt concept (C.163) → Creisharana delegation of 30 griffin riders arrives led by Vinsreel and Lila; Argoush escorts them; Kreschenta receives them on the red carpet and smooths over their protocol breach; formal audience establishes personal (not national) Creisharana loyalty to Krische; Kreschenta invites them to a private dinner (C.164) → Krische, Bery, and Kreschenta cook for the Creisharana guests; Kreschenta's ulterior motive is Creisharana's mana crystal deposits; Bery calibrates her impaired palate against Krische's and Kreschenta's feedback; domestic comedy as Kreschenta and Bery spar over Krische (C.165) → Creisharana dinner party: floor-seated feast of hearty meat dishes; Kreschenta demonstrates detailed knowledge of Argoush's territory; Kokys opens discussion of the military situation; Vinsreel commits 30 elite griffin riders as Krische's personal guard and Creisharana pledges to fight alongside the kingdom, seeking a pretext via "military exchange"; Kreschenta accepts, assigning them to the western (Elderant) front (C.166) → Kokys and Vinsreel spar to a draw, earning mutual respect; military exchange event between kingdom and Creisharana soldiers; Krische questions the human enjoyment of combat; Vinsreel explains Creisharana philosophy of self-discipline modeled on Yagelnaus; Selene reframes it for Krische; Krische plans to integrate the 30 griffin riders with Black Flag Special Service for a new tactical concept (C.167) → Kreschenta meets Lila privately to discuss trade (mana crystals for agricultural seeds) and cultural exchange; Lila bathes at Christand estate — comic "washy-washy" scene; Kreschenta storms in jealously and is witnessed naked by Lila; Lila concludes the kingdom runs on pretense (C.168) → Argoush and Anne reunite; Anne recounts her life story and path to servanthood inspired by Bery; Argoush urges her to consider marriage; father-daughter reconciliation (C.169) → Bery invents the garter belt; Anne walks in on Krische modeling it; misunderstanding ensues; Anne consults Bery about marriage; Bery counsels her with a river metaphor about choosing one's own path; Kreschenta returns and needles Anne; Krische sleepily affirms Anne's place as Kreschenta's attendant (C.170).
+**Olgan** — Updated: commands the Galshan invasion as supreme commander; epithet 戦神 "war-god." Born royal, stood with the people, overthrew the old kingdom. Long-time rival of Dagreen. Chose to concentrate 100,000 troops for a head-on battle rather than employ flanking maneuvers — honoring his rivalry with Dagreen.
+
+**Elkaarl** — Galshan eastern general; epithet "the Giant" (巨人). Seven shaku (~210 cm), superhuman frame, bald, boulder-like face. Wears elephant-emblemed armor. Commands the right wing (30,000) in the Battle of Milhirea. Veteran of the Galshan civil war, fought alongside Olgan. Speech: terse, blunt, 俺. Killed by Alberinea's forces in the opening engagement (C.183 per project knowledge).
+
+**Kilrea** — Galshan western general; epithet "the Sword-Saint" (剣豪). Lean, scholar-like build, white-streaked hair tied back, deep-set features, piercing gaze. Commands the left wing (55,000) in the Battle of Milhirea. Veteran of the civil war. Speech: formal-lean, analytical, ですな register. Killed in the battle (C.183 per project knowledge).
+
+**Zaaka** — Black Flag squad leader. Wears an eyepatch over left eye (lost at the Dragon's Maw). Veteran of the Bernaich mountain campaign. Speech: casual, blunt, irreverent. Serves under Aleha during the Battle of Milhirea vanguard action.
+
+**Koza** — Black Flag archer captain. Scarred, stern face. Carries the crescent-skull banner during the Battle of Milhirea. Minor role.
+
+**Neikrul** — Elkaarl's deputy commander. Small-framed. Minor analytical role during Elkaarl's tactical deliberations.
+
+**Dalkeris** — Dagreen's adjutant. Face covered in scars. Present at the Olgan-Dagreen meeting (C.177). Minor role.
+
+**Gahren** — Present at the Gahka manor meeting (C.177). Distinct from Gallen (ガレン). Likely a Gahka-side officer. Minimal role; requires confirmation of identity.
+
+**Lakoul** — War-lion commander on Elkaarl's left wing. Analytical but fatally slow to react after elephant losses. Chose mobile defense over retreat; killed by Begil Sandika before he could execute the plan. Speech: battlefield analytical.
+
+**Kiinia** — War-lion commander in Kilrea's formation. Battle-hardened civil war veteran. Showed confidence and composure to maintain troop morale. Killed by Bonjara bombing without ever engaging the enemy directly.
+
+**Dazurl** — Galshan common soldier; a volunteer levy. POV character for the ground-level experience of the Bonjara attack. Driven mad by the carnage. No speech of note.
+
+**Orka** — Kilrea's adjutant. Saved Kilrea from Krische's javelin by bodily knocking him aside; killed instantly (upper body destroyed). Speech: loyal, brief.
+
+**Nekki** — Engineering squad member operating a Jaleia Gashea; lost his unit to Elkaarl. Prosthetic leg. Assigned to signal duty for Krische after the loss. Remorseful about the unit's destruction.
+
+**Beeg** — Creisharana warrior; griffin rider carrying Mia. Flirtatious in the western common tongue. Minor comic role.
+
+**Reks** — Begil's escort; carries his lance. Minimal dialogue.
+
+**Begil Sandika** — (Existing entry update) Third Corps Commander under Alberinea. Former Wolf Pack (First Battalion) adjutant under Granmeld. Rose from common soldier. Zain-style swordsman specializing in the killing thrust. Easygoing and approachable normally; transforms into a bloodthirsty berserker in battle. Pervert (fixated on Krische's garter belt throughout the charge). Killed War-lion Commander Lakoul in single combat. Speech: bombastic, taunting, performative in battle.
+
+**Fagran** — (Existing entry update) Now serves as battalion commander and de facto adjutant under Begil. Declined Krische's offer to become Fourth Corps Commander in order to serve under Begil. Finds Begil's battle-madness compelling. Speech: sardonic amusement in battle.
+
+**Ehryuke** — Galshan officer under Zalvarg. Commands part of the 3,000 elite during the flanking attempt. Addresses Zalvarg formally. Minimal role (C.186). Romanization tentative.
+
+**Rogerius** — Zalvarg's camel cavalry captain. Commands the 500 camel cavalry in the headquarters assault. Minimal dialogue (C.186). Romanization tentative.
+
+**Beltz** — Black Flag Special Service cooking instructor. Stern-faced but earnest; cooks for the unit during the campaign. Deferential to Krische; anxious about her reduced appetite (C.190). Speech: respectful (です/ます).
+
+**Olgan Dikel Shahnia** — (Existing entry update) Full name revealed in C.187 flashback. Former prince who led a revolution against his elder brother. Self-described motivation: boredom, love of war, and distaste for the ruling class — though he also promised institutional reform. Recruited Zalvarg after the latter's failed revenge. Speech in flashback: more intimate, challenging, philosophical — retains bombastic quality but with rawer edges. Swears oaths "upon the rain" (Galshan religious custom). Post-defeat, contemplated stepping down but was talked out of it by Zalvarg. Recognizes Alberinea and Kreschenta as harbingers of a new era.
+
+**Zalvarg** — (Existing entry update) Former cobbler. Sister was taken by a Galshan kingdom-era nobleman, abused, and killed; Zalvarg's revenge ended when he found the nobleman dead by suicide. Recruited by Olgan; has served as his right hand since. Epithet: "Twin Blades" (双剣のザルヴァーグ) — dual curved-sword style born of practical necessity, not aesthetic choice. Pragmatic soldier, not a warrior; disdains single combat. During C.186, destroyed two Jaleia Gashea in rapid succession using Elkaarl's intelligence about their head weakness. Fought Waltza (blocked by prosthetic arm), was shot by Gallen (short bow, 30 ken, no mana), and was ultimately defeated and captured by Krische. Left arm broken, bound as prisoner. Post-battle: pushed Olgan to continue governing rather than abdicate.
+
+**Gallen** — (Existing entry update) Present at the Alberinea headquarters during the battle (C.186). Despite apparently being unable to use mana, shot Zalvarg accurately with a short bow from 30 ken while mounted. This confirms he accompanied the army to the southern front despite his age and health.
