@@ -1,32 +1,26 @@
 #!/usr/bin/env python3
 """
-merge_kb.py — Merge new knowledge base additions into knowledge_base.md
+merge_kb.py — Merge new knowledge base additions into context.md
 
 USAGE:
     python3 merge_kb.py additions.md
-    python3 merge_kb.py additions.md --kb path/to/knowledge_base.md
+    python3 merge_kb.py additions.md --kb path/to/context.md
     python3 merge_kb.py additions.md --dry-run
 
 The additions file is the second output Claude produces after a translation batch.
 It should contain only new/changed content, with section headings matching
-knowledge_base.md exactly.
+context.md exactly.
 
 MERGE BEHAVIOUR BY SECTION:
-    NAME ROMANIZATIONS          — append new table rows before the closing ---
-    CORE CHARACTERS             — append new ### subsections
-    SECONDARY CHARACTERS        — append new ### subsections
-    PLACE NAMES AND LOCATIONS   — append new table rows before the closing ---
-    WORLD-BUILDING REFERENCE    — append new ### subsections or bullet points
-    TIMELINE: CHAPTERS *        — append new table rows into the existing TIMELINE
-                                  section (matched by the TIMELINE keyword, ignoring
-                                  the chapter range in the heading)
-    RECURRING THEMES AND MOTIFS — append new numbered items, renumbering if needed
-    TRANSLATOR NOTES *          — append new bullet points into the existing
-                                  TRANSLATOR NOTES section (matched by keyword,
-                                  ignoring the chapter range in the heading)
-    COVERAGE LINE               — replace the *Current coverage* line at the top
-    NEW SECTIONS                — any section not found in the existing file is
-                                  appended at the end
+    NAME ROMANIZATIONS    — append new table rows
+    SPEECH PATTERNS       — append new bullet items (- **Name:** ...)
+    RECURRING TERMS       — append new table rows
+    TRANSLATION DECISIONS — append new bullet items (- ...)
+    SECONDARY CHARACTERS  — append new **Name** bold blocks, or update existing ones
+    TIMELINE SUMMARY      — replace the matching Arc N line in the existing section
+    COVERAGE LINE         — replace the *Current coverage* line at the top
+    NEW SECTIONS          — any section not found in the existing file is
+                            appended at the end
 """
 
 import re
@@ -34,7 +28,6 @@ import sys
 import shutil
 import argparse
 from pathlib import Path
-from datetime import date
 
 # ── Colour helpers ─────────────────────────────────────────────────────────────
 RESET = "\033[0m"; GREEN = "\033[0;32m"; YELLOW = "\033[1;33m"
@@ -99,20 +92,17 @@ def update_coverage_line(preamble: str, new_coverage: str) -> str:
 
 def append_table_rows(existing: str, addition: str) -> str:
     """
-    For table-based sections (NAME ROMANIZATIONS, PLACE NAMES).
-    Appends new rows from the addition, skipping header/separator rows and
-    any rows whose first cell already exists in the existing content.
-    Inserted before the trailing --- if present, otherwise at the end.
+    For table-based sections (NAME ROMANIZATIONS, RECURRING TERMS).
+    Appends new rows, skipping header/separator rows and duplicates.
+    Inserts before trailing --- if present.
     """
     new_rows = []
     for line in addition.splitlines():
         stripped = line.strip()
-        # Skip blank lines, header rows, separator rows
         if not stripped or stripped.startswith("|---|") or stripped == "|---|---|---|":
             continue
         if not stripped.startswith("|"):
             continue
-        # Extract first cell to check for duplicates
         cells = [c.strip() for c in stripped.strip("|").split("|")]
         first_cell = cells[0] if cells else ""
         if first_cell and first_cell not in existing:
@@ -123,122 +113,15 @@ def append_table_rows(existing: str, addition: str) -> str:
 
     new_block = "\n".join(new_rows) + "\n"
 
-    # Insert before the trailing --- separator if it exists
     sep_pos = existing.rfind("\n---\n")
     if sep_pos != -1:
         return existing[:sep_pos + 1] + new_block + existing[sep_pos + 1:]
     return existing.rstrip() + "\n" + new_block
 
 
-def append_subsections(existing: str, addition: str) -> str:
-    """
-    For character/world-building sections with ### subsections.
-    Appends any ### subsection from addition that doesn't already exist in existing.
-    Updates existing ### entries if the addition contains the same heading with new content.
-    """
-    # Parse ### subsections from addition
-    add_subs: dict[str, str] = {}
-    current = None
-    current_lines: list[str] = []
-
-    for line in addition.splitlines(keepends=True):
-        if line.startswith("### "):
-            if current is not None:
-                add_subs[current] = "".join(current_lines)
-            current = line.rstrip("\n")
-            current_lines = []
-        else:
-            if current is not None:
-                current_lines.append(line)
-
-    if current is not None:
-        add_subs[current] = "".join(current_lines)
-
-    if not add_subs:
-        # No ### subsections — treat as plain text to append
-        stripped = addition.strip()
-        if stripped and stripped not in existing:
-            return existing.rstrip() + "\n\n" + stripped + "\n"
-        return existing
-
-    result = existing
-    for heading, content in add_subs.items():
-        if heading in existing:
-            # Subsection exists — append any genuinely new bullet/detail lines
-            # Find the existing subsection and add new lines after it
-            new_lines = []
-            for line in content.splitlines():
-                line_stripped = line.strip()
-                if line_stripped and line_stripped not in existing:
-                    new_lines.append(line)
-            if new_lines:
-                insert_after = heading
-                pos = result.find(insert_after)
-                if pos != -1:
-                    end_pos = result.find("\n### ", pos + 1)
-                    if end_pos == -1:
-                        end_pos = len(result)
-                    block = result[pos:end_pos].rstrip()
-                    result = (result[:pos]
-                              + block + "\n"
-                              + "\n".join(new_lines) + "\n"
-                              + result[end_pos:])
-        else:
-            # New subsection — append to end
-            result = result.rstrip() + "\n\n" + heading + "\n" + content
-
-    return result
-
-
-def append_numbered_list(existing: str, addition: str) -> str:
-    """
-    For RECURRING THEMES AND MOTIFS — numbered list.
-    Appends new items and renumbers the whole list sequentially.
-    """
-    def extract_items(text: str) -> list[str]:
-        items = []
-        for line in text.splitlines():
-            m = re.match(r"^\d+\.\s+(.+)", line.strip())
-            if m:
-                items.append(m.group(1))
-        return items
-
-    existing_items = extract_items(existing)
-    new_items = extract_items(addition)
-
-    added = False
-    for item in new_items:
-        if item not in existing_items:
-            existing_items.append(item)
-            added = True
-
-    if not added:
-        return existing
-
-    # Rebuild numbered list, keeping surrounding non-list text
-    # Find where the list starts and ends in existing
-    lines = existing.splitlines(keepends=True)
-    list_start = list_end = None
-    for i, line in enumerate(lines):
-        if re.match(r"^\d+\.", line.strip()):
-            if list_start is None:
-                list_start = i
-            list_end = i
-
-    numbered = "".join(f"{i+1}. {item}\n" for i, item in enumerate(existing_items))
-
-    if list_start is not None:
-        return (
-            "".join(lines[:list_start])
-            + numbered
-            + "".join(lines[list_end + 1:])
-        )
-    return existing.rstrip() + "\n\n" + numbered
-
-
 def append_bullet_list(existing: str, addition: str) -> str:
     """
-    For TRANSLATOR NOTES — bullet list.
+    For SPEECH PATTERNS and TRANSLATION DECISIONS — bullet lists.
     Appends new bullet items that don't already appear in existing.
     """
     new_bullets = []
@@ -253,19 +136,101 @@ def append_bullet_list(existing: str, addition: str) -> str:
     return existing.rstrip() + "\n" + "\n".join(new_bullets) + "\n"
 
 
+def append_secondary_characters(existing: str, addition: str) -> str:
+    """
+    For SECONDARY CHARACTERS — **Name** bold entry lines.
+
+    Format in context.md:
+        **Name** — description sentence. More detail.
+
+    New characters are appended at the end.
+    Existing characters get additional sentences appended to their line
+    if the addition supplies content not already present.
+    """
+    # Parse addition into {name: full_line} for bold-name entries
+    add_blocks: dict[str, str] = {}
+    for line in addition.splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        m = re.match(r"\*\*([^*]+)\*\*", stripped)
+        if m:
+            name = m.group(1)
+            add_blocks[name] = stripped
+
+    if not add_blocks:
+        stripped_add = addition.strip()
+        if stripped_add and stripped_add not in existing:
+            return existing.rstrip() + "\n\n" + stripped_add + "\n"
+        return existing
+
+    result = existing
+    new_entries: list[str] = []
+
+    for name, block in add_blocks.items():
+        if f"**{name}**" in result:
+            # Character exists — append any new trailing content to their line
+            pat = re.compile(r"(\*\*" + re.escape(name) + r"\*\*[^\n]*)", re.MULTILINE)
+            m2 = pat.search(result)
+            if m2:
+                existing_line = m2.group(1)
+                # Extract what the addition adds beyond the bold name
+                add_suffix = block[len(f"**{name}**"):].strip()
+                if add_suffix and add_suffix not in existing_line:
+                    new_line = existing_line.rstrip() + " " + add_suffix
+                    result = result[:m2.start()] + new_line + result[m2.end():]
+        else:
+            new_entries.append(block)
+
+    if new_entries:
+        result = result.rstrip() + "\n\n" + "\n\n".join(new_entries) + "\n"
+
+    return result
+
+
+def replace_timeline_arc(existing: str, addition: str) -> str:
+    """
+    For TIMELINE SUMMARY — replace matching Arc line(s).
+
+    The addition should contain one or more lines of the form:
+        **Arc N (C.X–Y):** ...summary...
+
+    For each such line, find the matching **Arc N** line in the existing
+    content and replace it in-place. If no match is found, append.
+    """
+    add_arcs: list[tuple[str, str]] = []  # (arc_label e.g. "Arc 6", full replacement line)
+    for line in addition.splitlines():
+        stripped = line.strip()
+        m = re.match(r"\*\*Arc\s+(\d+)", stripped)
+        if m:
+            add_arcs.append((f"Arc {m.group(1)}", stripped))
+
+    if not add_arcs:
+        return existing
+
+    result = existing
+    for arc_label, new_line in add_arcs:
+        pat = re.compile(r"^\*\*" + re.escape(arc_label) + r"\b.*$", re.MULTILINE)
+        m2 = pat.search(result)
+        if m2:
+            result = result[:m2.start()] + new_line + result[m2.end():]
+            info(f"Replaced {arc_label} in TIMELINE SUMMARY")
+        else:
+            result = result.rstrip() + "\n\n" + new_line + "\n"
+            info(f"Appended new {arc_label} to TIMELINE SUMMARY")
+
+    return result
+
+
 # ── Section routing ────────────────────────────────────────────────────────────
 
-# Keywords that identify each section type, regardless of trailing chapter ranges
-# e.g. "## TIMELINE: CHAPTERS 42–45" and "## TIMELINE: CHAPTERS 1–41" both match "TIMELINE"
 _SECTION_KEYWORDS: list[tuple[str, str]] = [
-    ("NAME ROMANIZATIONS",  "table"),
-    ("PLACE NAMES",         "table"),
-    ("CORE CHARACTERS",     "subsections"),
-    ("SECONDARY CHARACTERS","subsections"),
-    ("WORLD-BUILDING",      "subsections"),
-    ("TIMELINE",            "table"),       # append rows into existing timeline section
-    ("RECURRING THEMES",    "numbered_list"),
-    ("TRANSLATOR NOTES",    "bullet_list"), # append bullets into existing notes section
+    ("NAME ROMANIZATIONS",    "table"),
+    ("SPEECH PATTERNS",       "bullet_list"),
+    ("RECURRING TERMS",       "table"),
+    ("TRANSLATION DECISIONS", "bullet_list"),
+    ("SECONDARY CHARACTERS",  "secondary_characters"),
+    ("TIMELINE SUMMARY",      "timeline_arc"),
 ]
 
 
@@ -281,15 +246,7 @@ def classify_heading(heading: str) -> str:
 def fuzzy_find_heading(addition_heading: str, kb_sections: dict[str, str]) -> str | None:
     """
     Find the best matching existing section heading for an additions heading.
-
-    Exact match is tried first. If that fails, we strip trailing parenthesised
-    chapter ranges and compare on the stable keyword portion. This handles cases
-    like:
-        additions: "## TIMELINE: CHAPTERS 42–45"
-        kb:        "## TIMELINE: CHAPTERS 1–41"
-    and:
-        additions: "## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–45)"
-        kb:        "## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–41)"
+    Exact match first, then keyword-based fuzzy match.
     """
     if addition_heading in kb_sections:
         return addition_heading
@@ -297,7 +254,6 @@ def fuzzy_find_heading(addition_heading: str, kb_sections: dict[str, str]) -> st
     add_upper = addition_heading.upper()
     for keyword, _ in _SECTION_KEYWORDS:
         if keyword in add_upper:
-            # Find the kb heading that also contains this keyword
             for kb_heading in kb_sections:
                 if kb_heading == "_preamble":
                     continue
@@ -309,12 +265,12 @@ def fuzzy_find_heading(addition_heading: str, kb_sections: dict[str, str]) -> st
 def merge_section(existing: str, addition: str, strategy: str) -> str:
     if strategy == "table":
         return append_table_rows(existing, addition)
-    if strategy == "subsections":
-        return append_subsections(existing, addition)
-    if strategy == "numbered_list":
-        return append_numbered_list(existing, addition)
     if strategy == "bullet_list":
         return append_bullet_list(existing, addition)
+    if strategy == "secondary_characters":
+        return append_secondary_characters(existing, addition)
+    if strategy == "timeline_arc":
+        return replace_timeline_arc(existing, addition)
     # default: append if content not already present
     stripped = addition.strip()
     if stripped and stripped not in existing:
@@ -334,19 +290,19 @@ def latest_kb_addition(kb_additions_dir: Path) -> Path | None:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Merge knowledge base additions into knowledge_base.md"
+        description="Merge knowledge base additions into context.md"
     )
     parser.add_argument("additions", nargs="?", default=None,
                         help="Path to the additions .md file from Claude "
                              "(default: latest file in kb_additions/)")
     parser.add_argument("--kb", default=None,
-                        help="Path to knowledge_base.md (default: ./knowledge_base.md)")
+                        help="Path to context.md (default: ./context.md)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Print what would change without writing anything")
     args = parser.parse_args()
 
     script_dir = Path(__file__).resolve().parent
-    kb_path = Path(args.kb) if args.kb else script_dir / "knowledge_base.md"
+    kb_path = Path(args.kb) if args.kb else script_dir / "context.md"
 
     if args.additions:
         add_path = Path(args.additions)
@@ -359,7 +315,7 @@ def main():
         info(f"Using latest additions file: {add_path.name}")
 
     if not kb_path.exists():
-        err(f"knowledge_base.md not found: {kb_path}")
+        err(f"context.md not found: {kb_path}")
         sys.exit(1)
     if not add_path.exists():
         err(f"Additions file not found: {add_path}")
@@ -371,7 +327,7 @@ def main():
     # Check for no-op
     stripped_add = add_text.strip()
     if not stripped_add or stripped_add.lower() == "no updates required.":
-        ok("Additions file contains no updates. knowledge_base.md unchanged.")
+        ok("Additions file contains no updates. context.md unchanged.")
         return
 
     kb_sections  = parse_sections(kb_text)
@@ -405,8 +361,6 @@ def main():
             continue
 
         strategy = classify_heading(heading)
-
-        # Resolve the kb heading — exact match first, then fuzzy
         kb_heading = fuzzy_find_heading(heading, kb_sections)
 
         if kb_heading is not None:
@@ -418,7 +372,6 @@ def main():
             else:
                 info(f"No new content for: {kb_heading}")
         else:
-            # Brand new section not found anywhere in existing KB — append at end
             new_sections_to_append.append((heading, add_content))
             changes.append(f"New section added: {heading}")
 
@@ -430,7 +383,7 @@ def main():
     new_kb_text = sections_to_text(kb_sections)
 
     if not changes:
-        ok("No changes detected. knowledge_base.md unchanged.")
+        ok("No changes detected. context.md unchanged.")
         return
 
     print()
@@ -448,7 +401,7 @@ def main():
     shutil.copy2(kb_path, bak)
     kb_path.write_text(new_kb_text, encoding="utf-8")
 
-    ok(f"knowledge_base.md updated  ({len(changes)} change(s))")
+    ok(f"context.md updated  ({len(changes)} change(s))")
     ok(f"Backup saved: {bak.name}")
     print()
 

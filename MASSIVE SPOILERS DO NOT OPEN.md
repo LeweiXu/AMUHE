@@ -36,7 +36,7 @@ would be like a 4/10).
 
 Translate the following chapters of 少女の望まぬ英雄譚 in order.
 
-Follow all rules in context.md and knowledge_base.md exactly.
+Follow all rules in context.md exactly.
 Treat all chapters as one continuous session — maintain perfect consistency in character
 voice, name romanizations, and terminology across all of them.
 
@@ -68,55 +68,70 @@ is correct. The goal is a clean reading experience, not aggressive annotation.
 ---
 
 #### File 2 — Knowledge Base Additions
-
 After ALL chapters are translated, produce a second file containing ONLY new information
-introduced in this batch. The new information should be concise and condensed. Only add
-information necessary for translation accuracy. A merge script will apply these additions 
-automatically, so follow the format rules below exactly — the script depends on them.
+introduced in this batch. A merge script will apply these additions automatically, so
+follow the format rules exactly — the script depends on them.
 
 **First line of File 2 must always be:**
 `*Update coverage line to: Chapters 1–[last chapter number in this batch]*`
 
-**Then include only sections that actually have new content.** Omit any section entirely
-if nothing new was introduced in it. If nothing at all is new, write only:
-`No updates required.`
+**Then include only the sections below that actually have new content.**
+If nothing at all is new, write only: `No updates required.`
 
-**Format rules by section:**
+---
 
 `## NAME ROMANIZATIONS`
-New rows only. Use the same 3-column table format as the existing file:
-`| Japanese | English | Role |`
-Do not repeat the table header. Do not include rows already in knowledge_base.md.
+New rows only. Same 3-column table format — do NOT repeat the header row:
+```
+| Japanese | English | Role/Notes |
+```
+One row per new name. Do not include names already in context.md.
 
-`## CORE CHARACTERS`
-New characters only, as full `### Character Name` subsection blocks.
-For existing characters, only add genuinely new bullet points not already present —
-use the same `### Character Name` heading so the script can locate the entry.
+---
+
+`## SPEECH PATTERNS`
+New characters only. Use the same bullet format as the existing section:
+```
+- **Name:** Register description. Distinctive features.
+```
+Do not re-list characters already present.
+
+---
+
+`## RECURRING TERMS`
+New rows only. Same 3-column table format — do NOT repeat the header row:
+```
+| Japanese | English | Notes |
+```
+
+---
+
+`## TRANSLATION DECISIONS`
+New decisions only. Use the same bullet format as the existing section:
+```
+- Japanese = "English" (explanation if needed)
+```
+
+---
 
 `## SECONDARY CHARACTERS`
-Same rules as CORE CHARACTERS.
+New characters only, as bold-name entry lines matching the existing format:
+```
+**Name** — Role/description. Key facts relevant to translation (speech register, status, relationship to main cast).
+```
+One line per character. Do not create subsections or headers within this block.
+For existing characters, only add a new entry line if there is a genuinely new
+fact that affects translation (e.g. a new speech register note, a name change,
+a status change that will alter how other characters address them).
 
-`## PLACE NAMES AND LOCATIONS`
-New rows only, same 2-column table format: `| **Name (Japanese)** | Description |`
-Do not repeat the table header.
+---
 
-`## WORLD-BUILDING REFERENCE`
-New `### subsection` blocks or new bullet points under existing subsections only.
-
-`## TIMELINE: CHAPTERS X–Y`
-Use a fresh heading with the exact chapter range of this batch, e.g.
-`## TIMELINE: CHAPTERS 42–45`
-This becomes a new standalone section — do not try to modify the existing timeline.
-Use the same table format: `| Chapter(s) | Event |`
-Include the table header row for this new section.
-
-`## RECURRING THEMES AND MOTIFS`
-New items only, as unnumbered lines (the script handles renumbering):
-`**Theme name** — Description`
-
-`## TRANSLATOR NOTES FROM ORIGINAL TRANSLATION (C.1–41)`
-New bullet points only, using `- ` prefix.
-Update the heading's chapter range if needed (e.g. change C.1–41 to C.1–45).
-
-**Any entirely new section** not listed above: include it with its full `## HEADING`
-and complete content. The script will append it to the end of knowledge_base.md.
+`## TIMELINE SUMMARY`
+Output the updated Arc line for the **current arc only** — the arc that covers
+the chapters in this batch. Use the exact format:
+```
+**Arc N (C.X–Y):** One-sentence-per-beat summary of the arc through the end of this batch.
+```
+The script will find the matching Arc N line in context.md and replace it in-place.
+If this batch begins a new arc, output a new Arc line and the script will append it.
+Do NOT output lines for arcs not touched by this batch.
