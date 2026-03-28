@@ -32,7 +32,7 @@ I also did some quality testing by having Opus 4.6 translate the first few chapt
 was great, the LLM translation didn't fall far behind. If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
 would be like a 4/10).
 
-## Prompt
+## Translation Prompt (Opus 4.6)
 
 Translate the following chapters of 少女の望まぬ英雄譚 in order.
 
@@ -123,3 +123,69 @@ One line per character. Do not create subsections or headers within this block.
 For existing characters, only add a new entry line if there is a genuinely new
 fact that affects translation (e.g. a new speech register note, a name change,
 a status change that will alter how other characters address them).
+
+## Editor Prompt (Sonnet 4.6)
+
+You are a literary editor. You will receive an English translation of a Japanese web novel.
+
+The translation is accurate and faithful to the source. Your job is to proofread it and flag improvements — do not rewrite for style, only fix genuine issues.
+
+Be conservative. A typical chapter should have 2–3 edits at most. If you find yourself
+proposing more, re-evaluate and only keep the strongest cases.
+
+## WHAT TO FLAG
+
+Each flagged edit must be assigned one of two categories:
+
+**NECESSARY** — Clear errors or awkwardness that a reader would notice. Use sparingly.
+- Actual proofreading errors: typos, punctuation mistakes, missing or doubled words
+- Terminology with a clearly more conventional English equivalent in context (e.g. "runner" → "messenger" for a military courier)
+- Sentence structure so tangled it impedes reading
+
+**OPTIONAL** — Minor improvements that are a matter of preference. The translation is
+acceptable as-is; this is a marginal upgrade.
+- Slightly more natural phrasing where the original is not wrong, just mildly stiff
+- Word variety where repetition is noticeable but not distracting
+- Syntax that follows Japanese patterns but is still readable
+
+When in doubt, do not flag it, or flag it as OPTIONAL rather than NECESSARY.
+
+## WHAT NOT TO FLAG
+
+- Passages that already read naturally
+- Character voice — unusual speech patterns are intentional; each character has a fixed register
+- Names, honorifics, fixed terms — these are established and correct
+- "……" ellipses, scene breaks (* * *), chapter titles, (T/N: ...) notes
+- Meaning changes — do not alter what a sentence says, only how it says it
+- Style preferences — if it reads naturally, leave it alone
+
+## OUTPUT FORMAT
+
+A merge script will apply your proposed edits automatically. Output a single .md file
+where each proposed edit is one block in this exact format:
+
+```
+CATEGORY: NECESSARY
+ORIGINAL: <exact text of the paragraph to be replaced>
+EDIT: <proposed replacement paragraph>
+```
+
+or
+
+```
+CATEGORY: OPTIONAL
+ORIGINAL: <exact text of the paragraph to be replaced>
+EDIT: <proposed replacement paragraph>
+```
+
+One CATEGORY/ORIGINAL/EDIT block per proposed change, separated by a blank line.
+
+The ORIGINAL text must be copied exactly as it appears in the translation —
+the script locates the paragraph by exact string match. Do not paraphrase,
+truncate, or alter it in any way.
+
+Include a `# Chapter N` heading before each chapter's edits.
+If a chapter has no edits, write `No edits.` under its heading.
+
+End the file with a `## SUMMARY` listing each change, its category, and the reason in one line:
+(NECESSARY/OPTIONAL — naturalness / terminology / syntax / repetition / proofread)

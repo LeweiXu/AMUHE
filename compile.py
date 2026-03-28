@@ -2,8 +2,8 @@
 """Convert a directory of chapter TXT files into a single EPUB.
 
 Usage:
-	python chapters_to_epub.py ./chapters --title "My Book"
-	python chapters_to_epub.py ./chapters -o book.epub --author "Author Name"
+	python compile.py ./chapters --title "My Book"
+	python compile.py ./chapters -o book.epub --author "Author Name"
 
 Dependencies:
 	pip install ebooklib markdown

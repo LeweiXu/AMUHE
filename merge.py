@@ -402,7 +402,7 @@ def main():
     kb_path.write_text(new_kb_text, encoding="utf-8")
 
     ok(f"context.md updated  ({len(changes)} change(s))")
-    ok(f"Backup saved: {bak.name}")
+    # ok(f"Backup saved: {bak.name}")
     print()
 
 
