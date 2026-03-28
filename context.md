@@ -184,7 +184,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ビルザ | Bilza | Seventeenth Squad leader; medic background |
 | ダズ | Daz | First Piririn Squad leader; lost an arm |
 | キルク | Kirik | Squad Nineteen leader, Black Flag |
-| ミア's family: ダーザ/ミルナ/ミース/ミー/ミーリア/コルダ | Darza/Milna/Mees/Mi/Miria/Korda | Mia's family (Kirnan Village) |
+| ミア's family: ダーザ/ミルナ/ミース/ミー/ミーリア/コルダ | Darza/Milna/Mies/Mi/Miria/Korda | Mia's family (Kirnan Village) |
 | バゼル | Bazel | Mia's childhood friend; proposed to her |
 | ファーレ＝アーカサコス | Fahre Arcasakos | Duke's son; killed by Krische (C.143) |
 | アーカサコス公爵 | Duke Arcasakos | Noble conspirator (deceased, C.143) |

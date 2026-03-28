@@ -100,8 +100,7 @@ def review(edits: list[dict], chapter_text: str,
     optional  = sum(1 for e in edits if e['category'] == 'OPTIONAL')
 
     if auto_approve:
-        print(f"\n{YELLOW}Auto-approving {necessary} NECESSARY edit(s); "
-              f"skipping {optional} OPTIONAL edit(s).{RESET}")
+        print(f"\n{YELLOW}Auto-approving edit(s) {RESET}")
 
     for i, ed in enumerate(edits):
         cat_colour = GREEN if ed['category'] == 'NECESSARY' else CYAN
@@ -123,12 +122,8 @@ def review(edits: list[dict], chapter_text: str,
                   f"edit cannot be applied if accepted.{RESET}\n")
 
         if auto_approve:
-            if ed['category'] == 'NECESSARY':
-                print(f"  {GREEN}✓ Auto-approved (NECESSARY){RESET}")
-                decisions.append((ed, "APPROVED"))
-            else:
-                print(f"  {DIM}— Skipped (OPTIONAL){RESET}")
-                decisions.append((ed, "REJECTED"))
+            print(f"  {GREEN}✓ Auto-approved {RESET}")
+            decisions.append((ed, "APPROVED"))
             continue
 
         while True:
@@ -261,7 +256,7 @@ def main():
     args = parser.parse_args()
 
     script_dir   = Path(__file__).resolve().parent
-    review_dir   = script_dir / "review"
+    review_dir   = script_dir / "chapter_review"
     chapters_dir = script_dir / "translated_chapters"
 
     if args.edits_file:
