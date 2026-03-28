@@ -397,8 +397,8 @@ def main():
         return
 
     # Backup and write
-    bak = kb_path.with_suffix(".md.bak")
-    shutil.copy2(kb_path, bak)
+    # bak = kb_path.with_suffix(".md.bak")
+    # shutil.copy2(kb_path, bak)
     kb_path.write_text(new_kb_text, encoding="utf-8")
 
     ok(f"context.md updated  ({len(changes)} change(s))")

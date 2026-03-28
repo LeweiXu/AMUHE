@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–235*
+*Current coverage: Chapters 1–260*
 *Update this file after each translated chapter.*
 
 ---
@@ -93,6 +93,14 @@ For each chapter:
 - **Kushenalars:** Communicates via mana waves (rendered in『』). Terse, imperious, disdainful of lesser beings. Gradually shifts to grudging interest. Uses 我 (ware).
 - **Toba Akaz:** Casual, blunt, masculine (俺). Rough-edged warmth; fraternal concern for Red. Uses coarse directness balanced by genuine care. Scratches his head when frustrated.
 - **Feni:** Not shown (narrated only).
+- **Feni:** Formal (です/ます), devoted, emotionally raw when pleading. Uses わたし. Addresses Red as "Red-sama." Speech trembles under duress but remains grammatically composed.
+- **Tolka Karnarius:** Measured, formal, composed under pressure. Stern but respectful. Speaks with the gravity of long service under Felwors. Uses moderate-formal register.
+- **Norgan Velraigh:** Measured, dutiful, self-deprecating about his abilities relative to predecessors. Formal register with Aleha (です/ます shifting to casual when invited). Uses 私. Carries the weight of succession anxiety.
+- **Reifas Faren:** Formal, composed, analytical. Civil official register. Internally perceptive — sees through the Queen's methods. Uses moderate-formal speech.
+- **Robinis:** Formal, slightly nervous under pressure. Administrative competence masking timidity. Deferential to senior generals.
+- **Meedeliarieze (Mee):** Haughty, passionate, encyclopedic on Alberan history. Shouts when angry; prone to 'But-But Syndrome.' Uses わたし. Puffs her chest despite having none to puff.
+- **Karshe (Karsheria):** Casual, teasing, protective. Cat-person; sharp instincts and hearing. Irreverent with her mistress but deeply loyal. Uses わたし. Dry humor.
+
 ## TONE GUIDE
 
 The novel's tone shifts dramatically by scene. Do not flatten these shifts — the contrast is load-bearing.
@@ -220,7 +228,6 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ピールス | Peerls | City near Pilke Fort; Gietelens family seat |
 | コールス | Coles | Fort commander, Pilke Fort |
 | ミルケ / ビグ | Milke / Big | Soldiers at Pilke Fort (minor) |
-
 | ラーコス公爵 | Duke Larkos | Noble; delivers administrative reports at Privy Council |
 | ゴッカルス | Gokkalus | Central general; most senior of the five neutral generals |
 | クイネズ | Quinez | Commander, Elrouga's independent corps |
@@ -342,7 +349,17 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | フェニ | Feni | Toba's sister; in love with Red |
 | トルカ＝カーナリウス | Tolka Karnarius | Current Western General; former adjutant to Felwors Keesliton |
 | ベリー＝アルガン | Bery Argan | Full name with surname confirmed (C.234) |
----
+| ヴェズレア | Vezrea | New nation Red seeks to establish |
+| ミシェルセーブ | Michelsave | Western army stronghold city |
+| コレイス | Koreis | God of valor (mythological; owner of the cursed sword) |
+| ノルガン＝ヴェルライヒ | Norgan Velraigh | Current Marshal; Nozan's son |
+| ニルカナ | nilkana | Dried fruit/ingredient; mixed into cookies |
+| ロビニス | Robinis | Palace council chairman; Felwors Keesliton's grandson |
+| エルゲインスト＝ラミル | Elgeinst Ramiru | Head of Academy of Magical Studies; orchestrated Kleinmeil coup |
+| リナセラ | Rinasera | Eldest/oldest dragon; visits periodically; fond of board games |
+| ミーデリアリーゼ＝ヴァーナシュテル | Meedeliarieze Vahnashtel | Academy senior student; Alberan history enthusiast |
+| カルシェリア / カルシェ | Karsheria / Karshe | Mee's attendant; cat-person beastkin |
+| フィリペーヌ | Filipéne | Historical painter; grandfather was a Black Flag member |
 
 ## RECURRING TERMS
 
@@ -455,7 +472,42 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 青の杖 | blue staves | Priestly staves with mana crystals inscribed with flash-discharge formulae; Elderant tribal treasures passed down from ancient sages. Red secretly collected 13. |
 | 命の水 | water of life | Liquefied mana (from dissolved mana crystals); used to fill the cylinder for body-construction experiments. Term from ancient texts. |
 | 魔力喰らい | mana-devourer | The trait Bery's transformed mana has acquired; it consumes surrounding mana indiscriminately, and when insufficient, converts flesh/blood into mana. |
+| ヴェズレア | Vezrea | Proposed new nation; Red's stated objective for the insurrection |
+| コレイスの魔剣 | cursed sword of Koreis | Mythological/narrator comparison for Red's greatsword technique; the god Koreis's blade that dances without a wielder |
+| 反アーカズ同盟 | Anti-Akaz Alliance | Coalition of Veze and Mekrea tribes opposing King Akaz's reconciliation policy |
+| ラーニの大剣 | Greatsword of Lani | Red's heretical sword technique; body as appendage of the sword |
+| 雷槍 | lightning spear | Krische's mana-constructed thrown weapon; annihilates thousands per strike |
+| 霊体 | spirit-body | Soul's form outside physical body; naturally reverts to sphere shape |
+| 霊質 | soul-substance | Material composing souls; liquid-like, cohesive but formless without a vessel |
+| 空間転移 | spatial transference | Teleportation via space-warping formulae; Krische uses it to reach Rigaleiwe, Kreschenta independently devises it |
+| 王の五指 | King's Five Fingers | The five great roads radiating from Albernaria |
+| 黒旗剣術指南所 | Black Flag Swordsmanship Academy | Training hall in the capital run by former Black Flag members |
+| 世界樹 | World Tree | What Zenith has become; tower fused with trees, powered by the world's mana |
+| 天網 | heavenly net | Kreschenta's surveillance formulae blanketing the world |
+| 封印 | seal | Kreschenta's formula applied to the mana crystal to trap/restrict Krische |
+| 甘えクリシェ / 甘えクレシェンタ | 'Spoiled Krische' / 'Spoiled Kreschenta' | Narrator's comic terms for persona modes devoted entirely to being indulged |
+| わんちゃんごっこ | doggy game | Kreschenta's game where Krische can only say "woof"; narrator's term |
+| こぼね | Lil' Bone | Krische's nickname for Reifas (ガイコツ/Skeleton's child = 小骨/little bone) |
+| ぴよるん | Piyo-run | Krische's nickname for Norgan (derived from ぴよぴよ/Piyo-piyo, his father's nickname) |
+| 魔導式昇降装置 | magic-powered lift | Elevator in Zenith tower |
+| クリシュタンド式 | Christand system | Selene's military organizational reforms; staff-based decentralized command |
+| 王宮議会 | palace council | Governing council Kreschenta established to transfer governance |
+| 天変の大法 | Great Rite of Heavenly Change | Name given to the event of Krische and Kreschenta's departure/world-creation |
+| 大粛正 | Great Purge | Whispered name for Alberinea's post-war elimination of dissident nobles |
+| 風精 | wind sprites / sprites | Semi-transparent fairy-like beings in the phantasm world; mischievous |
+| 猫人 | cat-person / cat-people | Beastkin species with cat ears and tail; Kleinmeil-era origins |
+| 海魔焼き | sea-devil dumplings | Street food; eight-legged sea creature in batter, cooked round |
+| 魔導学院 | Academy of Magic / magic academy | Post-Kleinmeil institution managing mages; Albernaria's is the most prestigious |
+| 魔導 / 大魔導 | adept / great sorcerer | High-level mage ranks; some are ageless |
+| 導師 | mentor | Officially certified magic instructor |
+| メール語 | Meilian | Modern language derived from western common tongue |
+| 赤の女神達 | Red Goddesses | All-red-haired-women unit that captured Jaleia Gashea by exploiting their weakness |
+| 月明かりの遺産 | moonlight's legacy | Old Tongue meaning of "Kleinmeil" |
+| 平和教会 | Peace Church | Religious body that inspects/monitors magic academies |
+| 半霊質 | half-soul-substance | Nature of the bodies created in the phantasm world; between matter and soul-substance |
+
 ## TRANSLATION DECISIONS
+
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
 - ガイコツ = "Skeleton" (as English nickname proper);
 - リプス = "Lips" (Bery's hidden name).
@@ -493,8 +545,6 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - コールス = "Coles" (Pilke Fort commander).
 - Kreschenta uses ヴェラ (Vera) in her self-introduction to Rigaleiwe (C.154) vs. full ヴィエラ (Viera) — possibly shortened diplomatic form.
 - Bazarishe confirmed female; uses わたし and ～してあげますわ in Rigaleiwe's recalled dialogue.
-
----
 - 砂のよう (Bery's taste loss) = "like sand" — her internal experience of all seasonings tasting identical and textureless. Preserve the indirectness; do not editorialize.
 - 固まった (C.160 final scene, Krische) = "froze" — the text leaves ambiguous what she noticed. Do not resolve the ambiguity in translation.
 - 飛び蜥蜴 = "flying lizard" (Kreschenta's pejorative for Rigaleiwe).
@@ -686,23 +736,44 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - レイファス = "Reifas" (katakana rendering; Elrouga's son)
 - カーザ = "Karza" (Quinez's surname; used in address "Vice-Adjutant Karza")
 - ぶるるん２世 = "Bururun the Second" (Selene's horse; successor naming)
-- ぶるん = "Burun" (Kokys's horse; shortened Bururun variant)
-- 紡ぎ手 (C.230 title) = "The Weaver" (紡ぐ = to spin/weave; 手 = hand/person; metaphor for legacy-building)
-- 卑怯者 (C.229 title) = "The Coward" (Selene's affectionate accusation toward Bery; 卑怯 = cowardly/unfair)
-- 英雄狩り (C.227 title) = "Hero Hunt" (英雄 = hero, 狩り = hunting)
-- 変わらぬもの (C.226 title) = "Things Unchanged" (変わらぬ = unchanging; refers to Krische's agelessness and the continuity of relationships)
-- 約束 (C.231 title) = "Promise" — the mutual promise between Krische and Bery to stay together.
-- 変わり目 (C.232 title) = "Turning Point" — 変わり目 = turning point / transition; refers to both Red's decision and the political shifts.
-- 鎖 (C.233 title) = "Chains" — 鎖 = chains; metaphor for the bond tying Bery and Krische together, and the dragon's mana binding Bery's body.
-- わがまま (C.234 title) = "Selfishness" — Bery's "selfish" request to travel; Krische's refusal to grant it.
-- 感触 (C.235 title) = "Feeling" — 感触 = touch/tactile sensation; the physical sensation of Bery's presence, and Kreschenta's awareness of it.
-- トルカ＝カーナリウス = "Tolka Karnarius" (katakana rendering; confirms Tolka's full name and surname. Previously listed as "Tolka" only.)
-- フェニ = "Feni" (katakana rendering; Toba's sister)
-- ベリー＝アルガン = "Bery Argan" — full name with surname used in narrator's introduction (C.234). アルガン matches existing Lazura Argan (Bery's half-sister).
-- 青の杖 = "blue staves" — the priestly staves of Elderant; lit. "blue staves." Rendered in lowercase as common noun.
-- 命の水 = "water of life" — rendered in lowercase; the ancient texts' term for liquefied mana.
-- 眠り姫 = "sleeping princess" — narrator's term for the artificial body floating in the cylinder (C.235).
+- 望み (C.251 title) = "Wish" (Krische's wish for eternity; Selene's acceptance of it)
+- 追憶 (C.252 title) = "Reminiscence" (追憶 = recollection/reminiscence; Anne's memories and the passage of time)
+- 飛べない鳥 (C.253 title) = "The Bird That Could Not Fly" (Selene as the wingless bird among those with wings; the birdcage motif)
+- 檻の中の永遠 (C.254 title) = "Eternity in a Cage" (檻 = cage/prison, 永遠 = eternity; Kreschenta's birdcage made real)
+- 自己鳥瞰 (C.255 title) = "A Bird's-Eye View of the Self" (自己 = self, 鳥瞰 = bird's-eye view; Aleha looking down on his own life from the height he's reached, and also the bird/flight motif threading through recent chapters)
+- こぼね = "Lil' Bone" (ガイコツ = Skeleton [Elrouga's nickname]; 小骨 = small bone → "Lil' Bone" for Reifas. Follows Krische's playful nickname convention.)
+- ぴよるん = "Piyo-run" (derived from ぴよぴよ/Piyo-piyo [Nozan's nickname]; follows the diminutive -run suffix pattern)
+- 念話 = "telepathy" (rendered contextually in the dragon mana-communication passage; not a new coinage but first explicit use of the term)
+- 甘えクリシェ / 甘えクレシェンタ = "Spoiled Krische" / "Spoiled Kreschenta" (narrator's comic persona labels; rendered in quotes following existing convention for narrator labels)
+- わんちゃんごっこ = "doggy game" (Kreschenta's role-play; rendered plainly to match Krische's childlike register)
+- ニルカナ = "nilkana" (fictional dried fruit; left untranslated following existing convention for fictional ingredients like nerip, rakura)
+- 天変の大法 = "Great Rite of Heavenly Change" (天変 = celestial upheaval; 大法 = great rite/method)
+- 大粛正 = "Great Purge" (political purge; whispered reference)
+- 風精 = "wind sprites" / "sprites" (精 = spirit/sprite; fairy-like beings)
+- 猫人 = "cat-person" / "cat-people" (literal rendering)
+- 海魔焼き = "sea-devil dumplings" (海魔 = sea-devil, i.e. octopus-like creature; 焼き = cooked)
+- 魔導学院 = "Academy of Magic" / "magic academy" (distinct from 魔術研究院 "Academy of Magical Studies")
+- 導師 = "mentor" (certified magic instructor rank)
+- メール語 = "Meilian" (derived from Kleinmeil; modern language)
+- 赤の女神達 = "Red Goddesses" (unit name)
+- 月明かりの遺産 = "moonlight's legacy" (meaning of Kleinmeil in Old Tongue)
+- 平和教会 = "Peace Church" (post-Kleinmeil religious body)
+- 罪の檻 (C.256 title) = "The Cage of Sin" (檻 = cage/prison; recurring motif of cages throughout)
+- 姉妹喧嘩 (C.257 title) = "A Sisterly Quarrel" (Aleha's journal quote provides framing)
+- 英雄譚の終わり (C.258 title) = "The End of the Heroic Epic" (callback to main title 少女の望まぬ英雄譚)
+- 鳥籠の少女 (C.259 title) = "The Girl in the Birdcage" (callback to 永遠の鳥籠 "eternal birdcage")
+- それは未完の物語 (C.260 title) = "An Unfinished Story" (未完 = unfinished/incomplete; the story continues beyond the book's end)
+- ロビニス = "Robinis" (katakana rendering)
+- エルゲインスト＝ラミル = "Elgeinst Ramiru" (shares surname with Tiru Ramiru; likely descendant)
+- リナセラ = "Rinasera" (katakana rendering)
+- ミーデリアリーゼ = "Meedeliarieze" (long katakana; preserved vowel length)
+- ヴァーナシュテル = "Vahnashtel" (Germanic rendering)
+- カルシェリア = "Karsheria" (katakana rendering)
+- フィリペーヌ = "Filipéne" (Romance-language rendering; accent preserved)
+- でもでもだって症候群 = "'But-But Syndrome'" (narrator's comic label for Mee's verbal tic)
+
 ## Measurements
+
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
 - 里: **two scales in use.** Standard geographic ri ≈ 3.9 km. Author's tactical-arc ri ≈ 400 m (established C.78). Render as "one ri" etc. and add T/N flagging which scale applies.
 - 半刻 = quarter-hour (standard). Note: used as "half-hour" once in C.141 (comic exaggeration context); flag discrepancy in T/N.
@@ -771,207 +842,3 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 **Keith Serl Rinea Kiltins** — Third Battalion commander; acts as de facto relay commander for First Corps.
 
 **Felwors Keesliton** — Gildanstein's former deputy commander; ~100 years old. Accepted reinstatement after Krische directly asked (C.121). Currently under house arrest (cannot be appointed Marshal due to having sided with Gildanstein). — (Existing entry update) Commands the western Alberan defense. Over 100 years old but still combat-capable; deflected Red's greatsword from horseback. Not a genius but a master of information-gathering and patience. Survived the civil war by stalling until Gildanstein's defeat was confirmed. Launched the coordinated night assault on the new moon in concert with Krische's operation.
-
-### Household / Civilian
-
-**Elvena** — Formerly debt-bonded at Roland's estate; Kalua's long-lost sister. Refined mana-handling skill. Now serves as Krische's research assistant (duplication crystals, etc.). Speech: polite (desu/masu), warm, slightly self-deprecating.
-
-**Anne (Anne Gietelens)** — Christand household servant. Clumsy, earnest, overactive imagination. Daughter of a marquis house. Admires Bery intensely. Currently tending to Gallen. Alignment: Neutral/Good.
-
-**Dagren Nakul Dougarinea Garhka** — Southern General; Duke. Bear-like build. Holds the south; struck final blow against the Empire's main force.
-
-**Aleha Sarshenka** — Former Empire general; excommunicated after Arzlen defeat. Now serves Krische. Left-side lead stance, high guard, signature two-stage downward+upward combination. Earnest, reflective. Lost all eight sparring rounds against Krische (C.133). — (Existing entry update) Appointed Fourth Corps Commander of the Alberinea Direct Army (announced C.214). Killed his brother Biinal in the Kureyl Mountains as a mercy — to secure death benefits for Biinal's wife and daughter. Expressed complex feelings: partial resentment, partial respect for Biinal's devotion as husband and father. Buried Biinal with Waltza's help. — (Existing entry update) Growing closer to Teknrea Remin post-war. Provides sword instruction and tactical discussion. Krische interprets their relationship purely as friendship and is pleased it reduces her own obligations. Showed complex emotions at the victory banquet, stepping outside for night air.
-
-**Waltza Del Grizlandy** — Aleha's companion/advisor. One-armed (left arm severed by Krische at Arzlen). Willingly submitted to Krische's custody. — (Existing entry update) Fought Zalvarg at Alberinea headquarters defense (C.186). Prosthetic left arm (confirmed metal/Jaleia Gashea material) blocked Zalvarg's curved blade — the same material as the war-golems. Threw a Bonjara at Zalvarg's cavalry. Despite prior injuries, his spear technique remains sharp. Addressed by Aleha with concern about recklessness. — (Existing entry update) Caught alongside Milkaruz secretly observing Aleha and Teknrea's training sessions (C.220). Gallen admonished them.
-
-**Roland Seba** — Fat merchant; operated debt-bondage network. Executed by Krische in Kirzalan (C.97).
-
-**Salva Rinea Caldera** — Former Third Corps adjutant; traitor. Voluntarily surrendered to Gallen after Gildanstein's death; beheaded at his own request (C.111).
-
-**Gildanstein** — Royal Prince; civil war antagonist; "The Black Lion." Uses two-handed greatsword (middle guard / King's Sword). Killed by Krische in single combat: she stepped onto his horizontally swung blade and severed his throat (C.110).
-
-**Argoush Vikel Gietelens** — Marquis; Anne Gietelens's father. Non-military nobleman but sharp administrator known as a shrewd, diligent lord. Governs the Peerls region near the Creisharana border. First to encounter Krische and Rigaleiwe upon their arrival at Pilke Fort (C.154).
-
----
-
-**Gokkalus** — Central general; most senior of the five neutral generals. Scarred face, one missing eye, bristling mustache, powerfully built. Frank and courageous. Pledged cooperation with Selene and Elrouga for the defensive war (C.158).
-
-**Quinez** — Commander of Elrouga's independent corps. Mentioned briefly (C.158). — (Existing entry update) Full name/address: Vice-Adjutant Karza (カーザ副官). Serves under Elrouga at the military academy doing administrative work. Well-padded physique; the butt of jokes from Krische and Elrouga. Designated by Elrouga as his successor. Speech: stiff, formal, perpetually flustered. — (Existing entry update) Appointed Elrouga's successor at the military academy (C.231). Described as stout (小太り). Admitted that Elrouga was difficult to serve under but called the experience the pride of his life. Full name with surname: Quinez Karza (previously established).
-
-**Duke Larkos** — Noble who delivers administrative reports at the Privy Council. Mentioned briefly (C.157).
-
-**Neigal** — Jaleia Gashea fabrication lead; works in the underground laboratory. Completed two additional units during Krische's absence (total: 3 units). (Note: a different Neigal appears as a Black Flag soldier in earlier chapters — these are the same character reassigned.) — Fabrication lead (existing entry updated): also acts as messenger, reporting Krische's location to Bery and Selene when Krische disappears (C.162). — (Existing entry update) Commanded the Jaleia Gashea and directed Baumje Ira placement during the north quarter annihilation. Experienced severe nausea and trembling after witnessing the results of his own handiwork, but steadied himself with Daz's encouragement. Left-hand prosthetic confirmed (义手). Continues to show difficulty with the emotional weight of mass killing despite competence in execution.
-
-**Bery Argan** — Lost her sense of taste as a side effect of the dragon's blood treatment (C.160). All seasonings taste like "sand"; she can detect only texture and aroma. Hiding this from Krische, cooking only well-practiced dishes from memory. This affects how her cooking scenes should be rendered from C.160 onward: her usual confident, sensory-rich internal voice when seasoning is now underlaid with concealed anxiety.
-
-**Ozal** — Overseer of the royal district estates. Mentioned in Anne's flashback (C.169) as having issued instructions to treat Bery as the margravine. Minor historical reference only.
-
-**Arika Sazubern** — Tailor; third daughter of a great noble house. Female. Known for slightly mature, alluring designs popular in high society. Made Krische's garter belt. Not a commercial tailor by origin — started as a hobbyist with her own wardrobe.
-
-**Gal Bilkees** — Captain of the Galshan sand-lizard cavalry (elite). Wears a dragon-jawed helm. Veteran with sharp battlefield instincts. Immediately recognized Krische as dangerous on instinct; ordered a change from disruption to breakthrough before the battle began. Speech: measured, respectful of enemies.
-
-**Elke** — Gal Bilkees's young adjutant. Minor role; admires Gal.
-
-**Alkazaris** — Galshan magical beast; a blue-skinned elephant of immense size (shoulder height ~40 shaku). Called "The One Who Tramples All." Born by chance during Galshan elephant breeding. Female. Killed by Krische's thrown spear before the battle began (C.172). Failed to reproduce despite extensive efforts (7 male elephants killed in the attempts).
-
-**Dagreen Nakul Dougarinea Gahka** — Southern General; Duke. Six-shaku (180+ cm), heavily muscled, bearded, bandit-like appearance. Long-time rival of Olgan. Defended the southern border for decades. Uses わし; frank, rough speech masking sharp intelligence. Well-informed through extensive spy networks. Offered himself as sacrificial pawn to Krische; visibly delighted by her confidence. (Note: existing entry for "Dagren Nakul Dougarinea Garhka" refers to this character — long-vowel rendering matches source text.)
-
-**Olgan** — Updated: commands the Galshan invasion as supreme commander; epithet 戦神 "war-god." Born royal, stood with the people, overthrew the old kingdom. Long-time rival of Dagreen. Chose to concentrate 100,000 troops for a head-on battle rather than employ flanking maneuvers — honoring his rivalry with Dagreen.
-
-**Elkaarl** — Galshan eastern general; epithet "the Giant" (巨人). Seven shaku (~210 cm), superhuman frame, bald, boulder-like face. Wears elephant-emblemed armor. Commands the right wing (30,000) in the Battle of Milhirea. Veteran of the Galshan civil war, fought alongside Olgan. Speech: terse, blunt, 俺. Killed by Alberinea's forces in the opening engagement (C.183 per project knowledge).
-
-**Kilrea** — Galshan western general; epithet "the Sword-Saint" (剣豪). Lean, scholar-like build, white-streaked hair tied back, deep-set features, piercing gaze. Commands the left wing (55,000) in the Battle of Milhirea. Veteran of the civil war. Speech: formal-lean, analytical, ですな register. Killed in the battle (C.183 per project knowledge).
-
-**Zaaka** — Black Flag squad leader. Wears an eyepatch over left eye (lost at the Dragon's Maw). Veteran of the Bernaich mountain campaign. Speech: casual, blunt, irreverent. Serves under Aleha during the Battle of Milhirea vanguard action.
-
-**Koza** — Black Flag archer captain. Scarred, stern face. Carries the crescent-skull banner during the Battle of Milhirea. Minor role.
-
-**Neikrul** — Elkaarl's deputy commander. Small-framed. Minor analytical role during Elkaarl's tactical deliberations.
-
-**Dalkeris** — Dagreen's adjutant. Face covered in scars. Present at the Olgan-Dagreen meeting (C.177). Minor role.
-
-**Gahren** — Present at the Gahka manor meeting (C.177). Distinct from Gallen (ガレン). Likely a Gahka-side officer. Minimal role; requires confirmation of identity. — (Existing entry update) Confirmed present at Alberinea's C.193 war council. Functioned as Gallen's voice, articulating the ethical-tactical framework for hostage handling and prisoner policy. Placed hand on Krische's shoulder when she hesitated — understood her internal conflict. — (Existing entry update) C.201 flashback establishes him as Bogan and Nozan's former centurion in a special light infantry squad during the Elderant campaign, years before the main story. A commoner who rose from private; unable to use mana but a master archer and shrewd tactician. Defeated both Bogan (corporal) and Nozan (lance corporal) in a two-on-one sparring match using only a short sword and battlefield cunning. Earned their loyalty through a combination of harsh discipline and genuine care. The left-breast salute scene establishes the depth of Bogan and Nozan's devotion to him. Also appeared in the domestic flashback telling war stories to young Selene, frightening her to tears. Lazura scolded Bogan; Bery comforted Selene with cookies. — (Existing entry update) Dies in C.221. Suffered a cerebral hemorrhage (blood in the head), collapsed at the military academy. Krische used mana to stabilize the bleeding, allowing him to wake briefly two days later. Died peacefully while holding Krische, expressing satisfaction with his life. Formal funeral name: Gahren Rinea Karka. Funeral attended by large numbers of military personnel despite his low noble rank. Kreschenta wore crimson — posthumous royal blood honor. Cremated on a timber frame built by mourners. Two months later, Krische and Bery buried his white hair at Grace and Gorka's memorial tree in Karka village, with Galla present. Will and assets left to Krische. C.222 profile confirms: alignment Neutral/Good; final worry: none.
-
-**Lakoul** — War-lion commander on Elkaarl's left wing. Analytical but fatally slow to react after elephant losses. Chose mobile defense over retreat; killed by Begil Sandika before he could execute the plan. Speech: battlefield analytical.
-
-**Kiinia** — War-lion commander in Kilrea's formation. Battle-hardened civil war veteran. Showed confidence and composure to maintain troop morale. Killed by Bonjara bombing without ever engaging the enemy directly.
-
-**Dazurl** — Galshan common soldier; a volunteer levy. POV character for the ground-level experience of the Bonjara attack. Driven mad by the carnage. No speech of note.
-
-**Orka** — Kilrea's adjutant. Saved Kilrea from Krische's javelin by bodily knocking him aside; killed instantly (upper body destroyed). Speech: loyal, brief.
-
-**Nekki** — Engineering squad member operating a Jaleia Gashea; lost his unit to Elkaarl. Prosthetic leg. Assigned to signal duty for Krische after the loss. Remorseful about the unit's destruction. — (Existing entry update) Post-war: became the inaugural operator of the first railway vehicle. Prosthetic leg. Assigned to critical routes within the continental clatter-clunk network. Present at Klauzera station for Krische and Selene's arrival (C.226).
-
-**Beeg** — Creisharana warrior; griffin rider carrying Mia. Flirtatious in the western common tongue. Minor comic role.
-
-**Reks** — Begil's escort; carries his lance. Minimal dialogue.
-
-**Begil Sandika** — (Existing entry update) Third Corps Commander under Alberinea. Former Wolf Pack (First Battalion) adjutant under Granmeld. Rose from common soldier. Zain-style swordsman specializing in the killing thrust. Easygoing and approachable normally; transforms into a bloodthirsty berserker in battle. Pervert (fixated on Krische's garter belt throughout the charge). Killed War-lion Commander Lakoul in single combat. Speech: bombastic, taunting, performative in battle.
-
-**Fagran** — (Existing entry update) Now serves as battalion commander and de facto adjutant under Begil. Declined Krische's offer to become Fourth Corps Commander in order to serve under Begil. Finds Begil's battle-madness compelling. Speech: sardonic amusement in battle.
-
-**Ehryuke** — Galshan officer under Zalvarg. Commands part of the 3,000 elite during the flanking attempt. Addresses Zalvarg formally. Minimal role (C.186). Romanization tentative.
-
-**Rogerius** — Zalvarg's camel cavalry captain. Commands the 500 camel cavalry in the headquarters assault. Minimal dialogue (C.186). Romanization tentative.
-
-**Beltz** — Black Flag Special Service cooking instructor. Stern-faced but earnest; cooks for the unit during the campaign. Deferential to Krische; anxious about her reduced appetite (C.190). Speech: respectful (です/ます).
-
-**Olgan Dikel Shahnia** — (Existing entry update) Full name revealed in C.187 flashback. Former prince who led a revolution against his elder brother. Self-described motivation: boredom, love of war, and distaste for the ruling class — though he also promised institutional reform. Recruited Zalvarg after the latter's failed revenge. Speech in flashback: more intimate, challenging, philosophical — retains bombastic quality but with rawer edges. Swears oaths "upon the rain" (Galshan religious custom). Post-defeat, contemplated stepping down but was talked out of it by Zalvarg. Recognizes Alberinea and Kreschenta as harbingers of a new era.
-
-**Zalvarg** — (Existing entry update) Former cobbler. Sister was taken by a Galshan kingdom-era nobleman, abused, and killed; Zalvarg's revenge ended when he found the nobleman dead by suicide. Recruited by Olgan; has served as his right hand since. Epithet: "Twin Blades" (双剣のザルヴァーグ) — dual curved-sword style born of practical necessity, not aesthetic choice. Pragmatic soldier, not a warrior; disdains single combat. During C.186, destroyed two Jaleia Gashea in rapid succession using Elkaarl's intelligence about their head weakness. Fought Waltza (blocked by prosthetic arm), was shot by Gallen (short bow, 30 ken, no mana), and was ultimately defeated and captured by Krische. Left arm broken, bound as prisoner. Post-battle: pushed Olgan to continue governing rather than abdicate.
-
-**Gallen** — (Existing entry update) Present at the Alberinea headquarters during the battle (C.186). Despite apparently being unable to use mana, shot Zalvarg accurately with a short bow from 30 ken while mounted. This confirms he accompanied the army to the southern front despite his age and health. — (Existing entry update) C.220 flashback to his first meeting with Krische as a small child at Karka village; observed her inorganic, observational gaze. Present timeline: walking with Krische at the military training grounds; reflects on her growth and the many people who protect her. States the recent war was his "final battle." Asks Dagra to continue looking after Krische. Collapses at chapter's end — condition unclear, strongly implied to be a serious health episode (possibly death or near-death).
-
-**Red** — Warrior chief of the Lani tribe (Elderant); age 22. Fights with a greatsword (inherited from his father Radia). Childhood friend and betrothed of Shelna Veze. Hot-headed, idealistic, conflicted about the morality of war. Speech: direct, masculine, 俺; philosophical when introspective. — (Existing entry update) C.200 profile confirms alignment shift from Neutral/Good to Neutral/Evil following Shelna's death. Survived the battle; was found by Toba Akaz's retreating northern force. Discovered Shelna's head displayed at the Kils camp. Now consumed by despair and hatred toward Alberan. — (Existing entry update) C.232: Eight years after the Five-Nations War, living in Elderant under Toba Akaz's protection. Still training obsessively at Shelna's grave. Planning a suicidal strike against Alberan: using 13 stolen blue staves (priestly mana crystals) to ambush and kill Alberinea at close range, then sending forces to create chaos in western Alberan. Agreed to Toba's condition: live with Feni for one year before acting. Acknowledged his plan as selfish revenge Shelna would not have wanted.
-
-**Shelna Veze** — First Princess of Veze; supreme commander of the Elderant central army (replacing her ill father Gorkista). Age 20. Epithet: "Veze's Sword Princess." Genius swordswoman who has never lost a duel; fights with a slender straight sword. Deep indigo eyes ("Heaven's Eyes"). Calm, analytical commander with sharp tactical intuition bordering on precognition. Deduced Alberinea's flanking strategy from indirect evidence alone. Betrothed to Red. Speech: sharp, teasing with Red; commanding on the battlefield; わたし. — (Existing entry update) Killed by Krische (C.198). Throat slit with "the light one" after a brief duel. Krische used Aron's curved sword as a thrown weapon; Shelna caught it but was outmaneuvered. Her head was displayed on a banner at the Kils main camp alongside Aron, Zren, Jiegret, and others. C.200 profile confirms her alignment as Neutral/Evil — an abnormal person who discovered empathy through Red, and whose sole desire was a peaceful life with him. Epithet: "gale" (烈風). Killed a man at age seven and was observed examining his organs, leading to her reputation as a mad princess.
-
-**Zren** — Vanguard commander (一番隊, 切り込み隊長) of the Hunting Party of Veze. Red's childhood friend, three years older. Fights with a great spear. Former bully turned loyal comrade. Speech: mocking, brash. — (Existing entry update) Killed by Vinsreel's griffin-borne lance strike from above (C.198). Was pierced through the shoulder while fighting one-armed. Had previously bowed to Aron Kils to secure his cooperation for Shelna's retreat. C.200 profile confirms he was Red's childhood rival, three years older, who stepped aside after realizing Shelna loved Red.
-
-**Bez** — Red's adjutant; former close friend of Red's father Radia. Veteran, steadying presence. Speech: fatherly, gruff warmth. — (Existing entry update) Killed in battle against Teknrea Remin's forces (C.197). Fought as a death squad after sending Red back to the main camp. Teknrea acknowledged his valor, placed a sword in his hand per Elderant custom (warrior's death = departed as a heroic spirit), and personally finished him. Confirmed as Red's father's old friend and former warrior chief candidate who voluntarily lost to Red in their duel.
-
-**Gorkista** — Current King of Elderant; great chieftain of Veze; Shelna's father. Ill and absent from the campaign. Seized the throne from the Mekrea dynasty.
-
-**Aron Kils** — Warrior chief of the Kils tribe (under Veze). Lean, tall, frivolous face. Fights with a large angled curved sword. Committed Sacred Convention violations (abuse of prisoners). Shelna forced his compliance via duel threat. Speech: provocative, sneering. — (Existing entry update) Killed by Krische (C.197). Gururun slammed him to the ground mid-leap; Krische shot an arrow through his skull. His curved sword was taken by Krische and used against Shelna. Head displayed on a banner post-battle.
-
-**Gain Mekrea** — Great chieftain of the Mekrea tribe; commands the Elderant right wing (south). Heavily muscled, tattooed. Fights with a great axe. Despite brutish nature, an extremely sharp and decisive commander. Killed by Kokys (C.194); his camp was destroyed in Krische's surprise attack.
-
-**Kanezarudo Rurain** — Right hand of Gain Mekrea. Giant, tattooed, braided hair, fights with a great spear. Formidable warrior killed by Krische (C.194) — she kicked his spear aside and struck him with a heel to the solar plexus before shooting an arrow through his skull from below. Speech: casual, flippant with Gain.
-
-**Toba Akaz** — Left wing general, Akaz tribe. Named only; no direct appearance yet. — Young King of Elderant (C.232). Great chieftain of the Akaz great tribe. Red-haired, frivolous-looking face. Carries a spear; wears a jade tiger pelt. Wears the black feather ornament of the Akaz great chieftain on his left ear. Unified Elderant after the Five-Nations War. Has a sister named Feni who loves Red. Offered Red sanctuary after the war; genuinely cares for him but cannot condone his suicidal revenge. Speech: casual, blunt, masculine (俺); rough warmth.
-
-**Tolka** — Felwors Keesliton's adjutant. Old soldier. Minor role.
-
-**Jiegret** — High Priest (司祭長) of Veze. Elderly, bearded, wears broad-brimmed hat and long robes, carries a mana-crystal-topped staff. Trusts Shelna's intuition implicitly; concurred with her retreat order. Speech: terse, authoritative. — (Existing entry update) Killed by Krische during the retreat (C.197–198). Decapitated; head thrown at Shelna's position to demoralize. C.200 profile confirms he was 150 years old, a master of mana crystal inscription who crafted seven priestly staves in his lifetime, and one of the top five contemporary magic researchers.
-
-**Teknrea Remin** — Central general (female). Ducal background. Tall, dull gold hair, stern features. First wartime deployment; overly anxious about failure. Lost a corps commander recently. Felwors counseled her. Speech: tense, formal. — (Existing entry update) Full name confirmed as テックレア＝タルク＝リネア＝レーミン (Teknrea Taluk Rinea Remin) in C.200 profile. Duke's daughter; inherited the house after her half-brother's death in his first battle. Nearly forty years old, unmarried. Fights with Rollka-style longsword and steel shield; the shield is used offensively as a bludgeon per Rollka doctrine. Visor engraved with a face of wrath. Lost a corps commander under her watch (Bez killed said commander's force, not the commander herself — the "corps commander" lost was on her own side, from the Elderant assault). Secretly collects stuffed animals. Alignment: Law/Good. Approved Felwors's handling of mopping up. Showed moral qualms about Krische's no-surrender order but lacked the standing to object. — (Existing entry update) Developing a personal relationship with Aleha Sarshenka post-war (C.217, C.220). Regular private sword-training sessions in a secluded forest area. Shows signs of romantic interest (blushing, hardening when Aleha compliments her). Milkaruz and Waltza observed spying on the pair. Age confirmed approaching forty; Milkaruz teases that she is still young enough to wear dresses.
-
-**Radia** — Red's father; former warrior chief of Lani. Died five years prior as a decoy to let Shelna and Red escape during a minor civil war. Red inherited his greatsword.
-
-**Kokys** — (Existing entry update) Led the Second Corps in the surprise attack on Mekrea's main camp (C.194). Killed Gain Mekrea in single combat; deliberately took a blow on his armor to gauge the opponent, then killed him. Showed quiet sympathy for Krische's situation, recognizing she was "just a girl" forced into war. — (Existing entry update) Confirmed appointed/continuing as corps commander (C.214 banquet scene). Boisterous at the victory banquet; called Aleha over to drink. — (Existing entry update) After Gahren's death, took on the additional role of Krische's vice-commander (副官) formally. Granted the honorary prefix ロズ (meaning "fierce beast") in his title: コルキス＝ナクトラ＝ロズリネア＝アーグランド. Wept at Gahren's funeral (C.221). Full profile in C.222 confirms Law/Neutral alignment. — (Existing entry update) Present at the Battle of the Fangs of Wetharius (C.227). Rides the horse Burun. Commands from the rear alongside Selene during the Pishuune bombardment phase. Comments on the changing nature of warfare.
-
-**Kalua** — (Existing entry update) Killed a wild jade tiger in forest combat during the Black Flag's advance (C.195). Used her curved sword to stun the beast, then finished it with Mia's straight sword through the throat. Relied on experience watching Gururun and memories of Krische's tactical lectures. Acknowledged her own limitations compared to Krische. Post-battle: exhausted, relieved, expressed desire to never repeat the experience. — (Existing entry update) Present at Wulfenite during the siege cleanup (C.211). Rode Gururun with Krische atop the tower. Expressed "big sis" concern for Krische's well-being. Declined Krische's hamburger steak offer after seeing the corpse pits. — (Existing entry update) Present at the Battle of the Fangs of Wetharius. Killed Nitrias with her great curved sword (bisected him through his armor) during the assault on the eastern command. Continues to call herself "onee-san" despite her age.
-
-**Milkaruz** — Teknrea Remin's adjutant. Elderly man; long-serving retainer of the Remin ducal house. Calls Teknrea "my lady" (お嬢さま) and has sworn to do so until she marries. Speech: warm, teasing, grandfatherly. Minor role (C.197–198). — (Existing entry update) Teased Teknrea about still being young enough to wear dresses after she called Bery "young" (C.217). Caught spying on Aleha and Teknrea with Waltza (C.220). Dabbed his eyes with a handkerchief watching Aleha and Teknrea converse at the banquet (C.217). — (Existing entry update) Died the year before C.230 events (approximately five years post-Five-Nations War).
-
-**Kanalua warrior chief** — Commander of the Veze right wing. Led his elite against Kokys's Second Corps in a sacrificial charge to allow Red's retreat. Name not given; identified only by tribal title. Killed in battle. Speech: formal battlefield oratory. (C.198)
-
-**Bery** — (Existing entry update) C.199 confirms the intimate scene with Krische. Bery initiated physical intimacy while under the influence of alcohol; the scene is framed through metaphor (moonlight devoured by shadow, red hair covering silver). C.200 profile lists her current worry as "crossed the line" (手を出してしまった). The taste-restoration candy successfully delivered honey flavor via mana-based sensory reproduction. Krische plans to inscribe the permanent spell on Bery's tongue once fully developed. — (Existing entry update) C.229 scene: advises Selene against marriage of duty; frames the Christand household as a "birdcage" whose integrity depends on keeping outsiders out. Advocates for honesty over social convention. Selene calls her "coward" (卑怯者) affectionately, recognizing Bery's position as unassailable. — (Existing entry update) C.233–235: Her condition is caused by the ancient dragon Rigaleiwe's blood. Rather than forcing the dragon's mana to conform to her own, she inadvertently transformed her own mana to harmonize with the dragon's, making it closer to dragon mana. Her body is now slowly being decomposed and reconstructed by this hybrid mana, which behaves like a dragon's digestive process. Requires external mana infusions (from Krische and Kreschenta) to survive. Chronic anemia, frequent pain episodes (worse at night), progressive deterioration. Despite this, maintains her usual calm demeanor, requests a sightseeing trip (Arna, the sea, Gurgain, Karka) that Krische refuses, sensing it as a farewell tour. Full name confirmed as Bery Argan (C.234). Can perform water-shaping sorcery using the dense mountain mana.
-
-**Geilbiig** — Mekrea warrior chief encountered in C.201 flashback. Fights with a great spear; formidable mana-wielder who overpowered both young Bogan and Nozan in two-on-one combat. Killed by Gahren's arrow (shot to the temple). Speech: bold, taunting.
-
-**Kouz** — Squad leader under Gahren (C.201 flashback). Large build. Loyal to Gahren; assisted Bogan after the ambush. Minor role.
-
-**Moraz** — Squad leader under Gahren (C.201 flashback). Commanded rear-guard element during supply raid. Minor role.
-
-**Bazlar Lukazan** — Grand Duke of the Elsren Holy Empire; supreme commander of the eastern invasion force (C.205). Head of House Lukazan, one of three grand-ducal houses with succession rights. Well-groomed, masculine beard; ornate gold-embroidered uniform. Manipulative, self-serving; deflected blame for the previous war's failures onto the Sarshenka family while claiming credit for himself. Assigned Biinal as sacrificial vanguard for the Wulfenite siege. Speech: lordly, condescending beneficence.
-
-**Biinal Sarshenka** — Duke; Aleha Sarshenka's elder brother (C.205). Commands siege operations (trebuchets, siege towers) under Bazlar. Handsome, tea-gold hair showing early signs of age. House Sarshenka was financially ruined by Bazlar's political maneuvering after the previous war; Biinal took on massive debts to prepare siege equipment in hopes of restoring his family's standing. Internally furious at Bazlar but forced to comply. Speech: controlled deference masking resentment. — (Existing entry update) Fled Wulfenite into the Kureyl Mountains after the battle. Found by Aleha during the mop-up sweep. Reduced to shirt and trousers, having discarded his armor. Accepted death at Aleha's hand to secure war-death benefits for his wife and daughter (Reshel). Requested that his death be recorded as a brave fall in battle. Buried by Aleha and Waltza; his sword kept for eventual delivery to his family.
-
-**Saldan Galkalon** — (Existing entry update) Second Corps Commander, Velraigh army (full name: サルダン＝ガルカロン). Bald, bespectacled, wiry, stern-faced. Despite his severe appearance, has a soft spot for children. Previously assisted Krische at Kirzalan. Now targeted by Krische's nickname instinct; offered the choice between "Baldy Four-Eyes" (ハゲメガネ) and "Smoothie" (つるりん). Outcome unresolved. Present at the Wulfenite war council (C.205).
-
-**Kalmeda** — Former Alberan general at Wulfenite; killed by Aleha Sarshenka in the previous Elsren war. His death caused the Alberan army's total collapse and the fall of Wulfenite. Referenced historically only (C.205). Romanization tentative.
-
-**Linkara Wokal** — Vice-Commander of the Elsren invasion force under Bazlar Lukazan. Nearly a hundred years old; the most experienced field commander present. Bazlar's instructor since childhood. Shrewd strategist with a sardonic edge; willing to speak uncomfortable truths to power. Cleanly shaven chin (distinctive feature). Correctly predicted the strategic situation (Elderant's defeat, Alberinea's early arrival) but was overruled. Proposed the psychological operation against Alberinea using battlefield cleanup negotiation. Speech: analytical, formal (ですな), dry humor.
-
-**Lanu Karud** — Great Chieftain of the nomadic contingent (14,000 horse archers) serving the Elsren army. Thin face, narrow eyes, outwardly mild expression masking extreme cruelty — described as a madman who rips babies from wombs and flays people alive. Commands through terror; loses 2,000 deserters to starvation and executes half as an example. Trapped in the empty Alberan capital region with no supplies. Decides to break south past Wulfenite to rejoin Bazlar. Speech: calm, cold, controlled.
-
-**Orkana Rekarishu** — Elsren corps commander (north wall). Bearded, fierce-faced. Values pure martial virtue; dislikes political maneuvering. Participated in the mana-wielder breakthrough of the north wall alongside Mead. Lost his left arm in the Baumje Ira detonation; survived. Attempted to buy time against Krische to allow Ahle's escape; defeated instantly. Speech: gruff, direct, 俺.
-
-**Mead Milkorse** — Elsren corps commander (north wall). Former general demoted after the previous Wulfenite campaign; one-eyed (left eye patch). Career soldier risen from centurion. Schemer but honest about it — "I deceive, but I don't lie." Devised the elite mana-wielder breakthrough inspired by Alberinea's civil war tactics. Killed in the Baumje Ira detonation (C.207). Speech: smooth, strategic.
-
-**Ahle Keinkrus** — Elsren general (Duke) commanding the north wall assault. Mid-twenties, boyish, slender — "more beautiful boy than young man." An ornamental general who purchased his rank with pedigree and money; self-aware of his incompetence. Despite this, showed genuine noble character in crisis: ordered retreat to save soldiers, took personal responsibility. Killed by Krische's arrow through the back of the head while being carried to safety by Bad Keetas (C.208). Speech: uncertain, deferential.
-
-**Bad Keetas** — Elsren soldier; mana wielder. Previously survived Krische's attack on Sarshenka's mountain command post during the civil war. Rescued General Ahle and carried him on his back in full armor. Managed to escape over the wall through agility and tight-alley maneuvering, evading the jade tiger — but Ahle was killed by an arrow during the escape. Speech: dutiful, formal.
-
-**Titt Kalk** — Elsren veteran battalion commander (east wall). Old, one-eyed, white-bearded. Commoner risen to single-generation nobility through a siege-wall exploit that was pure luck, not bravery — a fact he is deeply honest about. Has spent his career trying not to turn subordinates into gamble chips. Prepared to lead a final assault with his adjutant Ryuuga. Speech: weathered, honest, paternal.
-
-**Ryuuga Wahlz** — Titt Kalk's adjutant and lifelong comrade. Minor noble, mana wielder; looks younger than Titt despite similar age. Insisted on accompanying Titt into the final assault. Speech: masculine, loyal.
-
-**Gorn Armahst** — Elsren centurion (Third Corps, Second Battalion). Young man who seized command after the Baumje Ira chaos, rallying confused soldiers with charisma and decisiveness. Narrator notes he would have become a great general. Killed by Krische moments after taking charge — neck snapped by the jade tiger. Illustrates the futility of individual heroism against Alberinea.
-
-**Elzaldo Gokkalus** — (Existing entry update) Full given name エルザルド confirmed in C.212. Central General; commands the defense against Elsren mounted archers on the southwestern plains of Wulfenite. Scarred face, one missing eye, bristling mustache (虎髭), powerfully built. Fights a purely defensive battle using prepared screens, ropes, and crossbows lent by Arna. Self-deprecating about his abilities; excels at psychological warfare — lures opponents into overconfidence by performing "just enough incompetence for the opponent to barely comprehend." Speech: calm, resonant, measured. — (Existing entry update) Appointed Northern General at the post-war investiture ceremony (C.216). Selected for experience, strategic acumen, and restraint during the horse archer engagement. Teknrea Remin and Kokys Agrand were considered but passed over.
-
-**Linkara** — Bazlar Lukazan's adjutant/officer. Present at the eastern command during the Wulfenite siege. Reports on supply disruptions and strategic conditions. Speech: measured, analytical.
-
-**Minuos Natrias** — Emperor's second son (Elsren Holy Empire). Appointed by the Papal Court to command the logistical army for the holy war. Placement is political — prevents Lukazan from monopolizing war glory. Bazlar suspects him of deliberate supply sabotage. No direct appearance; referenced only.
-
-**Lieberis** — Elsren centurion; commoner-born, rose to centurion rank in three years. Father was a nobleman who abandoned his mother. Skilled mana-user. Led a ten-squad assault on a Jaleia Gashea, correctly identifying its head as its weak point. Killed by Krische's hand-thrown Bonjara just before striking the finishing blow. Speech: direct (俺), idealistic, values individual lives. Philosophical in internal monologue.
-
-**Ranu Karud** — Elsren great chieftain (大族長) of the mounted archers. Led roughly a thousand survivors into the Kalbyas Mountains after the defeat. Tyrannical and paranoid; killed dissenters, used the weakest soldiers to test unknown food. Killed by his own men in his sleep — shot with hundreds of arrows. His successor immediately surrendered to Alberan.
-
-**Tiru Ramiru** — Mage at the Alberan Academy of Magical Studies. Lean, bespectacled, aging. Thirty years of mana crystal research specializing in transmutation (shape-changing). His life's work was surpassed by Krische in seconds. Speech: academic formal (です/ます); shifts to awed trembling.
-
-**Geltz Wirring** — (Existing entry update) Full backstory revealed in C.219: Wirring house ~200 years old; five generations ago Ordo Wirring earned margrave rank for slaying an enemy commander; family demoted to baron three generations later. Geltz rose from centurion through steady service; recommended by Gildanstein as Central General. Post-civil war: margrave title and general rank stripped; sold his estate; lives alone in a modest castle-town house. Visits from Selene to recruit him as military academy instructor. Met with Krische and Kreschenta; heard Krische's full battle accounts. Selene offered him the position of "Instructor Wirring" at the Albernaria Military Academy. Decision pending.
-
-**Alfmarz Gelganik** — Martial King (武王) of an eastern great power; leader of the Anti-Alberan Coalition. Black mustache with white hairs; muscular, powerful build; aging warrior. Hot-blooded, aggressive, demands military action against Alberan. Speech: commanding, passionate, uses 私. Historically aware — cites the Grabareine-era invasion. (C.225) — (Existing entry update) Killed by Krische at the Fangs of Wetharius (C.227). Destroyed three Jaleia Gashea before his royal sword broke. Attempted to face Alberinea alongside Nitrias in a mutual suicide pact. Krische bypassed Nitrias (delegating him to Kokys and Kalua) and slit Alfmarz's throat from behind. Head severed on the ground.
-
-**Anne** — (Existing entry update) Present at Gahren's collapse and death. Deeply grieved; collapsed crying when the doctor confirmed death. C.222 profile notes: since Gahren's passing, has been writing a record of the Christand house's history in her spare time. New worry: "That someday everyone must face death."
-
-**Selene** — (Existing entry update) C.225 time-skip: past forty years old. Growth resumed at some point; face lost girlhood, but shows no visible aging. Still serving as Marshal. Continues to insist on minimizing casualties and opposes treating lives as numbers. Relationship with Bery described in C.224 as unchanged from childhood — Bery remains the one person she cannot beat head-on. — (Existing entry update) C.229 time frame: approaching twenty years old. Considering marriage for the purpose of producing a Christand heir, but has no romantic interest in any man. Bery gently steers her away from marriage of duty, citing the impact on Kreschenta's trust and the household's stability.
-
-**Galla** — (Existing entry update) C.222 profile confirms: upon receiving Gahren's hair and seeing the wooden tags fall from the memorial tree, she understood that a weight had been lifted. Present when Krische and Bery buried the hair. Worry: none.
-
-**Lazura Christand** — (Existing entry update) Née Argan. C.224 side story confirms her as Bery's older sister (nee-sama). Bright, bold, unruly personality — polar opposite of Bery. Managed Christand administrative affairs alongside Bery. Died of puerperal fever after a stillborn second child. C.222 profile: alignment Chaos/Good.
-
-**Nitrias** — Eastern war-god; undefeated general with nearly a century of battlefield experience. Wears armor modeled after a great serpent he personally slew. Elderly but formidable. Mutual respect with Alfmarz; agreed to the anti-Alberan coalition. Killed by Kalua (great curved sword bisecting him) during the Battle of the Fangs of Wetharius (C.227). Speech: bold, わし, martial gravitas.
-
-**Kushenalars** — Ancient dragon sleeping in Dogaruaz; destroyed the empire of Lusheran in three days. Communicates via mana waves. Particularly skilled in sorcery among dragons. Described as a "world-shaper dragon." Initially hostile to Krische; subdued by her overwhelming power. Granted its true name after Kreschenta's persuasion. Agreed to the mana well construction. Speech (via mana): terse, imperious, uses 我.
-
-**Alsang** — Son of Aleha and Teknrea; heir to the Remin ducal house. Born three years after the Five-Nations War (Kingdom Year ~488). Healthy boy; subject of a "who does he look like" debate between his parents. Minor role.
-
-**Reifas Faren** — Elrouga's son; six years old at the time of C.229. Beautiful boy, 100% his mother's likeness. Admired Krische from Elrouga's stories; devastated when she told him his face "isn't very funny." Speech: not shown (narrated only).
-
-**Krische** — (Existing entry update) C.228 reveals her ultimate goal: "eternity" — a mana-constructed pocket dimension where she and her loved ones can live forever without war, death, or suffering. Carries a small mana crystal on a cord at her chest containing a soul (Lips/Bery's hidden name). Capable of subduing ancient dragons single-handedly; can seize control of an entire cavern's mana in seconds. Has constructed at least two "mana wells" (Zenith being one). Negotiating with dragons across the continent to build more. — (Existing entry update) C.231–235: Attempted to save Elrouga through constant mana infusion (unsuccessfully). Spent months researching cures for Bery: medicines, magical training, formula inscription, and ultimately attempting to construct a new body from mana in a subterranean laboratory. The artificial body dissolves when her mana supply is cut. Barely sleeping, developing fevers, refusing to stop. Told Rigaleiwe it was "pitiable" for not understanding loneliness.
-
-**Kreschenta** — (Existing entry update) C.228: teleported to Dogaruaz in her negligee (carrying her pillow) after oversleeping. Conducted negotiations with Kushenalars; proposed the mana well construction and world transformation plan. Calls dragons "long-lived lizards" and "perverts." Named Krische's plan "the eternal birdcage." C.229: opposes Selene's marriage plans on purely rational grounds; suggests adopting rather than bearing children. — (Existing entry update) C.232/235: Researching solutions alongside Krische. Advocates freezing Bery in time as a stopgap while they study the problem further, but Krische opposes this due to the risk that mana movement continues even in frozen time. Personally administers mana and pain medicine to Bery at night via mouth-to-mouth transfer. Shows deep attachment to Bery despite verbal hostility. Searched the archives after learning of Bery's condition. In C.232, deliberately provoked Selene over Bery's situation (calling Bery a "nuisance" and claiming indifference), but her actions contradicted her words.
-
-**Feni** — Toba Akaz's sister (C.232). In love with Red. Described as good-looking and honest. No direct speech; mentioned only.
-
-**Tolka Karnarius** — Current Western General of Alberan (C.232). Full name confirmed: トルカ＝カーナリウス. Formerly Felwors Keesliton's adjutant for many years; succeeded him as western general. Felwors remains as advisor. Married but childless; has an adopted son who suffered leg injuries in the Five-Nations War.
-
-**Vanatela** — (Existing entry update) Present at Elrouga's deathbed and funeral (C.231). Maintained composure throughout the state funeral, never showing tears publicly. Only after the mourners departed did she break down at the graveside with Reifas. Privately tender with Elrouga; their final exchange confirmed deep mutual love despite the age gap. Lit the cremation fire herself.
-
-**Elrouga** — (Existing entry update) Died of old age approximately eight years after the Five-Nations War (C.231). Collapsed during duties at the military academy; spent his final week bedridden. His condition was common among elderly mana wielders: loss of mana control causing rapid aging and organ failure. Entrusted the military academy and his soldiers to Quinez. Received a state funeral and burial in the royal cemetery. Final wish: that Krische not waste her time on a single old man.
-
-**Rigaleiwe** — (Existing entry update) C.234: Confirmed that Bery's condition stems from her mana having harmonized with dragon mana rather than overwriting it. Stated her body now functions as though inside a dragon (being dissolved like consumed prey). Admitted there is nothing more the dragon can do — further blood would worsen the condition. Expressed puzzlement at Krische's attachment to Bery. Krische called it "pitiable" for not understanding loneliness; the dragon laughed.
