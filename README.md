@@ -6,7 +6,7 @@ Info here: https://www.novelupdates.com/series/a-maidens-unwanted-heroic-epic/
 
 DO NOT OPEN ANY OTHER FILES OUTSIDE OF `translated_chapters` IF YOU DON'T WANT TO BE SPOILED.
 
-This repo contain's a translated version of this masterpiece of a novel that ticks all my boxes.
+This repo contain's a full translation of the main story of this masterpiece of a novel that ticks all my boxes.
 
 ## A Short Rant
 
