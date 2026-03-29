@@ -9,18 +9,16 @@ DIRECTORY LAYOUT (relative to this script):
 USAGE:
     python3 review_edits.py                        # interactive review, newest edits file
     python3 review_edits.py review/c40-45_edits.md # interactive review, specific file
-    python3 review_edits.py --auto-approve         # approve NECESSARY edits only, skip OPTIONAL
-    python3 review_edits.py --undo                 # undo all APPROVED edits from newest edits file
+    python3 review_edits.py --auto-approve         # approve all edits without prompting
+    python3 review_edits.py --undo                 # undo all APPROVED edits
 
 BEHAVIOUR:
     - Finds the corresponding chapter file by stripping "_edits" from the edits filename.
-    - Presents each CATEGORY/ORIGINAL/EDIT block and prompts y/n/q.
-    - Approved edits are applied directly to the chapter file (in-place, exact string replace).
+    - Presents each ORIGINAL/EDIT pair and prompts y/n/q.
+    - Approved edits are applied to the chapter file in-place by exact string match.
     - Each block in the edits file is annotated with APPROVED or REJECTED.
-    - q saves all decisions made so far; remaining edits are marked REJECTED.
-    - --auto-approve approves NECESSARY edits silently and skips OPTIONAL ones (marked REJECTED).
-    - --undo reverses all APPROVED edits in the edits file, restoring the chapter originals,
-      and strips all APPROVED/REJECTED annotations from the edits file.
+    - q saves progress so far; remaining edits are marked REJECTED.
+    - --undo reverses all APPROVED edits, restoring originals, and clears annotations.
     - --undo and --auto-approve are mutually exclusive.
 """
 
@@ -37,7 +35,6 @@ BOLD   = "\033[1m"
 RED    = "\033[0;31m"
 GREEN  = "\033[0;32m"
 YELLOW = "\033[1;33m"
-CYAN   = "\033[0;36m"
 DIM    = "\033[2m"
 
 def wrap(text: str, width: int = 68, indent: str = "  ") -> str:
@@ -59,27 +56,19 @@ def divider(char: str = "─", width: int = 72):
 
 def parse_edits(text: str) -> list[dict]:
     """
-    Parse all CATEGORY/ORIGINAL/EDIT blocks from the edits file.
-
-    Returns a list of dicts:
-        {
-          'category': str,   # 'NECESSARY' or 'OPTIONAL'
-          'original': str,   # exact paragraph text to find in chapter file
-          'edit':     str,   # proposed replacement
-        }
+    Parse all ORIGINAL/EDIT pairs from the edits file.
+    Returns a list of dicts with 'original' and 'edit' keys.
     """
     results = []
     pattern = re.compile(
-        r'^CATEGORY:\s*(NECESSARY|OPTIONAL)\s*\n'
         r'^ORIGINAL:\s*(.+?)\n'
         r'^EDIT:\s*(.+?)$',
         re.MULTILINE
     )
     for m in pattern.finditer(text):
         results.append({
-            'category': m.group(1).strip().upper(),
-            'original': m.group(2).strip(),
-            'edit':     m.group(3).strip(),
+            'original': m.group(1).strip(),
+            'edit':     m.group(2).strip(),
         })
     return results
 
@@ -89,25 +78,20 @@ def parse_edits(text: str) -> list[dict]:
 def review(edits: list[dict], chapter_text: str,
            auto_approve: bool = False) -> tuple[str, list[tuple[dict, str]]]:
     """
-    Walk through edits interactively, or auto-approve NECESSARY only.
+    Walk through edits interactively or approve all automatically.
     Returns (updated_chapter_text, [(edit_dict, decision), ...]).
     Decisions are 'APPROVED' or 'REJECTED'.
     """
     decisions: list[tuple[dict, str]] = []
     total = len(edits)
 
-    necessary = sum(1 for e in edits if e['category'] == 'NECESSARY')
-    optional  = sum(1 for e in edits if e['category'] == 'OPTIONAL')
-
     if auto_approve:
-        print(f"\n{YELLOW}Auto-approving edit(s) {RESET}")
+        print(f"\n{YELLOW}Auto-approving all {total} edit(s).{RESET}")
 
     for i, ed in enumerate(edits):
-        cat_colour = GREEN if ed['category'] == 'NECESSARY' else CYAN
         print()
         divider("═")
-        print(f"{BOLD}  Edit {i + 1} of {total}  "
-              f"{cat_colour}[{ed['category']}]{RESET}")
+        print(f"{BOLD}  Edit {i + 1} of {total}{RESET}")
         divider()
         print(f"\n{YELLOW}{BOLD}  ORIGINAL{RESET}")
         print(wrap(ed['original']))
@@ -122,7 +106,7 @@ def review(edits: list[dict], chapter_text: str,
                   f"edit cannot be applied if accepted.{RESET}\n")
 
         if auto_approve:
-            print(f"  {GREEN}✓ Auto-approved {RESET}")
+            print(f"  {GREEN}✓ Auto-approved{RESET}")
             decisions.append((ed, "APPROVED"))
             continue
 
@@ -152,7 +136,6 @@ def review(edits: list[dict], chapter_text: str,
         label = f"  {GREEN}✓ Approved{RESET}" if choice == "y" else f"  {RED}✗ Rejected{RESET}"
         print(label)
 
-    # Apply all approved edits to chapter text
     updated = chapter_text
     for ed, decision in decisions:
         if decision == "APPROVED" and ed['original'] in updated:
@@ -166,51 +149,38 @@ def review(edits: list[dict], chapter_text: str,
 def undo(edits_text: str, chapter_text: str) -> tuple[str, int]:
     """
     Reverse all APPROVED edits found in the edits file.
-    Replaces the edited paragraph in the chapter with the original.
     Returns (updated_chapter_text, undo_count).
     """
-    # Find all APPROVED blocks: CATEGORY/ORIGINAL/EDIT followed by APPROVED
     pattern = re.compile(
-        r'^CATEGORY:\s*(NECESSARY|OPTIONAL)\s*\n'
         r'^ORIGINAL:\s*(.+?)\n'
         r'^EDIT:\s*(.+?)\n'
         r'^APPROVED\s*$',
         re.MULTILINE
     )
-
     updated = chapter_text
     count = 0
     for m in pattern.finditer(edits_text):
-        original = m.group(2).strip()
-        edit     = m.group(3).strip()
+        original = m.group(1).strip()
+        edit     = m.group(2).strip()
         if edit in updated:
             updated = updated.replace(edit, original, 1)
             count += 1
-        elif original in updated:
-            pass  # already undone or never applied; skip silently
-
     return updated, count
 
 
 def strip_annotations(edits_text: str) -> str:
-    """Remove all APPROVED and REJECTED annotation lines from the edits file."""
+    """Remove all APPROVED and REJECTED lines from the edits file."""
     lines = edits_text.splitlines(keepends=True)
-    cleaned = [l for l in lines if l.strip() not in ("APPROVED", "REJECTED")]
-    return "".join(cleaned)
+    return "".join(l for l in lines if l.strip() not in ("APPROVED", "REJECTED"))
 
 
 # ── Annotate edits file ────────────────────────────────────────────────────────
 
 def annotate_edits_file(edits_text: str, decisions: list[tuple[dict, str]]) -> str:
-    """
-    Write APPROVED or REJECTED on the line after each EDIT: line.
-    Processes in reverse order to preserve string offsets.
-    """
+    """Append APPROVED or REJECTED after each EDIT: line. Processes in reverse order."""
     result = edits_text
     for ed, decision in reversed(decisions):
-        block = (f"CATEGORY: {ed['category']}\n"
-                 f"ORIGINAL: {ed['original']}\n"
-                 f"EDIT: {ed['edit']}")
+        block = f"ORIGINAL: {ed['original']}\nEDIT: {ed['edit']}"
         pos = result.find(block)
         if pos == -1:
             continue
@@ -250,13 +220,13 @@ def main():
 
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument("--auto-approve", action="store_true",
-                      help="Approve NECESSARY edits automatically; skip OPTIONAL")
+                      help="Approve all edits without prompting")
     mode.add_argument("--undo", action="store_true",
                       help="Undo all APPROVED edits, restoring chapter originals")
     args = parser.parse_args()
 
     script_dir   = Path(__file__).resolve().parent
-    review_dir   = script_dir / "chapter_review"
+    review_dir   = script_dir / "review"
     chapters_dir = script_dir / "translated_chapters"
 
     if args.edits_file:
@@ -266,7 +236,6 @@ def main():
         print(f"{DIM}Using newest edits file: {edits_path.name}{RESET}")
 
     chapter_path = find_chapter_file(edits_path, chapters_dir)
-
     edits_text   = edits_path.read_text(encoding="utf-8")
     chapter_text = chapter_path.read_text(encoding="utf-8")
 
@@ -277,10 +246,8 @@ def main():
         print(f"{DIM}Chapter: {chapter_path.name}{RESET}")
 
         updated_chapter, count = undo(edits_text, chapter_text)
-        cleaned_edits = strip_annotations(edits_text)
-
         chapter_path.write_text(updated_chapter, encoding="utf-8")
-        edits_path.write_text(cleaned_edits, encoding="utf-8")
+        edits_path.write_text(strip_annotations(edits_text), encoding="utf-8")
 
         print()
         divider("═")
@@ -292,24 +259,17 @@ def main():
     # ── Review / auto-approve mode ────────────────────────────────────────────
     edits = parse_edits(edits_text)
     if not edits:
-        print(f"{YELLOW}No CATEGORY/ORIGINAL/EDIT blocks found in {edits_path.name}.{RESET}")
+        print(f"{YELLOW}No ORIGINAL/EDIT pairs found in {edits_path.name}.{RESET}")
         sys.exit(0)
-
-    necessary = sum(1 for e in edits if e['category'] == 'NECESSARY')
-    optional  = sum(1 for e in edits if e['category'] == 'OPTIONAL')
 
     print(f"\n{BOLD}Translation Edit Review{RESET}")
     print(f"{DIM}Edits:   {edits_path.name}{RESET}")
-    print(f"{DIM}Chapter: {chapter_path.name}  |  "
-          f"{GREEN}NECESSARY: {necessary}{RESET}{DIM}  "
-          f"{CYAN}OPTIONAL: {optional}{RESET}")
+    print(f"{DIM}Chapter: {chapter_path.name}  |  {len(edits)} proposed edit(s){RESET}")
 
     updated_chapter, decisions = review(edits, chapter_text, args.auto_approve)
 
     chapter_path.write_text(updated_chapter, encoding="utf-8")
-
-    annotated = annotate_edits_file(edits_text, decisions)
-    edits_path.write_text(annotated, encoding="utf-8")
+    edits_path.write_text(annotate_edits_file(edits_text, decisions), encoding="utf-8")
 
     approved = sum(1 for _, d in decisions if d == "APPROVED")
     rejected = sum(1 for _, d in decisions if d == "REJECTED")

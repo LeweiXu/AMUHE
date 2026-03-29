@@ -198,17 +198,17 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ハルビス | Harbis | Grand Priest, Arna Empire; hawkish |
 | 巫女姫 | Priestess Princess | Supreme ruler, Arna Empire |
 | エーラン | Ehran | Cavalry captain; Kreschenta's escort |
-| リラ＝シャラナ | Lila Sharana | Creisharana girl; griffin handler; guiding Krische |
+| リラ＝シャラナ | Lila Sharana | Kreisharana girl; griffin handler; guiding Krische |
 | ラーネル | Larnel | Lila's juvenile griffin |
-| ヴィンスリール | Vinsreel | Warrior Leader, Creisharana; Lila's brother |
+| ヴィンスリール | Vinsreel | Warrior Leader, Kreisharana; Lila's brother |
 | ヴェルヴァス | Velvas | Guardian of forbidden domain; defeated by Krische (C.149) |
-| アルキーレンス | Alkirens | Chieftain, Creisharana; Lila and Vinsreel's father |
-| ビーキルス | Bikirles | Elder; previous Creisharana chieftain |
+| アルキーレンス | Alkirens | Chieftain, Kreisharana; Lila and Vinsreel's father |
+| ビーキルス | Bikirles | Elder; previous Kreisharana chieftain |
 | アルゼン川 / ベゼン川 | Arzlen River / Bezlen River | Battle of Arzlen site / flooded by Krische |
 | エルネ邸 | Erune Estate | Royal guest estate, capital |
 | キールザラン | Kirzalan | Major city west of Dragon's Maw |
 | ナウトアーナ | Naut Arna | Capital of the Arna Empire |
-| アルビャーゲル | Albyagel | Mountain range; Creisharana homeland |
+| アルビャーゲル | Albyagel | Mountain range; Kreisharana homeland |
 | 禁域 | Forbidden Domain | Area surrounding Yagelnaus's lair |
 | ヤゲルナウス | Yagelnaus | Ancient dragon; chief deity, Arna Empire |
 | ぐるるん | Gururun | Krische's jade tiger companion |
@@ -218,7 +218,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | アルバーザ | Albaza | Warrior-King, two generations prior |
 | バザリーシェ | Bazarishe | Founding king of Alberan |
 | ガラ / ノーラ | Galla / Nora | Karka widow / Kreschenta's servant (deceased) |
-| ラシェルナ | Lasherna | Creisharana hunter-goddess (mythological) |
+| ラシェルナ | Lasherna | Kreisharana hunter-goddess (mythological) |
 | ヴァーグサリド | Vagusarido | Pre-Alberan tribal confederation |
 | ネールカ共和国 / エルデラント王国 / クースラン王国 | Republic of Nerka / Elderant Kingdom / Kingdom of Kuslan | Other nations |
 | リーガレイヴ | Rigaleiwe | Dragon's true name (Yagelnaus is human honorific) |
@@ -257,7 +257,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | オルカ | Orka | Kilrea's adjutant (killed shielding Kilrea) |
 | ネッキ | Nekki | Engineering squad member; signal operator for Krische |
 | レックス | Reks | Begil's escort; carries his lance |
-| ベーグ | Beeg | Creisharana warrior; carries Mia on his griffin |
+| ベーグ | Beeg | Kreisharana warrior; carries Mia on his griffin |
 | エーリュケ | Ehryuke | Galshan officer under Zalvarg (tentative romanization) |
 | ローゲリウス | Rogerius | Zalvarg's camel cavalry captain (tentative romanization) |
 | ベルツ | Beltz | Black Flag Special Service cooking instructor |
@@ -523,9 +523,9 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 無形 = "formless"; 無空 = "the void" (Krische's swordsmanship).
 - グラバレイネ = "Grabareine"; エルスレイネ = "Elsreine"; レイネ = "Reine."
 - 聖霊の巫女 = "priestess of the divine being" (Lila's title).
-- 従士 = "levied warriors" (Creisharana non-cavalry fighters).
+- 従士 = "levied warriors" (Kreisharana non-cavalry fighters).
 - 虎入りの鐘 = "tiger-entry bell."
-- 古語 = "Old Tongue" (Creisharana language = formerly the kingdom's northern language).
+- 古語 = "Old Tongue" (Kreisharana language = formerly the kingdom's northern language).
 - 拝血信仰 = "blood-worship faith" (kingdom's established religion; distinct from Karka's indigenous forest-cycle faith).
 - ベリー経典 = "Bery Scripture" (narrator's comic term for Krische's internalized Bery-philosophy).
 - コルキス in dialogue → "Kokys" per convention.
@@ -554,7 +554,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 簡略紋 = "simplified crest" (heraldic term for the external-use version of a noble house's crest).
 - 掌中天女 (C.162 title) = "The Celestial Maiden in Her Palm" (掌中 = in one's palm; 天女 = heavenly/celestial maiden — poetic image of Bery holding Krische).
 - 鑑賞会 (C.163 title) = "Viewing Party" (informal event showing Gururun to the troops).
-- 春待ちの雪 (C.164 title) = "Snow Awaiting Spring" (Kreschenta's diplomatic metaphor for thawing Creisharana relations).
+- 春待ちの雪 (C.164 title) = "Snow Awaiting Spring" (Kreschenta's diplomatic metaphor for thawing Kreisharana relations).
 - まぁまぁ (Kreschenta's food rating) = "passable" — Kreschenta's personal highest praise for Bery's cooking; ironic understatement.
 - 座礼 = "seated bow" (both-knees-down salute in kingdom protocol; distinct from the one-knee standing salute).
 - 洗いっこ = "washy-washy" (Krische's innocent term for mutual bathing; kept in quotes to preserve the childlike register)
@@ -600,7 +600,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - ダズール = "Dazurl" (Galshan common soldier; POV character showing ground-level experience of Bonjara).
 - オルカ = "Orka" (Kilrea's adjutant; shields Kilrea from Krische's javelin, killed).
 - ネッキ = "Nekki" (engineering squad member who lost his Jaleia Gashea to Elkaarl).
-- ベーグ = "Beeg" (Creisharana warrior who carries Mia on his griffin).
+- ベーグ = "Beeg" (Kreisharana warrior who carries Mia on his griffin).
 - レックス = "Reks" (Begil's lance-bearer escort).
 - ぼんじゃら = "Bonjara" — Krische's name for her fragmentation bomb. Kept as-is; the narrator notes the name is absurd.
 - 仮想筋肉 = "virtual musculature" — Krische's mana-based full-body muscle replacement/optimization.
