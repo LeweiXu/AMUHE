@@ -1,28 +1,27 @@
 ## UwU
 
-Aight if you're looking at this file the the cat's out of the bag. You may or may not have noticed the translation quality was a bit *too* good with some slightly unnatural sounding 
-passages. Well, that is because I did the translation using the latest and strongest LLM model: Claude Opus 4.6.
+Aight if you're looking at this file the the cat's out of the bag. You may or may not have noticed the translation sounded like AI. Welp, that's because it is AI. The translation was completed using the latest and strongest LLM model: Claude Opus 4.6.
+
+I actually tried doing this in early 2025 using GPT for this exact novel but found that although the translation itself was passable, it often couldn't even fit a single chapter in it's context 
+window and often truncated up to half a chapter. It also didn't like what it was translating, often straight up refusing to translate due to "content violation". 
+Looks like GPT couldn't handle Krische's personality lol.
+
+Claude solved both these issues with a very large context window, capable of translated well over 10 chapters in a single prompt, and didn't bat an eye even to the more gory chapters.
 
 ## Methodology
 
-I actually tried doing this in early 2025 using GPT but found that although the translation itself was passable, it often couldn't even fit a single chapter in it's context 
-window and often truncated up to half a chapter. It also didn't like what it was translating, often straight up refusing to translate because it was a "content violation". 
-Looks like GPT couldn't handle Krische's personality lol.
+Even Opus 4.6 isn't powerful enough to translate the entire novel from start to finish with 0 errors, and there is also the problem of usage limits to consider. To get around this, I opted to translate
+chapters in batches of 5 at a time. To maintain accuracy and consistency of romanization and accuracy of translation, I maintain a `context.md` that is updated after every batch. 
+`context.md` contains information critical for translation only, such as a romanization table and key translation choices for terms, titles, places etc.. It also contains other information about the task, some translation nuances to watch out for, and other information about the novel itself.
 
-Opus 4.6 has a 1 million token context window, it could theoretically fit the whole novel in it's memory, but translation quality will probably degrade as it translates further
-and further into the novel. Instead of trying to translate the whole novel at once (which would've taken literal hours even if the translation quality was perfect), I opted to translate
-chapters in batches of 5 at a time. To maintain accuracy and consistency of romanization and accuracy of translation, I maintain a `knowledge_base.md` that is updated after every batch. 
-`knowledge_base.md` contains condensed information about the novel and what happened in previous chapters and is supplied to the AI at every batch. In addition, a `context.md` file is 
-provided with additional information such as the task, the goal, and other information.
-
-I passed in 7 files (`knowledge_base.md` + `context.md` + 5 chapters in txt format) + the prompt which is available below and had Claude Opus 4.6 output 2 files:
+For each batch, the model was provided with 6 files (`context.md` + 5 chapters in txt format) + the prompt which is available below and had the model output 2 files:
 1. A `.md` file containing the translation of the 5 chapters
-2. A `.md` file containing additions to the knowledge base
+2. A `.md` file containing additions to the knowledge base (`context.md`)
 
-Instead of having Opus 4.6 redo the knowledge base from scratch which takes a lot of time, I simple had it generate any additions necessary, then used the `merge.py` script to merge
+Instead of having the model redo the knowledge base from scratch which takes a lot of time, I simple had it generate any additions necessary, then used the `merge.py` script to merge
 the information into the existing knowledge base.
 
-In the original tranlation prompt and in context.md, I specifically asked for a direct and literal translation, prioritising translation accuracy over naturalness so as not to lose some of the nuances of the original text. This worked exactly as expected, but I wasn't too happy with how some certain phrases were translated, so I used Claude Code to do a second pass as an editor:
+The original translation prompt asked for a direct and literal translation, prioritising translation accuracy over naturalness so as not to lose some of the nuances of the original text. This worked very well, too well in fact. Some phrases came out janky and unnatural but you could tell exactly what the original text meant e.g. "you may raise your faces" --> "you may raise your heads". Can't exactly blame claude it was just doing what it was asked to do, but to make the reading experience more natural, I used Claude Code directly as an Editor and had it edit each chapter directly in the file.
 
 <table>
   <tr>
@@ -37,8 +36,7 @@ I can confidently say that the translation quality after the second pass is **on
 spelling or grammar issues. A model as powerful as Opus 4.6 also won't miss entire passages or truncate the text or try to shorten the text like GPT did back in 2025. The only things that 
 it could potentially mess up is missing some specific references/idioms, but that is easy to forgive considering how fast and accurate it is.
 
-I also did some quality testing by having Opus 4.6 translate the first few chapters and compared it against HecateHonryuu's translation and obviously, while HecateHonryuu's translation 
-was great, the LLM translation didn't fall far behind. If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
+If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's translation is a solid 9/10 (while inoveltranslations' 
 would be like a 4/10).
 
 ## Translation Prompt (Opus 4.6)
