@@ -1,12 +1,12 @@
 # A Maiden's Unwanted Heroic Epic
 
-<img src="public/cover.png" width="400">
+<img src="public/cover.png" width="500">
 
 Info here: https://www.novelupdates.com/series/a-maidens-unwanted-heroic-epic/
 
 DO NOT OPEN ANY OTHER FILES OUTSIDE OF `translated_chapters` IF YOU DON'T WANT TO BE SPOILED.
 
-This repo contain's a translation this masterpiece of a novel that ticks all my boxes.
+This repo contain's a translation this masterpiece of a novel that ticks all my boxes. Probably isn't for everyone. I'm especially a sucker for super long stories that has a clear goal from beginning to end that is both character driven and story driven. Ending is also very special as well, never seen anything quite like it. If you're debating whether to jump in, I recommend reading the first 5 chapters. If you read the first 5 chapters and liked it, I guarantee you'll enjoy the whole novel.
 
 ## Synopsis
 
