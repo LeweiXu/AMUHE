@@ -133,7 +133,7 @@ The translation is accurate but occasionally too literal — it follows the Japa
 closely in ways that sound unnatural to a native English reader. Your only job is to find
 these cases and suggest more natural English phrasing that preserves the exact meaning.
 
-## WHAT TO FLAG
+### WHAT TO FLAG
 
 **Literal phrasing:** Sentences or short passages where the phrasing is a direct
 carry-over from Japanese idiom or syntax that no native English speaker would naturally say.
@@ -152,7 +152,7 @@ sentence and the character speaking it.
 In both cases, the meaning must be preserved exactly. You are changing how it is said,
 not what is said.
 
-## WHAT NOT TO FLAG
+### WHAT NOT TO FLAG
 
 - Anything that already reads naturally in English — do not flag for the sake of it
 - Character voice — each character has a fixed, intentional register; do not smooth it out
@@ -161,7 +161,7 @@ not what is said.
 - Proofreading issues (typos, punctuation) — out of scope
 - Style preferences — only flag genuine literalism, not alternatives you would prefer
 
-## THE TASK
+### THE TASK
 
 Make edits directly in the file.
 
