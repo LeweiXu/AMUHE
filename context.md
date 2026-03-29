@@ -158,7 +158,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | シェルバーザ | Sherbaza | King of Alberan (deceased; poisoned by Kreschenta) |
 | ローランド＝セーバ | Roland Seba | Merchant; executed by Krische (C.97) |
 | エルヴェナ | Elvena | Former debt-bonded servant; now Krische's assistant |
-| アン＝ギーテルンス | Anne Gietelens | Christand household servant |
+| アン＝ギーテルンス | Anne Giterns | Christand household servant |
 | ダグリス | Daglis | Former Roland spy; now Kreschenta's operative |
 | ガインズ＝リネア＝トスカ | Gainz Rinea Tosca | Fifth Battalion commander (archers) |
 | ベーギル＝リネア＝サンディカ | Begil Rinea Sandika | First Battalion commander (light infantry) |
@@ -222,10 +222,10 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ヴァーグサリド | Vagusarido | Pre-Alberan tribal confederation |
 | ネールカ共和国 / エルデラント王国 / クースラン王国 | Republic of Nerka / Elderant Kingdom / Kingdom of Kuslan | Other nations |
 | リーガレイヴ | Rigaleiwe | Dragon's true name (Yagelnaus is human honorific) |
-| アルゴーシュ＝ヴィケル＝ギーテルンス | Argoush Vikel Gietelens | Marquis; Anne's father; administers Peerls region |
+| アルゴーシュ＝ヴィケル＝ギーテルンス | Argoush Vikel Giterns | Marquis; Anne's father; administers Peerls region |
 | リットグンド | Littgund | Vinsreel's griffin |
 | ピルケ砦 | Pilke Fort | Northwestern surveillance outpost |
-| ピールス | Peerls | City near Pilke Fort; Gietelens family seat |
+| ピールス | Peerls | City near Pilke Fort; Giterns family seat |
 | コールス | Coles | Fort commander, Pilke Fort |
 | ミルケ / ビグ | Milke / Big | Soldiers at Pilke Fort (minor) |
 | ラーコス公爵 | Duke Larkos | Noble; delivers administrative reports at Privy Council |
@@ -540,7 +540,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 天蓋 = "canopy" (Krische's mana construct that blocks the dragon's roar).
 - 恩猫 (on-neko) = "debt-cat" (Krische's coinage for Gururun, punning on 恩人 "benefactor").
 - ピルケ砦 = "Pilke Fort"; ピールス = "Peerls."
-- アルゴーシュ＝ヴィケル＝ギーテルンス = "Argoush Vikel Gietelens" (Anne's father, Marquis).
+- アルゴーシュ＝ヴィケル＝ギーテルンス = "Argoush Vikel Giterns" (Anne's father, Marquis).
 - リットグンド = "Littgund" (Vinsreel's griffin).
 - コールス = "Coles" (Pilke Fort commander).
 - Kreschenta uses ヴェラ (Vera) in her self-introduction to Rigaleiwe (C.154) vs. full ヴィエラ (Viera) — possibly shortened diplomatic form.
