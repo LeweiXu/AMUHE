@@ -22,9 +22,18 @@ I passed in 7 files (`knowledge_base.md` + `context.md` + 5 chapters in txt form
 Instead of having Opus 4.6 redo the knowledge base from scratch which takes a lot of time, I simple had it generate any additions necessary, then used the `merge.py` script to merge
 the information into the existing knowledge base.
 
+In the original tranlation prompt and in context.md, I specifically asked for a direct and literal translation, prioritising translation accuracy over naturalness so as not to lose some of the nuances of the original text. This worked exactly as expected, but I wasn't too happy with how some certain phrases were translated, so I used Claude Code to do a second pass as an editor:
+
+<table>
+  <tr>
+    <td><img src="public/editor_example1.png" width="300"/></td>
+    <td><img src="public/editor_example2.png" width="300"/></td>
+  </tr>
+</table>
+
 ## Translation Quality
 
-I can confidently say that the translation quality is at the very least **on par if not better** than your average translator. One thing that LLMs can guarantee is that there will be no
+I can confidently say that the translation quality after the second pass is **on par if not better** than a highly experienced Japanese to English translator. One thing that LLMs can guarantee is that there will be no
 spelling or grammar issues. A model as powerful as Opus 4.6 also won't miss entire passages or truncate the text or try to shorten the text like GPT did back in 2025. The only things that 
 it could potentially mess up is missing some specific references/idioms, but that is easy to forgive considering how fast and accurate it is.
 
@@ -124,9 +133,9 @@ For existing characters, only add a new entry line if there is a genuinely new
 fact that affects translation (e.g. a new speech register note, a name change,
 a status change that will alter how other characters address them).
 
-## Editor Prompt (Sonnet 4.6)
+## Editor Prompt (Claude Code @ Medium Effort)
 
-You are a literary editor. You will receive an English translation of a Japanese web novel.
+You are a literary editor. This file is an English translation of a Japanese web novel.
 
 The translation is accurate but occasionally too literal — it follows the Japanese phrasing
 closely in ways that sound unnatural to a native English reader. Your only job is to find
@@ -162,14 +171,9 @@ not what is said.
 
 ## THE TASK
 
-Make edits directly in the file, then in the chat, for each edit, provide the following:
-```
-ORIGINAL: <exact text of the paragraph to be replaced>
-EDIT: <proposed replacement paragraph>
-```
+Make edits directly in the file.
 
-## OUTPUT FORMAT
-
+<!-- 
 A script will merge your proposed edits. Output a single .md file where each proposed
 edit is one block in this exact format:
 
@@ -187,4 +191,4 @@ truncate, or alter it in any way.
 Include a `# Chapter N` heading before each chapter's edits.
 If a chapter has no edits, write `No edits.` under its heading.
 
-End the file with a `## SUMMARY` listing each change and the reason in one line.
+End the file with a `## SUMMARY` listing each change and the reason in one line. -->
