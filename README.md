@@ -6,7 +6,24 @@ Info here: https://www.novelupdates.com/series/a-maidens-unwanted-heroic-epic/
 
 DO NOT OPEN ANY OTHER FILES OUTSIDE OF `translated_chapters` IF YOU DON'T WANT TO BE SPOILED.
 
-This repo contain's a full translation of the main story of this masterpiece of a novel that ticks all my boxes.
+This repo contain's a translation this masterpiece of a novel that ticks all my boxes.
+
+## Synopsis
+
+Krische Alberinea Christand — General of the Kingdom of Alberan.
+
+The figure who sustained a beleaguered Alberan through its darkest years, then became the driving force behind the sweeping expansion of its territory and the unification of the continent. She is spoken of as the greatest military genius in the history of warfare, and her magical inventions brought the Age of Heroes to a close. From her overwhelming martial achievements and the magical legacy that endures to the present day, she is widely known even now as a hero without equal.
+
+At the same time, accounts describing her as an anomaly are not difficult to find, and anyone who reads the documents of that era will encounter her coldness and ruthlessness written down at every turn. Many regard her as nothing more than a cold-blooded killer — and the truth of the matter is——
+
+"Ehehe. Bery, what are we making today?"
+
+"Let me think…… Shall we make the main dish today Krische-sama's favourite, pumpkin pie?"
+
+Likes: cooking, eating, and being indulged.
+Strengths: killing people.
+
+——A story about a slightly unhinged girl surrounded by kind people, finding her happiness. That is what this is.
 
 ## A Short Rant
 
