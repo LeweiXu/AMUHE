@@ -20,6 +20,8 @@ Instead of having the model redo the knowledge base from scratch which takes a l
 
 The original translation prompt asked for a direct and literal translation, prioritising translation accuracy over naturalness so as not to lose some of the nuances of the original text. This worked very well, too well in fact. Some phrases came out janky and unnatural but you could tell exactly what the original text meant e.g. "you may raise your faces" --> "you may raise your heads". Can't exactly blame the model it was just doing what it was asked to do, but to make the reading experience more natural, I used Claude Code directly as an Editor and had it edit each chapter directly in the file.
 
+EDIT: I found that Claude Code burned through usage very quickly, so I ended up switching to Microsoft Copilot Pro using Sonnet 4.6 for the proofreading. Copilot usage is per request not token based, so I abused the hell out of that. Chapters 181-260 were proofread via Sonnet 4.6 on High Thinking Effort.
+
 <table>
   <tr>
     <td><img src="public/editor_example1.png" width="300"/></td>
@@ -132,6 +134,9 @@ You are a literary editor. This file is an English translation of a Japanese web
 The translation is accurate but occasionally too literal — it follows the Japanese phrasing
 closely in ways that sound unnatural to a native English reader. Your only job is to find
 these cases and suggest more natural English phrasing that preserves the exact meaning.
+
+Make sure to scan the whole document, do not miss any passages. Context.md contains information
+about the webnovel in a condensed format. Refer to it when needed.
 
 ### WHAT TO FLAG
 
