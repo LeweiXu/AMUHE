@@ -135,7 +135,7 @@ The translation is accurate but occasionally too literal — it follows the Japa
 closely in ways that sound unnatural to a native English reader. Your only job is to find
 these cases and suggest more natural English phrasing that preserves the exact meaning.
 
-Make sure to scan the whole document, do not miss any passages. Context.md contains information
+Make sure to scan the whole document, do not miss any passages. `context.md` contains information
 about the webnovel in a condensed format. Refer to it when needed.
 
 ### WHAT TO FLAG
