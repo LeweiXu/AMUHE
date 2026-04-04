@@ -49,6 +49,4 @@ then do a pull request, without being a collaborator. After which I can review t
 
 Credits for chapters c1-41 go to [HecateHonryuu](https://hecatescorner.wordpress.com/a-maidens-unwanted-heroic-epic/). Support them on their website if you liked their translation.
 
-I considered re-translating c1-41 but decided to leave it as it's a good example of what a good translation should be like, unlike the previously mentioned translator.
-
-For c42 onwards, do whatever y'all want with it. Download it, clone the repo, share it with your friends, put it on an aggregate website, whatever, don't care.
+I considered re-translating c1-41 but decided to leave it as I don't want to invalidate their work. For c42 onwards, do whatever y'all want with it. Download it, clone the repo, share it with your friends, put it on an aggregate website, whatever, don't care.
