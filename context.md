@@ -50,7 +50,7 @@ For each chapter:
 - **Mia:** Casual, direct, childlike stubbornness. Formal/stiff only with superiors.
 - **Elvena:** Polite (desu/masu), warm, slightly self-deprecating. Formal with Krische-sama.
 - **Cheek-pinching garbled speech:** Render phonetically, e.g. "Fue, fuerere, ihyairesu……"
-- **Dagreen Gahka:** Rough, frank, masculine. Uses わし for self-reference. Blunt familiarity with equals and subordinates. Gruff but not unkind; bandit-chief energy masking sharp calculation.
+- **Dagren Garkha:** Rough, frank, masculine. Uses わし for self-reference. Blunt familiarity with equals and subordinates. Gruff but not unkind; bandit-chief energy masking sharp calculation.
 - **Gal Bilkees:** Measured, veteran soldier. Respectful of worthy enemies. Speaks with the gravity of long battlefield experience.
 - **Olgan:** Bold, hearty, grandiloquent. Mixes warmth with commanding gravity. Uses 俺 for self-reference. Laughs freely and loudly even in dire situations. Speaks to enemies with frank respect.
 - **Zalvarg:** Dry, weary, sardonic. Measured speech masking sharp intellect. Habitually exasperated by Olgan's impulsiveness. Respectful but blunt with superiors.
@@ -245,12 +245,12 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | エルカール | Elkaarl | Galshan eastern general; "the Giant" |
 | キルレア | Kilrea | Galshan western general; "the Sword-Saint" |
 | ネイクル | Neikrul | Elkaarl's deputy commander |
-| ダルケリス | Dalkeris | Dagreen's adjutant; scarred face |
+| ダルケリス | Dalkeris | Dagren's adjutant; scarred face |
 | ダールトン | Dahlton | Commander, Elkaarl's center division |
 | ザーカ | Zaaka | Black Flag squad leader; one-eyed |
 | ボグス | Bogus | Flag-bearer, Zaaka's squad |
 | コーザ | Koza | Black Flag archer captain; flag-bearer |
-| ガーレン | Gahren | Present at Gahka manor meeting (C.177); likely Gahka-side officer — distinct from ガレン (Gallen). Requires confirmation. |
+| ガーレン | Gahren | Present at Garkha manor meeting (C.177); likely Garkha-side officer — distinct from ガレン (Gallen). Requires confirmation. |
 | ラクール | Lakoul | War-lion commander, Elkaarl's left wing |
 | キーニア | Kiinia | War-lion commander, Kilrea's formation |
 | ダズール | Dazurl | Galshan common soldier (POV character) |
@@ -576,7 +576,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 虚飾の王国 = "The Kingdom of Pretense" (虚飾 = empty/false ornamentation; chapter title captures Lila's ironic realization)
 - クレシェンタ＝ファーナ＝ヴェラ＝アルベラン in C.168 = "Kreschenta Farna Vera Alberan" (uses shortened Vera form consistent with C.154 diplomatic convention already noted)
 - オーザル = "Ozal" (royal district overseer; mentioned only in Anne's flashback)
-- ダグレーン＝ナクル＝ドーガリネア＝ガーカ = "Dagreen Nakul Dougarinea Gahka" — Source text consistently uses long vowels (ダグレーン, ドーガリネア, ガーカ) vs. context.md's ダグレン/ドウガリネア/ガーフカ. These refer to the same character. The long-vowel rendering "Dagreen" is used in this batch to match the source; reconciliation with existing "Dagren Nakul Dougarinea Garhka" entry recommended.
+- ダグレーン＝ナクル＝ドーガリネア＝ガーカ = "Dagren Nakul Dougarinea Garkha" — Source text consistently uses long vowels (ダグレーン, ドーガリネア, ガーカ) vs. context.md's ダグレン/ドウガリネア/ガーフカ. These refer to the same character. The long-vowel rendering "Dagren" is used in this batch to match the source; reconciliation with existing "Dagren Nakul Dougarinea Garhka" entry recommended.
 - アルカザーリス = "Alkazaris" — 全てを蹂躙するもの = "The One Who Tramples All" (Galshan epithet for the magical beast elephant).
 - 戦神 (senjin, Olgan's epithet) = "war-god" — lowercase; used as descriptor, not a proper title.
 - コルキス in dialogue = "Kokys" (per existing convention; source uses コルキス for Kokys throughout).
@@ -590,12 +590,12 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - エルカール = "Elkaarl" (long vowel preserved; "the Giant" epithet).
 - キルレア = "Kilrea" (no long vowel; "the Sword-Saint" epithet).
 - ネイクル = "Neikrul" (Elkaarl's deputy).
-- ダルケリス = "Dalkeris" (Dagreen's adjutant).
+- ダルケリス = "Dalkeris" (Dagren's adjutant).
 - ダールトン = "Dahlton" (Elkaarl's center commander).
 - ザーカ = "Zaaka" (Black Flag squad leader).
 - ボグス = "Bogus" (flag-bearer).
 - コーザ = "Koza" (archer captain/flag-bearer).
-- ガーレン = "Gahren" — flagged: appears in C.177 at the Gahka manor meeting. Distinct from ガレン (Gallen, Krische's grandfather). Likely a Gahka-side officer; romanization tentative pending confirmation.
+- ガーレン = "Gahren" — flagged: appears in C.177 at the Garkha manor meeting. Distinct from ガレン (Gallen, Krische's grandfather). Likely a Garkha-side officer; romanization tentative pending confirmation.
 - 戦獅子長 = left contextually as "war-lion commander" — Galshan's senior unit commanders. Not yet standardized.
 - 上位者会議 = "High Council" (Galshan's restricted military council).
 - 一角獣 = "unicorn" per author's note (rhinoceros-like creature); kept as "unicorn" following source.
