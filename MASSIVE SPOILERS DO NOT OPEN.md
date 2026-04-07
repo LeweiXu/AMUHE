@@ -37,7 +37,7 @@ If HecateHonryuu's translation is a 10/10, then I would say that Opus 4.6's tran
 
 ## Translation Prompt (Opus 4.6)
 
-Translate the following chapters of 少女の望まぬ英雄譚 in order.
+Translate the following chapters of 少女の望まぬ英雄譚 in order. Each file corresponds to one chapter, and the prefix ###_ corresponds to the chapter number.
 
 Follow all rules in context.md exactly.
 Treat all chapters as one continuous session — maintain perfect consistency in character
@@ -53,6 +53,7 @@ Produce a single `.md` file containing all translated chapters in order.
 
 Formatting rules:
 - Use `#` for the chapter title (e.g. `# Chapter 42: The Holy War of the Kitchen`)
+- Chapter title must contain the chapter number e.g. `# Chapter 261: [chapter title]`
 - Use `---` between chapters as a chapter divider
 - Use `* * *` for scene breaks within a chapter
 - Use *italics* for internal thoughts, inner monologue, and recalled memories when they

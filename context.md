@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–260*
+*Current coverage: Chapters 1–270*
 *Update this file after each translated chapter.*
 
 ---
@@ -360,7 +360,12 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ミーデリアリーゼ＝ヴァーナシュテル | Meedeliarieze Vahnashtel | Academy senior student; Alberan history enthusiast |
 | カルシェリア / カルシェ | Karsheria / Karshe | Mee's attendant; cat-person beastkin |
 | フィリペーヌ | Filipéne | Historical painter; grandfather was a Black Flag member |
-
+| ネムネム | Nemunemu | Alberinea/Krische's nickname for Elgeinst; means "sleepyhead" |
+| クーラン | Kulan | Elgeinst's father; vice-director of the Academy of Magical Studies |
+| ゲニルア | Genil | General; Far Eastern commander defeated by Elgeinst in field battle |
+| ワルツァ＝レーミン | Waltza Remin | Elgeinst's close friend; military man; grandson of Aleha Remin |
+| にゅるるん | Nyururun | Type-B Tentacle; pet creature in the Magical Bery spin-off |
+| ゲニルア | Genil | (same as above; general in C.270 battlefield scene) |
 ## RECURRING TERMS
 
 | Japanese | English | Notes |
@@ -505,7 +510,16 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 月明かりの遺産 | moonlight's legacy | Old Tongue meaning of "Kleinmeil" |
 | 平和教会 | Peace Church | Religious body that inspects/monitors magic academies |
 | 半霊質 | half-soul-substance | Nature of the bodies created in the phantasm world; between matter and soul-substance |
-
+| ふよぴた | Fuyopita | Krische/Bery's name for the automatic inscription simplification mechanism; world-level safety limiter on formula use |
+| 世界の果てまで安心ふよぴた網計画 | 'Global Safety Fuyopita-Net Plan' | Krische's ongoing initiative extending Fuyopita to the far reaches of the source world |
+| 仮想頭脳 | virtual minds | Self-propagating calculation entities extending the Fuyopita net |
+| ねむねむ | Nemunemu | Krische's nickname for Elgeinst; derived from 眠い (sleepy) |
+| Ｂ型触手 | Type-B Tentacle | Creature classification in the Magical Bery spin-off; Nyururun is one |
+| てぃんくる☆はーと | twinkling heart | Magical girl purity that powers magical abilities in the Magical Bery AU |
+| マジカルメイドキッチン | Magical Maid Kitchen | Magical Bery's grand magic space, summoned in battle |
+| 退魔師☆シェルナシリーズ | Exorcist☆Shelna series | Spin-off-within-spin-off mentioned by Kreschenta |
+| 魔導皇帝 | mage-emperor | Elgeinst's title after founding Kleinmeil |
+| 魔導解析器 | magical analysis device | Computational mana crystal array built by Elgeinst and his colleagues to analyse Alberinea's puzzle crystal |
 ## TRANSLATION DECISIONS
 
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
@@ -771,7 +785,23 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - カルシェリア = "Karsheria" (katakana rendering)
 - フィリペーヌ = "Filipéne" (Romance-language rendering; accent preserved)
 - でもでもだって症候群 = "'But-But Syndrome'" (narrator's comic label for Mee's verbal tic)
-
+- ぴきゅん = "pikyun" — kept as Krische's characteristic onomatopoeia for sharp, quick inscription movement; inserted T/N on first use
+- ぴぴん = "pipin" — Krische's 'aha' sound; kept phonetically
+- ねむねむ = "Nemunemu" — Krische's nickname for Elgeinst; means "sleepyhead"; kept untranslated following Woof-woof/Nyan-nyan/Piyo-piyo convention
+- 魔導皇帝 = "mage-emperor" (魔導 = magical/mage, 皇帝 = emperor; compound title for Elgeinst's role as head of Kleinmeil)
+- 魔導解析器 = "magical analysis device" (functional description; analogue to modern computer)
+- ふよぴた = "Fuyopita" — kept as Krische's naming convention; T/N noting it is a world-safety mechanism
+- C.266 ※ chapters = author/narrator designation; rendered as ※ in title header following source convention
+- C.267 April Fools' spin-off structure: chapter opens with "does not begin!" (始まりません！) then proceeds anyway — rendered faithfully. Coda "It doesn't. / This is rough." (続かない。/ 雑。) rendered as plain author's aside following existing convention for C.174-style material
+- C.268–270 "Moonlight's Legacy" arc: set entirely in Kleinmeil-era post-story; Krische appears only in flashback and as the recorded message in C.270
+- ゲニルア = "Genil" (tentative katakana rendering; enemy general in C.270 battle scene; minimal context)
+- クーラン = "Kulan" (Elgeinst's father; vice-director; katakana rendering)
+- レーミン家 = "Remin family" — established surname from Aleha (Klauzera Shuindel Sarshenka's companion, confirmed surname Remin; Waltza is his grandson)
+- 半刻 (C.269 battle scene) = "a quarter-hour" — standard usage; flagged in T/N per existing convention
+- 宙を歩く = "walking through the air" — Elgeinst's mana-levitation; rendered literally
+- 音なき声 = "soundless voice" — telepathic mana projection; consistent with 念話 (telepathy) established earlier
+- The Magical Bery chapter (C.267) age notations (ベリー（30）, （31）, etc.) — kept in parentheses as in source, following the AU logic
+- ギルギル = "Gilgil" — the Demon King of the Magical Bery AU; tentative short rendering of カタカナ
 ## Measurements
 
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
