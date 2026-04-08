@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–270*
+*Current coverage: Chapters 1–275*
 *Update this file after each translated chapter.*
 
 ---
@@ -100,7 +100,13 @@ For each chapter:
 - **Robinis:** Formal, slightly nervous under pressure. Administrative competence masking timidity. Deferential to senior generals.
 - **Meedeliarieze (Mee):** Haughty, passionate, encyclopedic on Alberan history. Shouts when angry; prone to 'But-But Syndrome.' Uses わたし. Puffs her chest despite having none to puff.
 - **Karshe (Karsheria):** Casual, teasing, protective. Cat-person; sharp instincts and hearing. Irreverent with her mistress but deeply loyal. Uses わたし. Dry humor.
-
+- **Granmeld Varkus:** Blunt, masculine (俺). Rough direct register throughout life; economical with words. No sentiment in speech. As lord/husband, slightly more measured but still fundamentally coarse. Gives orders tersely. In reminiscence (narrated) voice, flat and analytical — no self-pity, no romanticization.
+- **Rosine:** Formal-lean (わたし, です/ます), earnest, prone to small complaints. Soft but has spine. Flushes easily. Slightly prim register that softens in private moments.
+- **Klaze:** Casual, warm, street-bred frankness. Uses お前 with intimates. Affects toughness but reveals genuine family-longing. Speech belies his ordinary, decent nature.
+- **Fagran:** Casual, dry wit, gently irreverent with Granmeld. Speaks with light enthusiasm. 俺.
+- **Gahren (young):** Measured, precise, analytical. わし for self-reference. Calm even in extremity. Strategic transparency — explains his reasoning rather than issuing pure commands.
+- **Norzan (young):** Polished surface, controlled condescension masking genuine fire. Sharp assessment of others. 俺. Switches between lordly dismissal and savage intensity when provoked to fight. Genuinely cares about those under him while concealing it behind severity.
+- **Bogan (young):** Calm exterior, berserker in battle. Respects his captain; steady second. 俺 implied.
 ## TONE GUIDE
 
 The novel's tone shifts dramatically by scene. Do not flatten these shifts — the contrast is load-bearing.
@@ -366,6 +372,17 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ワルツァ＝レーミン | Waltza Remin | Elgeinst's close friend; military man; grandson of Aleha Remin |
 | にゅるるん | Nyururun | Type-B Tentacle; pet creature in the Magical Bery spin-off |
 | ゲニルア | Genil | (same as above; general in C.270 battlefield scene) |
+| 夜明けの三日月 | The Dawn Crescent | Restaurant in Albernaria castle district; founded by former Black Flag members Koza and Beltz; Alberinea was a regular patron |
+| クラーゼ | Klaze | Street criminal; leader of the Varkus gang; gave Granmeld his name and surrogate-family role; killed by Keeni's betrayal (in Granmeld's backstory) |
+| ガルス | Garusu | Member of the Varkus gang; heavyset thug; killed along with Klaze |
+| ケーニ | Keeni | Member of the Varkus gang; Klaze's childhood associate; betrayed and poisoned Klaze and Garusu |
+| カーリス | Karris | Granmeld's subordinate; large, distinctive nose; followed Granmeld into the military |
+| ペイカス | Paicas | Commoner-born official who worked under Norzan; sharp administrator; Rosine's father |
+| ロシーネ | Rosine | Granmeld's wife; Paicas's daughter; commoner-born; chestnut hair; plain, serious appearance; had been fond of Granmeld since childhood |
+| トクスレニア＝アールジア | Tokusrenia Ardia | Noble-born centurion who took over Gahren's battalion by exploiting achievements and connections; antagonist in Granmeld's backstory; later died in suspicious isolation |
+| ダッカン | Daccan | Debtor targeted in Varkus gang collections (minor, mentioned only) |
+| オーガル | Ogaru | Leader of a rival gang of ~100; killed by Granmeld after Klaze's death (mentioned only) |
+| コーネクス | Conex | Name of a dead First Corps supply captain; used by Granmeld as a cover identity during the forest encounter |
 ## RECURRING TERMS
 
 | Japanese | English | Notes |
@@ -520,6 +537,10 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 退魔師☆シェルナシリーズ | Exorcist☆Shelna series | Spin-off-within-spin-off mentioned by Kreschenta |
 | 魔導皇帝 | mage-emperor | Elgeinst's title after founding Kleinmeil |
 | 魔導解析器 | magical analysis device | Computational mana crystal array built by Elgeinst and his colleagues to analyse Alberinea's puzzle crystal |
+| ヴァーカス | Varkus | Old Tongue (northern): lit. "group/collective"; deeper nuance = "those who gather/belong together." Name of Klaze's gang; later adopted as Granmeld's noble surname. The emotional resonance (a self-described lone wolf choosing a surname meaning "those who belong together") is intentional and left implicit. |
+| 翠虎 | jade tiger | Krische's mount seen in Ch. 275 — appears to be a large feline creature. Rendered literally; confirm species designation with future context. |
+| 夜明けの三日月 | The Dawn Crescent | Working-class inn-with-meals in Albernaria castle district; founded by Koza and Beltz (former Black Flag); Christand simplified crest holder; Alberinea visited incognito post-war. |
+| 肉体拡張 | physical enhancement | Mana-based physical augmentation; Granmeld uses it unconsciously from childhood (prior to any formal training). Consistent with existing usage; term now confirmed available to untrained users at low level. |
 ## TRANSLATION DECISIONS
 
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
@@ -802,6 +823,15 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 音なき声 = "soundless voice" — telepathic mana projection; consistent with 念話 (telepathy) established earlier
 - The Magical Bery chapter (C.267) age notations (ベリー（30）, （31）, etc.) — kept in parentheses as in source, following the AU logic
 - ギルギル = "Gilgil" — the Demon King of the Magical Bery AU; tentative short rendering of カタカナ
+- ヴァーカスの意味 (Old Tongue nuance) = left partially implicit in translation per the source text's choice not to reveal the full nuance to the reader directly — only Norzan's reaction and the narrator's "fitting for a lone wolf" comment frame it. A T/N is provided rather than inserting the meaning into the text itself.
+- ぴよぴよ (Ch. 275 usage) = confirmed as Krische's nickname for Norzan Velraigh (the Eastern General, Nozan's son). This is distinct from ぴよぴよ already established for Nozan — Norzan is the *son*, Piyo-piyo carried over as his nickname. Note: the context makes clear that Norzan Velraigh (ノーザン＝ヴェルライヒ) from these backstory chapters is the same Norzan who becomes the Eastern General; Granmeld Varkus becomes the First Corps commander known as "Woof-woof." Both nicknames were bestowed by Krische.
+- わんわん (Ch. 275) = Krische's nickname for Granmeld; rendered as "Woof-woof" consistent with existing convention for Granmeld (グランメルド＝ヴァークス).
+- 翠虎 = "jade tiger" — rendered literally; mount species uncertain. May be a mana-construct or a real animal. Flagged.
+- ネア叙勲 = "Nea investiture" — ネア appears to be a rank below リネア (Rinea/Senior Knight); abbreviated (略式) form received by Granmeld. Flagged as requiring confirmation.
+- コルキス in C.274 dialogue = same as コキス (Kokys); the same rendering convention as previously established ("コルキス in dialogue → Kokys per convention" confirmed and applied throughout these chapters).
+- ガーレン in these chapters = the young Gahren (ガーレン), who is the same Gahren established in earlier contexts as Bogan's former centurion. C.274 confirms he is Bogan's commanding officer during the Elsren war — consistent with C.201 entry. わし for self-reference confirmed here in dialogue.
+- ボーガン in C.274–275 = young Bogan Christand, same character; addressed as ボーガン by Granmeld's narration, consistent with his full name.
+- ノーザン＝ヴェルライヒ = the young Norzan who would become Eastern General. Given that ノザン＝ヴェルライヒ (Nozan) is the father and ノーザン is a different name, this is a separate character — Nozan's son, later confirmed as Norzan. The KB already lists ノルガン＝ヴェルライヒ (Norgan) as Marshal; Norzan would be Norgan's father or an earlier holder of the Eastern General position. Flagged for confirmation with future context.
 ## Measurements
 
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
@@ -853,7 +883,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 **Dagra** — Centurion; commands Black Flag Special Service. Hook-nosed, shaved head (by choice). Commoner who mastered mana through combat. Wounded by Aulgorn (C.80); secretly healed by Krische. Alignment: Law/Good. — (Existing entry update) Aged significantly; white-bearded. Officially retired as Kuro-Fuyo squad leader, serving as training instructor and support role, but accompanied the army to the Fangs of Wetharius for "the last battle." Given the honor of issuing the Black Flag's battle cry by Krische. Assigned to Selene's guard detail rather than the front lines. C.227 confirms this is his final campaign.
 
-**Granmeld Varkus** — First Corps, First Battalion ("Wolf Pack"). Wolf-themed armor, great war mace. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische). Alignment: Neutral/Neutral.
+**Granmeld Varkus** — First Corps, First Battalion ("Wolf Pack"). Wolf-themed armor, great war mace. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische). Alignment: Neutral/Neutral. — (Major character update) Full backstory revealed in C.272–275. Born nameless in a brothel; became a street thug; adopted by Klaze of the Varkus gang who gave him his name; after Klaze's murder by betrayal, became a highway bandit and then was captured by Gahren's elite hundred-man unit during the Elsren war. Joined the military after losing a duel to Norzan. Received the Nea investiture and took "Varkus" as his noble surname — the name of Klaze's old gang, meaning "those who gather together" in the Old Tongue. Later married Rosine (Paicas's daughter). Krische's nickname for him: Woof-woof (わんわん). Speech: blunt, masculine (俺), terse.
 
 **Kokys Nakutra Rinea Agrand** — Second Corps Commander. Enormous, tiger-themed armor, 8-shaku 3-sun solid-steel lance. Former deserter saved by Bogan; utterly loyal. Killed his compromised son Gran (C.105). Nickname "Nyan-nyan" (given by Krische, C.141). Alignment: Law/Neutral.
 
@@ -872,3 +902,21 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 **Keith Serl Rinea Kiltins** — Third Battalion commander; acts as de facto relay commander for First Corps.
 
 **Felwors Keesliton** — Gildanstein's former deputy commander; ~100 years old. Accepted reinstatement after Krische directly asked (C.121). Currently under house arrest (cannot be appointed Marshal due to having sided with Gildanstein). — (Existing entry update) Commands the western Alberan defense. Over 100 years old but still combat-capable; deflected Red's greatsword from horseback. Not a genius but a master of information-gathering and patience. Survived the civil war by stalling until Gildanstein's defeat was confirmed. Launched the coordinated night assault on the new moon in concert with Krische's operation.
+
+**Rosine** — Granmeld Varkus's wife. Commoner-born, daughter of Paicas. Chestnut hair, plain serious appearance; only a ruby necklace (gift from Granmeld) stands out. Earnest, prone to small complaints, easily flushed. Had been fond of Granmeld since childhood. Formal register (わたし, です/ます).
+
+**Paicas** — Commoner-born capable official who served under Norzan Velraigh; sold to Norzan for his sharp mind; administered Granmeld's territory. Rosine's father. Minor but recurring administrative role.
+
+**Klaze** — Leader of the Varkus street gang; gave Granmeld his name and surrogate-family belonging. Slender but physically powerful; dreamer who wanted a "kingdom-like" system without violence. Killed by the betrayal of his childhood associate Keeni approximately six years after taking Granmeld in.
+
+**Gahren (young)** — (Backstory entry) Centurion of the First Corps during the Elsren war; Bogan Christand's commanding officer. Hunter's son; not a mana-holder but extraordinary tracker and archer. Led an elite hundred-man unit; captured Granmeld in the forest. Used わし. Forced to retire when given an order to burn a village sheltering enemy soldiers — he could not obey it. Left the military after learning his wife had died of illness during the war. Consistent with C.201 established entry.
+
+**Norzan Velraigh (young)** — (Backstory entry) Platoon sergeant under Gahren during the Elsren war; later Eastern General (ノザン/Nozan's apparent predecessor or son — relationship to be confirmed). Copper-red hair; noble birth; strikingly handsome; Rollka-style swordsword user. Polished exterior concealing savage intensity in battle. Recruited Granmeld into the unit after defeating him in a duel. Later Vice-Adjutant and further advanced. Speech: lordly condescension masking genuine fire; 俺.
+
+**Bogan (young)** — (Backstory entry, same character as established) Confirmed as serving as platoon sergeant/兵長 in Gahren's unit during the Elsren war. Dual nature: cool exterior, berserker in battle. Consistent with established character.
+
+**Tokusrenia Ardia** — Noble-born centurion who supplanted Gahren as battalion commander by exploiting circumstances and family connections. Mediocre ability; drove out Gahren through petty orders; later died in suspicious isolation during the war. Antagonist in Granmeld's backstory. Minor named character.
+
+**Waltza Remin** — (Backstory update for C.271) Elgeinst's closest friend; died at age 130 shortly before Elgeinst's final journey. Same character as established (Waltza Remin, grandson of Aleha Remin). Last conversation with Elgeinst confirmed in C.271 — urged him to pursue his own wish, not just Alberinea's peace.
+
+**Lira Sharana** — Last holy spirit priestess of Kreisharana. Lived alone in the Forbidden Domain until her death in the mid-Unified Calendar era. Chose to end the priestess succession, devoting herself as the final priestess to Yagelnaus. No further entries after her death; Yagelnaus disappeared a few decades after. Mentioned in C.271.
