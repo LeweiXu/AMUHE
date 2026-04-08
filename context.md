@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–275*
+*Current coverage: Chapters 1–280*
 *Update this file after each translated chapter.*
 
 ---
@@ -107,6 +107,7 @@ For each chapter:
 - **Gahren (young):** Measured, precise, analytical. わし for self-reference. Calm even in extremity. Strategic transparency — explains his reasoning rather than issuing pure commands.
 - **Norzan (young):** Polished surface, controlled condescension masking genuine fire. Sharp assessment of others. 俺. Switches between lordly dismissal and savage intensity when provoked to fight. Genuinely cares about those under him while concealing it behind severity.
 - **Bogan (young):** Calm exterior, berserker in battle. Respects his captain; steady second. 俺 implied.
+
 ## TONE GUIDE
 
 The novel's tone shifts dramatically by scene. Do not flatten these shifts — the contrast is load-bearing.
@@ -383,6 +384,15 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ダッカン | Daccan | Debtor targeted in Varkus gang collections (minor, mentioned only) |
 | オーガル | Ogaru | Leader of a rival gang of ~100; killed by Granmeld after Klaze's death (mentioned only) |
 | コーネクス | Conex | Name of a dead First Corps supply captain; used by Granmeld as a cover identity during the forest encounter |
+| ピリク | Pirik | Cavalry captain present at the river scene in C.277 (tentative romanization) |
+| セルトス | Seltos | Guard unit member under Kirik; named in C.278 (tentative romanization) |
+| ナズル | Nazul | Former squad leader; serves as Kirik's deputy guard captain (tentative romanization) |
+| フィーレ | Fiere | One of Nozan's wives; mentioned in C.276 (tentative romanization) |
+| レナリア | Renaria | Former Elsren imperial capital; Nozan and Granmeld's current residence city (C.276) |
+| ビルシンサーネ | Bilsinsarne | City in the northeast; site of Krische's covert operation in C.276 (tentative romanization) |
+| リベリス | Liberis | Royal sword given by Kreschenta to Kirik; named for a lake NE of Albernaria; Kiuiris steel with silver decorations; legend of the Maiden of Liberis engraved on guard and pommel |
+| セルシェ川 | Selshe River | Wide river in former Elsren territory; site of the water-skipping incident (C.277) |
+
 ## RECURRING TERMS
 
 | Japanese | English | Notes |
@@ -541,6 +551,11 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 翠虎 | jade tiger | Krische's mount seen in Ch. 275 — appears to be a large feline creature. Rendered literally; confirm species designation with future context. |
 | 夜明けの三日月 | The Dawn Crescent | Working-class inn-with-meals in Albernaria castle district; founded by Koza and Beltz (former Black Flag); Christand simplified crest holder; Alberinea visited incognito post-war. |
 | 肉体拡張 | physical enhancement | Mana-based physical augmentation; Granmeld uses it unconsciously from childhood (prior to any formal training). Consistent with existing usage; term now confirmed available to untrained users at low level. |
+| くろしゅたん | Kuro-Shutan | Informal nickname for the Kuro-Fuyo Squad's operational unit; portmanteau of くろふよ隊 and ぱぱっしゅたんっ (pop-thud); acknowledged as absurd by all |
+| 聖霊協約 | Sacred Spirit Pact | Multi-nation convention; among its provisions: bloodshed (流血) on ferryboats is prohibited in all circumstances — note: does not prohibit killing, only bloodshed |
+| リベリスの乙女 | the Maiden of Liberis | Legend engraved on the sword Liberis; story of a nameless warrior who guards a maiden's grave for life after she dies |
+| キュイリス鋼 | Kiuiris steel | Rare steel with faint blue tint from mana absorption; no longer mined; used for the sword Liberis |
+
 ## TRANSLATION DECISIONS
 
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
@@ -832,91 +847,13 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - ガーレン in these chapters = the young Gahren (ガーレン), who is the same Gahren established in earlier contexts as Bogan's former centurion. C.274 confirms he is Bogan's commanding officer during the Elsren war — consistent with C.201 entry. わし for self-reference confirmed here in dialogue.
 - ボーガン in C.274–275 = young Bogan Christand, same character; addressed as ボーガン by Granmeld's narration, consistent with his full name.
 - ノーザン＝ヴェルライヒ = the young Norzan who would become Eastern General. Given that ノザン＝ヴェルライヒ (Nozan) is the father and ノーザン is a different name, this is a separate character — Nozan's son, later confirmed as Norzan. The KB already lists ノルガン＝ヴェルライヒ (Norgan) as Marshal; Norzan would be Norgan's father or an earlier holder of the Eastern General position. Flagged for confirmation with future context.
+- ヴァーカス = "Varkus" (established name; here confirmed as Old-Tongue word meaning family/kin — do not translate the word itself, but the meaning is glossed in the chapter)
+- 宝剣リベリス = "the royal sword Liberis" / "Liberis" (proper name of the sword; リベリス from the lake name)
+- 物理マウント = "mount (physical)" (narrator's running joke about Kreschenta physically taking the high position by being carried; rendered with the parenthetical to preserve the meta-humor)
+
 ## Measurements
 
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
 - 里: **two scales in use.** Standard geographic ri ≈ 3.9 km. Author's tactical-arc ri ≈ 400 m (established C.78). Render as "one ri" etc. and add T/N flagging which scale applies.
 - 半刻 = quarter-hour (standard). Note: used as "half-hour" once in C.141 (comic exaggeration context); flag discrepancy in T/N.
 - 一刻 ≈ 2 hours.
-
-## CORE CHARACTERS
-
-### Krische Alberinea Christand
-- **Identity:** First princess of Alberan; designated "cursed child," abandoned in forest, found by Gorka (~age 3), adopted by Bogan (C.7).
-- **Appearance:** Silver hair to waist, violet eyes, snow-white skin, ~147 cm. Black cloak with falcon-and-lightning crest. Custom curved nata-like sword (by Koz) and two knives.
-
-### Bery Argan
-- **Full name:** Bery Lips Argan (hidden name: Lips)
-- **Role:** Sole Christand servant; Selene's aunt (half-sister of Bogan's late wife Lazura). ~152 cm.
-- **Appearance:** Red shoulder-length hair, brown eyes. White-and-black apron dress.
-- **Background:** House Argan (baron rank) went bankrupt; bonded as mistress. Bogan rescued her by marrying Lazura. Weak constitution; cannot bear children. Has despised Roland since childhood.
-- **Abilities:** Master cook; physical enhancement magic (crystal-free, taught by Krische). Faster than Selene at administrative calculations.
-
-### Selene Christand
-- **Full name:** Selene Argalitte Rinea Christand
-- **Role:** Bogan's daughter; Marshal of Alberan (C.115). ~159 cm. Youngest Marshal in kingdom history.
-- **Appearance:** Blonde hair, sharp cat-like eyes.
-- **Habit:** Pinches Krische's cheeks as expression of exasperation/affection.
-- **Current status:** Left in charge of military affairs and the Jaragasha project while Krische is away (C.143).
-
-### Kreschenta Farna Viera Alberan
-- **Title:** Queen of Alberan (crowned C.115). Early 130s cm (still growing).
-- **Appearance:** Strawberry-blonde hair; face nearly identical to Krische's.
-- **Psychology:** Same type as Krische — no empathy, pure gain/loss — but far more skilled at social performance. Affection for Krische is genuine.
-- **History:** Also a "cursed child." Nora taught her to cry to survive. Killed two younger brothers and the king (her father) to orchestrate the civil war in her favor.
-- **Quirks:** Cat-tongue (cannot drink hot beverages). Extreme sweet tooth. Competes for the seat beside Krische at meals. Calls Krische "onee-sama." Voluntarily enters "dog" persona with Krische and Bery.
-
-### Bogan Argalitte Vezrinea Christand
-- **Title:** Margrave; Northern General. Nickname: "Lightning Quick." Crest: falcon and lightning bolt.
-- **Death (C.58):** Lured into ambush by Salva's betrayal; lost right arm in a duel with Gildanstein; died at Mitskronia with Selene present.
-
-### Gallen
-- **Role:** Krische's maternal grandfather (Grace's father); Bogan's adjutant.
-- **Background:** Rose from private to centurion in 7 campaigns. Rank: Senior Knight (Rinea).
-- **Current status:** Recovering from post-war illness; Anne is tending to him.
-
----
-
-## SECONDARY CHARACTERS
-
-### Military — Christand side
-
-**Dagra** — Centurion; commands Black Flag Special Service. Hook-nosed, shaved head (by choice). Commoner who mastered mana through combat. Wounded by Aulgorn (C.80); secretly healed by Krische. Alignment: Law/Good. — (Existing entry update) Aged significantly; white-bearded. Officially retired as Kuro-Fuyo squad leader, serving as training instructor and support role, but accompanied the army to the Fangs of Wetharius for "the last battle." Given the honor of issuing the Black Flag's battle cry by Krische. Assigned to Selene's guard detail rather than the front lines. C.227 confirms this is his final campaign.
-
-**Granmeld Varkus** — First Corps, First Battalion ("Wolf Pack"). Wolf-themed armor, great war mace. Former bandit lord recruited by Nozan. Nickname "Woof-woof" (accidentally given by Krische). Alignment: Neutral/Neutral. — (Major character update) Full backstory revealed in C.272–275. Born nameless in a brothel; became a street thug; adopted by Klaze of the Varkus gang who gave him his name; after Klaze's murder by betrayal, became a highway bandit and then was captured by Gahren's elite hundred-man unit during the Elsren war. Joined the military after losing a duel to Norzan. Received the Nea investiture and took "Varkus" as his noble surname — the name of Klaze's old gang, meaning "those who gather together" in the Old Tongue. Later married Rosine (Paicas's daughter). Krische's nickname for him: Woof-woof (わんわん). Speech: blunt, masculine (俺), terse.
-
-**Kokys Nakutra Rinea Agrand** — Second Corps Commander. Enormous, tiger-themed armor, 8-shaku 3-sun solid-steel lance. Former deserter saved by Bogan; utterly loyal. Killed his compromised son Gran (C.105). Nickname "Nyan-nyan" (given by Krische, C.141). Alignment: Law/Neutral.
-
-**Nozan Velraigh** — Eastern General. Handsome, leads elite Wolf Pack. Devoted to Bogan/Christand. Declined the Marshal position post-war; retained eastern command. Alignment: Law/Neutral. — (Existing entry update) Received the pet name "Piyo-piyo" from Krische at the victory banquet (C.216). Affected composure about it while secretly anxious.
-
-**Elrouga Faren** — Fourth Corps Commander; Marshal's advisor. Gaunt, skull-like face (Krische calls him "Skeleton"). Privately kind. Royal blood; Bogan's former superior. Wife: Vanatela. Alignment: Law/Good. — (Existing entry update) Became the first headmaster of the Albernaria Military Academy. Established the systematic military education and staff officer system alongside Selene and Krische. Died of old age only a few years after the academy's founding (C.230). Philosophical about death; viewed legacy as continuation of life. Privately felt a sense of acceptance that his work was done.
-
-**Mia** — Black Flag sergeant/adjutant. Chestnut hair, ~158 cm. Northern village girl (Kirnan); illiterate. Sharp tactical thinking. Fought Kalua 56 times to prove resolve to stay in the military (C.130). Refused childhood friend Bazel's marriage proposal. Speech: casual, direct, childlike stubbornness.
-
-**Kalua (Kalua Belyus)** — Black Flag soldier. Long black hair, ~168–169 cm. Swordsmanship rivaling Dagra's. Easygoing, older-sister figure. Reconnected with her kidnapped sister Elvena (C.94). Alignment: Chaos/Neutral.
-
-**Bilza** — Seventeenth Squad leader; quasi-medical background; assigned to emergency medical duties.
-
-**Daz** — Former Eighth Squad leader; lost an arm fighting Nakilus. First Piririn Squad Leader (mana-user screening). — (Existing entry update) Now serves as Piririn squad leader in addition to his prior role. Accompanies Neigal during the Wulfenite north quarter operation. Provides emotional support and leadership mentoring to Neigal after the Baumje Ira detonation. Left-hand prosthetic confirmed (义手). Shares a prosthetic-fist bump with Neigal. Speech: tough, direct, supportive. — (Existing entry update) Referenced in C.225 as still serving in the Kuro-Mimi Squad (intelligence unit) deployed far to the east. Retiring upon return; to receive "Lifetime Honorary Piririn Squad Leader" and "Lifetime Honorary Kuro-Mimi Squad Leader" titles from Krische.
-
-**Keith Serl Rinea Kiltins** — Third Battalion commander; acts as de facto relay commander for First Corps.
-
-**Felwors Keesliton** — Gildanstein's former deputy commander; ~100 years old. Accepted reinstatement after Krische directly asked (C.121). Currently under house arrest (cannot be appointed Marshal due to having sided with Gildanstein). — (Existing entry update) Commands the western Alberan defense. Over 100 years old but still combat-capable; deflected Red's greatsword from horseback. Not a genius but a master of information-gathering and patience. Survived the civil war by stalling until Gildanstein's defeat was confirmed. Launched the coordinated night assault on the new moon in concert with Krische's operation.
-
-**Rosine** — Granmeld Varkus's wife. Commoner-born, daughter of Paicas. Chestnut hair, plain serious appearance; only a ruby necklace (gift from Granmeld) stands out. Earnest, prone to small complaints, easily flushed. Had been fond of Granmeld since childhood. Formal register (わたし, です/ます).
-
-**Paicas** — Commoner-born capable official who served under Norzan Velraigh; sold to Norzan for his sharp mind; administered Granmeld's territory. Rosine's father. Minor but recurring administrative role.
-
-**Klaze** — Leader of the Varkus street gang; gave Granmeld his name and surrogate-family belonging. Slender but physically powerful; dreamer who wanted a "kingdom-like" system without violence. Killed by the betrayal of his childhood associate Keeni approximately six years after taking Granmeld in.
-
-**Gahren (young)** — (Backstory entry) Centurion of the First Corps during the Elsren war; Bogan Christand's commanding officer. Hunter's son; not a mana-holder but extraordinary tracker and archer. Led an elite hundred-man unit; captured Granmeld in the forest. Used わし. Forced to retire when given an order to burn a village sheltering enemy soldiers — he could not obey it. Left the military after learning his wife had died of illness during the war. Consistent with C.201 established entry.
-
-**Norzan Velraigh (young)** — (Backstory entry) Platoon sergeant under Gahren during the Elsren war; later Eastern General (ノザン/Nozan's apparent predecessor or son — relationship to be confirmed). Copper-red hair; noble birth; strikingly handsome; Rollka-style swordsword user. Polished exterior concealing savage intensity in battle. Recruited Granmeld into the unit after defeating him in a duel. Later Vice-Adjutant and further advanced. Speech: lordly condescension masking genuine fire; 俺.
-
-**Bogan (young)** — (Backstory entry, same character as established) Confirmed as serving as platoon sergeant/兵長 in Gahren's unit during the Elsren war. Dual nature: cool exterior, berserker in battle. Consistent with established character.
-
-**Tokusrenia Ardia** — Noble-born centurion who supplanted Gahren as battalion commander by exploiting circumstances and family connections. Mediocre ability; drove out Gahren through petty orders; later died in suspicious isolation during the war. Antagonist in Granmeld's backstory. Minor named character.
-
-**Waltza Remin** — (Backstory update for C.271) Elgeinst's closest friend; died at age 130 shortly before Elgeinst's final journey. Same character as established (Waltza Remin, grandson of Aleha Remin). Last conversation with Elgeinst confirmed in C.271 — urged him to pursue his own wish, not just Alberinea's peace.
-
-**Lira Sharana** — Last holy spirit priestess of Kreisharana. Lived alone in the Forbidden Domain until her death in the mid-Unified Calendar era. Chose to end the priestess succession, devoting herself as the final priestess to Yagelnaus. No further entries after her death; Yagelnaus disappeared a few decades after. Mentioned in C.271.

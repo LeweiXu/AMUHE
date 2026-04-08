@@ -274,7 +274,7 @@ def merge_section(existing: str, addition: str, strategy: str) -> str:
     # default: append if content not already present
     stripped = addition.strip()
     if stripped and stripped not in existing:
-        return existing.rstrip() + "\n\n" + stripped + "\n"
+        return existing.rstrip() + "\n\n" + stripped + "\n\n"
     return existing
 
 

@@ -93,15 +93,6 @@ One row per new name. Do not include names already in context.md.
 
 ---
 
-`## SPEECH PATTERNS`
-New characters only. Use the same bullet format as the existing section:
-```
-- **Name:** Register description. Distinctive features.
-```
-Do not re-list characters already present.
-
----
-
 `## RECURRING TERMS`
 New rows only. Same 3-column table format — do NOT repeat the header row:
 ```
@@ -115,18 +106,6 @@ New decisions only. Use the same bullet format as the existing section:
 ```
 - Japanese = "English" (explanation if needed)
 ```
-
----
-
-`## SECONDARY CHARACTERS`
-New characters only, as bold-name entry lines matching the existing format:
-```
-**Name** — Role/description. Key facts relevant to translation (speech register, status, relationship to main cast).
-```
-One line per character. Do not create subsections or headers within this block.
-For existing characters, only add a new entry line if there is a genuinely new
-fact that affects translation (e.g. a new speech register note, a name change,
-a status change that will alter how other characters address them).
 
 ## Editor Prompt (Claude Code @ Medium Effort)
 
