@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–295*
+*Current coverage: Chapters 1–310*
 *Update this file after each translated chapter.*
 
 ---
@@ -397,6 +397,32 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | クーリア | Kuria | Merchant; the person young Elvena was searching for in the city (minor, name only) |
 | ピーニ | Piini | Young girl in Kreisharana; Lila's former charge; shy (tentative romanisation) |
 | ニージェ | Niije | Young girl in Kreisharana; Lila's former charge (tentative romanisation) |
+| フィーリ | Fiiri | Personal attendant/tutor to Reine (Elsreine); relative of Grabareine; painter; new character in C.300 arc |
+| ダーカル | Daakal | Sword practice partner for Reine; holds the title Duke Remin; likely Remin family (tentative) |
+| イグラ＝ヴィンデスール | Igra Vindesurl | Head of the magic academy at Linareseria; met Selene and Krische in C.297 |
+| ロッズ | Lodz | Igra's companion; present during the mana crystal purchase in C.297 |
+| ライナレセリア | Linareseria | Mountain town in the west; World Tree present; mana crystal seam; small Academy of Magic |
+| ホークランド | Hawkland | Amusement park in the modern AU (C.299 spin-off); mentioned as a nearby location where Ber offered complimentary tickets |
+| ベヌーレ | Benuure | Head servant, lifelong attendant to Grabareine; dies by suicide (C.302) |
+| セイル | Seil | First prince of Alberan under Grabareine; Rougran's elder brother |
+| ロウグラン | Rougran | Second prince; most powerful warrior among the princes; killed by Elsreine (C.305) |
+| フェニレイス | Phenireis | Third prince; killed by Elsreine before C.305 events; uses a spear |
+| トーラジア | Toorajia | One of the princes/princesses; killed in the suppression; phonetic rendering |
+| シェアルズ | Shealz | One of the princes/princesses; killed in the suppression; phonetic rendering |
+| ラスリア | Rasria | Rougran's wife; chooses death upon his defeat (mentioned only) |
+| ドレイル＝ガスレ | Dreyrl Gasrel | Duke of Gasrel; Grabareine's former lover; assassinated by her |
+| アルベル＝ガスレ | Alberl Gasrel | Son of Dreyrl; Rougran's nominal betrothed; disposed of by Grabareine |
+| ゴルザリアス＝ルーカザーン | Gorzarius Rukazan | General; serves as Elsreine's adjutant; born of a baronial house; rose to margrave; ancestor of the Lukazan ducal house of Elsren |
+| フィーリ＝ネーラス | Fiiri Neeras | Full name confirmed: cadet branch of Gasrel family; painter; Elsreine's tutor; summoned and killed by Grabareine (C.305 end) |
+| ニルセ | Nilse | Kingdom mentioned in Grabareine's childhood (trading partner); name only |
+| ロウグラン＝アージェ＝ヴェル＝ニルクリネア＝アルベラン | Rougran Age Vel Nilkrinea Alberan | Full ceremonial name of the second prince (given in duel declaration, C.305) |
+| リビニア | Libinia | Lady-in-waiting at Alberan royal castle; witnessed Grabareine's nightly visits to Fiiri's room; appears in C.306 and C.310 epilogue |
+| ナルコー＝リベニラス | Naruko Ribenilas | Cadet branch of Liberslebe family; appointed first director-general of the Elsren orphanage network; later becomes Pope of the Papal Court (法王庁); key tool of Gorzarius |
+| フェネラ | Fenera | Former orphan; becomes Elsreine's lady-in-waiting on Gorzarius's suggestion; chestnut hair; cheerful; not academically sharp; warm presence for Reine |
+| キリアス＝リーバスレーベ | Kirias Liberslebe | One of the Three Grand Dukes of the Elsren Holy Empire; lean, sharp-eyed; most influential voice in parliament; analytical, eloquent; understands Reine's intentions |
+| オルロス＝ナートリアス | Oruros Natrias | One of the Three Grand Dukes; heavyset, bearded; has the largest original territory; military-focused; commands with a forceful presence; less adept at internal governance |
+| ダルコス | Dalcos | Alberan corps commander; experienced; skilled in commanding heavy infantry; killed by Reine in the dawn column-charge battle (C.309) |
+| オルカンス | Orkans | Powerful great noble in Elsren's western region; decent, sharp; had strong popular support; had opposed the nobles' plan and favored Reine leading the army; killed in battle against Seil's force (C.308) |
 ## RECURRING TERMS
 
 | Japanese | English | Notes |
@@ -563,6 +589,14 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | グレイビャルベの大顎 | Great Jaw of Greybyalbe | Geological feature; the mid-mountain zone of jutting rock pinnacles and crevasse-riddled snowfield |
 | ピルシュの実 | pirushuu berry | Fictional ingredient added to cooking; produces a mild sharp/tart note; used in breakfast dish in C.295; tentative romanisation |
 | 決戦札 | Kessen-fuda | Card game played in the manor; similar to an advanced rock-paper-scissors with picture cards (infantry types, cavalry, archers, weapons, general); mechanics described in C.291 |
+| エルスレン | Elsren | The concept/word that Fiiri uses as the title for her painting of a small paradise — a world without conflict where everyone lives happily. Established in C.300 as the origin of the empire name Elsren/Elsreine. First used by Fiiri as a painting title. |
+| ぴぃぴぃ / ぴぃ | pii-pii / pii | Kreschenta's bird-calls in the modern AU spin-off (C.299); rendered as *pii-pii* and *pii* consistently |
+| 狼藍 | Roukai | Blue/indigo wolf-type magical beast; Rougran reportedly bisected one; romanization tentative |
+| エルスレン神聖帝国 | Elsren Holy Empire | Name adopted two years after the Elsren Republic; the Three Grand Dukes + Papal Court structure; from the Republic of Elsren |
+| 法王庁 / 法王 | Papal Court / Pope | New institution created at empire formation; Naruko Ribenilas appointed first Pope; guardian of the law; meant to be neutral and free of worldly power |
+| 楽園の教え | teaching of paradise | Religion spread by the Papal Court using Reine's paintings; frames Elsren as an afterlife/heavenly paradise to be reached; developed without Reine's knowledge over 2–3 years; distinct from Fiiri's and Reine's original concept |
+| 三大公 | Three Grand Dukes | Gorzarius Rukazan, Oruros Natrias, Kirias Liberslebe; next in power below the empress; established at the transition to the Holy Empire |
+| ナートリアス家 / リーバスレーベ家 | Natrias / Liberslebe | Two of the Three Grand Ducal houses; their families later form the historical three great ducal houses of the Elsren Holy Empire (consistent with earlier lore) |
 ## TRANSLATION DECISIONS
 
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
@@ -886,6 +920,26 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 「クリシェも抱っこされたい派」= "in the camp of wanting to be held too" — narrator's label for Krische's faction
 - 「巡り合わせ論推進派」= "advocate of the fate-encounter theory" — narrator's label for Bery's position
 - 「？？？派」= "camp: ???" — narrator's deliberately opaque label for Elvena's position; rendered as-is
+- ライナレセリア = "Linareseria" (phonetic rendering of katakana; mountain town in the west; new toponym)
+- イグラ＝ヴィンデスール = "Igra Vindesurl" (phonetic rendering; academy head; Germanic-adjacent for -surl suffix)
+- ロッズ = "Lodz" (short katakana name; rendered with final z following source)
+- フィーリ = "Fiiri" (double-i preserves long vowel; new character in C.300 arc)
+- ダーカル = "Daakal" (double-a preserves long vowel; Duke Remin title — tentatively from the Remin family)
+- ボロク＝アンドルゼア = "Borok Andorzea" (phonetic rendering; long-absent son of the elderly couple in C.297; already in KB)
+- エルスレン (concept, C.300) = "Elsren" — Fiiri's painting title for her imagined small paradise; consistent with existing 「エルスレン聖帝国」/Elsren Holy Empire and 「エルスレイネ」/Elsreine (first empress). C.300 establishes the name originates as a concept *Fiiri* coined for her painting, which then presumably was adopted as the empire name — a significant lore detail.
+- グラバレイネ (in the Reine arc) = "Grabareine" — the queen is the same historical figure already in KB; these chapters are her backstory / origin arc set in Alberan before the Elsren Empire
+- エルスレイネ (in the Reine arc) = "Elsreine" — the princess, also already in KB as the first empress; her childhood shown here
+- フィーリ＝ネーラス = "Fiiri Neeras" — surname confirmed in C.301 (ネーラス); cadet branch of the Gasrel family; updates the KB entry for フィーリ which only had "Fiiri"
+- ゴルザリアス＝ルーカザーン = "Gorzarius Rukazan" — the -ius ending fits the Latin-adjacent register; Rukazan matches ルーカザーン from the established Elsren Lukazan ducal house (KB: バズラー＝ルーカザーン = Bazlar Lukazan); this confirms the Lukazan line descends from Gorzarius's service to Elsreine
+- ベヌーレ = "Benuure" — double-u preserves long vowel; lifelong attendant to Grabareine; kills herself to force a meeting between Seil and Grabareine
+- セイル = "Seil" — first prince; short phonetic rendering; the name echoes English "sail" but no special significance suggested
+- ロウグラン = "Rougran" — second prince; rendered phonetically; the ロウ gives a long-o sound
+- フェニレイス = "Phenireis" — third prince; ph- rendering for フェ following existing pattern (フータリア→Futaria but other names use F-; ph retained for distinctiveness of noble naming register)
+- ニルセ = "Nilse" — trading partner kingdom; short phonetic rendering
+- ロールカ式 = "Rolka style" — swordsmanship tradition; romanization tentative; flagged
+- 王の病 = "the King's Sickness" — Gorzarius's term for rulers' paranoia born of absolute power; rendered as a proper-noun-adjacent concept with capital K per his use in C.304
+- 王子達が反乱 arc naming: the arc covers Grabareine's origin story from childhood through consolidation of power, then Elsreine's childhood and the suppression of the princes' revolt. No single arc title given in source; referred to as the レイネ arc per the chapter headings.
+- フィーリ＝ネーラスの死 (C.305 close) — Fiiri enters Grabareine's chamber knowing she has been summoned to be killed, and offers herself calmly; the scene cuts there. Parallels Benuure's self-sacrifice but is externally imposed rather than chosen.
 ## Measurements
 
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
