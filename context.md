@@ -369,7 +369,6 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | フィリペーヌ | Filipéne | Historical painter; grandfather was a Black Flag member |
 | ネムネム | Nemunemu | Alberinea/Krische's nickname for Elgeinst; means "sleepyhead" |
 | クーラン | Kulan | Elgeinst's father; vice-director of the Academy of Magical Studies |
-| ゲニルア | Genil | General; Far Eastern commander defeated by Elgeinst in field battle |
 | ワルツァ＝レーミン | Waltza Remin | Elgeinst's close friend; military man; grandson of Aleha Remin |
 | にゅるるん | Nyururun | Type-B Tentacle; pet creature in the Magical Bery spin-off |
 | ゲニルア | Genil | (same as above; general in C.270 battlefield scene) |
