@@ -104,7 +104,7 @@ For each chapter:
 - **Rosine:** Formal-lean (わたし, です/ます), earnest, prone to small complaints. Soft but has spine. Flushes easily. Slightly prim register that softens in private moments.
 - **Klaze:** Casual, warm, street-bred frankness. Uses お前 with intimates. Affects toughness but reveals genuine family-longing. Speech belies his ordinary, decent nature.
 - **Fagran:** Casual, dry wit, gently irreverent with Granmeld. Speaks with light enthusiasm. 俺.
-- **Gahren (young):** Measured, precise, analytical. わし for self-reference. Calm even in extremity. Strategic transparency — explains his reasoning rather than issuing pure commands.
+- **Gallen (young):** Measured, precise, analytical. わし for self-reference. Calm even in extremity. Strategic transparency — explains his reasoning rather than issuing pure commands.
 - **Norzan (young):** Polished surface, controlled condescension masking genuine fire. Sharp assessment of others. 俺. Switches between lordly dismissal and savage intensity when provoked to fight. Genuinely cares about those under him while concealing it behind severity.
 - **Bogan (young):** Calm exterior, berserker in battle. Respects his captain; steady second. 俺 implied.
 
@@ -257,7 +257,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | ザーカ | Zaaka | Black Flag squad leader; one-eyed |
 | ボグス | Bogus | Flag-bearer, Zaaka's squad |
 | コーザ | Koza | Black Flag archer captain; flag-bearer |
-| ガーレン | Gahren | Present at Garkha manor meeting (C.177); likely Garkha-side officer — distinct from ガレン (Gallen). Requires confirmation. |
+| ガーレン | Gallen | Present at Garkha manor meeting (C.177); likely Garkha-side officer — distinct from ガレン (Gallen). Requires confirmation. |
 | ラクール | Lakoul | War-lion commander, Elkaarl's left wing |
 | キーニア | Kiinia | War-lion commander, Kilrea's formation |
 | ダズール | Dazurl | Galshan common soldier (POV character) |
@@ -291,9 +291,9 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | カーレア | Karlea | Teknrea's sister; married with three sons (minor mention) |
 | アルカンド | Alkando | War cry / rallying call used by Kanalua warriors (tentative) |
 | レド＝ラーニ | Red Lani | Full name with tribal affiliation confirmed in C.200 profile |
-| ゲイルビーグ | Geilbiig | Mekrea warrior chief; killed by Gahren's arrow (C.201 flashback) |
-| コーズ | Kouz | Squad leader under Gahren's command (C.201 flashback) |
-| モーラズ | Moraz | Squad leader under Gahren's command (C.201 flashback) |
+| ゲイルビーグ | Geilbiig | Mekrea warrior chief; killed by Gallen's arrow (C.201 flashback) |
+| コーズ | Kouz | Squad leader under Gallen's command (C.201 flashback) |
+| モーラズ | Moraz | Squad leader under Gallen's command (C.201 flashback) |
 | バズラー＝ルーカザーン | Bazlar Lukazan | Grand Duke, Elsren Holy Empire; commands the eastern invasion force |
 | ビーナル＝サルシェンカ | Biinal Sarshenka | Duke, Elsren Holy Empire; Aleha's elder brother; assigned as siege vanguard |
 | ルーカザーン | Lukazan | One of three grand-ducal houses with imperial succession rights, Elsren |
@@ -379,7 +379,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | カーリス | Karris | Granmeld's subordinate; large, distinctive nose; followed Granmeld into the military |
 | ペイカス | Paicas | Commoner-born official who worked under Norzan; sharp administrator; Rosine's father |
 | ロシーネ | Rosine | Granmeld's wife; Paicas's daughter; commoner-born; chestnut hair; plain, serious appearance; had been fond of Granmeld since childhood |
-| トクスレニア＝アールジア | Tokusrenia Ardia | Noble-born centurion who took over Gahren's battalion by exploiting achievements and connections; antagonist in Granmeld's backstory; later died in suspicious isolation |
+| トクスレニア＝アールジア | Tokusrenia Ardia | Noble-born centurion who took over Gallen's battalion by exploiting achievements and connections; antagonist in Granmeld's backstory; later died in suspicious isolation |
 | ダッカン | Daccan | Debtor targeted in Varkus gang collections (minor, mentioned only) |
 | オーガル | Ogaru | Leader of a rival gang of ~100; killed by Granmeld after Klaze's death (mentioned only) |
 | コーネクス | Conex | Name of a dead First Corps supply captain; used by Granmeld as a cover identity during the forest encounter |
@@ -671,7 +671,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - ザーカ = "Zaaka" (Black Flag squad leader).
 - ボグス = "Bogus" (flag-bearer).
 - コーザ = "Koza" (archer captain/flag-bearer).
-- ガーレン = "Gahren" — flagged: appears in C.177 at the Garkha manor meeting. Distinct from ガレン (Gallen, Krische's grandfather). Likely a Garkha-side officer; romanization tentative pending confirmation.
+- ガーレン = "Gallen" — flagged: appears in C.177 at the Garkha manor meeting. Distinct from ガレン (Gallen, Krische's grandfather). Likely a Garkha-side officer; romanization tentative pending confirmation.
 - 戦獅子長 = left contextually as "war-lion commander" — Galshan's senior unit commanders. Not yet standardized.
 - 上位者会議 = "High Council" (Galshan's restricted military council).
 - 一角獣 = "unicorn" per author's note (rhinoceros-like creature); kept as "unicorn" following source.
@@ -724,7 +724,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 司祭長 = "High Priest" (Elderant religious elder; not to be confused with Arna's "Grand Priest")
 - 戦士長 = "warrior chief" (Elderant tribal combat rank; lower-case, used as common noun)
 - 大族長 = "great chieftain" (leader of a major Elderant tribe)
-- ガーレン in C.193 confirmed as the same character from C.177 (Gahren); present at Alberinea HQ meeting, speaks on Krische's behalf regarding hostage policy. Functions as Gallen's stand-in when issuing tactical guidance.
+- ガーレン in C.193 confirmed as the same character from C.177 (Gallen); present at Alberinea HQ meeting, speaks on Krische's behalf regarding hostage policy. Functions as Gallen's stand-in when issuing tactical guidance.
 - キルメ = "kilme" (untranslated; fictional flower Shelna cultivates)
 - エルウーカ = "Eruwuuka" (name of dying Mekrea soldier; minor, transliterated)
 - カーラン = "Karan" (minor officer in Shelna's camp)
@@ -745,7 +745,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 五大国戦争 = "Five-Nations War" (五大国 = five great nations; the name for the multi-front war).
 - 投岩機 (narrator's emphatic variant) = rendered contextually as emphasis within "trebuchet" description ("a rock-thrower, not a stone-thrower") rather than as a separate term.
 - アルベナリア工廠 = "Albernaria Arsenal" (工廠 = arsenal/factory; アルベナリア likely variant of アルベルナリア/Albernaria).
-- ガーレン in C.201 = confirmed as the same Gahren (ガーレン) from C.177/C.193, not Gallen (ガレン). C.201 establishes him as Bogan and Nozan's former centurion during their early military careers. The rank百人隊長 (centurion) and the timeline (Bogan as corporal, Nozan as lance corporal) are consistent with a younger Gahren long before the current story events.
+- ガーレン in C.201 = confirmed as the same Gallen (ガーレン) from C.177/C.193, not Gallen (ガレン). C.201 establishes him as Bogan and Nozan's former centurion during their early military careers. The rank百人隊長 (centurion) and the timeline (Bogan as corporal, Nozan as lance corporal) are consistent with a younger Gallen long before the current story events.
 - コーズ = "Kouz" (squad leader; katakana コーズ).
 - モーラズ = "Moraz" (squad leader; katakana モーラズ).
 - リンカーラ＝ウォーカル = "Linkara Wokal" (katakana rendering; Germanic-adjacent)
@@ -801,7 +801,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - ザッツ = "Zatz" (tentative; minimal context)
 - 大陸統一戦争 = "Continental Unification War" (大陸 = continent, 統一 = unification)
 - 統一歴 = "Unified Calendar" (統一 = unified, 歴 = calendar/era)
-- 見送るもの = "Those Who See Off" (見送る = to see off/send off; もの = those who; refers to the living who remain after Gahren's death)
+- 見送るもの = "Those Who See Off" (見送る = to see off/send off; もの = those who; refers to the living who remain after Gallen's death)
 - 保護者 = "Guardian" (chapter title; refers to Bery's role as Selene's guardian figure, extended to present day)
 - ロズ (Kokys's new honorary name element) = follows existing conventions; ロズリネア confirmed in C.222 profile
 - ガテェアル＝ゴートン = "Gateal Goton" (the railway vehicle; named after mythological figures)
@@ -884,7 +884,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 翠虎 = "jade tiger" — rendered literally; mount species uncertain. May be a mana-construct or a real animal. Flagged.
 - ネア叙勲 = "Nea investiture" — ネア appears to be a rank below リネア (Rinea/Senior Knight); abbreviated (略式) form received by Granmeld. Flagged as requiring confirmation.
 - コルキス in C.274 dialogue = same as コキス (Kokys); the same rendering convention as previously established ("コルキス in dialogue → Kokys per convention" confirmed and applied throughout these chapters).
-- ガーレン in these chapters = the young Gahren (ガーレン), who is the same Gahren established in earlier contexts as Bogan's former centurion. C.274 confirms he is Bogan's commanding officer during the Elsren war — consistent with C.201 entry. わし for self-reference confirmed here in dialogue.
+- ガーレン in these chapters = the young Gallen (ガーレン), who is the same Gallen established in earlier contexts as Bogan's former centurion. C.274 confirms he is Bogan's commanding officer during the Elsren war — consistent with C.201 entry. わし for self-reference confirmed here in dialogue.
 - ボーガン in C.274–275 = young Bogan Christand, same character; addressed as ボーガン by Granmeld's narration, consistent with his full name.
 - ノーザン＝ヴェルライヒ = the young Norzan who would become Eastern General. Given that ノザン＝ヴェルライヒ (Nozan) is the father and ノーザン is a different name, this is a separate character — Nozan's son, later confirmed as Norzan. The KB already lists ノルガン＝ヴェルライヒ (Norgan) as Marshal; Norzan would be Norgan's father or an earlier holder of the Eastern General position. Flagged for confirmation with future context.
 - ヴァーカス = "Varkus" (established name; here confirmed as Old-Tongue word meaning family/kin — do not translate the word itself, but the meaning is glossed in the chapter)
@@ -905,7 +905,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - グラバヤールベ = confirmed as the same Greybyalbe (グレイビャルベ already in KB); source in these chapters uses グラバヤールベ romanised as Greybyalbe per established entry
 - ノーザン in C.295 old-man's dialogue = Norzan (Norzan Velraigh, the Eastern General); listed alongside Aleha and Kokys as fellow great warriors of a past age; consistent with existing KB entry
 - アレハ in C.295 = Aleha (Aleha Klauzera Shuindel Sarshenka); the old man notes Aleha's sword is still improving even at this age, and he is slightly ahead of the old man in their ongoing rivalry — suggests Aleha is still alive in Crisnate-era, or at least was alive in the period the old man is recalling
-- The "old man" in C.295 is not explicitly named; context clues: large/broad-chested, formerly considered the continent's greatest warrior before Krische's debut, in a close rivalry with Aleha across their lifetimes, has a lead but narrowing — likely Gahren (ガーレン), who was established as an elite warrior/commander in earlier chapters; tentative, flagged for confirmation with future context
+- The "old man" in C.295 is not explicitly named; context clues: large/broad-chested, formerly considered the continent's greatest warrior before Krische's debut, in a close rivalry with Aleha across their lifetimes, has a lead but narrowing — likely Gallen (ガーレン), who was established as an elite warrior/commander in earlier chapters; tentative, flagged for confirmation with future context
 - Selene's POV in C.295 begins the chapter after the unnamed old man's deathbed scene; she is described waking fifth each morning, practicing sword in the morning, spending time in a workshop doing sculpture — Crisnate-era characterisation consistent with prior C.280s chapters
 - エルヴェナ's characterisation expanded: Selene describes her as someone who "deliberately makes it her purpose in life to corrupt and degrade people" in contrast to Bery's "natural" bad character — Selene considers her a predator in the manor ecology; Lila's arc in C.291–294 dramatises this
 - お屋敷会議（出張版）= "makeshift Christand council (away edition)" — narrator's comic label for the ad hoc mountain-summit meeting; follows existing "Christand council" convention
