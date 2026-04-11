@@ -600,7 +600,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 
 - 湾曲した剣 = "curved sword" (not "sabre"). Large variant: 大曲剣 = "great curved sword."
 - ガイコツ = "Skeleton" (as English nickname proper);
-- リプス = "Lips" (Bery's hidden name).
+- リプス = "Lipus" (Bery's hidden name).
 - Oath formula 言の葉紡ぐ場所より誓いを = "A vow woven from the place where words are spun."
 - 残念 = "a shame" (not "sad") — consistent for Krische and Kreschenta.
 - わんわん (Granmeld) = "Woof-woof." にゃんにゃん (Kokys) = "Nyan-nyan."
