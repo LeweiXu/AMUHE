@@ -174,7 +174,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | バーガ＝ネア＝クルトス | Barga Nea Kurtoss | Fourth Battalion commander |
 | サルダン＝リネア＝ガルカロン | Saldan Rinea Galkalon | Second Corps Commander, Velraigh army |
 | ゲルツ＝ネザラリウス＝リネア＝ヴィリング | Geltz Nezararius Rinea Wirring | Gildanstein's general; surrendered at Dragon's Maw |
-| フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagelinea Keesliton | Gildanstein's deputy commander; under house arrest |
+| フェルワース＝ザラン＝ドリシェ＝ヤゲルリネア＝キースリトン | Felwors Zaran Dorishe Yagerinea Keesliton | Gildanstein's deputy commander; under house arrest |
 | アレハ＝クラウゼラ＝シュインデル＝サルシェンカ | Aleha Klauzera Shuindel Sarshenka | Former Empire general; now serves Krische |
 | ワルツァ＝デル＝グリズランディ | Waltza Del Grizlandy | Aleha's companion; one-armed; excommunicated |
 | コズ / ケイズ | Koz / Keiz | Blacksmith / his son; Gurgain weapon shop |
@@ -519,7 +519,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 鉄道 | railway | Alberan rail infrastructure; extended to western Elsren |
 | アルベランの魔王 | Demon King of Alberan | Foreign epithet for Kreschenta |
 | 魔導式軌道鉄輪車 | magic-powered rail-wheel vehicle | Official name for the railway car (Gateal Goton) |
-| がったんごーと | clatter-clunk | Krische's onomatopoeic name for the railway/train |
+| がったんごーと | gatan-goto | Krische's onomatopoeic name for the railway/train |
 | ピシューネ | Pishuune | Mana projection cannon; large-scale Baumje Ira derivative |
 | ぴしゅーん | pishuun | Krische's onomatopoeic fire command and name for the cannon |
 | 魔力投射砲 | mana projection cannon | Formal designation for Pishuune |
@@ -548,7 +548,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 封印 | seal | Kreschenta's formula applied to the mana crystal to trap/restrict Krische |
 | 甘えクリシェ / 甘えクレシェンタ | 'Spoiled Krische' / 'Spoiled Kreschenta' | Narrator's comic terms for persona modes devoted entirely to being indulged |
 | わんちゃんごっこ | doggy game | Kreschenta's game where Krische can only say "woof"; narrator's term |
-| こぼね | Lil' Bone | Krische's nickname for Reifas (ガイコツ/Skeleton's child = 小骨/little bone) |
+| こぼね | Skeleton Jr. | Krische's nickname for Reifas (ガイコツ/Skeleton's child = 小骨/little bone) |
 | ぴよるん | Piyo-run | Krische's nickname for Norgan (derived from ぴよぴよ/Piyo-piyo, his father's nickname) |
 | 魔導式昇降装置 | magic-powered lift | Elevator in Zenith tower |
 | クリシュタンド式 | Christand system | Selene's military organizational reforms; staff-based decentralized command |
@@ -805,7 +805,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 保護者 = "Guardian" (chapter title; refers to Bery's role as Selene's guardian figure, extended to present day)
 - ロズ (Kokys's new honorary name element) = follows existing conventions; ロズリネア confirmed in C.222 profile
 - ガテェアル＝ゴートン = "Gateal Goton" (the railway vehicle; named after mythological figures)
-- がったんごーと = "clatter-clunk" (Krische's onomatopoeic name for the train; rendered as English onomatopoeia)
+- がったんごーと = "gatan-goto" (Krische's onomatopoeic name for the train; rendered as English onomatopoeia)
 - ピシューネ = "Pishuune" (kept as transliteration; Krische-named weapon following Bonjara/Piririn convention)
 - ぴしゅーん = "pishuun" (Krische's fire command; lowercase onomatopoeia)
 - もしゃもしゃ = "Scraggly" (Krische's nickname for bearded men, particularly Aleha)
@@ -831,7 +831,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 飛べない鳥 (C.253 title) = "The Bird That Could Not Fly" (Selene as the wingless bird among those with wings; the birdcage motif)
 - 檻の中の永遠 (C.254 title) = "Eternity in a Cage" (檻 = cage/prison, 永遠 = eternity; Kreschenta's birdcage made real)
 - 自己鳥瞰 (C.255 title) = "A Bird's-Eye View of the Self" (自己 = self, 鳥瞰 = bird's-eye view; Aleha looking down on his own life from the height he's reached, and also the bird/flight motif threading through recent chapters)
-- こぼね = "Lil' Bone" (ガイコツ = Skeleton [Elrouga's nickname]; 小骨 = small bone → "Lil' Bone" for Reifas. Follows Krische's playful nickname convention.)
+- こぼね = "Skeleton Jr." (ガイコツ = Skeleton [Elrouga's nickname]; 小骨 = small bone → "Skeleton Jr." for Reifas. Follows Krische's playful nickname convention.)
 - ぴよるん = "Piyo-run" (derived from ぴよぴよ/Piyo-piyo [Nozan's nickname]; follows the diminutive -run suffix pattern)
 - 念話 = "telepathy" (rendered contextually in the dragon mana-communication passage; not a new coinage but first explicit use of the term)
 - 甘えクリシェ / 甘えクレシェンタ = "Spoiled Krische" / "Spoiled Kreschenta" (narrator's comic persona labels; rendered in quotes following existing convention for narrator labels)
