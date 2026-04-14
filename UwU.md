@@ -1,846 +1,51 @@
-# Chapter 271: Moonlight's Legacy — End
- 
-The building annexed to the manor was called Selene's Workshop.
- 
-Rows of swords, knives, and kitchen knives lined the walls, and Selene, wiping the sweat from her brow with a hand towel, looked at Krische with pride.
- 
-What Krische held was a slender long knife——a fish knife used on the islands of the far eastern continent.
- 
-Single-edged rather than double-edged, it was meant for cutting fish to be eaten raw.
- 
-"Fufun, what do you think? Quite a fine job this time."
- 
-"The……shape is quite good."
- 
-Krische handed it to Bery, who had also been studying it.
- 
-Bery brought her face close with a serious eye, examined the blade, held it to the light, and peered through it.
- 
-She narrowed her eyes almost imperceptibly for an instant, but quickly smiled and nodded.
- 
-"Yes, it would certainly hold up in practice. A sufficient piece, I would say."
- 
-"……You have complaints."
- 
-"Um, w-well, no……"
- 
-"Say it honestly."
- 
-"It's not quite a complaint……"
- 
-Bery glanced at Krische with a wry smile.
- 
-"J-just, with all due respect, it could not be called the finest quality. The surface is slightly rough."
- 
-"What……?"
- 
-Bery showed the unsharpened side, indicating with a finger.
- 
-Looking closely, there was indeed a very fine, uneven grain.
- 
-Likely from when a slight warp had been straightened.
- 
-Noticing it, Selene furrowed her brow and glared at Bery.
- 
-Bery smiled, cradling the knife.
- 
-"Of course, it's a good knife. There shouldn't be any practical issues with——"
- 
-"……Rejected."
- 
-"Ah, well……"
- 
-"That one's rejected. I'm remaking it."
- 
-Selene snatched the knife Bery was holding and set it on the workbench.
- 
-Then she compared it with the knife she had bought as a reference.
- 
-"O-Ojou-sama……it's more than sufficient for my purposes……"
- 
-"Not another word. I want to make a flawless, perfect knife. I don't want you using it just because 'Ojou-sama made it with her own hands.'"
- 
-"Dear me……"
- 
-"We've got more time than we know what to do with. No good until I've made a perfect knife. And you——examine it as though you were spending good money to choose your own knife. Understand?"
- 
-"……Yes."
- 
-Bery smiled helplessly, and Krische gave a small, pained groan——*uuu*.
- 
-Since coming here, Selene had apparently developed a passion for crafting——swords, spears, dressers, sheds, fishing gear, all manner of things.
- 
-On a recent trip, she had found the knife and bought it, but Selene had declared *I'll make you one* and confiscated it as a reference.
- 
-The knife had been imprisoned in this 'Selene's Dungeon.'
- 
-The port town and the islands offered many dishes made with raw fish, and they had been talking about trying their hand at raw-fish cooking——that was five years ago.
- 
-At some point, an unspoken understanding had formed that raw-fish dishes could only be prepared with a knife forged by Selene, and in the end, Krische had been left waiting for no discernible reason.
- 
-How many more years until it cleared the Bery standard?
- 
-The thought alone was daunting.
- 
-Selene was meticulous by nature, yet fundamentally rough and clumsy.
- 
-She could produce something *decent enough*, but Krische simply could not picture Selene bringing this particularly delicate knife to perfection.
- 
-"U-um……Selene, just for today, could we try that knife for——"
- 
-"No. I can't let you use something like this."
- 
-"K-Krische-sama……shall we do that fish as a grilled dish? Look, it's fatty, so it'll be delicious even grilled."
- 
-"Yes……"
- 
-Last night Selene had declared *this time it's perfect*, so today Krische had procured fine fish from the port town, but——her worries had come true.
- 
-After a year's work, the score had risen from sixty to sixty-five.
- 
-Bery's *good knife* standard was ninety.
- 
-How many decades before this household would see sashimi?
- 
-Selene Christand was a person who, when she ran out of work, would create it.
- 
-As though she could only live through the act of working.
- 
-Indeed, Krische's long-standing assessment that *Selene likes troublesome things* was once again proven correct.
- 
-"Bery, I'll be back at the manor by evening."
- 
-"Very well. ……Krische-sama, shall we go wake Kreschenta-sama?"
- 
-"……Yes. Sashimi……"
- 
-Krische murmured this softly, then suddenly raised her face and furrowed her brows.
- 
-"……Krische-sama?"
- 
-"Someone's come."
- 
-"Someone……you mean, to this world?"
- 
-"Yes. Please wait a moment."
- 
-With that, Krische padded off.
- 
-*Krische will just go check*, she said, opening the door and stepping outside.
- 
-* * *
- 
-"……Oh, there you are, Elgeinst."
- 
-"Yes. How are you?"
- 
-"Dying."
- 
-The old man lying in bed opened his eyes, looked at him, and laughed.
- 
-When a mana bearer could no longer manipulate mana, their health deteriorated rapidly.
- 
-Waltza had reached the end.
- 
-One hundred and thirty——like his grandfather, a fairly long life even for a mana bearer.
- 
-Elgeinst propped him up and brewed tea for him.
- 
-Since collapsing the other day, he had been bedridden. His condition seemed to worsen by the day, yet Waltza was the same as ever.
- 
-Smiling, chatting fondly, reliving old memories.
- 
-Elgeinst listened with a wry smile. Knowing his time was short, even trivial, silly stories seemed to shine.
- 
-The time that had seemed to pass in a flash was filled with more memories than could ever be told, and it struck him——*we've grown old*.
- 
-"Still, you really don't age, do you, Elgeinst."
- 
-"……That's not true. I too have begun to feel the onset of old age. I'll probably die in a few more decades."
- 
-"Your looks won't change even when you're old, I'd wager. You already look like a corpse."
- 
-"……You——"
- 
-Waltza laughed——and broke into a coughing fit. Elgeinst hastily rubbed his back.
- 
-Then eased him back into bed.
- 
-"……Sorry, Elgeinst."
- 
-"What are you apologizing for?"
- 
-"It's been a confining position. ……You were the right man for it, I'll grant that, but it was never your sort of thing."
- 
-"Don't start saying things that aren't like you. ……I did what was necessary. So did you."
- 
-*Isn't that right*, Elgeinst added with a smile.
- 
-"But you never truly came to terms with it, deep down. I said some cruel things."
- 
-"You more than made up for it with your work. ……Besides, this is my wish, too. A wish entrusted to me by Alberinea."
- 
-"I wonder about that."
- 
-Waltza laughed, coughed again, and spoke.
- 
-"You're a hopeless, gloomy recluse and a stubborn mule. A man like you has no interest in being emperor and governing a nation. ……You're fond of fine-sounding words, but at the end of the day, they're all borrowed."
- 
-"What……?"
- 
-"……What is *your* wish, Elgeinst? This peace——you offered it up to Alberinea, didn't you?"
- 
-Elgeinst fell silent.
- 
-Then he lowered his eyes.
- 
-"You did the finest job possible. Kleinmeil is stable. ……Now, in this peaceful world, what do *you* want to do?"
- 
-*It's your life*, Waltza continued.
- 
-"As you can see, I've had a pretty good run……but sometimes I wonder. What it'll be like when you die someday. ……The final chapter of a man who killed himself to reign as emperor of a peaceful world——that's my one lingering regret."
- 
-And he looked Elgeinst in the eyes.
- 
-"……Lately, that already gloomy face of yours has gotten even gloomier. You're never going to die smiling the way I will, not like this."
- 
-"……I'm fine with——"
- 
-"*I'm* the one who isn't, Elgeinst. I won't have it written in my ledger that I won peace at the cost of a friend's life."
- 
-"……You really are a selfish man. I'm honestly astounded."
- 
-Even as he said it, a smile came easily, and Elgeinst closed his eyes.
- 
-"A dying man's last request from a friend——surely a little selfishness can be forgiven."
- 
-"That line of reasoning is unfair. The one who dies first gets the better deal."
- 
-"Heh. Try living a little more loosely, Elgeinst. Ease up. You've done more than enough work. Even you deserve at least a reward. ……No one in the world would blame you for indulging a little."
- 
-*Right?* Elgeinst asked, and *Right*, Waltza answered, firmly.
- 
-"……What is your wish, Elgeinst?"
- 
-Elgeinst closed his eyes for a long while, then shook his head.
- 
-"……A wish that cannot come true."
- 
-"Say it. We've known each other since you were a brat——and I'll be dead by tomorrow or the day after. What is there to be ashamed of?"
- 
-Waltza said so and gazed up at the ceiling, waiting.
- 
-Elgeinst studied his face for a time, thought on it.
- 
-After a long pause, he spoke.
- 
-Waltza, hearing it, laughed with delight——*you're still a kid*, he said.
- 
-And then——
- 
-"……A wish fitting of you."
- 
-*——You could do it, Elgeinst.*
- 
-He said so, without a shred of evidence.
- 
-* * *
- 
-Where Alberinea had vanished to, Elgeinst had not the slightest clue.
- 
-He began with painstaking legwork in his spare time, not research.
- 
-He visited under false identity the descendants of those who had been close to her——houses like Agrand and Velraigh, and the grandchildren and great-grandchildren of the Black Flag Special Service.
- 
-Some had met her, and had heard stories of her character, but naturally, none knew why she had disappeared.
- 
-Walking the streets of Albernaria, he was directed from the Black Flag Swordsmanship Academy——where former Black Flag members taught the sword——to a restaurant called 'The Dawn Crescent.'
- 
-It was closing time, but when he pressed a silver coin into his hand, the proprietor laughed and relented, pouring drinks at the counter.
- 
-"My great-granddad was a long-liver, name of Koza……he was an archer captain in the Black Flag. So, after the Unification War was over——"
- 
-The man began with a brief history of the establishment.
- 
-Founded by Black Flag members Koza and Beltz, and Alberinea herself had apparently been a regular patron.
- 
-He had already researched everything records and texts could yield.
- 
-The names were of course familiar.
- 
-Both had been members of Alberinea's Black Flag Special Service——and before that, the Black Century.
- 
-A great noble visiting a common eatery was surprising, but for Alberinea, it was only natural.
- 
-He thought nothing particularly unusual of it.
- 
-The Queen herself had apparently come incognito to eat as well.
- 
-"You're a mage, right? Hard to say if you know what it was like firsthand, but the commotion back then was apparently something else——my grandpa and my old man rushed over to great-granddad. Alberinea had been a patron, and the Christand house too, so they thought maybe he'd know something."
- 
-The proprietor pointed toward the ceiling.
- 
-"The sky was blazing bright as midday, and a tower that reached the clouds turned into a giant tree, scattering rainbow petals everywhere——quite a scene, or so they say. ……But great-granddad wasn't the least bit surprised; he just chuckled, looking pleased. ……'Hope they'll still be patrons a hundred years from now,' he said."
- 
-The man wet his tongue with drink.
- 
-"Great-granddad was getting on in years, and grandpa and dad both figured he was going senile……well, that was the end of that story. But there was one odd thing."
- 
-"……An odd thing?"
- 
-"Well, it's that kind of place. We don't get many lady customers——couples sometimes, but not groups of women."
- 
-'The Dawn Crescent' was a modest inn with meals in the castle district.
- 
-It served liquor; its clientele was mostly guards and caravan escorts——not the most refined establishment.
- 
-Bearing the Christand simplified crest, its food was genuinely good, but it was certainly not a place women would feel at ease entering.
- 
-"……And yet, after that last war settled down, a whole group of women came in with a retinue of servants——the waitstaff told me about it. Obviously nobility. Normally I'd have gone out to greet them myself, but I was 'too busy' and never showed my face, just sent the food out……and when I thought about it later and asked, the servers couldn't even remember what the ladies looked like."
- 
-"……That's——"
- 
-"Strangest thing. ……But then I recalled what my dad and grandpa used to say, and I thought——could that have been Alberinea and her entourage? ……Well, that's the silly story, anyway."
- 
-The man picked up the silver coin Elgeinst had given him and turned it over.
- 
-"……We don't serve anything fancy here. Cheap booze, decent ingredients but nothing extravagant. Unless it's a real big party, not many people pay for a meal with silver. ……That day, sure enough, a silver coin turned up in the register. The customer said 'keep the change, it was delicious as always,' and left."
- 
-*Suggestive, right?* The man laughed and drained his cup.
- 
-"'As always'——but in all my years, no customer like that had ever come. So I just decided on my own that it was Alberinea who'd stopped by……well, I feel bad about it, but since you gave me a silver coin and all, that's about all I can tell you."
- 
-"……No. Thank you. I heard what I needed to hear."
- 
-That was the catalyst.
- 
-Elgeinst had assumed Alberinea had gone far, far away——but had she, really?
- 
-Alberinea had no need to go anywhere distant.
- 
-Perhaps she had simply withdrawn from society to live a quiet, unbound life.
- 
-* * *
- 
-"——The divine being is no longer here."
- 
-"No longer……?"
- 
-"I do not know the reason. ……It was long ago, around the time the Alberan Queen's absence became known. Since then, the divine being has not been seen."
- 
-With diplomacy in mind, he visited the Kreisharana in person and requested an audience with the dragon. The answer he received was that.
- 
-"……Yagelnaus-sama, as you say, was granted the true name by Alberinea, and is said to have been on close terms with the Queen of Alberan. Had an audience been possible, you might have learned something. ……But even we have not seen Yagelnaus-sama for many years. I would advise you to give up."
- 
-"……I see."
- 
-"I share this not because you are the Kleinmeil Emperor, but because I trust you as an individual. I must insist, however——please do not repeat this to anyone."
- 
-Elgeinst nodded, and asked:
- 
-"There is truly no idea, not even a guess, as to why?"
- 
-"……The divine being's will is beyond the reckoning of one such as I. That said——are you familiar with the Kreisharana's priestess, Elgeinst-dono?"
- 
-The last priestess of the Kreisharana, Lila Sharana.
- 
-She had lived alone in the Forbidden Domain until her death midway through the Unified Calendar.
- 
-Making herself the final priestess, she had ended the centuries-old line of attendants to the divine being——an act of devotion for eternity.
- 
-Why she had ended it, and why the divine being had vanished decades after her death——he suggested there might be a connection.
- 
-The true reason had not been passed down; all he had been told was that she had devoted herself to the divine being. But he also said this:
- 
-"When Yagelnaus-sama was still present, a child once wandered deep into the forest……and the child said a beautiful woman had helped and guided them out. ……The divine being and the priestess——perhaps, even without form, they still watch over us from somewhere."
- 
-As legends and traditions went, this was remarkably recent.
- 
-What Elgeinst felt was no longer speculation, but certainty.
- 
-Elgeinst was also familiar with the theory of spatial transference formulae.
- 
-Fixed-point formulae——they remained unrefined by Elgeinst's standards, incomplete in their optimization, but theoretically sound.
- 
-The question remained: the formulae that had enveloped him that day.
- 
-——Alberinea's inscriptions, as though rewriting the very world.
- 
-Those were clearly something different from spatial transference.
- 
-Had it been spatial transference, there would have been no need for such a vast-scale inscription. A far smaller scope would have sufficed.
- 
-Alberinea was, at the very least, someone who eliminated all waste from her inscriptions.
- 
-What if Alberinea was still in this world?
- 
-It was mere conjecture, nothing more——yet somehow, he felt it to be true.
- 
-The principle of the tower aside, it was unmistakably designed to fill the world with mana.
- 
-And beyond that, it had been prepared 'to cast magic upon the world itself.'
- 
-An outlandish notion.
- 
-There were leaps in logic.
- 
-But Elgeinst, who knew that Alberinea was truly the equal of a god, was certain.
- 
-An unchanging, childlike purity.
- 
-Eternally young scion of the divine.
- 
-If it was Alberinea, it was not strange at all.
- 
-That she would rewrite the very world itself for the sake of her own wish.
- 
-——He recalled her smiling, thinking of her servant. *I want to see her soon.*
- 
-Her wish was surely an eternal paradise, continuing beyond death.
- 
-That it had happened so soon after Selene Christand's passing was no coincidence.
- 
-*That is how it is*, he repeated to himself.
- 
-When he realized it, his hands and feet trembled.
- 
-Perhaps he had lost his sanity.
- 
-What Elgeinst had done could well be called madness.
- 
-To fix his destination upon a mere speculative guess.
- 
-And yet, Elgeinst decided to proceed.
- 
-* * *
- 
-He pondered the nature of time.
- 
-What seemed an eternity could also feel brief, changing its length each time like some living thing.
- 
-Three or four ordinary human lifetimes.
- 
-Even two lifetimes of a mana bearer.
- 
-That much time had passed, and still he marveled.
- 
-Some looked askance at an emperor who neither indulged in luxury nor left his quarters, spending decade after decade in fervent research.
- 
-Others spoke of an explorer who had never lost his spirit of inquiry——the mage among mages——and directed their respect.
- 
-Perhaps they spent far longer stretches of time than Elgeinst.
- 
-For Elgeinst, the decades since becoming emperor——since he had begun chasing Alberinea——had flown in an instant.
- 
-Living the same span of time yet experiencing it so differently——a curious thing.
- 
-Before he knew it, Elgeinst had aged, and even Waltza's great-grandchild had grandchildren of his own.
- 
-The time he had spent with Alberinea, in the context of a life spanning over two hundred years, was surely a mere fragment.
- 
-Once every few months, for the briefest of moments.
- 
-The total time he had spent face-to-face with her did not even add up to a single day.
- 
-Even considering the thirty years while she was present, it was only a fraction of two centuries.
- 
-And yet, that sliver of time felt as though it had been an eternity, as though it had been the greater part of his life.
- 
-Why did he cling to her so?
- 
-Each time he asked himself, what he pondered was that very thing.
- 
-It was not the physical length, but the time as felt, that was the truth.
- 
-In Elgeinst's life, Alberinea had always been at the center.
- 
-He studied space, and attempted to comprehend everything that composed the world.
- 
-He tried to know all that constituted matter and space, and still, the only answers he found were many versions of *this is not it*.
- 
-The distance between himself and her was surely not a physical one.
- 
-His body aged with each day, and yet the one mystery remained unsolved.
- 
-For Elgeinst, the time had passed in a blink.
- 
-Even his ability to manipulate mana was beginning to wane, and with half-resignation he murmured once more——*this is not it*.
- 
-Something close, yet not close.
- 
-Something said to exist in people, yet never visible.
- 
-Surely, it was something like that, Elgeinst thought.
- 
-Where she was——an eternal paradise, continuing beyond death.
- 
-Like the blind and unknowing masses who offer prayers to the formless.
- 
-Elgeinst, who had spent his life seeking to solve the unknown through accumulated theory, chose, in the end, to place his faith in mystery.
- 
-He wrote down personal writings, gave away towers of books, or burned and discarded the rest.
- 
-Everything Elgeinst had built vanished in a flash, and what he envisioned was whatever lay beyond death, beyond the discarded body.
- 
-He resolved to stake everything on that, donning nothing but his robe and the 'frying pan.'
- 
-She was the perfect mage and the greatest teacher.
- 
-She did not create things that could be found through stacked logic, that others could solve.
- 
-The mana crystal given to him *for study* had taught him precisely that.
- 
-She had given him the means to find what could only be found by shifting one's perspective.
- 
-And so he cast away all logic.
- 
-He closed his eyes and envisioned the magic she had inscribed upon the world.
- 
-*'——You could do it, Elgeinst.'*
- 
-The mana crystals arrayed around him blazed with light, and his body began to dissolve.
- 
-A flash of agony.
- 
-He held fast to the image of himself, searing the pain into his will, clinging to it, gritting his teeth.
- 
-And then——
- 
-A pleasant breeze caressed his body.
- 
-Opening his eyes, the first thing he saw was a radiant sky.
- 
-He tried to sit up but had no strength; his limbs felt uncertain.
- 
-Even the robe he wore seemed to blur and waver.
- 
-——It was simply, utterly pleasant.
- 
-The scent of grass and flowers tickling his nose.
- 
-Warm sunlight and cool wind.
- 
-A sensation as though his entire body were dissolving, as though drawn somewhere——yet there was no pain, no fear.
- 
-He felt no unease at surrendering to it, and even thought it would be fine.
- 
-Yet he did not, because he saw a figure in the sky.
- 
-Drifting down softly on wings, bobbing like a leaf on the wind.
- 
-A black-and-white apron dress, silver hair glinting in the sun.
- 
-——Purple eyes, like jewels.
- 
-The girl alighted beside him, peered at him curiously, and waved her hand before his face.
- 
-"Huh……are you alive?"
- 
-Apparently not noticing that his eyes were open.
- 
-She poked his cheek with a fingertip——*poke, poke*——and something welled up in his eyes, but he made the effort and shaped a smile.
- 
-"Yes……Alberinea."
- 
-Alberinea tilted her head at his voice, thought for a moment, then studied Elgeinst closely.
- 
-For a while, she examined his face.
- 
-Then she happened to glance at his chest and seemed to notice the mana crystal 'frying pan.'
- 
-"Ooh……"
- 
-She struck her palm with her fist.
- 
-"Who might this be, Krische wondered. It's been a long time, Nemunemu."
- 
-She smiled and said that to Elgeinst.
- 
-How could one even begin to express it?
- 
-Within Elgeinst, an emotion beyond all analogy overflowed.
- 
-*Long time*——in terms of years, that was so. Over a hundred and fifty years.
- 
-Yet Alberinea was exactly as he remembered, as though they had seen each other only days ago.
- 
-"……You remembered me."
- 
-"Ehehe, Krische remembers properly. ……But more importantly, are you alright? You look like you might die."
- 
-Asked, he recalled his body and glanced down.
- 
-The dissolving, yet strangely pleasant sensation had not left.
- 
-Surely, he was now at the threshold between life and death.
- 
-And it was precisely because of that, that he was here.
- 
-"Just a moment, Krische will give you a quick body——?"
- 
-He touched the hand that reached for him.
- 
-And then, *it's alright*, Elgeinst said with a smile.
- 
-"……All Elgeinst wanted was to see you one last time."
- 
-Anything more would be excessive.
- 
-He had not unraveled the magic Alberinea had cast upon the world.
- 
-This was a moment granted only because he had entrusted everything to something that might be called heaven.
- 
-To ask for more from a gift born of prayer, like a plea to God, would be greed.
- 
-He was here because he had accepted the unknown as unknown.
- 
-Alberinea thought for a moment, tracing her lips with a fingertip, and let out a small *hmm*.
- 
-After a bit, she seemed to accept this, and sat down beside him.
- 
-"What a beautiful place. ……Have you been here all this time?"
- 
-Elgeinst smiled, gazing up at the sky with those sleepy eyes, taking in the trees around him.
- 
-Perhaps the radiance he saw was because this world was saturated with mana.
- 
-Whatever the case, his academic curiosity vanished almost at once.
- 
-He simply felt——*how beautiful*——and let his cheeks soften.
- 
-——This world, filled with mystery, surely existed for her sake.
- 
-"Yes. We all moved here together. Krische heard that Nemunemu made a country called Kleinmeil and became its emperor……ehehe, she heard you were the second Alberinea."
- 
-Alberinea said this as though it were perfectly natural, and Elgeinst felt his cheeks burn as he shook his head.
- 
-She must have known the path Elgeinst had walked.
- 
-He had thought she might have no interest in someone like him.
- 
-That she might not even remember him.
- 
-There were times he had thought that——and times he was ashamed of himself for thinking it.
- 
-"……How embarrassing. Please forgive me."
- 
-"Krische doesn't really care about names like that, so you don't need to worry. Kreschenta made that one up on the spot anyway……Krische only used it because it was convenient."
- 
-*Krische doesn't use it anymore*, Alberinea said, perfectly matter-of-fact.
- 
-*You haven't changed at all*, Elgeinst said, smiling.
- 
-"……Mm, well, it's true Krische hasn't gotten any taller, and there's no aging, but……"
- 
-"That's not what I meant……fufu, but that's exactly what I mean."
- 
-"……? Um……?"
- 
-Alberinea tilted her head in puzzlement, and Elgeinst's shoulders shook with quiet laughter.
- 
-She was exactly as he knew her, unchanged from his memories, not a trace different.
- 
-Nearly two hundred years since they first met, and still, still the same.
- 
-The Alberinea Elgeinst had always pictured in his mind was, indeed, Alberinea.
- 
-The symbol of an unsolvable mystery.
- 
-Yet Elgeinst knew her well.
- 
-*Well, fine*, Alberinea seemed to give up, and pinched Elgeinst's beard between her fingers.
- 
-"Nemunemu, on the other hand, has really changed. Not just the hair, but growing a beard like this too. ……Is there some rule that men have to grow beards?"
- 
-"Of course not……well, I suppose you might call it a vow."
- 
-"……You sound like Bery."
- 
-*You used to be this small*, she said, gesturing with her hand to show his height when they first met.
- 
-How long ago was she talking about?——it was so absurd it made him laugh even more.
- 
-Alberinea spoke as though it had been yesterday, and she was, indeed, Alberinea.
- 
-"Still, Krische was a little surprised. Normally, even dead people can't enter this world……"
- 
-"……I spent all this time wishing I could see you."
- 
-"Krische?"
- 
-"Yes."
- 
-Krische tilted her head, puzzled.
- 
-"Hmm……could that kind of will be what's preserving the soul?"
- 
-"Soul……"
- 
-"Nemunemu is almost entirely in a soul state right now."
- 
-Then she raised a finger, just as she used to.
- 
-Despite being a great noble, despite being the Royal Elder Sister——she was like a village girl.
- 
-A neighborhood *big sister*, so to speak, unapologetic and utterly natural.
- 
-It was because she was like that, that so many people had loved her.
- 
-"……Normally, when you reach that state, you depart for a thing called the source——a tremendously large mass of mana——where you dissolve and are reborn, or something like that."
- 
-She said that much, then added: *Krische doesn't really understand it either.*
- 
-"Even Alberinea doesn't understand?"
- 
-"Mm……it's more that Krische hasn't investigated. Krische thought about looking into it once, but Bery said it's more fun to imagine all sorts of things when you don't know."
- 
-Elgeinst widened his narrow eyes ever so slightly.
- 
-Then he laughed and closed them.
- 
-"……What a wonderful way of thinking. Truly——the joy of knowing isn't everything."
- 
-"Ehehe, you said the same thing as Bery."
- 
-Elgeinst gave a wry smile.
- 
-"……I only understood that just a moment ago, though……"
- 
-It felt as though he had taken an awfully long detour.
- 
-But that detour had led Elgeinst here, and given him his answer.
- 
-Alberinea was exactly as she was in his memories, wearing the same smile he knew.
- 
-There was not a single unknown in her presence——or perhaps everything was unknown.
- 
-She was like the moon hanging in the night sky.
- 
-Alone in the void, one could only be lost.
- 
-But with the earth below, with trees, with mountains, with clouds——only then could one know one's own place, know the height of the sky——and she was a guiding light.
- 
-Clearly visible, yet forever beyond reach, always there, always illuminating.
- 
-There was no meaning in trying to unravel her.
- 
-He did not even wish to.
- 
-"……Humans can find happiness while remaining foolish."
- 
-Everyone praised Elgeinst as Alberinea's successor.
- 
-The greatest mage, a statesman rivaling even the Queen——they said.
- 
-Yet Elgeinst had not changed one bit since he was not yet ten.
- 
-And Alberinea, too, was unchanged, still calling him Nemunemu.
- 
-Even now, smiling at him like this.
- 
-Great knowledge does not lead to happiness.
- 
-He had never been seeking to unravel the unknown.
- 
-He had simply wanted to watch, a little closer, knowing he could never understand.
- 
-The figure of the most beautiful mystery, clad in an apron dress.
- 
-The old man with the long hair and beard smiled, content.
- 
-He gazed at the silver hair swaying in the breeze, and then at the purple eyes.
- 
-The old man wore a gaze of nothing but gentleness, a smile of being fulfilled.
- 
-The pleasant sensation of his body seeming to dissolve.
- 
-The mysterious force pulling at him grew stronger, and the will to resist had faded.
- 
-Alberinea watched and asked:
- 
-"……Why did you come here, Nemunemu? You said you'd been wanting to see Krische all this time, but——"
- 
-"That's all. ——Ah……no, that's not quite right."
- 
-Elgeinst looked up at the sky and spoke.
- 
-He remembered Waltza laughing——*you're still a kid*.
- 
-"I solved your mana crystal and heard the message."
- 
-"……Alberinea said that if she was still nearby, she'd praise whoever solved it, in person."
- 
-In truth, he was still a child.
- 
-He felt no shame thinking so, and believed it was fine.
- 
-He knew she would never laugh at him for something like that.
- 
-"Ah, that's right, Krische did say something like that."
- 
-Alberinea struck her palm——*oh!*——and nodded, remembering.
- 
-All Elgeinst could do was smile wryly, and he continued.
- 
-"As you asked, I used magic for peace……and even now, the world is as peaceful as it was then. ……I also lived a very long life, as you once told me to."
- 
-He said this, paused briefly, and——
- 
-*——Will you praise me?* the old man asked.
- 
-The girl gazed at the old man and smiled, and stroked his forehead.
- 
-"Ehehe……Nemunemu, you're a good child. You came all this way just to be praised?"
- 
-"……Yes. Fufu, exactly so……I came all the way here for that."
- 
-"Nemunemu is always Nemunemu, no matter how much time passes. ……Krische was a little surprised hearing that Nemunemu built a country, but……to think you'd become such a good child."
- 
-*Krische is so proud*, the girl said, beaming like a flower in bloom.
- 
-The old man gazed at the girl, smiled like a boy, and closed his eyes.
- 
-That proud voice of hers, so achingly dear.
- 
-"……Are you still happy, Alberinea?"
- 
-When he asked, the girl nodded.
- 
-"Yes, very much. Being able to go shopping here and there without a care——when Krische thinks about it, that's thanks to Nemunemu too. ……Krische needs to thank you properly."
- 
-At the girl's words, the boy's eyes softened.
- 
-"……I have already received more than enough."
- 
-And with that, he surrendered to it——dissolving, blurring, fading away.
- 
-*Farewell, then*, a voice resonated.
- 
-*Goodnight*, the girl replied.
- 
-The girl gazed for a while at the ground where he had lain, then noticed the mana crystal 'frying pan' left behind.
- 
-She thought for a moment, then picked it up and smiled.
- 
-* * *
- 
-And so, beside the manor, there stood a small grave of mana crystal.
- 
-Before the grave was a pedestal, and upon it, a single tiny 'frying pan.'
- 
-*'Here sleeps Nemunemu.'*
- 
-On the grave, in beautiful inscription, those words were carved.
- 
-The days turned to months, the months to years——yet beside her, it did not crumble, did not fade.
- 
-The inscription on the boy's grave, like her, showed no shadow of dimming.
- 
-——In the endless moonlit days, unchanged, it shone on.
- 
+AMUHE Translation
+/
+
+Translate the following chapters of 少女の望まぬ英雄譚 in order. Each file corresponds to one chapter, and the prefix ###_ corresponds to the chapter number.
+Follow all rules in context.md exactly.
+Treat all chapters as one continuous session — maintain perfect consistency in character
+voice, name romanizations, and terminology across all of them.
 ---
- 
-# Chapter 272: Varkus — I
+#### File 1 — Translation (Markdown)
+Produce a single .md file containing all translated chapters in order.
+Formatting rules:
+- Use # for the chapter title (e.g. # Chapter 42: The Holy War of the Kitchen)
+- Chapter title must contain the chapter number e.g. # Chapter 261: [chapter title]
+- Use --- between chapters as a chapter divider
+- Use * * * for scene breaks within a chapter
+- Use *italics* for internal thoughts, inner monologue, and recalled memories when they
+  are typographically distinct in the source (e.g. set off by the ―― em-dash convention,
+  indentation, or a change in visual register)
+- Use *italics* for meaningful emphasis where the source uses emphasis markers
+  (傍点 dots, 《》 brackets, or similar)
+- Use **bold** sparingly, only where the source uses explicit strong visual emphasis
+- Preserve the author's paragraph rhythm — do not merge or split paragraphs
+- Translator notes go inline at the relevant passage as: (T/N: ...)
+- Author's notes, if present, go at the end of their chapter after a --- divider
+Do not invent formatting that has no basis in the source text. When in doubt, plain prose
+is correct. The goal is a clean reading experience, not aggressive annotation.
+11:16 pm
+
+I'll start by reading the context file and all source chapters.
+Reading the translation context/rules file
+
+Let me see the truncated portion of the context file:
+Viewed 4 files
+
+Now let me read all the source chapters:
+Viewed 5 files
+
+Now let me read the remaining chapters (295-298):
+Viewed 4 files
+
+Now I have all the source material. Let me read the frontend-design skill since I'm creating a markdown file, and check the available context more carefully for any specific terms I might need.
+Checking the truncated portion of context for specific terms/lore relevant to these chapters
+
+Now I have all the context I need. Let me create the translation file. This is a large output, so I'll write it directly.
+Creating the complete translation of chapters 272-276 and 295-298
+
+markdown
+# Chapter 272: Varkus — One
 
 *He had no memory of a father.*
 
@@ -1308,7 +513,7 @@ And once again, he was at a loss.
 
 ---
 
-# Chapter 273: Varkus — II
+# Chapter 273: Varkus — Two
 
 He made his way from the central part of the kingdom to the north.
 
@@ -2046,7 +1251,7 @@ Watching him go, Granmeld hung his mouth open like a fool.
 
 ---
 
-# Chapter 274: Varkus — III
+# Chapter 274: Varkus — Three
 
 "……Kokys. What did the battalion commander say?"
 
@@ -2728,7 +1933,7 @@ Provoked by Norzan, Granmeld lunged forward.
 
 ---
 
-# Chapter 275: Varkus — IV
+# Chapter 275: Varkus — Four
 
 "Dear, you mustn't sleep out here without a blanket. You'll catch a cold."
 
@@ -3289,5 +2494,539 @@ Two extra guests wouldn't actually be a problem, but some consideration was call
 *Why on earth must I fuss over these things.*
 
 He sighed and scratched his head.
+
+---
+
+# Chapter 276: Varkus — End
+
+*'An adopted daughter I've taken in due to certain circumstances——this is Krische. Those of you who remember my former captain——my esteemed commanding officer Captain Gallen——this is his granddaughter. Whether she'll join the military hasn't been decided, but I've brought her for introductions. ……Krische.'*
+
+*'……Pleased to meet you. I'm Krische. Thank you for having me.'*
+
+The girl who bowed her head was a child through and through.
+
+Even smaller than Selene, and delicate.
+
+Beautiful silver hair, and features already half-perfected despite her youth.
+
+A girl who might be mistaken for some princess——she stood out conspicuously among the overwhelmingly male soldiers.
+
+Selene was likewise a beauty, but——something was instinctively different, he felt.
+
+A large conference room——every officer from battalion commander up was present.
+
+Despite all those eyes on her, there was no trace of nervousness or hesitation.
+
+Calmly, those inorganic purple eyes swept over the men, meeting their gazes.
+
+*'What I should tell you is…… it's a word I'm not fond of, but there's no other way to describe Krische than as a genius. In mere sparring, I already lose more often than I win. She is not one who seeks conflict, but she is beloved of the god of war.'*
+
+A slight stir in the room.
+
+Bogan was among the kingdom's foremost warriors.
+
+The idea of a child beating him was unimaginable.
+
+Was that what he had sensed earlier?
+
+What Granmeld had felt was pure warrior's instinct.
+
+His experience and gut had been telling him: *this one is not what she appears.*
+
+*'In that respect, you need not treat her as a child. Explain the basics and she'll understand at once. In academic matters especially, she likely surpasses anyone in this room.'*
+
+The girl standing beside him——Selene——pursed her lips ever so slightly, and Bogan chuckled, resting a hand on her head.
+
+*'Well, in other regards she's still very much a child. Stubbornly earnest, with a tendency to miss jokes, and not the best at conversation. Selene will usually be at her side, so if anything comes up, go to Selene. ……She's apparently thrilled to have a little sister and is quite fired up about it.'*
+
+*'Father……!'*
+
+*'Haha…… well, today is just an introduction. She'll come to observe training, so carry on as usual and let her watch. ……Dismissed.'*
+
+The girl who arrived after the Christand army had stabilized——there was nothing particularly dramatic about it, but the memory lingered strangely.
+
+As he left the room, he asked his adjutant.
+
+*'Begil, what do you make of her?'*
+
+*'……Already complete.'*
+
+Begil Sandika nodded with a serious expression.
+
+His adjutant since becoming battalion commander——or rather, a watchdog assigned to rein in the prone-to-recklessness Granmeld.
+
+A man risen from the ranks, a master of Zain-style swordsmanship.
+
+In raw combat ability, he was second only to Granmeld in the entire battalion.
+
+Having climbed up from light infantry through merit alone, he was a sharp mind who could competently command the battalion even in the chaos of melee if left in charge of the rear.
+
+*'Even at present…… imagining what lies ahead makes me tremble.'*
+
+*'Oh……?'*
+
+Trained in orthodox swordsmanship and experienced in real combat.
+
+His eye was at times more trustworthy than Granmeld's own, but——
+
+*'Like a fairy. In another two years, how beautiful will she become…… I never expected a new blossom of mystery to appear in the Christand army alongside Selene-sama. How exciting, battalion commander.'*
+
+*'……Asking you was my mistake.'*
+
+That eye was frequently clouded.
+
+——Thinking back, it was around the time he became battalion commander.
+
+Until then Granmeld had done as he pleased, but annoying people started accumulating around him.
+
+Norzan had laughed and said he had mellowed, but it was nothing but a nuisance——wearying things seemed to multiply.
+
+The idiot adjutant was the worst of them.
+
+When the man turned down the position of corps adjutant, declaring that he absolutely must swing his sword under that fair princess's command, Granmeld was so dumbfounded that it was almost refreshing, talent notwithstanding.
+
+It had been quite some time since he had tossed the fool out along with Fagran, who had apparently taken a liking to the princess.
+
+"Thank you for coming all this way, Krische-sama."
+
+"It's been a while, Piyo-piyo. Woof-woof and Rosine are here too."
+
+Again Rosine trembled faintly and glanced at Granmeld.
+
+Every time she was called Woof-woof, Rosine did this. Thoroughly wearisome.
+
+Norzan's estate was not far.
+
+Both were housed near the castle in Renaria, the former Elsren imperial capital.
+
+The castle itself was too grand for a mere nobleman, so Granmeld used it only for governance and meetings, not as a residence.
+
+"Of course, preparations are well in hand. Granmeld, you should stay the night. It would be unfair to make Rosine drag a drunk you all the way home."
+
+"I'll take you up on that."
+
+Piyo-piyo. Woof-woof.
+
+A recently hired servant glanced between them and Norzan in confusion, then at Krische.
+
+The fact that he was already accustomed to being looked at like this only doubled the weariness.
+
+"Ah, Piyo-piyo. Here's a letter from Kreschenta, separate from Selene's. It says there are things she wants you to handle on your end."
+
+"……Received with gratitude."
+
+The Eastern Field Army supreme commander, sporting a fine beard and fine formal attire, accepted it reverently despite the Piyo-piyo address.
+
+The queen and the marshal referred to by their first names, her subordinates addressed with absurd pet names——and all without a shred of malice. Truly beyond help.
+
+That she hadn't come in her apron dress was an improvement, at least.
+
+"Standing around talking will do. This way, please, Krische-sama——I've sourced fine ingredients to your satisfaction and had the cooks give their all. I'm sure you'll be pleased."
+
+"Ehehe, yes. ……The food at Piyo-piyo's is always so delicious, so Krische was a little excited."
+
+——Just as Bogan Christand had called her a genius, she was something that made even Norzan seem ordinary.
+
+Granmeld had never sparred with a child, but her abilities were soon common knowledge.
+
+Fagran had been thoroughly thrashed, apparently, and within a year, even the kingdom's greatest spearman, Kokys, couldn't hold his own in practice bouts.
+
+Practice bouts where neither side tried to injure the other——different from real combat.
+
+It was disadvantageous for a man who specialized in heavy armor and heavy weapons, but when the opponent was a child reaching only his waist, that was no excuse.
+
+Seeing her on the actual battlefield left no room for doubt.
+
+The sight of her carving into the Elsren army's formation from behind, across the river.
+
+In that moment, Granmeld was captivated once more.
+
+Far from the Fourth Corps or Selene's unit, she cut into the enemy line alone——not with savagery, but the very opposite.
+
+Her figure was nearly invisible, yet the commanding heads simply sank into the ranks.
+
+A minimum of effort; efficient killing performed solely to collapse morale.
+
+No triumphant war cries, no spectacle——a solitary ambush in the very heart of the enemy mass, something that should have been impossible.
+
+No one else in the world could do such a thing so casually.
+
+The enemy didn't even understand what was happening as unit after unit collapsed, and by the time Granmeld crossed the river, the formation was no longer a formation.
+
+She didn't enjoy killing, nor did she seek it.
+
+She merely carried out her work——persistently, meticulously, mechanically.
+
+With a single curved sword that couldn't even serve for self-defense.
+
+In a sense, Granmeld——who *enjoyed* the struggle——was more human in his treatment of others.
+
+To this girl, that was nothing more than mowing grass.
+
+Gallen had also been that kind of purely military man, but what lay before him was that nature refined to an even purer state.
+
+From her very first battle, Krische Christand had been a completed soldier.
+
+And a completed soldier was no longer human.
+
+Compared to that, he himself was a perfectly normal human being.
+
+"Ehehe, Woof-woof is just like Gururun. Nothing but meat this whole time."
+
+"……I'd rather not be compared to a jade tiger."
+
+She casually relayed some news from central Alberan as Selene had asked, sipping at juice-like wine.
+
+Krische's face was flushed as she happily sampled the array of fine dishes spread across the table.
+
+The living legend Alberinea——a hero without equal.
+
+The servants, unable to reconcile her reputation with this sight, showed confusion at first but quickly adapted, fussing over her as though she were some young noblewoman.
+
+She apparently amused them——she said thank you every time someone refilled her glass or served her food.
+
+The atmosphere was bright and cheerful.
+
+Peaceful.
+
+They could never imagine that this beautiful, adorable girl was actually a monster wearing that appearance, who could slaughter hundreds with the same smile on her face.
+
+The face that smiled and thanked was the same face she wore while disemboweling the enemy.
+
+*One should pursue their objective by any means necessary, with all one's strength.*
+
+Plenty of people said that sort of thing grandly, but there was probably no one in the world who could actually do it except this girl.
+
+Heedless of anyone's gaze, single-mindedly devoted to her own purpose.
+
+She would surely smile just like this even after killing every human being in the world, if it served her ends.
+
+That was what purity meant, and that was what it meant to be insane.
+
+In the first place, people were aggregates of impurities——no matter how much they might aspire to something pure, they could not strip that away.
+
+By some twist of fate, this girl's purity had eroded over time, but she remained fundamentally insane.
+
+That Granmeld was sitting in a fancy room eating a fine dinner was less natural than this girl cheerfully eating alongside him——yet most were unaware of that.
+
+A beast who was freer than anyone, yet willingly entered a human cage.
+
+To Granmeld, it was nothing but dissonance.
+
+After dinner, Krische and Rosine were called away by Norzan's wives, and Granmeld and Norzan headed to the study.
+
+"……What's in the letter?"
+
+"The usual list. Suspicious arms flows and regions where the reports may have been falsified. ……Her Majesty keeps the economics of the entire continent in her head."
+
+Seasonal financial reports from managed territories across the land were sent to Albernaria.
+
+The queen, Kreschenta, sifted through this immense information with almost pathological precision, identified 'unnatural flows,' and dispatched Krische or her subordinates——former Black Flag Special Service personnel——sending lists to Norzan and the others.
+
+Krische's reason for coming was not simply to relay military matters from Selene and deliver the queen's letter to Norzan.
+
+She had come to root out someone in the east, working alongside her operatives already in place.
+
+"Krische-sama will be working in Bilsinsarne, in the northeast. She's bringing the arrested parties back to central, so we're to handle the aftermath. ……I'm in no position to gainsay those two."
+
+"The place you said smelled rotten?"
+
+"Yes. They'd already pinpointed it, it seems."
+
+The Kuro-Fuyo Squad goes pop-thud and solves all sorts of things——the outfit commonly known as Kuro-Shutan.
+
+An absurd name that made everyone cringe, yet in truth a highly advanced special operations unit.
+
+Preempting rebellions across regions, conducting lightning-fast crackdowns; since the war's end, they had been embedded across the continent, repeating intelligence work and arrests.
+
+They apparently possessed transmitters equipped with top-secret formulae that allowed remote information exchange, enabling orders to be given across the breadth of the continent with zero delay.
+
+Had it been applied to military use, it would have transformed the battlefield itself, but 'Alberinea's inventions' were always like that.
+
+From the Five-Nations War through continental unification——from the first declaration of war to the final ceasefire——the total time had been less than two years.
+
+Given the nature of it all, he hadn't asked for details, but even that was only a fraction.
+
+She had surely created any number of other intelligence tools.
+
+On top of that, the Black Flag Special Service company was essentially a cult of Krische Christand worshippers——a battle-tested unit of mana wielders.
+
+Accustomed to rough work, apprehending a nobleman or two was trivial, and with that girl as backup, there was simply no one in the world who could escape.
+
+The trick behind the near-total absence of notable rebellions across such a vast conquered territory was this.
+
+If your movements were pinned down the moment you started preparing for revolt, the shock would be considerable.
+
+Even at the farthest reaches of the continent, the surveillance was no different from the capital.
+
+The populace praised Queen Kreschenta as a champion of the people, overflowing with love for the weak——yet no one imagined the reality was absolute surveillance.
+
+In any case, for Granmeld, who had been hoping for a war, it was a letdown.
+
+The rebellions he had been sure would come never materialized, and the world was rapidly moving toward peace.
+
+"I'd thought we had stabilized Elsren well enough, but there's more to do. Things will get busy again. It shouldn't involve you directly, though."
+
+"Shame. ……I was hoping it'd cure the boredom."
+
+"Rosine will be pleased. She's a good wife. Enjoy the daily life."
+
+"……What exactly am I supposed to enjoy?"
+
+Granmeld said with exasperation.
+
+"Unlike a certain charming ladies' man, I've only got the one wife. Every day's the same."
+
+Norzan smiled wryly.
+
+One legal wife and three consorts——Norzan was a nobleman through and through.
+
+His looks matched the part, and he was a gentleman on top of it, with the achievements and ability to back it up. In high society, he was as popular as a prince on a white horse.
+
+In his unmarried days, women with stars in their eyes had flocked to him just for standing in a room.
+
+Bogan had married the daughter of a fallen noble house and taken no consorts, so Norzan had filled the political role of linking northern and central great houses.
+
+Even so, for Granmeld, who had dithered over taking even one wife, it was beyond comprehension.
+
+"Don't say that. I'm envious, actually. ……They used to cling to me sweetly as 'Norzan-sama,' but now I feel positively excluded. I'm glad the wives get along, but with children too, they barely look my way."
+
+"What a luxurious complaint."
+
+He said this while taking a sip of wine and examining the label on the bottle.
+
+Elsren wines tended to be finer than Alberan's.
+
+"You should be more honest with yourself. ……Surely it's not unpleasant to have a good woman like Rosine whisper sweet nothings?"
+
+"I agree she's a good wife, but her taste in men is terminally bad. I'm uncomfortable every day."
+
+"Heh. I've always thought so, but you're surprisingly earnest for someone with that face."
+
+"What……?"
+
+*Perhaps 'too sincere' is more accurate,* Norzan said with a laugh, sipping his wine.
+
+"You don't just dismiss her as someone who came to you of her own accord——you're probably thinking, in your own way, that you'd like to make Rosine happy. How kind of you."
+
+Granmeld glared, and Norzan's gaze softened. *I'm not mocking you.*
+
+"You put on a rough, rowdy act, but in truth, you despise bad faith and you're a sincere man. That's what I like about you. ……And Rosine must have seen through to it——that a man like you would make her happy."
+
+*I was surprised too,* he said, gazing at the wall of the study.
+
+Somewhere beyond the furnishings, Rosine would be with the others.
+
+"A woman who can find your virtues——which are, shall we say, not obvious on casual acquaintance——is not something the world provides in abundance. Accept that good fortune with grace, Granmeld. ……These boring days you speak of——"
+
+Then, with a teasing, fond expression, Norzan said,
+
+"——are the Varkus you finally found."
+
+He was lying on the guest-room sofa, drinking wine, when the door opened.
+
+"Oh, you're back already. I didn't expect you to be in the room so soon."
+
+Her cheeks were flushed bright red from having been plied with drink, it seemed.
+
+Her words were clear enough, but her steps were slightly unsteady.
+
+He scratched his head, rose, went to the entrance and scooped her up, then set her down on the sofa.
+
+She looked embarrassed but was in high spirits, thanking him and taking hold of his arm.
+
+"Fufu, I'm sorry. The wine was so good, I may have overdone it."
+
+"Well, glad you enjoyed yourself."
+
+"And you, dear? Your face is sterner than usual."
+
+She patted his cheeks——a thorough drunk.
+
+*How should I know,* he told her, and she giggled, pressing her cheek to Granmeld's thick arm.
+
+"Honestly, Fiere-sama and the others kept asking all about life with you, dear. It was dreadful——'one drink for every silence,' they said."
+
+"And you fell right into it."
+
+"Yes, but then their interest shifted to Alberinea. I'd always thought it before, but…… she really is an adorable person. Forgive me if it's rude to say of a superior, and of Alberinea no less."
+
+"Only those who haven't seen her on the battlefield think that."
+
+He said, exasperated.
+
+"She looks like a child playing with butterflies in a flower field, but she crushes enemies like insects and kicks away enemy commanders like pebbles. A monster. Even I can't hold a candle to her."
+
+"……She doesn't look like that to me."
+
+"That's a fortunate thing. Well, you'll probably never see it."
+
+Rosine looked up at him, swaying her chestnut hair, and smiled quietly.
+
+"Regardless, that can't be the whole truth. ……If she looks like a child playing with butterflies in a flower field, I don't think that perception itself is wrong."
+
+"……?"
+
+"I mean that, in everyday life, that's exactly who she is. At least in a normal, daily setting, no one would speak ill of her. She talks so happily about flowers blooming in the garden, or about a new dish she made——that kind of thing."
+
+Then she touched Granmeld's cheek.
+
+"The husband I love isn't the great wolf Granmeld Varkus, who won glorious honors on the battlefield, either…… but the kind husband who makes such a troubled face when Alberinea calls him Woof-woof."
+
+She gazed up at him with eyes made dewy by the drink, full of affection.
+
+"……Go to sleep already, you drunkard."
+
+"Fufu, please forgive me."
+
+Giggle, giggle——Rosine laughed merrily.
+
+When she was sober, she was full of complaints and tiresome for it; drunk, she was tiresome in a different way.
+
+"They kept asking how life was with you, and what I thought about was just that sort of thing. When I was little, I was always making selfish demands and troubling you, but you'd look so bothered and still go along with it."
+
+"……I was indebted to your father. It's not that I'm fond of children."
+
+"When I said I'd be your bride someday as a child, you made that same bothered face, and when I asked you to take me as your wife, it was the same. ……Whether or not you're fond of children, the fact that you're kind is undeniable, dear."
+
+"Ah…… yes, yes. Right. Lucky me, having such a kind husband."
+
+Tired of indulging her, he scooped her up again, and once more Rosine was delighted.
+
+She wrapped her arms around his neck, letting herself be carried to the bed.
+
+He deposited her roughly, pulled off her shoes, and she looked up at him, shoulders shaking.
+
+"Dear, fufu, are you embarrassed?"
+
+"……Does it look that way?"
+
+"It does."
+
+"I'm exasperated with you."
+
+Her usually serious face, softened now for whatever reason, and she narrowed her eyes.
+
+He ruffled her head roughly, shoved her under the covers, and pressed her head into the pillow.
+
+*Sleep,* he told her, and she answered *Yes,* and Granmeld sighed and returned to the sofa.
+
+He poured himself wine and glanced at the bed; Rosine was still watching him, smiling——
+
+"Good night, dear."
+
+"Yeah. Go to sleep already."
+
+At his words, she laughed once more, and finally the drunkard closed her eyes.
+
+Watching that, he sighed, drained his wine, and sank into the sofa.
+
+When had it come to this——being pushed around by others.
+
+He had sought freedom, yet at some point had become bound.
+
+With every year, the annoyances only multiplied.
+
+*'——It's a word derived from the Old Tongue of the north. It's commonly said to mean 'group' or 'collective,' but the actual nuance is…… something more like family, or kin.'*
+
+*'What……?'*
+
+*'……Heh. A fitting name indeed for a lone wolf who claims to have no weaknesses, wouldn't you say?'*
+
+*——You, who don't know such a thing——that's what makes it an ironic, fated name.*
+
+What meaning had the petty crook Klaze put into that word?
+
+Surely a petty——a *human*——sort of worthless wish.
+
+Granmeld, who had won his freedom, had found himself inside the cage of that word without realizing it.
+
+What an irony indeed.
+
+He rose, wanting a snack, and stepped into the hall——
+
+"Ah, Woof-woof."
+
+In the corridor, he encountered a girl who appeared fresh from the bath.
+
+Whether drunk or flushed from the hot water, her cheeks were rosy and she looked drowsy, her eyes drifting lazily as she regarded him, led along by a servant.
+
+"Is Rosine alright? She looked pretty drunk."
+
+"……Quite so. She's already in bed. A thorough drunkard."
+
+He said it wearily, and Alberinea-sama's expression turned serious at once.
+
+She thrust a finger at him and declared:
+
+"That's right, Krische heard from Rosine. Apparently, Woof-woof leaves laundry all over the place, ditches work to go drinking, tracks mud all over the carpet in dirty boots——"
+
+The second drunkard of the evening, and just as troublesome.
+
+Nag, nag, nag——like some self-appointed overseer.
+
+She went on and on about Granmeld's daily conduct.
+
+The servant who had been escorting her to her room looked bewildered, dithering.
+
+Granmeld's head was 'painfully pained.' (T/N: 頭痛が痛い — a deliberately redundant phrase, conveying his exasperated state.)
+
+Moreover, she gradually lost track of what she was saying, and Alberinea-sama's gracious lecture looped; he was forced to nod along for nearly half a quarter-hour.
+
+"In any case, relaxing at your own estate is one thing, but you mustn't cause too much trouble for Rosine. Even if Woof-woof is Woof-woof, to everyone else you're a very important and distinguished nobleman Woof-woof, so the other Woof-woof…… no, the people must look up to you as a model."
+
+"Yes…… understood. I'll keep it in mind…… May I go now?"
+
+"……If you understand, then fine. Well, Krische doesn't intend to give overly long lectures."
+
+He scratched his head, sighing with relief at the apparent end.
+
+It had been more than long enough, and after *woof-woof* repeated endlessly, weary didn't begin to describe it.
+
+He thought about whose mouth was lecturing about being a proper nobleman, but kept that opinion to himself.
+
+There was no point engaging a drunk.
+
+"But…… ehehe, Rosine said Woof-woof is a very kind, wonderful husband and she's happy. That's a very good thing."
+
+"……Thanks."
+
+"Now that there's no more war and it's peaceful, Woof-woof should treasure his family more and make Rosine happy too."
+
+Having finally said her piece, she nodded with unmistakable satisfaction.
+
+*Krische has an early morning so she'll go to bed now,* she said sleepily, and disappeared into her room.
+
+A creature that did exactly as she pleased.
+
+On the battlefield, the most reliable monster of all; in daily life, a meddlesome child.
+
+Freer than anyone, yet willingly surrounded by the cages of human society, worrying about other people's wives and delivering lectures.
+
+What a strange monster, he thought——or perhaps he himself was no different.
+
+In the end, he too was a fool who had given up a stray dog's freedom and walked into the cage of his own accord.
+
+His appetite for a snack had evaporated. He returned to the room, kicked off his shoes, and crawled into bed.
+
+Still asleep, Rosine snuggled happily against him, resting her head on Granmeld's arm.
+
+Listening to that sleeping breath, he returned it with a sigh.
+
+The brute strength that had silenced any opponent on the battlefield served, here and now, as a pillow.
+
+He had wanted freedom so badly, yet had become so thoroughly unfettered.
+
+If the stray dog he had once been could see him now, what would he say?
+
+If Klaze could see this, what would he think?
+
+*'——This is your home from today. And I'm your brother from today.'*
+
+Tired of thinking, tired of being weary——
+
+*'……Welcome to Varkus, Granmeld.'*
+
+A laugh escaped him, unbidden.
 
 ---
