@@ -21,6 +21,22 @@ from ebooklib import epub
 from markdown import markdown as md_to_html
 
 
+ARC_DEFINITIONS: list[tuple[str, int, int | None]] = [
+	("Arc 1: The Pure", 1, 24),
+	("Arc 2: The Inviter", 25, 37),
+	("Arc 3: The Precious", 38, 61),
+	("Arc 4: The Beloved", 62, 85),
+	("Arc 5: The One Who Obstructs", 86, 113),
+	("Arc 6: The One Who Bares Fangs At Reason", 114, 146),
+	("Arc 7: The One Who Breaks Through", 147, 174),
+	("Arc 8: The One Who Sows Death", 175, 201),
+	("Arc 9: The Parting", 202, 224),
+	("Arc 10: The Unaccepted", 225, 249),
+	("Arc 11: The Blissful", 250, 260),
+	("Arc 12: The Extraneous", 261, None),
+]
+
+
 @dataclass
 class ChapterSource:
 	"""Represents one chapter extracted from .txt or .md source files."""
@@ -31,6 +47,7 @@ class ChapterSource:
 	source_path: Path
 	source_index: int
 	is_markdown: bool
+	is_synopsis: bool = False
 
 
 def natural_sort_key(path: Path) -> list[object]:
@@ -84,14 +101,31 @@ def split_markdown_into_chapters(markdown_text: str, fallback_title: str) -> lis
 		return [(fallback_title, markdown_text.strip())]
 
 	chapters: list[tuple[str, str]] = []
+	preface = markdown_text[: matches[0].start()].strip()
 	for idx, match in enumerate(matches):
 		title = match.group(1).strip()
 		content_start = match.end()
 		content_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(markdown_text)
 		body = markdown_text[content_start:content_end].strip()
+		if idx == 0 and preface:
+			body = f"{preface}\n\n{body}".strip()
 		chapters.append((title or fallback_title, body))
 
 	return chapters
+
+
+def arc_for_chapter_number(chapter_number: int | None) -> str | None:
+	"""Return the arc title for a numbered chapter, if any."""
+	if chapter_number is None or chapter_number <= 0:
+		return None
+
+	for arc_title, start, end in ARC_DEFINITIONS:
+		if chapter_number < start:
+			continue
+		if end is None or chapter_number <= end:
+			return arc_title
+
+	return None
 
 
 def text_body_to_xhtml(body: str) -> str:
@@ -117,6 +151,8 @@ def markdown_body_to_xhtml(body: str) -> str:
 		return "<p></p>"
 
 	raw_html = md_to_html(body, extensions=["extra", "sane_lists", "nl2br"])
+	# Markdown converts "* * *" / "---" / "___" to <hr>; render as visible scene break instead.
+	raw_html = re.sub(r"<hr\s*/?>", '<p style="text-align:center;">* * *</p>', raw_html)
 	# ebook readers are sensitive to uppercase/self-closing variants; keep simple HTML5-like tags.
 	return raw_html.strip() or "<p></p>"
 
@@ -154,18 +190,25 @@ def load_chapter_sources(input_dir: Path, encoding: str, recursive: bool) -> lis
 		if not content.strip():
 			continue
 		suffix = file_path.suffix.lower()
+		is_synopsis_file = file_path.stem.lower() == "c0"
 
 		if suffix == ".txt":
 			fallback_title = file_path.stem
 			title, body = split_title_and_body(content, fallback_title)
+			number_from_title = extract_chapter_number(title)
+			number_from_file = extract_chapter_number(file_path.stem)
+			chapter_number = number_from_title if number_from_title is not None else number_from_file
+			if is_synopsis_file:
+				chapter_number = None
 			chapters.append(
 				ChapterSource(
 					title=title,
 					body=body,
-					chapter_number=extract_chapter_number(title) or extract_chapter_number(file_path.stem),
+					chapter_number=chapter_number,
 					source_path=file_path,
 					source_index=source_index,
 					is_markdown=False,
+					is_synopsis=is_synopsis_file,
 				)
 			)
 			source_index += 1
@@ -175,22 +218,30 @@ def load_chapter_sources(input_dir: Path, encoding: str, recursive: bool) -> lis
 		fallback_title = file_path.stem
 		sections = split_markdown_into_chapters(content, fallback_title)
 		for title, body in sections:
+			number_from_title = extract_chapter_number(title)
+			number_from_file = extract_chapter_number(file_path.stem)
+			chapter_number = number_from_title if number_from_title is not None else number_from_file
+			if is_synopsis_file:
+				chapter_number = None
 			chapters.append(
 				ChapterSource(
 					title=title,
 					body=body,
-					chapter_number=extract_chapter_number(title),
+					chapter_number=chapter_number,
 					source_path=file_path,
 					source_index=source_index,
 					is_markdown=True,
+					is_synopsis=is_synopsis_file,
 				)
 			)
 			source_index += 1
 
 	def sort_key(ch: ChapterSource):
+		if ch.is_synopsis:
+			return (0, -1, ch.source_index)
 		if ch.chapter_number is None:
-			return (1, 10**9, ch.source_index)
-		return (0, ch.chapter_number, ch.source_index)
+			return (2, 10**9, ch.source_index)
+		return (1, ch.chapter_number, ch.source_index)
 
 	return sorted(chapters, key=sort_key)
 
@@ -223,6 +274,17 @@ def directory_txt_to_epub(
 	if author.strip():
 		book.add_author(author)
 
+	# Use a project-level cover image, independent of markdown content.
+	cover_path = Path(__file__).resolve().parent / "public" / "cover.png"
+	has_cover = cover_path.exists()
+	if has_cover:
+		book.set_cover("cover.png", cover_path.read_bytes())
+		# EpubCoverHtml sets is_linear=False by default, which causes many readers
+		# to skip it. Force it to linear so it appears as the first page.
+		cover_page = book.get_item_with_id("cover")
+		if cover_page is not None:
+			cover_page.is_linear = True
+
 	style = """
 	body { font-family: serif; line-height: 1.5; }
 	h1 { text-align: center; margin-top: 1.2em; margin-bottom: 1.2em; }
@@ -237,6 +299,7 @@ def directory_txt_to_epub(
 	book.add_item(nav_css)
 
 	chapters: list[epub.EpubHtml] = []
+	chapter_pairs: list[tuple[ChapterSource, epub.EpubHtml]] = []
 	for idx, source in enumerate(chapter_sources, start=1):
 		chapter_title = source.title
 		body_xhtml = markdown_body_to_xhtml(source.body) if source.is_markdown else text_body_to_xhtml(source.body)
@@ -253,9 +316,35 @@ def directory_txt_to_epub(
 		chapter.add_item(nav_css)
 		book.add_item(chapter)
 		chapters.append(chapter)
+		chapter_pairs.append((source, chapter))
 
-	book.toc = tuple(chapters)
-	book.spine = ["nav", *chapters]
+	toc_entries: list[object] = []
+	synopsis_chapters = [chapter for source, chapter in chapter_pairs if source.is_synopsis]
+	if synopsis_chapters:
+		if len(synopsis_chapters) == 1:
+			toc_entries.append(synopsis_chapters[0])
+		else:
+			toc_entries.append((epub.Section("Synopsis", href=synopsis_chapters[0].file_name), tuple(synopsis_chapters)))
+
+	for arc_title, _start, _end in ARC_DEFINITIONS:
+		arc_chapters = [
+			chapter
+			for source, chapter in chapter_pairs
+			if arc_for_chapter_number(source.chapter_number) == arc_title
+		]
+		if arc_chapters:
+			toc_entries.append((epub.Section(arc_title, href=arc_chapters[0].file_name), tuple(arc_chapters)))
+
+	unnumbered = [
+		chapter
+		for source, chapter in chapter_pairs
+		if source.chapter_number is None and not source.is_synopsis
+	]
+	if unnumbered:
+		toc_entries.append((epub.Section("Extras", href=unnumbered[0].file_name), tuple(unnumbered)))
+
+	book.toc = tuple(toc_entries) if toc_entries else tuple(chapters)
+	book.spine = [*(["cover"] if has_cover else []), "nav", *chapters]
 	book.add_item(epub.EpubNcx())
 	book.add_item(epub.EpubNav())
 
@@ -276,8 +365,8 @@ def build_parser() -> argparse.ArgumentParser:
 		default=Path("AMUHE.epub"),
 		help="Output EPUB path (default: <input_dir_name>.epub next to directory)",
 	)
-	parser.add_argument("--title", type=str, default="AMUHE.epub", help="Book title")
-	parser.add_argument("--author", type=str, default="", help="Author name")
+	parser.add_argument("--title", type=str, default="A Maiden's Unwanted Heroic Epic", help="Book title")
+	parser.add_argument("--author", type=str, default="Hifumi Shigoro", help="Author name")
 	parser.add_argument("--language", type=str, default="en", help="Language code (default: en)")
 	parser.add_argument(
 		"--identifier",
