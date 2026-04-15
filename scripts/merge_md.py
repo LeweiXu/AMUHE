@@ -98,7 +98,8 @@ def normalize_markdown(markdown_text: str) -> str:
 			normalized_lines.append(" ".join(line.strip() for line in paragraph_lines))
 			paragraph_lines.clear()
 
-	for raw_line in markdown_text.splitlines():
+	lines = markdown_text.splitlines()
+	for raw_line in lines:
 		line = raw_line.rstrip()
 		stripped = line.strip()
 
@@ -125,8 +126,10 @@ def normalize_markdown(markdown_text: str) -> str:
 			flush_paragraph()
 			normalized_lines.append(stripped)
 			continue
-
+		
 		paragraph_lines.append(stripped)
+		if stripped.endswith('"') or stripped.endswith("'"):
+			flush_paragraph()
 
 	flush_paragraph()
 
