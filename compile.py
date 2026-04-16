@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import mimetypes
 import re
 from dataclasses import dataclass
 from pathlib import Path
@@ -27,8 +28,8 @@ ARC_DEFINITIONS: list[tuple[str, int, int | None]] = [
 	("Arc 3: The Precious", 38, 61),
 	("Arc 4: The Beloved", 62, 85),
 	("Arc 5: The One Who Obstructs", 86, 113),
-	("Arc 6: The One Who Bares Fangs At Reason", 114, 146),
-	("Arc 7: The One Who Breaks Through", 147, 174),
+	("Arc 6: The One Who Breaks Through", 114, 146),
+	("Arc 7: The One Who Bares Fangs At Reason", 147, 174),
 	("Arc 8: The One Who Sows Death", 175, 201),
 	("Arc 9: The Parting", 202, 224),
 	("Arc 10: The Unaccepted", 225, 249),
@@ -155,6 +156,91 @@ def markdown_body_to_xhtml(body: str) -> str:
 	raw_html = re.sub(r"<hr\s*/?>", '<p style="text-align:center;">* * *</p>', raw_html)
 	# ebook readers are sensitive to uppercase/self-closing variants; keep simple HTML5-like tags.
 	return raw_html.strip() or "<p></p>"
+
+
+def guess_image_media_type(image_path: Path) -> str | None:
+	"""Best-effort media type detection for local image assets."""
+	media_type, _ = mimetypes.guess_type(image_path.name)
+	if media_type in {"image/jpeg", "image/png", "image/gif", "image/webp"}:
+		return media_type
+
+	suffix = image_path.suffix.lower()
+	if suffix in {".jpg", ".jpeg"}:
+		return "image/jpeg"
+	if suffix == ".png":
+		return "image/png"
+	if suffix == ".gif":
+		return "image/gif"
+	if suffix == ".webp":
+		return "image/webp"
+	return None
+
+
+def make_unique_epub_image_name(image_path: Path, used_names: set[str]) -> str:
+	"""Create a stable, collision-resistant EPUB path for an embedded image."""
+	base_stem = re.sub(r"[^a-zA-Z0-9._-]+", "_", image_path.stem).strip("._") or "image"
+	ext = image_path.suffix.lower() or ".bin"
+	candidate = f"{base_stem}{ext}"
+	counter = 2
+	while candidate in used_names:
+		candidate = f"{base_stem}_{counter}{ext}"
+		counter += 1
+	used_names.add(candidate)
+	return f"images/{candidate}"
+
+
+def embed_local_markdown_images(
+	body_xhtml: str,
+	markdown_source_path: Path,
+	project_root: Path,
+	book: epub.EpubBook,
+	cache: dict[str, str],
+	used_names: set[str],
+) -> str:
+	"""Embed local markdown image references into EPUB and rewrite img src paths."""
+	img_src_re = re.compile(r'(<img\b[^>]*?\bsrc\s*=\s*)(["\'])([^"\']+)\2', flags=re.IGNORECASE)
+
+	def replace_src(match: re.Match[str]) -> str:
+		prefix = match.group(1)
+		quote = match.group(2)
+		src = match.group(3).strip()
+		if not src or src.startswith(("http://", "https://", "data:", "mailto:", "#")):
+			return match.group(0)
+
+		src_no_query = src.split("?", 1)[0].split("#", 1)[0].strip()
+		if not src_no_query:
+			return match.group(0)
+
+		src_path = Path(src_no_query)
+		if src.startswith("/"):
+			local_image = (project_root / src.lstrip("/\\")).resolve()
+		else:
+			local_image = (markdown_source_path.parent / src_path).resolve()
+
+		if not local_image.exists() or not local_image.is_file():
+			return match.group(0)
+
+		media_type = guess_image_media_type(local_image)
+		if media_type is None:
+			return match.group(0)
+
+		cache_key = str(local_image)
+		epub_image_path = cache.get(cache_key)
+		if epub_image_path is None:
+			epub_image_path = make_unique_epub_image_name(local_image, used_names)
+			book.add_item(
+				epub.EpubItem(
+					uid=f"img_{len(cache) + 1:05d}",
+					file_name=epub_image_path,
+					media_type=media_type,
+					content=local_image.read_bytes(),
+				)
+			)
+			cache[cache_key] = epub_image_path
+
+		return f"{prefix}{quote}{epub_image_path}{quote}"
+
+	return img_src_re.sub(replace_src, body_xhtml)
 
 
 def find_supported_files(input_dir: Path, recursive: bool = False) -> list[Path]:
@@ -300,9 +386,23 @@ def directory_txt_to_epub(
 
 	chapters: list[epub.EpubHtml] = []
 	chapter_pairs: list[tuple[ChapterSource, epub.EpubHtml]] = []
+	project_root = Path(__file__).resolve().parent
+	image_cache: dict[str, str] = {}
+	used_image_names: set[str] = set()
 	for idx, source in enumerate(chapter_sources, start=1):
 		chapter_title = source.title
-		body_xhtml = markdown_body_to_xhtml(source.body) if source.is_markdown else text_body_to_xhtml(source.body)
+		if source.is_markdown:
+			body_xhtml = markdown_body_to_xhtml(source.body)
+			body_xhtml = embed_local_markdown_images(
+				body_xhtml=body_xhtml,
+				markdown_source_path=source.source_path,
+				project_root=project_root,
+				book=book,
+				cache=image_cache,
+				used_names=used_image_names,
+			)
+		else:
+			body_xhtml = text_body_to_xhtml(source.body)
 
 		chapter = epub.EpubHtml(
 			title=chapter_title,
