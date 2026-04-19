@@ -93,10 +93,12 @@ def normalize_markdown(markdown_text: str) -> str:
 	paragraph_lines: list[str] = []
 	in_code_block = False
 
-	def flush_paragraph() -> None:
+	def flush_paragraph(double = False) -> None:
 		if paragraph_lines:
 			normalized_lines.append(" ".join(line.strip() for line in paragraph_lines))
 			paragraph_lines.clear()
+			if double:
+				normalized_lines.append("")
 
 	lines = markdown_text.splitlines()
 	for raw_line in lines:
@@ -129,7 +131,7 @@ def normalize_markdown(markdown_text: str) -> str:
 		
 		paragraph_lines.append(stripped)
 		if stripped.endswith('"') or stripped.endswith("'"):
-			flush_paragraph()
+			flush_paragraph(double=True)
 
 	flush_paragraph()
 

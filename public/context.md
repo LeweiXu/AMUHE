@@ -584,7 +584,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 聖霊協約 | Sacred Spirit Pact | Multi-nation convention; among its provisions: bloodshed (流血) on ferryboats is prohibited in all circumstances — note: does not prohibit killing, only bloodshed |
 | リベリスの乙女 | the Maiden of Liberis | Legend engraved on the sword Liberis; story of a nameless warrior who guards a maiden's grave for life after she dies |
 | キュイリス鋼 | Kiuiris steel | Rare steel with faint blue tint from mana absorption; no longer mined; used for the sword Liberis |
-| クリスネイト | Crisnate | Name of Krische's "paradise" — the fantastical pocket world / garden where Krische, Bery, Selene, Kreschenta etc. now live; also called "the largest cage in the world" |
+| クリスネイト | Krisneit | Name of Krische's "paradise" — the fantastical pocket world / garden where Krische, Bery, Selene, Kreschenta etc. now live; also called "the largest cage in the world" |
 | グレイビャルベの大顎 | Great Jaw of Greybyalbe | Geological feature; the mid-mountain zone of jutting rock pinnacles and crevasse-riddled snowfield |
 | ピルシュの実 | pirushuu berry | Fictional ingredient added to cooking; produces a mild sharp/tart note; used in breakfast dish in C.295; tentative romanisation |
 | 決戦札 | Kessen-fuda | Card game played in the manor; similar to an advanced rock-paper-scissors with picture cards (infantry types, cavalry, archers, weapons, general); mechanics described in C.291 |
@@ -891,7 +891,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 宝剣リベリス = "the royal sword Liberis" / "Liberis" (proper name of the sword; リベリス from the lake name)
 - 物理マウント = "mount (physical)" (narrator's running joke about Kreschenta physically taking the high position by being carried; rendered with the parenthetical to preserve the meta-humor)
 - グレイビャルベ = "Greybyalbe" (phonetic rendering of katakana; the "-byalbe" suffix may echo Kreisharana/Albyagel naming register; flagged)
-- クリスネイト = "Crisnate" (phonetic rendering; the pocket-world paradise Krische has built; named here for the first time)
+- クリスネイト = "Krisneit" (phonetic rendering; the pocket-world paradise Krische has built; named here for the first time)
 - 剣と名に誓ってお受けしますとも = "By the sword and my name, I humbly accept" (Kalua's accidental use of formal military-pledge register for her love-confession acceptance; the mock-formality is the joke; rendered to preserve the register shift)
 - まどろみ (chapter title/recurring motif) = "Dozing" (まどろみ = light sleep, drowsiness, the space between sleeping and waking; rendered as "dozing" throughout these chapters as the dominant motif; consistent with the "dream/waking boundary" imagery)
 - ベリー基準 = "Bery standard" (Krische's internal cleanliness benchmark, named in narration; kept in quotes)
@@ -904,9 +904,9 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - コルキス in C.295 = "Kokys" — consistent with established convention
 - グラバヤールベ = confirmed as the same Greybyalbe (グレイビャルベ already in KB); source in these chapters uses グラバヤールベ romanised as Greybyalbe per established entry
 - ノーザン in C.295 old-man's dialogue = Norzan (Norzan Velraigh, the Eastern General); listed alongside Aleha and Kokys as fellow great warriors of a past age; consistent with existing KB entry
-- アレハ in C.295 = Aleha (Aleha Klauzera Shuindel Sarshenka); the old man notes Aleha's sword is still improving even at this age, and he is slightly ahead of the old man in their ongoing rivalry — suggests Aleha is still alive in Crisnate-era, or at least was alive in the period the old man is recalling
+- アレハ in C.295 = Aleha (Aleha Klauzera Shuindel Sarshenka); the old man notes Aleha's sword is still improving even at this age, and he is slightly ahead of the old man in their ongoing rivalry — suggests Aleha is still alive in Krisneit-era, or at least was alive in the period the old man is recalling
 - The "old man" in C.295 is not explicitly named; context clues: large/broad-chested, formerly considered the continent's greatest warrior before Krische's debut, in a close rivalry with Aleha across their lifetimes, has a lead but narrowing — likely Gallen (ガーレン), who was established as an elite warrior/commander in earlier chapters; tentative, flagged for confirmation with future context
-- Selene's POV in C.295 begins the chapter after the unnamed old man's deathbed scene; she is described waking fifth each morning, practicing sword in the morning, spending time in a workshop doing sculpture — Crisnate-era characterisation consistent with prior C.280s chapters
+- Selene's POV in C.295 begins the chapter after the unnamed old man's deathbed scene; she is described waking fifth each morning, practicing sword in the morning, spending time in a workshop doing sculpture — Krisneit-era characterisation consistent with prior C.280s chapters
 - エルヴェナ's characterisation expanded: Selene describes her as someone who "deliberately makes it her purpose in life to corrupt and degrade people" in contrast to Bery's "natural" bad character — Selene considers her a predator in the manor ecology; Lila's arc in C.291–294 dramatises this
 - お屋敷会議（出張版）= "makeshift Christand council (away edition)" — narrator's comic label for the ad hoc mountain-summit meeting; follows existing "Christand council" convention
 - ベリーと最古の竜リナセラの七番勝負、第五戦 = "the fifth game of the seventh best-of-seven match between Bery and the oldest dragon, Rinasera" — Rinasera is established in KB; this confirms she has been playing board games with Bery across an extended period (three months on this match alone)
