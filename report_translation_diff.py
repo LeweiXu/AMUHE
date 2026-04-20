@@ -39,9 +39,26 @@ def find_translated_file(chapter_num):
     return None, None, None
 
 
+def strip_html_comments(text):
+    """Remove HTML comment blocks <!-- ... --> (may span multiple lines)."""
+    return re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)
+
+
+def strip_trailing_translation_notes(text):
+    """
+    Remove any trailing notes appended at the end of a translated batch file
+    by stripping everything after the final '---' separator.
+    """
+    separator_idx = text.rfind("---")
+    if separator_idx == -1:
+        return text
+    return text[:separator_idx]
+
+
 def extract_chapter_lines(trans_file, chapter_num):
-    """Return non-blank lines for the given chapter, including its header line."""
-    text = trans_file.read_text(encoding="utf-8")
+    """Return non-blank lines for the given chapter, excluding comments and end notes."""
+    text = strip_html_comments(trans_file.read_text(encoding="utf-8"))
+    text = strip_trailing_translation_notes(text)
     lines = text.splitlines()
 
     chapter_pat = re.compile(r"^#\s+Chapter\s+" + str(chapter_num) + r"\b", re.IGNORECASE)
@@ -62,6 +79,14 @@ def extract_chapter_lines(trans_file, chapter_num):
         return None
 
     return [l for l in lines[start_idx:end_idx] if l.strip()]
+
+
+def is_character_profiles_chapter(chapter_lines):
+    """True if the chapter title/header indicates a Character Profiles chapter."""
+    if not chapter_lines:
+        return False
+    # The first line is typically the chapter header (e.g., "# Chapter N ...").
+    return "character profiles" in chapter_lines[0].lower() or "introduction to the setting" in chapter_lines[0].lower()
 
 
 def is_dialogue(line):
@@ -127,18 +152,20 @@ def md_escape(s):
     return s.replace("|", "\\|").replace("\n", " ")
 
 
-LARGE_DIFF_THRESHOLD = 0.10  # flag as severe if |delta| / raw_count >= 10%
-LARGE_DIFF_ABS = 15           # or if |delta| >= 15 lines (whichever triggers first)
+FLAGGED_DIFF_ABS = 10  # flag when |delta| is 10 lines or more
 
 
-def delta_cell(delta, raw_count):
-    """Format the delta column; bold + label for large differences."""
+def is_flagged_delta(delta):
+    return abs(delta) >= FLAGGED_DIFF_ABS
+
+
+def delta_cell(delta):
+    """Format the delta column; bold + label for flagged differences."""
     if delta == 0:
         return "OK"
     sign = "+" if delta > 0 else ""
     label = f"{sign}{delta}"
-    severe = abs(delta) >= LARGE_DIFF_ABS or (raw_count and abs(delta) / raw_count >= LARGE_DIFF_THRESHOLD)
-    if severe:
+    if is_flagged_delta(delta):
         direction = "EXTRA" if delta > 0 else "MISSING"
         return f"**{label} ({direction})**"
     direction = "extra" if delta > 0 else "missing"
@@ -189,6 +216,7 @@ def main():
             raw_count=len(raw_lines),
             trans_count=len(trans_lines),
             delta=len(trans_lines) - len(raw_lines),
+            delta_ok_override=is_character_profiles_chapter(trans_lines),
             raw_path=raw_path,
             trans_file=trans_file,
             raw_lines=raw_lines,
@@ -198,19 +226,20 @@ def main():
         rows.append(row)
 
     # --- Build summary table ---
-    issues = sum(1 for r in rows if not r.get("warning") and r.get("delta", 0) != 0)
+    issues = sum(
+        1
+        for r in rows
+        if not r.get("warning") and r.get("delta", 0) != 0 and not r.get("delta_ok_override", False)
+    )
     warn_rows = [r for r in rows if r.get("warning")]
 
     summary_lines = []
     summary_lines.append("## Summary\n\n")
 
     counts = [r for r in rows if not r.get("warning")]
-    severe_count = sum(
+    flagged_count = sum(
         1 for r in counts
-        if r["delta"] != 0 and (
-            abs(r["delta"]) >= LARGE_DIFF_ABS
-            or (r["raw_count"] and abs(r["delta"]) / r["raw_count"] >= LARGE_DIFF_THRESHOLD)
-        )
+        if r["delta"] != 0 and not r.get("delta_ok_override", False) and is_flagged_delta(r["delta"])
     )
 
     stat_parts = []
@@ -218,8 +247,8 @@ def main():
         stat_parts.append("All checked chapters match line counts.")
     else:
         stat_parts.append(f"**{issues}** chapter(s) have line count differences")
-        if severe_count:
-            stat_parts.append(f"**{severe_count}** flagged as severe (bold)")
+        if flagged_count:
+            stat_parts.append(f"**{flagged_count}** flagged (5+ lines, bold)")
     if warn_rows:
         stat_parts.append(f"**{len(warn_rows)}** warning(s) — see below")
     summary_lines.append("  ".join(stat_parts) + "\n\n")
@@ -231,8 +260,9 @@ def main():
         if r.get("warning"):
             summary_lines.append(f"| {ch} | — | — | ⚠ {r['warning']} | — |\n")
             continue
-        dc = delta_cell(r["delta"], r["raw_count"])
-        anchor = f"#chapter-{ch}" if r["delta"] != 0 else ""
+        display_delta = 0 if r.get("delta_ok_override", False) else r["delta"]
+        dc = delta_cell(display_delta)
+        anchor = f"#chapter-{ch}" if display_delta != 0 else ""
         ch_cell = f"[{ch}]({anchor})" if anchor else str(ch)
         summary_lines.append(
             f"| {ch_cell} | {r['raw_count']} | {r['trans_count']} | {dc} | `{r['trans_file'].name}` |\n"
@@ -242,7 +272,7 @@ def main():
     # --- Build per-chapter detail sections (only chapters with differences) ---
     detail_lines = []
     for r in rows:
-        if r.get("warning") or r.get("delta", 0) == 0:
+        if r.get("warning") or r.get("delta", 0) == 0 or r.get("delta_ok_override", False):
             continue
         ch = r["ch"]
         delta = r["delta"]
@@ -288,14 +318,30 @@ def main():
     output_path = Path(args.output)
     output_path.write_text("".join(out), encoding="utf-8")
 
+    flagged_rows = []
+    for r in rows:
+        if r.get("warning") or r.get("delta_ok_override", False):
+            continue
+        if is_flagged_delta(r.get("delta", 0)):
+            flagged_rows.append(r)
+
     status = f"Report written to `{output_path}`"
     if issues:
         status += f" — {issues} chapter(s) with differences"
-        if severe_count:
-            status += f" ({severe_count} severe)"
+        if flagged_count:
+            status += f" ({flagged_count} flagged)"
     if warn_rows:
         status += f", {len(warn_rows)} warning(s)"
     print(status)
+
+    if flagged_rows:
+        print("\nFlagged chapters:")
+        print("| Ch | Raw | EN | Delta | Trans file |")
+        print("|---:|---:|---:|---|---|")
+        for r in flagged_rows:
+            print(
+                f"| {r['ch']} | {r['raw_count']} | {r['trans_count']} | {delta_cell(r['delta'])} | `{r['trans_file'].name}` |"
+            )
 
 
 if __name__ == "__main__":
