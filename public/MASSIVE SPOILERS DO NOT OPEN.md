@@ -24,8 +24,8 @@ EDIT: I found that Claude Code burned through usage very quickly, so I ended up 
 
 <table>
   <tr>
-    <td><img src="public/editor_example1.png" width="300"/></td>
-    <td><img src="public/editor_example2.png" width="300"/></td>
+    <td><img src="editor_example1.png" width="300"/></td>
+    <td><img src="editor_example2.png" width="300"/></td>
   </tr>
 </table>
 
