@@ -218,7 +218,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | アルビャーゲル | Albyagel | Mountain range; Kreisharana homeland |
 | 禁域 | Forbidden Domain | Area surrounding Yagelnaus's lair |
 | ヤゲルナウス | Yagelnaus | Ancient dragon; chief deity, Arna Empire |
-| ぐるるん | Gururun | Krische's jade tiger companion |
+| ぐるるん | Gururun | Krische's Jade Tiger companion |
 | ぶるるん | Bururun | Krische's horse |
 | ベーゼリア | Bezelia | Royal treasure sword; presented to Krische at coronation |
 | グラバレイネ / エルスレイネ | Grabareine / Elsreine | Ancient queen / first Elsren empress (historical) |
@@ -577,7 +577,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | 魔導皇帝 | mage-emperor | Elgeinst's title after founding Kleinmeil |
 | 魔導解析器 | magical analysis device | Computational mana crystal array built by Elgeinst and his colleagues to analyse Alberinea's puzzle crystal |
 | ヴァーカス | Varkus | Old Tongue (northern): lit. "group/collective"; deeper nuance = "those who gather/belong together." Name of Klaze's gang; later adopted as Granmeld's noble surname. The emotional resonance (a self-described lone wolf choosing a surname meaning "those who belong together") is intentional and left implicit. |
-| 翠虎 | jade tiger | Krische's mount seen in Ch. 275 — appears to be a large feline creature. Rendered literally; confirm species designation with future context. |
+| 翠虎 | Jade Tiger | Krische's mount seen in Ch. 275 — appears to be a large feline creature. Rendered literally; confirm species designation with future context. |
 | 夜明けの三日月 | The Dawn Crescent | Working-class inn-with-meals in Albernaria castle district; founded by Koza and Beltz (former Black Flag); Christand simplified crest holder; Alberinea visited incognito post-war. |
 | 肉体拡張 | physical enhancement | Mana-based physical augmentation; Granmeld uses it unconsciously from childhood (prior to any formal training). Consistent with existing usage; term now confirmed available to untrained users at low level. |
 | くろしゅたん | Kuro-Shutan | Informal nickname for the Kuro-Fuyo Squad's operational unit; portmanteau of くろふよ隊 and ぱぱっしゅたんっ (pop-thud); acknowledged as absurd by all |
@@ -881,7 +881,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - ヴァーカスの意味 (Old Tongue nuance) = left partially implicit in translation per the source text's choice not to reveal the full nuance to the reader directly — only Norzan's reaction and the narrator's "fitting for a lone wolf" comment frame it. A T/N is provided rather than inserting the meaning into the text itself.
 - ぴよぴよ (Ch. 275 usage) = confirmed as Krische's nickname for Norzan Velraigh (the Eastern General, Nozan's son). This is distinct from ぴよぴよ already established for Nozan — Norzan is the *son*, Piyo-piyo carried over as his nickname. Note: the context makes clear that Norzan Velraigh (ノーザン＝ヴェルライヒ) from these backstory chapters is the same Norzan who becomes the Eastern General; Granmeld Varkus becomes the First Corps commander known as "Woof-woof." Both nicknames were bestowed by Krische.
 - わんわん (Ch. 275) = Krische's nickname for Granmeld; rendered as "Woof-woof" consistent with existing convention for Granmeld (グランメルド＝ヴァークス).
-- 翠虎 = "jade tiger" — rendered literally; mount species uncertain. May be a mana-construct or a real animal. Flagged.
+- 翠虎 = "Jade Tiger" — rendered literally; mount species uncertain. May be a mana-construct or a real animal. Flagged.
 - ネア叙勲 = "Nea investiture" — ネア appears to be a rank below リネア (Rinea/Senior Knight); abbreviated (略式) form received by Granmeld. Flagged as requiring confirmation.
 - コルキス in C.274 dialogue = same as コキス (Kokys); the same rendering convention as previously established ("コルキス in dialogue → Kokys per convention" confirmed and applied throughout these chapters).
 - ガーレン in these chapters = the young Gallen (ガーレン), who is the same Gallen established in earlier contexts as Bogan's former centurion. C.274 confirms he is Bogan's commanding officer during the Elsren war — consistent with C.201 entry. わし for self-reference confirmed here in dialogue.

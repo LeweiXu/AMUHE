@@ -4248,18 +4248,18 @@
 | 56 | He chose the latter. |
 | 59 | But what appeared next was an enemy detachment that had apparently been planning a similar flanking maneuver. |
 | 60 | In that instant, Gran knew with certainty that he had failed, and he chose to retreat after recovering the survivors. |
-| 61 | He could not lead a jade tiger back to the main body; his priority was to put distance between them and the beast. |
-| 62 | He spent an entire day wandering the forest. The jade tiger attacked twice more afterward. |
+| 61 | He could not lead a Jade Tiger back to the main body; his priority was to put distance between them and the beast. |
+| 62 | He spent an entire day wandering the forest. The Jade Tiger attacked twice more afterward. |
 | 71 | *'……I am deeply sorry, Father.'* |
-| 73 | Gran had failed to kill the jade tiger, produced needless casualties, and done nothing but run. |
+| 73 | Gran had failed to kill the Jade Tiger, produced needless casualties, and done nothing but run. |
 | 74 | *'Hmph. "Deeply sorry," is it? I believe you've already offered plenty of excuses.'* |
 | 75 | *'Father——'* |
-| 76 | *'Silence. ……What you did was waste the lives of seasoned soldiers, and then run with your tail between your legs from a jade tiger. Is that the sum of it? And you come crawling back after everything's over?'* |
+| 76 | *'Silence. ……What you did was waste the lives of seasoned soldiers, and then run with your tail between your legs from a Jade Tiger. Is that the sum of it? And you come crawling back after everything's over?'* |
 | 77 | *'B-but——'* |
 | 78 | *'SILENCE!!'* |
 | 79 | ——His father roared. |
 | 80 | *'Is all that comes from your mouth excuses!! Through your weakness, you could neither sacrifice soldiers for the mission nor slay the beast——you could only flail about and run!!'* |
-| 81 | The best result: kill the jade tiger and complete the raid. |
+| 81 | The best result: kill the Jade Tiger and complete the raid. |
 | 93 | Kokys told Bogan as much, and from then on Gran served as Bogan's messenger. He understood the meaning. |
 | 94 | His father had implicitly declared him unfit to be his successor. |
 | 95 | *'——It's his timidity that holds him back. Krische-sama, I hear, single-handedly slew over a dozen bandits with ease.'* |
@@ -6685,19 +6685,19 @@
 | 87 | Larnel was the griffin her brother had entrusted to her. |
 | 88 | She could not let it be killed. |
 | 89 | Having steeled herself, Lila stepped in front of Larnel — and froze again. |
-| 90 | To Lila's left — a second jade tiger had appeared. |
+| 90 | To Lila's left — a second Jade Tiger had appeared. |
 | 116 | "Uh, ah……n-no……" |
 | 161 | "You've got me confused with someone else. Krische isn't a god or——" |
 | 162 | The girl seemed to understand, looking at Lila with an *ah*. |
 | 169 | Simply running, it could topple trees — a genuine monster. |
 | 170 | "I see, there are all sorts of magical beasts Krische has never seen. They're big and have good flavor, which is nice, but the meat could be a bit more tender. Gururun ate it up happily, though." |
-| 171 | This jade tiger was one Krische had encountered about three days ago, while she was butchering a giant blue deer — an indigo deer. |
+| 171 | This Jade Tiger was one Krische had encountered about three days ago, while she was butchering a giant blue deer — an Indigo Deer. |
 | 172 | A large kitty that cowered yet hissed in warning. |
 | 173 | She had already encountered and killed several others, but as meat, the flesh was tough except around the belly, and there was far too much of it — these were creatures she would rather not hunt needlessly. |
 | 174 | Having grown up in a hunter's household, Krische found it distasteful to kill animals indiscriminately when she could not even eat them all. |
-| 175 | The deer she had killed was also too large for one person to consume, so she had experimentally cut off some meat and offered it — and for three days since, she had been traveling with this jade tiger. |
+| 175 | The deer she had killed was also too large for one person to consume, so she had experimentally cut off some meat and offered it — and for three days since, she had been traveling with this Jade Tiger. |
 | 178 | Yet this girl had almost certainly hunted it alone. |
-| 179 | Krische, with practiced ease, stripped the hanging jade tiger's hide and cut meat from around the belly, threading pieces onto sticks and setting them over the fire. |
+| 179 | Krische, with practiced ease, stripped the hanging Jade Tiger's hide and cut meat from around the belly, threading pieces onto sticks and setting them over the fire. |
 | 180 | The legs were stringy and tough, but the belly meat was reasonably tender and well-marbled. |
 | 181 | "Would you like some, Lila?" |
 | 182 | "Um, well……if you're offering." |
@@ -6796,19 +6796,19 @@
 | 115 | The beast — neither lion nor eagle — stood shoulder-high at five shaku. |
 | 142 | Aside from a red cloth tied to his griffin's tail, his armor and clothing were identical — befitting these people who disdained unnecessary adornment. |
 | 143 | He guided his griffin lower while scanning the surroundings, and the deeper the wrinkle between his brows grew, the more his expression darkened. |
-| 147 | The only scenario would be a desperately starved tiger, but the mountain's bounty had been relatively plentiful this year. There should be plenty of prey; a jade tiger would not have needed to go hungry. |
+| 147 | The only scenario would be a desperately starved tiger, but the mountain's bounty had been relatively plentiful this year. There should be plenty of prey; a Jade Tiger would not have needed to go hungry. |
 | 149 | There were marks on the throat as though something had gouged it. |
-| 150 | That was clearly not the work of a jade tiger. |
+| 150 | That was clearly not the work of a Jade Tiger. |
 | 151 | And looking at the fly-covered flesh, there were signs that someone had carved it apart. |
 | 152 | The thick hide — blue and white fur growing in patches — had been slit open by something sharp, and the apparently extracted innards were gone. |
 | 153 | Some distance away, a piece of meat — likely the remains of the innards — lay placed aside. |
-| 154 | The marks of large fangs on that portion suggested a jade tiger had eaten from it. |
+| 154 | The marks of large fangs on that portion suggested a Jade Tiger had eaten from it. |
 | 155 | "Warrior Leader, this is……" |
 | 156 | "……The work of humans." |
-| 157 | "Could a jade tiger have killed the indigo deer, and then humans ate from it?" |
+| 157 | "Could a Jade Tiger have killed the Indigo Deer, and then humans ate from it?" |
 | 158 | "Most likely the other way around. But there are too many things that don't add up. I can't understand why so much meat was simply left behind. Deji, go have a look around." |
 | 159 | "Yes, sir." |
-| 160 | If they assumed a human had killed it and then a jade tiger had fed on the corpse, the tiger would likely have stayed nearby for a while. A massive quantity of meat, not yet fully rotted. The tiger would not leave this to search for new prey. |
+| 160 | If they assumed a human had killed it and then a Jade Tiger had fed on the corpse, the tiger would likely have stayed nearby for a while. A massive quantity of meat, not yet fully rotted. The tiger would not leave this to search for new prey. |
 | 173 | "That impossibility is the only explanation. The cuts on the belly and the way the meat was carved — it's unmistakably human handiwork. Given that there are no signs of combat anywhere else, that's the only conclusion." |
 | 212 | "Not just a kingdom sightseer, then." |
 | 231 | Vinsreel spurred his griffin through the trees. |
@@ -6966,9 +6966,9 @@
 | 103 | Naturally, many here were skilled in its use — yet even compared to them, the silent composure of the girl's mana was remarkable. |
 | 104 | As Lila said, she was clearly not what her appearance suggested. |
 | 105 | Just standing there before her sent a chill down his spine. |
-| 106 | Not the jade tiger — the girl no taller than his chest. |
+| 106 | Not the Jade Tiger — the girl no taller than his chest. |
 | 107 | "Please, just let us through without a word. She only seeks an audience with the dragon…… If you don't try to stop her, nothing will happen. So please——" |
-| 108 | Behind her, the jade tiger growled. |
+| 108 | Behind her, the Jade Tiger growled. |
 | 109 | The silver-haired girl said *Now, now,* soothing it with a pat on the forehead. |
 | 110 | Velvas watched and deepened his scowl. |
 | 111 | That Lila was being coerced was certain. |
@@ -7103,7 +7103,7 @@
 | 18 | What had begun as a search for his daughter Lila had now shifted entirely to investigating the anomaly that had befallen the mountain. |
 | 19 | "Vinsreel." |
 | 21 | Alkirens's expression grew even graver. |
-| 40 | "An intruder in the mountains, it seems, Elder. ……Apparently alone or in a very small group, but capable of killing jade tigers and indigo deer." |
+| 40 | "An intruder in the mountains, it seems, Elder. ……Apparently alone or in a very small group, but capable of killing jade tigers and Indigo Deer." |
 | 41 | A bald old man with a beard reaching his chest. |
 | 42 | The previous chieftain — Elder Bikirles — hobbled forward with his cane, a warrior supporting his shoulder. It had been a long time since he had appeared in public. |
 | 43 | His thin limbs trembled, yet his eyes were sharp. |
@@ -7136,7 +7136,7 @@
 | 139 | That something which arises when instinct comprehends the gulf between predator and prey. |
 | 140 | At the very least, it was an emotion Krische had never felt in her life. |
 | 141 | A crawling sensation along her spine — and the moment that eye opened, her entire body erupted in gooseflesh. |
-| 142 | The jade tiger that had barely kept pace let out a whimper, turned tail, and curled up at a distance, trembling. |
+| 142 | The Jade Tiger that had barely kept pace let out a whimper, turned tail, and curled up at a distance, trembling. |
 | 143 | ——The eye was utterly inorganic, like a jewel of red-purple. |
 | 144 | Not threatening, not mocking. |
 | 147 | The mana that spilled from its body was beyond measure. |
@@ -7516,11 +7516,11 @@
 | 53 | To create such a world, she must at least make them believe these things functioned properly——that things were fair. |
 | 65 | * * * |
 | 67 | Moving with brisk efficiency as they drove stakes, what they were building was a shed slightly too large for a stable, and what they kept stealing glances at was the beast yawning in front of the estate. |
-| 68 | The jade tiger, left half at liberty. |
-| 89 | Before that, Kokys had mentioned wanting to see the jade tiger Krische had brought back, which was how the four of them had gathered. |
+| 68 | The Jade Tiger, left half at liberty. |
+| 89 | Before that, Kokys had mentioned wanting to see the Jade Tiger Krische had brought back, which was how the four of them had gathered. |
 | 96 | "Yes. Elvena just gave it its meal a little while ago." |
 | 97 | "Hah……poor thing." |
-| 103 | Her smiling cheeks were twitching, and when the jade tiger pounced on the meat, she was so startled she fell on her backside. |
+| 103 | Her smiling cheeks were twitching, and when the Jade Tiger pounced on the meat, she was so startled she fell on her backside. |
 | 104 | Selene had been so worried by the sight that she proposed letting Krische handle the care, but—— |
 | 105 | *"N-no! This is a child that will be living here from now on, and as Krische-sama's servant, when I think of Bery-sama who is convalescing, I cannot give up over something like this……"* |
 | 117 | "Oh, Bery!" |
@@ -8081,8 +8081,8 @@
 |---:|---|
 | 2 | A massive beast, its stature towering far above that of any human. |
 | 48 | "I killed one once in my younger days, but the hundred-man unit I was leading at the time was half destroyed. Considering that most encounters begin with an ambush rather than a head-on fight, response is indeed difficult." |
-| 50 | The countless trees snapped and shattered during the half-quarter-hour demonstration — Mia, for one, was watching the jade tiger with a pale face, and the majority reacted similarly. |
-| 51 | Most had never seen a magical beast, and the shock of witnessing both the jade tiger and the girl who had effortlessly outmaneuvered it had frozen their thinking beyond that point. |
+| 50 | The countless trees snapped and shattered during the half-quarter-hour demonstration — Mia, for one, was watching the Jade Tiger with a pale face, and the majority reacted similarly. |
+| 51 | Most had never seen a magical beast, and the shock of witnessing both the Jade Tiger and the girl who had effortlessly outmaneuvered it had frozen their thinking beyond that point. |
 | 52 | A monstrous beast beyond all reason, and a girl who played with it. |
 | 53 | The impact was simply too great for their minds to process. |
 | 61 | The forests of western Alberan held a higher concentration of magical beasts than elsewhere. |
@@ -8999,7 +8999,7 @@
 | 38 | No one could endure losing something utterly without meaning, even if they deceived themselves with promises of glory in exchange. |
 | 58 | Passing between Kokys and Begil, who saluted from horseback, Krische rode to the no-man's land between the Alberan and Galshan lines. |
 | 98 | One would need siege bows and catapults to have any hope of bringing it down — it was the kind of opponent you treated as a siege, not a single enemy. |
-| 136 | Krische watched from atop her jade tiger as Kokys and Begil issued orders to their corps, riding along the front of the battle line. |
+| 136 | Krische watched from atop her Jade Tiger as Kokys and Begil issued orders to their corps, riding along the front of the battle line. |
 | 167 | "Mm, ah…… right. Mia, the lecture continues later." |
 | 168 | "Wh-why me……" |
 | 251 | --- |
@@ -9987,14 +9987,14 @@
 | 35 | Appearing likewise half-naked was a giant of a man shouldering a great spear. |
 | 36 | Bearing the same flowing ancient-script tattoos across his well-formed face, he ran his fingers through his braided hair, sweeping it back. |
 | 57 | * * * |
-| 73 | Seated, standing, leaping into the air and landing again atop the jade tiger as it rampaged at blinding speed through the battlefield——the girl repeated these acrobatic movements while loosing arrows in rapid succession from a shortbow. |
+| 73 | Seated, standing, leaping into the air and landing again atop the Jade Tiger as it rampaged at blinding speed through the battlefield——the girl repeated these acrobatic movements while loosing arrows in rapid succession from a shortbow. |
 | 74 | Drawing an arrow from the quiver, nocking, aiming, releasing——and in the blink of an eye, the next arrow. |
-| 75 | In an instant she emptied a quiver of thirty arrows, tossed it aside, and slung a fresh quiver from the jade tiger's flank over her shoulder. |
-| 76 | She seemed to take no aim at all, yet the arrows fired at impossible speed were unerringly precise despite wind and the jade tiger's violent motion——soldiers who could not even track the jade tiger's form had no hope of dodging what was loosed from its back. |
+| 75 | In an instant she emptied a quiver of thirty arrows, tossed it aside, and slung a fresh quiver from the Jade Tiger's flank over her shoulder. |
+| 76 | She seemed to take no aim at all, yet the arrows fired at impossible speed were unerringly precise despite wind and the Jade Tiger's violent motion——soldiers who could not even track the Jade Tiger's form had no hope of dodging what was loosed from its back. |
 | 77 | Wide-open eyes, violet irises blazing in the firelight. |
 | 78 | Whether by the fortuitous reflex of terror, or by genuine experience and skill—— |
 | 79 | One soldier managed to block a single arrow coming head-on, only to be pierced through the temple by an arrow from directly beside him the next instant, or through the spine from behind. |
-| 82 | But riding a jade tiger whose speed surpassed even mana-wielders, and reaping lives with inhuman speed and accuracy——she was a being that defied any comparison to a mere mounted archer. |
+| 82 | But riding a Jade Tiger whose speed surpassed even mana-wielders, and reaping lives with inhuman speed and accuracy——she was a being that defied any comparison to a mere mounted archer. |
 | 83 | The forest that cavalry typically shunned was her hunting ground. |
 | 84 | In this world, she was a human-tiger chimera of a magical beast, capable of overwhelming an entire elite battalion single-handedly. |
 | 85 | Behind her, countless griffins and warriors were pouring out of the trees, but the soldiers had no capacity to register even that. |
@@ -10004,8 +10004,8 @@
 | 131 | There were no other words to offer. |
 | 132 | "Then let's go finish that off. Gururun." |
 | 133 | "Wait, Krische-sama——" |
-| 134 | Vinsreel started to speak, but Krische tilted her head for an instant before the jade tiger whisked her away. |
-| 135 | *Well, whatever.* Racing the jade tiger toward the center of the camp, it was clear the situation was already firmly in hand. |
+| 134 | Vinsreel started to speak, but Krische tilted her head for an instant before the Jade Tiger whisked her away. |
+| 135 | *Well, whatever.* Racing the Jade Tiger toward the center of the camp, it was clear the situation was already firmly in hand. |
 | 136 | The enemy's main camp of roughly 1,000 against the most formidable force in Alberan——Alberinea's direct-command Second Corps, 5,000 strong. |
 | 137 | Adding the element of surprise, the outcome was inevitable. |
 | 138 | Shooting down enemy officers still offering resistance against the Second Corps approaching from the south, she reached the central great tent. |
@@ -10087,15 +10087,15 @@
 |---:|---|
 | 23 | Its intelligence and combat ability merely exceeded what was normal for an animal. |
 | 77 | *'She's fast but heavy and big, so her turning speed isn't really that much better than a mana-wielder's. Unless the situation allows repeated ambushes, she's pretty weak. The difficulty of fighting her in the forest is really just a matter of angular velocity.'* |
-| 78 | The jade tiger was intelligent and knew how to exploit its physical capabilities. |
+| 78 | The Jade Tiger was intelligent and knew how to exploit its physical capabilities. |
 | 79 | It did not take risks, relentlessly targeting its prey's blind spots. |
 | 80 | Its attacks so far——had it been willing to accept a mutual strike, throwing its entire body, Kalua would not have been able to dodge. |
-| 100 | ——The jade tiger did not come. |
+| 100 | ——The Jade Tiger did not come. |
 | 108 | Twisting with everything she had, she whipped the great curved sword in a wide arc behind her. |
-| 109 | And hurled it at the nose of the jade tiger as it bore down, having snapped the tree, feet still off the ground. |
+| 109 | And hurled it at the nose of the Jade Tiger as it bore down, having snapped the tree, feet still off the ground. |
 | 112 | "NOW!!" |
 | 114 | Javelin strikes from mana-wielders——the force was incomparable to arrows. |
-| 120 | An instant later, she sprang clear, and clutching her own great curved sword, she stood at the ready, breathing hard, watching the jade tiger with taut nerves. |
+| 120 | An instant later, she sprang clear, and clutching her own great curved sword, she stood at the ready, breathing hard, watching the Jade Tiger with taut nerves. |
 | 134 | Koza patted Kalua's shoulder in acknowledgment and looked around. |
 | 135 | "Rest up. ……We made noise. We'll take over the watch." |
 | 136 | "Yeah, please……I'm at my limit." |
@@ -10240,7 +10240,7 @@
 | 148 | The enemy had merely stacked inferences from the night raid and arrived at the correct answer. |
 | 149 | Confusion still reigned, and the girl found a clear solution in an instant. |
 | 150 | The bombardment had completely disrupted the enemy's cohesion. |
-| 171 | Even mana users could not outrun the jade tiger's legs. |
+| 171 | Even mana users could not outrun the Jade Tiger's legs. |
 | 173 | Advancing through the forest at a measured pace so as not to get too far ahead, she shot arrows into the backs of fleeing soldiers. |
 | 174 | For Krische, killing with a bow was no different from target practice. |
 | 175 | When the enemy presented their backs, there was no longer any chance of missing. |
@@ -10348,7 +10348,7 @@
 | 56 | "My lady……?" |
 | 57 | "The moment I saw the divine being appear in the capital, I knew one army alone could never prevail." |
 | 59 | The titanic body to rival the royal castle, its boulder-like scales partly shed — the sheer magical power that distorted the very air simply by its presence. |
-| 60 | And from its back, accompanied by the jade tiger, the girl who stepped down. |
+| 60 | And from its back, accompanied by the Jade Tiger, the girl who stepped down. |
 | 61 | A scene from a painting — something that defied reality. |
 | 64 | But Alberinea had been wrapped in bandages head to toe, covered in wounds like the dragon. And the light that had pierced the sky the day before. The sudden restoration of relations with Kreisharana. The unmistakable respect from a people who revered the divine being and honored martial strength. |
 | 68 | The countless nobles killed in retaliation were surely her doing as well. |
@@ -10372,7 +10372,7 @@
 | 180 | Indigo and violet eyes crossed — the difference in rank was already obvious. |
 | 181 | Veze's Sword Princess — her treasured sword shattered in a single blow. |
 | 182 | And the Kils curved sword bore not a single chip. |
-| 183 | Against that charge that made every witness doubt their eyes, the face of the girl with her jade tiger showed not a fragment of alarm — not even surprise. |
+| 183 | Against that charge that made every witness doubt their eyes, the face of the girl with her Jade Tiger showed not a fragment of alarm — not even surprise. |
 | 184 | "Hmm, the shape isn't bad, but it's a bit too heavy." |
 | 185 | *I let the kill slip*, she said, looking troubled. |
 | 186 | A fingertip wrapped in gauntlet leather traced her rose-pink lips. |
@@ -10461,7 +10461,7 @@
 | 35 | "……Alberinea." |
 | 36 | "Ah, good morn—……good afternoon? Hmm……it's been a while, General Remin." |
 | 38 | She wore no helmet but was still in full armor. The situation was no longer particularly dangerous, but it was likely just her nature. |
-| 39 | With a hint of tension on her face, she glanced at the jade tiger, then dismounted and saluted Krische — her adjutant Milkaruz followed suit. |
+| 39 | With a hint of tension on her face, she glanced at the Jade Tiger, then dismounted and saluted Krische — her adjutant Milkaruz followed suit. |
 | 40 | Krische, still mounted on Gururun, pointed her thumb at her own chest in return salute. Mia and Kalua saluted as well. |
 | 48 | A manner of speaking that seemed considerate yet was not in the slightest. |
 | 49 | Kalua and Mia looked at Krische with exasperation, but Teknrea showed no sign of minding. She knew there was no ill intent. She'd heard similar remarks many times in council. |
@@ -11567,7 +11567,7 @@
 | 182 | At the same time, the reconnaissance cavalry who should have been heading to the rear came galloping back at full speed before Bazlar. |
 | 183 | "Your Excellency!! A twenty-thousand-strong enemy force from the east——" |
 | 184 | He gazed at the enemy commander who had appeared on the wall, and tore the bread in his hands in half, top from bottom. |
-| 185 | Atop the wall, upon a jade tiger, a girl — Krische Christand — was surrounded by soldiers in black-painted armor. |
+| 185 | Atop the wall, upon a Jade Tiger, a girl — Krische Christand — was surrounded by soldiers in black-painted armor. |
 | 187 | "Sandwich the ground meat between bread. Ehehe, General Velraigh, would you like some?" |
 | 188 | "No, I'll pass." |
 | 189 | He declined with a wry smile, and Krische turned to the opposite side. |
@@ -11810,7 +11810,7 @@
 | 34 | No one spoke. No words were said. |
 | 69 | * * * |
 | 71 | The capital's grand avenue — a corridor of flowers created by the crowds. |
-| 72 | Through it marched soldiers in columns of four, and at the head of the procession, perched upon a jade tiger, was a girl with silver hair. |
+| 72 | Through it marched soldiers in columns of four, and at the head of the procession, perched upon a Jade Tiger, was a girl with silver hair. |
 | 74 | The girl, looking rather put out by the cheering, pouted — surrounded by soldiers in black-painted armor. |
 | 75 | Bearing countless unit flags depicting a skull and crescent moon on a black field, they marched. |
 | 76 | Ten thousand friendly dead against two hundred thousand enemy dead. |
@@ -12048,7 +12048,7 @@
 | 12 | "Mia?" |
 | 13 | "Wrong!" |
 | 14 | Those summoned from the Black Flag Special Service were Dagra and his adjutant Mia. |
-| 15 | Aleha had been invited on account of his promotion to corps commander, and Kalua for her recognized valor in slaying the jade tiger. |
+| 15 | Aleha had been invited on account of his promotion to corps commander, and Kalua for her recognized valor in slaying the Jade Tiger. |
 | 16 | As a rule, few people were invited to a victory banquet of this caliber. |
 | 17 | Either one held the rank of corps commander or higher, or one had achieved some truly exceptional feat of arms. |
 | 18 | It was a lavish affair that even battalion commanders were rarely called to. Mia was like a cat dragged somewhere unfamiliar, while Kalua was entirely her usual self. |
@@ -12688,7 +12688,7 @@
 | 53 | "Most likely a specialized siege weapon utilizing mana crystals — we can assume it possesses at least enough power to destroy this wall." |
 | 54 | "……So it is that, then." |
 | 57 | One rode a horse — a woman in elegant armor with golden hair. |
-| 58 | The other sat upon an enormous jade tiger, draped in a cloak. |
+| 58 | The other sat upon an enormous Jade Tiger, draped in a cloak. |
 | 59 | More girl than woman, perhaps. |
 | 60 | ——The figure with silver hair trailing behind her seemed familiar. |
 | 61 | "……That must be the rumored King's Sister, Alberinea." |
@@ -13062,7 +13062,7 @@
 | 52 | "Vinsreel-san, it's been a while." |
 | 53 | "Yes, five years……since we last met in the capital, was it?" |
 | 54 | This is my wife and children, Vinsreel said, introducing the three, and Krische's party exchanged greetings. |
-| 55 | The boy glanced at the two of them, immediately blushed and looked away——then caught sight of the jade tiger behind them and stiffened. |
+| 55 | The boy glanced at the two of them, immediately blushed and looked away——then caught sight of the Jade Tiger behind them and stiffened. |
 | 56 | Sensing the gaze, Gururun turned its eyes on the boy and stared; the boy froze harder still. |
 | 57 | Noticing this, Krische and Bery looked behind them. Don't eat him, Krische said, and gave Gururun a piece of meat from the plate. |
 | 58 | The boy's body went even more rigid at those words. |
@@ -14032,7 +14032,7 @@
 | Trans Line # | English Content |
 |---:|---|
 | 4 | "……That way." |
-| 7 | Gripping the jade tiger's coarse fur, she leaped from the royal grounds onto the rooftops of the first-class district. |
+| 7 | Gripping the Jade Tiger's coarse fur, she leaped from the royal grounds onto the rooftops of the first-class district. |
 | 8 | "……!" |
 | 9 | ——What she saw there was a pillar of light stretching from the Arsenal into the sky. |
 | 48 | "Where?" |
@@ -14040,7 +14040,7 @@
 | 50 | He must have been roused from sleep. |
 | 51 | His hair was unkempt, confusion written plainly on his face. |
 | 52 | Even so, he understood from Kreschenta's negligee-clad appearance that this was a matter of extreme urgency, and immediately set off running toward a large warehouse. |
-| 53 | Kreschenta sent the jade tiger back and followed. |
+| 53 | Kreschenta sent the Jade Tiger back and followed. |
 | 54 | Inside were the low-purity mana crystals for the Baumje Ira, stacked high enough to tower over them. |
 | 55 | What had been literally a small mountain of reserves — a full third had vanished. |
 | 56 | "Your Majesty——" |
@@ -15440,7 +15440,7 @@
 | 229 | The great tree sprouted blue buds upon its branches and leaves, and they bloomed in rainbow hues. |
 | 230 | Its canopy spread over even the royal capital, and the girl slipped between those boughs to the trunk's side. |
 | 231 | The cord hanging from the neck of the girl in her arms dissolved, and a blue mana crystal floated up into the air. |
-| 232 | As the girl she held waved her hand, below them — one of the estates in the center of the city lost its color, and along with the yawning jade tiger, it blurred and vanished. |
+| 232 | As the girl she held waved her hand, below them — one of the estates in the center of the city lost its color, and along with the yawning Jade Tiger, it blurred and vanished. |
 | 233 | The silver-haired girl released her sister. |
 | 234 | The mana crystal flew into the hands of the peach-haired girl — and a moment's pause. |
 | 235 | "Kreschenta." |
@@ -15471,7 +15471,7 @@
 | 260 | Petals — whether they were truly petals was uncertain. |
 | 261 | They appeared somewhat translucent when held, and their texture was indistinct. |
 | 262 | Dense mana drifted through the air, and those knowledgeable in magical research considered them not material, but something caught between matter and soul-substance. |
-| 263 | And in the royal district, the estate where Queen Kreschenta had resided had vanished, along with the jade tiger, garden and all — leaving a gaping hole as if scooped out. |
+| 263 | And in the royal district, the estate where Queen Kreschenta had resided had vanished, along with the Jade Tiger, garden and all — leaving a gaping hole as if scooped out. |
 | 264 | It was no wonder they were in shock. |
 | 265 | That the common people showed relatively little panic was fortunate. |
 | 266 | They didn't know the queen's residence had vanished from the royal district, and similar commotion had happened before. |
@@ -15892,7 +15892,7 @@
 | 532 | Recalling that the pair had mentioned something about shopping, Karshe noticed what was behind them――a massive magical beast yawning as it pulled a cart, and her body went rigid. |
 | 533 | Piled on the cart bed was an enormous quantity of goods. |
 | 534 | No matter how you looked at it, it was a conspicuous carriage with conspicuous women. |
-| 535 | Yet they blended into the air as naturally as could be, and Mee, standing right beside Karshe and looking at the same thing, showed not even a flicker of surprise at the magical beast――the enormous jade tiger――pulling the cart, seemingly not noticing at all. |
+| 535 | Yet they blended into the air as naturally as could be, and Mee, standing right beside Karshe and looking at the same thing, showed not even a flicker of surprise at the magical beast――the enormous Jade Tiger――pulling the cart, seemingly not noticing at all. |
 | 536 | Karshe no longer believed for a moment that the girl and her attendant were merely a new student and her escort, nor did she believe that the women she could see in the distance were ordinary people. |
 | 537 | The girl tugged the red-haired attendant by the hand, rushed over to one of the attendants on the other side, and whispered something in her ear. |
 | 538 | The distance and the noise of the crowd swallowed the words beyond hearing. |
@@ -15900,7 +15900,7 @@
 | 549 | "――Why didn't you tell me!?" |
 | 550 | "Why, you ask……hmm, well, the vibe, I guess……" |
 | 586 | "Hmm, what indeed." |
-| 605 | Their figures overlapped with the two she had glimpsed near the jade tiger at parting. |
+| 605 | Their figures overlapped with the two she had glimpsed near the Jade Tiger at parting. |
 | 618 | It had been a gift to the author's father at the Giterns estate, buried among that vast collection for years. |
 | 632 | "Nah, just tired from reading a book I'm not used to." |
 | 665 | She recalled the girl frolicking in the snow like a rabbit. |
@@ -15961,7 +15961,7 @@
 | 189 | ※Current Krische > ※Last year's Krische > ※The year before's Krische > ※The year before that's (… |
 | 190 | **2 — Monsters (Unrivalled on the battlefield)** |
 | 191 | ※First-deployment Krische > ※Sword-Saint Scraggly > At-home-manor Selene / ※Shelna > Nyan-nyan > Gilgil / Piyo-piyo / Zalvarg / Alfmarz > Woof-woof / ※Aleha / Gain > Waltza (both arms) / ※Red / ※Continental-Unification Kalua / Vinsreel / Bogan / Nitrias > Kanezarudo / Velvas / Kilrea > ※Village Krische |
-| 192 | **3 — Superhumans (Capable of going toe-to-toe with the jade tiger)** |
+| 192 | **3 — Superhumans (Capable of going toe-to-toe with the Jade Tiger)** |
 | 208 | Most people, even with tremendous effort, can only reach Tier 4 — which is, in military terms, extraordinary enough (even a general who rose from the ranks through sheer grit falls here) — but due to narrative considerations, named characters in Tiers 2 and 3 are fairly numerous. |
 | 210 | --- |
 
@@ -18495,7 +18495,7 @@
 | Trans Line # | English Content |
 |---:|---|
 | 1 | # Chapter 293: The Priestess and the Cage of Desire III |
-| 2 | *Placed on the back of the jade tiger, they went to the divine being's hollow.* |
+| 2 | *Placed on the back of the Jade Tiger, they went to the divine being's hollow.* |
 | 3 | *Having heard what Krische had thought of — her 'something good' — Lila had desperately tried to dissuade her, but the girl would only repeat that it would be fine.* |
 | 4 | *They raced through the forest and descended into the hollow.* |
 | 5 | *"Rigaleiwe-san, Lila is lonely. Please pay more attention to her."* |
