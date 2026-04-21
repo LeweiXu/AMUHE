@@ -2,7 +2,7 @@
 
 ## Summary
 
-**214** chapter(s) have line count differences  **10** flagged (5+ lines, bold)
+**213** chapter(s) have line count differences  **2** flagged (5+ lines, bold)
 
 | Ch | Raw | EN | Delta | Trans file |
 |---:|---:|---:|---|---|
@@ -132,13 +132,13 @@
 | [165](#chapter-165) | 199 | 196 | -3 (missing) | `c161-165.md` |
 | 166 | 231 | 231 | OK | `c166-170.md` |
 | 167 | 231 | 231 | OK | `c166-170.md` |
-| [168](#chapter-168) | 220 | 162 | **-58 (MISSING)** | `c166-170.md` |
-| [169](#chapter-169) | 186 | 127 | **-59 (MISSING)** | `c166-170.md` |
-| [170](#chapter-170) | 244 | 179 | **-65 (MISSING)** | `c166-170.md` |
+| [168](#chapter-168) | 220 | 221 | +1 (extra) | `c166-170.md` |
+| [169](#chapter-169) | 186 | 187 | +1 (extra) | `c166-170.md` |
+| [170](#chapter-170) | 244 | 242 | -2 (missing) | `c166-170.md` |
 | [171](#chapter-171) | 259 | 260 | +1 (extra) | `c171-175.md` |
 | [172](#chapter-172) | 165 | 164 | -1 (missing) | `c171-175.md` |
 | 173 | 1132 | 742 | OK | `c171-175.md` |
-| [174](#chapter-174) | 293 | 281 | **-12 (MISSING)** | `c171-175.md` |
+| [174](#chapter-174) | 293 | 290 | -3 (missing) | `c171-175.md` |
 | [175](#chapter-175) | 252 | 246 | -6 (missing) | `c171-175.md` |
 | [176](#chapter-176) | 242 | 243 | +1 (extra) | `c176-180.md` |
 | [177](#chapter-177) | 195 | 196 | +1 (extra) | `c176-180.md` |
@@ -205,7 +205,7 @@
 | [238](#chapter-238) | 183 | 184 | +1 (extra) | `c236-240.md` |
 | 239 | 236 | 236 | OK | `c236-240.md` |
 | [240](#chapter-240) | 335 | 336 | +1 (extra) | `c236-240.md` |
-| [241](#chapter-241) | 299 | 285 | **-14 (MISSING)** | `c241-245.md` |
+| [241](#chapter-241) | 299 | 300 | +1 (extra) | `c241-245.md` |
 | [242](#chapter-242) | 251 | 253 | +2 (extra) | `c241-245.md` |
 | [243](#chapter-243) | 201 | 202 | +1 (extra) | `c241-245.md` |
 | 244 | 280 | 280 | OK | `c241-245.md` |
@@ -224,7 +224,7 @@
 | [257](#chapter-257) | 272 | 274 | +2 (extra) | `c256-260.md` |
 | [258](#chapter-258) | 358 | 361 | +3 (extra) | `c256-260.md` |
 | [259](#chapter-259) | 333 | 332 | -1 (missing) | `c256-260.md` |
-| [260](#chapter-260) | 664 | 583 | **-81 (MISSING)** | `c256-260.md` |
+| [260](#chapter-260) | 664 | 668 | +4 (extra) | `c256-260.md` |
 | 261 | 434 | 401 | OK | `c261-265.md` |
 | 262 | 443 | 302 | OK | `c261-265.md` |
 | 263 | 568 | 402 | OK | `c261-265.md` |
@@ -233,7 +233,7 @@
 | [266](#chapter-266) | 209 | 210 | +1 (extra) | `c266-270.md` |
 | [267](#chapter-267) | 311 | 313 | +2 (extra) | `c266-270.md` |
 | [268](#chapter-268) | 169 | 171 | +2 (extra) | `c266-270.md` |
-| [269](#chapter-269) | 355 | 336 | **-19 (MISSING)** | `c266-270.md` |
+| 269 | 355 | 355 | OK | `c266-270.md` |
 | [270](#chapter-270) | 294 | 297 | +3 (extra) | `c266-270.md` |
 | [271](#chapter-271) | 417 | 421 | +4 (extra) | `c271-275.md` |
 | [272](#chapter-272) | 235 | 234 | -1 (missing) | `c271-275.md` |
@@ -251,9 +251,9 @@
 | [284](#chapter-284) | 285 | 287 | +2 (extra) | `c281-285.md` |
 | [285](#chapter-285) | 258 | 260 | +2 (extra) | `c281-285.md` |
 | [286](#chapter-286) | 249 | 244 | -5 (missing) | `c286-290.md` |
-| [287](#chapter-287) | 280 | 225 | **-55 (MISSING)** | `c286-290.md` |
-| [288](#chapter-288) | 310 | 265 | **-45 (MISSING)** | `c286-290.md` |
-| [289](#chapter-289) | 430 | 393 | **-37 (MISSING)** | `c286-290.md` |
+| [287](#chapter-287) | 280 | 272 | -8 (missing) | `c286-290.md` |
+| [288](#chapter-288) | 310 | 293 | **-17 (MISSING)** | `c286-290.md` |
+| [289](#chapter-289) | 430 | 385 | **-45 (MISSING)** | `c286-290.md` |
 | 290 | 227 | 222 | OK | `c286-290.md` |
 | [291](#chapter-291) | 362 | 364 | +2 (extra) | `c291-295.md` |
 | 292 | 240 | 240 | OK | `c291-295.md` |
@@ -8259,8 +8259,8 @@
 | Raw file | `168_虚飾の王国.txt` |
 | Translated file | `c166-170.md` |
 | Raw line count | 220 |
-| Translated line count | 162 |
-| **Verdict** | **58 line(s) MISSING from translation** |
+| Translated line count | 221 |
+| **Verdict** | **1 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -8269,84 +8269,8 @@
 | Raw Line # | Japanese Content |
 |---:|---|
 | 1 | 虚飾の王国 |
-| 5 | 胸と腰の巻き布の間、さらけ出されたしなやかな腹部。 |
-| 9 | クレシェンタもまた何とも言えない様子で、アーネに向かって口を開く。 |
-| 13 | この上クッキーとはいかなる理由かと首を傾げ。 |
-| 14 | 「ちょっとさっぱりとしたものが食べたい気分ですの。干した果実を加えたものが良いですわ」 |
-| 15 | 「はい。そういうことでしたらすぐにっ」 |
-| 16 | アーネは妙にきりりとした様子で部屋を出て行き、クレシェンタは目頭を押さえる。 |
-| 17 | 果実を混ぜたものならば多少手間取るはずだった。これでしばらくは帰ってこない。 |
-| 22 | アルゴーシュは気が気ではなかったが、クレシェンタは彼を安心させるべく言葉を紡ぐ。 |
-| 23 | タイミングが悪く、気が利かない、あるいは気を使いすぎ――アーネは七色の欠点を持つ不器用すぎる女である。 |
-| 24 | 不愉快に思うことはもはや日常的、既に慣れていた。 |
-| 31 | くすくすとクレシェンタは少女のように笑い、リラは頬を赤らめた。 |
-| 34 | 子供と言える年齢にも関わらずこちらを気遣い、気品と風格ある女王の姿。 |
 | 35 | 見習うべきは多いと感じながらも頭を下げる。 |
-| 38 | 赤に煌めく金の髪――そこに包まれた小さな頭ではどれほどの情報が処理されているのか。 |
-| 56 | 「いえ、ふふ……そういう気遣いを飾りなどとは言いません。きっと女王陛下のそのお気持ちは、他のものにも届くでしょう」 |
-| 57 | リラもまた満面の笑みでそれに応じる。 |
-| 58 | 「わたしは心から、女王陛下の代に生を受け、クレィシャラナの巫女となったことを嬉しく思います。きっとこれがわたしの役目――尽くせるだけの力を尽くし、その架け橋になれればと。こうして再び、両国の間に繋がりが生まれようとしていることを何より嬉しく思います」 |
-| 59 | 立ち上がって頭を下げ、クレシェンタは苦笑する。 |
-| 60 | どこまでも気品ある笑い声だった。 |
-| 61 | 「顔を上げてくださいまし。ふふ、クレィシャラナの方は率直に過ぎて、こちらが困惑してしまいそう……」 |
-| 64 | 幼い女王は鈴の鳴るような甘い声でそう語り。 |
-| 65 | その小さな右手をリラに差し出す。 |
-| 66 | リラはその手を両手で掴み、微笑んだ。 |
-| 67 | 王国の女王がこの幼い少女で良かったと、心の底から思いながら。 |
-| 68 | その日の夕刻。 |
-| 73 | 大きな湯船と錬成岩造りの広い浴室。 |
-| 82 | 覚えるのは『洗いっこ』という言葉の響きからは想像も出来ない不純さである。 |
-| 86 | 知識から照らし合わせるに、これは妥当なようにも思える。 |
-| 88 | そんな彼女が客人の前で、よもや主人と睦み合いの如きものを見せているなどということはあるまい。 |
-| 89 | ――やはりこれは、王国では普通のことなのではあるまいか。 |
-| 90 | 自分の体を洗おうとしつつ目の前の光景に固まっていたリラは、そんなどうしようもない思考の迷路に迷い込む。 |
-| 91 | ここに訪れてからというもの、彼女らの心配りは何よりもありがたいものであった。 |
-| 92 | 少なからずクレィシャラナの生活について学んでくれていたのだろう。 |
-| 93 | その上でこちらに合わせて歓迎してくれている。 |
-| 94 | そのことを考えれば、次はこちらの番――羞恥心などにこだわっている場合ではあるまい。 |
-| 95 | 他国へ招かれた上でこれだけの歓待を受けているのだ。 |
-| 98 | 彼女の人柄も知っている。 |
-| 99 | そこに欠片の悪意があるとも思えず、まさに善意そのものの提案であるのだろう。 |
-| 100 | 断る理由などはどこをどう見ても存在しなかった。 |
-| 108 | 「で、では……その、失礼してもよろしいでしょうか？　リラ様」 |
-| 117 | 意外なほどくびれた腰から肉付きの良い太ももまでのラインは何とも言えない曲線美。 |
-| 124 | 肌を滑るなめらかな感触は絹だろうか。 |
-| 125 | 随分ときめ細やかな繊維のもので、優しすぎる感触は少しこそばゆい。 |
-| 126 | 木綿のタオルでごしごしと洗うのが常であったリラにはなんとも、その心地よさが奇妙に思える。 |
-| 127 | 指の先から間まで、丁寧に宝石でも磨きあげるように。 |
-| 128 | すっごく洗うのが上手、というクリシェの言葉は本当らしい。 |
-| 129 | 母にわしゃわしゃと洗われていた子供の頃のそれとは一線を画している。 |
-| 130 | 王家の使用人とはそのようなものであるのだろう。 |
-| 131 | あまりの丁寧さにリラなどでは恐縮してしまいそうだった。 |
-| 132 | 毎日こうして奉仕を受けることなど、自分では精神的に耐えられまい。 |
-| 133 | 無言で体を洗われるという状況。 |
-| 137 | 要点を分かりやすく、失敗例などを交えながらの説明はリラにも理解がしやすいようかみ砕かれていた。 |
-| 138 | 作り方自体もシンプルなもので、それほど技術が必要なようには思えない。 |
-| 139 | 料理が得意でないと知って、特に簡単なものを教えてくれたのだろう。 |
-| 140 | 「ふふ、何よりです。でも木の実のクッキーはわたしもクリシェ様に教わったものですから、お礼ならクリシェ様に――」 |
-| 141 | 「ほとんどベリーですっ。クリシェ、ベリーに教えてもらうまであんなに美味しい木の実のクッキー作れませんでしたし」 |
-| 142 | 被せるようにクリシェが言って、後ろからリラの髪を泡立て始める。 |
-| 143 | 「えへへ、ベリーはクリシェの先生なのです。ベリーは教えるのもすっごく上手ですし、他にも色々なんでも出来ちゃうんですからっ」 |
-| 144 | リラから顔は見えないながらも、どことなく自慢げで。 |
-| 145 | ベリーは少し恥ずかしそうに笑い、告げる。 |
-| 146 | 「もう、いけませんよ。何をやってもそうやってすぐお褒めになるんですから。そんな風に舞い上がるようなことばかり言われてしまうと、わたしも段々と付け上がってしまうかも」 |
-| 147 | 「でも、事実ですし。それにいいのではないでしょうか？　……実際ベリーはある意味、クリシェのご主人さ――むぐっ」 |
-| 159 | 慌てたようにベリーはしゃがみ、顔を真っ赤にしながら乳房を押さえた。 |
-| 160 | 形のいい乳房がひしゃげる様子。 |
-| 161 | むしろそうして隠す姿の方が色っぽく見え、見ているリラもまた赤面する。 |
-| 165 | クリシェも以前見たときの物静かな様子とは随分違って明るく見え、子供のようで。 |
-| 172 | 王国に使者として出向くことになった時には、やはり多少の緊張もあった。 |
-| 173 | クレィシャラナに伝わる王国の人間は、悪意に満ちた邪悪な人々であるかのように語られていたからだ。 |
 | 176 | そこに育った身としては、戦争を繰り返す王国に対してはやはり、少し野蛮な印象がないではなかった。 |
-| 193 | 女王クレシェンタもまた、クリシェと同じく凡人とは比べものにならぬ存在であった。 |
-| 194 | しかし、クリシェからすればやはり妹である。 |
-| 195 | 彼女の能力の高さを考えれば、評価が辛くなってしまうのも必然だろうか。 |
-| 199 | しかし足音の主はバサバサと、まるで服を脱ぎ捨てるかのような音を脱衣所に響かせ、 |
-| 203 | 湯煙の中を仁王立ち。 |
-| 204 | 靄が晴れれば、そこに映るのは裸体の美少女。 |
-| 205 | 赤に煌めく金の髪を揺らし、起伏のない体。 |
-| 214 | 体をタオルで隠し、何食わぬ顔で現れた彼女はまさに、偶然浴室に現れた女王。 |
-| 219 | 再び眼前を覆うように揺れた乳房を眺めつつ。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -8354,27 +8278,10 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 2 | It was the reception room of the royal castle. |
-| 3 | Anne stood at attention diagonally behind Kreschenta, and the instant she finished her tea, a new cup was poured for her. Seized by an almost compulsive feeling that she had to drink it before it cooled, Lila thanked her and accepted — this was now cup number four. |
-| 8 | "Cookies, Your Majesty?" |
-| 40 | "I believe what matters most is that people of both nations talk like this. Trade is merely a pretext for interaction. It's nothing more than a reason for us to become familiar with each other — and what truly holds value is not the goods, but the connection." |
-| 41 | *Forgive me,* Kreschenta said with a mischievous smile. |
-| 42 | "I know that the people of Kreisharana are not fond of this sort of thing — pretense and ornament used to conceal true intentions." |
-| 43 | "No, not at all…… that kind of consideration can hardly be called ornament. I'm sure Her Majesty's feelings will reach others as well." |
-| 52 | * * * |
-| 53 | It was the evening of that day. |
-| 54 | Having finished her meeting with Kreschenta that morning, Lila accepted an invitation to the Christand estate. She learned how to make cookies from Krische and Bery, had a light tea party, and then Krische suggested a bath — so she ended up bathing at the estate. But— |
-| 61 | The beautiful girl's body carried a woman's curves, and the red-haired woman — Bery — had a body that was nothing short of sensual, the very incarnation of womanly beauty. |
-| 62 | Despite her girlish, youthful face, her every gesture was that of a grown woman, and the way she seemed slightly abashed under Lila's gaze was indescribable. |
-| 92 | She could never endure being attended to like this every day; it would break her spirit. The silence of having her body washed — she couldn't bear it for long, and opened her mouth to divert her attention. |
-| 93 | "Um…… thank you for teaching me how to make cookies. I'm not much good at cooking, but I think I can manage those even back home." |
-| 94 | She had been taught two kinds: a particular cookie using two types of wheat, plus one based on forest nuts that would be easier to obtain in Kreisharana. |
-| 95 | The key points were explained clearly, with examples of common mistakes, and the instructions were simplified enough for Lila to follow. The technique required didn't seem particularly demanding, either. Knowing she wasn't good at cooking, they had probably chosen the simplest recipes. |
-| 96 | "Tehe, I'm glad. But the nut cookies are ones I learned from Krische-sama, so really, your thanks should go to Krische-sama——" |
-| 97 | "Mostly Bery! Krische couldn't make nut cookies nearly that good before Bery taught Krische." |
-| 148 | Golden hair gleaming red, swaying. A body without curves. The person who had appeared was Lila's respected Queen of Alberan — Kreschenta Farna Vera Alberan. |
-| 161 | That day, Lila felt she had glimpsed the true nature of the kingdom — a realm painted over with pretense. |
-| 162 | --- |
+| 3 | Behind Kreschenta, slightly to her right, Anne stood at attention with impeccable posture, and the moment her cup of tea was emptied, a fresh one was poured. |
+| 34 | Despite being young enough to be called a child, she showed care for others, and carried herself with the dignity and bearing of a queen. |
+| 69 | That evening. |
+| 221 | --- |
 
 ---
 
@@ -8385,8 +8292,8 @@
 | Raw file | `169_ギーテルンス父娘.txt` |
 | Translated file | `c166-170.md` |
 | Raw line count | 186 |
-| Translated line count | 127 |
-| **Verdict** | **59 line(s) MISSING from translation** |
+| Translated line count | 187 |
+| **Verdict** | **1 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -8394,98 +8301,27 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 1 | ギーテルンス父娘 |
-| 2 | ――これほど元気な赤子も珍しい。 |
-| 3 | 生まれてくると見ていたものは口々に、そんな言葉を繰り返したらしい。 |
-| 4 | おぎゃあ、おぎゃあと部屋を満たすは盛大な泣き声。当然記憶などは無い。赤子である。 |
-| 5 | 名付けは兄二人と比べ、すぐに決まったそうだ。 |
-| 6 | アーネの名は春を司る女神、アーネリュースから。 |
-| 7 | 神々の中では一際華やか、元気で明るい女神であって、雪解けの時期に生まれてきた元気なアーネにはぴったりであったのだという。 |
-| 8 | ハイハイを覚えてからは一人で屋敷中を這いずり回り、立てるようになってからは屋敷を飛び出し近所の人に連れ帰られ。 |
-| 9 | アーネはすこぶる元気、実に好奇心旺盛な子供であったという。 |
-| 10 | 行動力有り余り、お転婆娘なアーネには早めに何かをさせた方が良い。 |
-| 11 | 両親はそのようなことを考えたらしく、礼儀作法やヴァイオリン、学問等々色々な家庭教師を付けたものの、窮屈な生活である。 |
-| 12 | 遊び回りたいアーネとしては不満しかなく、学習意欲も高まるはずもない。 |
-| 13 | 今となっては両親の理屈もわかるが、子供は子供としてもう少し伸び伸びとさせてみるべきであったのだとアーネは思う。 |
-| 14 | 二人の兄は確かに優秀であった。 |
-| 15 | それと比べるのは仕方ないにしろ、それでも人並み程度のことは出来ていたのだ。 |
-| 16 | やはりもう少し長い目で見るべきであっただろう。 |
-| 17 | そうした実に厳しい生活の最中、ある日屋敷に訪れたのは一人の吟遊詩人であった。 |
 | 18 | 退屈で窮屈な日常に舞い降りた娯楽。 |
-| 19 | 数日滞在する間、アーネは彼から何度も繰り返し物語をねだった記憶がある。 |
-| 20 | 中でも特に好きだったのは、姫と使用人の物語であった。 |
-| 21 | 心から愛する使用人を、邪悪な母の手によって奪われ、復讐する――物語の筋書きはそのようなもので、恐らく吟遊詩人の語りも良かったのだろう。 |
-| 22 | 邪悪な教育を施そうとした母の手から、その使用人は姫を守ろうとするものの力及ばず殺されてしまい。 |
-| 23 | それを知った姫は激怒し、ただその使用人への愛ゆえに剣を取り。 |
-| 24 | 悲恋ものというべき内容で、終わりも悲しく、わんわんと泣いた。 |
-| 25 | 今でもその物語を考えると涙が滲んでしまうほどに記憶に残る話である。 |
-| 26 | アーネが使用人というものに憧れのようなものを抱いたのはそれからのこと。 |
-| 27 | 礼儀作法の勉強には力を入れ、暇があっては屋敷にいた使用人の手伝い、多くを学ぶ。 |
 | 28 | 『アーネ、その、なんだ……お前がやる気を出してくれるのは嬉しいが、その……やはり自分の屋敷で使用人の真似事というのは……』 |
 | 29 | 『いえ、お父様。やはりわたしもまだまだ未熟。外に出てから迷惑を掛けるよりも、こうして親元で甘えさせてもらえる内に多くの失敗を学んでおいた方が良いと考えたのです。最近は失敗も減り、ちゃんと進歩が！』 |
 | 30 | 『ま、まぁまぁアルゴーシュ。よくわからないけれど、折角アーネが将来の勉強にとやる気を出してくれてるんだもの。水を差しちゃ……た、確かに最近はそんなに失敗もないし、頑張ってるわ』 |
 | 31 | 『う、うーむ……』 |
-| 32 | 雑草と間違え父の菜園からハーブを引き抜き、絵画を乾拭く。 |
-| 33 | 壺の模様を汚れと勘違いしてつるつるになるまで磨きあげ――最初こそは多くの失敗を重ねたが、その失敗を糧にしながら数年を掛けて多くを学び、些細な欠点こそあれど一通りの事がこなせるようになるまで成長した。 |
-| 34 | 『先方には面倒を見てくれるよう頼んであるが、王領は陛下のお膝元だ。くれぐれも浮かれて滅多なことをしないように。王領の屋敷は多くの方がいらっしゃる。もしかするとお前を気に入ってくださる方も――』 |
 | 35 | 『はいっ、立派な使用人を目指します、お父様！』 |
 | 36 | 『いや、使用人は目指すべきものではなくてだな……』 |
 | 37 | 『お任せください！　きっとお父様のご期待に応えます！』 |
 | 38 | 『ま……まぁまぁアルゴーシュ、こういうのは自然に……わたしとあなたもそうだったじゃない。アーネはこれでいいのよ』 |
 | 39 | 『う、うーむ……』 |
-| 40 | そしてその努力を認められ、両親に背中を押されるように王領へ。 |
-| 41 | それまでの努力もあってか、そこでの生活にはそれほど不便はなく。 |
-| 42 | ちょっとした退屈さすらを覚えてしまったのはきっと事前に多くを学びすぎたが故だろう。 |
-| 43 | 客人を迎え入れては世話をして、華やかさこそあれど代わり映えのしない生活。 |
-| 44 | 王領でのルールを覚え、生活に馴染み――その生活は悪いものでは無かったものの、ぬるま湯に浸かるような感覚があった。 |
-| 45 | 流石に王領。 |
-| 46 | 皆立派な使用人ではあったがしかし、これは、と思える方とは出会えなかったのだ。 |
-| 47 | アーネが考えていたような理想の使用人としての生活とも違う。 |
-| 48 | やはり憧れは憧れ、物語は物語。 |
-| 49 | そんな風に諦めを抱いて生活していたある日のこと―― |
-| 50 | 『クリシュタンド辺境伯をここでお迎えするそうよ、アーネ。王都にいる間はこのお屋敷に、ですって』 |
 | 51 | 『……それは珍しいですね。クリシュタンド辺境伯……』 |
 | 52 | 『知らないなんて言うんじゃないわよね？』 |
 | 53 | 『もちろん知ってますっ、ギーテルンスは同じ北部なんですから』 |
-| 54 | 数々の武功を挙げた王国の英雄、ボーガン＝クリシュタンドを知らないものなど北部にはいない。 |
-| 55 | 元は男爵であったか城伯であったか、下級貴族から一代で武官の頂点とも言える辺境伯の爵位を得るに至った生粋の武人。 |
-| 56 | 今は王国北部の将軍として軍を指揮し、先日の戦では神聖帝国の大侵攻を防ぎ更なる手柄を挙げたのだという。 |
-| 57 | 平民や若手の貴族に人気が高い方ではあった。 |
-| 58 | しかしこうして王領の屋敷に宿をと割り当てられることは珍しい。 |
-| 59 | 王領は文字通り王の庭。 |
-| 60 | 一時的な着替え場所程度に屋敷が用いられることはあっても、寝起きを許されるのは他国の賓客か王族に名を連ねるものくらいで、辺境伯とはいえ単なる一貴族が宿泊を許されるというのは滅多にないこと。 |
-| 61 | それだけの武功であったのかと考え込んでいると、 |
-| 62 | 『……どうにもあちらの方から直接、そのように計らうよう命じられたみたい』 |
-| 63 | 『なるほど……』 |
-| 64 | 耳を寄せた同僚は王城を指し示し、小声で告げた。 |
-| 65 | つまるところ王家の人間の命ということだ。 |
-| 66 | 『いつも以上に粗相のないようになさい。特に使用人のアルガン様は辺境伯夫人のようにもてなすようにとオーザル様から言われているわ』 |
-| 67 | 『使用人を奥さまとして？』 |
-| 68 | 『そう。有名な話だけれど知らないの？』 |
-| 69 | 『えと……全く』 |
-| 70 | 『あのね……』 |
-| 71 | クリシュタンド辺境伯は数年前、奥方を亡くされていた。 |
-| 72 | 名声止まぬ大貴族である。 |
-| 73 | そうなれば当然あちこちから新たな妻にと縁談話を持ちかけられ――しかしクリシュタンド辺境伯はそういった話を全て断り続けているらしい。 |
-| 74 | 妾がいるわけでもなく、子が娘と養女がいるのみであることを考えると不思議な話であった。 |
-| 75 | 別段女が当主となることも珍しい話ではなかったが、とはいえそういうものは兄弟が死んだなどというような、やむにやまれぬ事情があってのもの。 |
-| 76 | 出産で死ぬ恐れのある女が家を継ぐことはあまり好ましくはないし、直系の男児を残すため新たな配偶者を望むというのは普通のことである。 |
-| 77 | こういう場合は縁談か、あるいは使用人から新たな相手を選ぶというのが一般的であったが、こうなると的も絞られる。 |
 | 78 | クリシュタンド家はどういう事情か、その大きさにも関わらず使用人はただ一人――その亡くなられた辺境伯夫人の妹のみ。 |
 | 79 | 二十半ばであるが、しかしどこかに嫁いだ出戻りというわけでもなく、先の辺境伯夫人に似てお美しい方であるという話である。 |
 | 80 | それらの事情を考えると恐らくはその妹が姉に代わり、折を見て辺境伯夫人となるのではないか――そのように貴族達の間では噂されているらしかった。 |
 | 81 | 『……そういうことには本当、随分詳しいですね』 |
 | 82 | 『あのね、こういう情報を知っておくことも仕事の内よアーネ。噂話に興じるというのは別に単なるおさぼりってわけじゃないの』 |
-| 83 | ゴシップを楽しむ普段の同僚の姿はどう見てもサボっている以外に表現出来ないものであったが、それはともかく。 |
-| 84 | 気を付けなきゃだめよ、と彼女は続ける。 |
 | 85 | 『クリシュタンドみたいな大貴族の家に唯一の使用人だなんて、多分きっと、すごく気難しい方よ。びっくりするくらい嫉妬深い方かも』 |
 | 86 | 『……なるほど、確かに』 |
-| 87 | 真っ当な考えならば、屋敷に使用人一人などおかしなことだ。 |
-| 88 | 膨大な屋敷の仕事。 |
-| 89 | その維持管理を一人でなどそうそうできるはずもないし、普通は他の使用人を入れるもの。 |
 | 90 | クリシュタンド辺境伯が極度の吝嗇家というわけでなければ、それでもあえて使用人を入れない理由は恐らく、その方に理由があるのだろう。 |
-| 91 | 人嫌いな方、ということも十分にあり得るし、主人に色目を使われるのを強く嫌う方という事もあり得る。 |
-| 92 | ――果たしてどのような方がいらっしゃるのか。 |
 | 93 | アーネは緊張しながらその日を待ち。 |
 | 94 | 『そう緊張なさらないでください。クリシェ様はお作法をあまり気にされない方ですし、わたしもそうです。いつも通りで良いのですよ』 |
 | 95 | ある種、それは一目惚れと言えるものであっただろう。 |
@@ -8493,53 +8329,7 @@
 | 97 | 立ち居振る舞い優美で可憐。 |
 | 98 | 包み込まれるような雰囲気と、どこか儚げな美しさを併せ持ち。 |
 | 99 | その日出会った使用人、ベリー＝アルガンはまさに、アーネ＝ギーテルンスが思い描いた理想の使用人、そのままの姿であった。 |
-| 100 | 「――その日からわたしは、アルガン様のような素晴らしい淑女、使用人を目指しているのです、お父様」 |
-| 101 | 「そ、そうか……」 |
-| 102 | 様々な混乱も少し落ち着いたところで、クリシュタンドの厚意もあり、屋敷の一室でアーネと対面していたアルゴーシュ＝ギーテルンス。 |
-| 103 | 愛娘から『アーネ＝ギーテルンスのこれまでと、これから』なる話を延々と聞かされ、目頭を押さえていた。 |
-| 104 | 無論感動ではなく疲労からである。 |
-| 105 | 何をどこでどう間違ってしまったのか。 |
-| 106 | 娘は何やらよく分からない方向へ向かってしまっており、どうしたものかと頭が痛かった。 |
-| 107 | アルゴーシュは何も、娘を理想の使用人へと成長させるためアーネを王領へ送り込んだわけではない。 |
-| 108 | 息子は二人とも無事結婚し、孫も生まれて順風満帆。 |
-| 109 | 後の気がかりはアーネだけ。 |
-| 110 | 個人的には王領で良い相手と巡り会い、どこかの家に嫁いでくれるだけで安心出来たのだが、しかしその様子すら欠片もなかった。 |
-| 111 | 相手が仮に貴族でなくとも、商人庭師の類でも構わない。 |
-| 112 | 娘を幸せにしてくれるのならばそれで良いと思っていたのだが――アーネの口から色気のある話は全く出てこず。 |
-| 113 | はぁ、と深くため息をついた。 |
-| 114 | ベリー＝アルガンという使用人が確かに、女性として尊敬出来る素晴らしい使用人であるという彼女の言葉は理解できなくもないが、とはいえ、それとこれとは話が別。 |
-| 115 | 貴族としてではなく一人の親として、娘の将来を危ぶむところがあった。 |
-| 116 | 「こうして今は、アルガン様も女王陛下から厚い信頼を抱かれる王国一の使用人……そして今はわたしも普段は女王陛下のお側付きとして働き、やはり、わたしの直感は間違っていませんでした」 |
-| 117 | 「……お前の言い分はよくわかった。そこまででいい」 |
-| 118 | 娘の淹れた紅茶を飲みつつ、アルゴーシュは手を振った。 |
-| 119 | 蜂蜜が小さじ一杯も入っていない、ほとんどそのままの紅茶。 |
-| 120 | 恐らく甘いものが好きではないというアルゴーシュに気を使ってのものだろう。 |
-| 121 | 流石に紅茶には多少の甘みが欲しいものだが、そんな行き過ぎた気遣いに、昔と変わらない娘の姿を感じながらアルゴーシュは告げる。 |
-| 122 | 「しかし、アーネ。本当にそれでいいのか？」 |
-| 123 | 「……？」 |
-| 124 | 「そうだな……そろそろお前も、結婚などを考えてはどうかと私は思うのだ。良い相手などはいないのか？」 |
-| 125 | 「良い相手……」 |
-| 126 | アーネはきょとんと首を傾げ、黒髪を揺らした。 |
-| 127 | 「私はお前を幸せにしてくれるならどんな相手でも構わないと思っている。貴族でなくても歓迎しよう。どうだ？　気軽に言ってみるといい」 |
-| 128 | 「……うーむ、今のところはそのような方も」 |
-| 129 | まさかそのようなことを聞かれるとは思っても見なかった。 |
-| 130 | アーネの顔に浮かんでいるのはそんな表情である。アルゴーシュもよく知っていた。 |
-| 131 | 華ある美人と言えないまでも、母に似て可愛らしい顔立ちをしているものだが、浮いた話の一つも無いのはどうした訳か。 |
-| 132 | アルゴーシュには甚だ疑問であった。 |
-| 133 | 「王領ではそもそも忙しい日々を送っておりましたし、今はより……やはり使用人として働く以上そのような不純な動機を抱いていては――」 |
-| 134 | 「そうか。……私が悪かった」 |
-| 135 | そもそも娘を使用人にするのは、縁を繋いで嫁ぐことを目的としたものであるが、アーネのいう建前としての使用人の在り方は決して間違いでも無い。 |
-| 136 | 彼女の妙に真面目なところはアルゴーシュも知っている。 |
-| 137 | それが悪い方向に出てしまったのだろう。 |
-| 138 | 彼女の母も似たところがあったと思い出し、嘆息する。 |
-| 139 | 使用人として自分を磨く。それ自体は悪いことではない。 |
-| 140 | 彼女の母も昔はギーテルンスの使用人。 |
-| 141 | どこか抜けているものの、その真面目さや、穏やかで優しい人柄に惚れ込みアルゴーシュが求婚し、夫婦となり――そんな結果を思うのならばやはり悪くはない。 |
-| 142 | だが彼女がいるのはクリシュタンドである。 |
-| 143 | 当主セレネ、女。 |
-| 163 | クレシェンタの側には必ず、使用人が一人はついていなくてはならない。 |
-| 172 | 華美ではなく、立場を考えれば質素にも見える部屋だった。 |
-| 186 | 妙に感動しやすく涙もろいところは、アルゴーシュも自覚する無数の欠点の一つであった。 |
+| 185 | 必死でそれを堪え、目頭を押さえる。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -8547,93 +8337,36 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 8 | With more energy than she knew what to do with and a tomboy streak, it would be best to channel that early. Or so her parents thought, and they engaged all manner of tutors — etiquette, violin, academics, and so on — but it was a stifling life. For an Anne who only wanted to run around and play, there was nothing but dissatisfaction, and her motivation to learn naturally refused to rise. |
-| 9 | Looking back, she understood her parents' reasoning, but she believed they should have let her grow more freely as a child. Her two brothers had certainly been accomplished. Comparing her was perhaps inevitable, but she had been managing at least an average level. |
-| 10 | A longer view really should have been taken. |
-| 11 | It was during that rather strict life that one day, a traveling bard arrived at the estate. |
-| 12 | Entertainment descended upon a tedious, suffocating daily existence. |
-| 13 | She remembered begging him to tell her stories over and over during his stay of several days. Her favorite, above all others, was the tale of the princess and her servant. |
-| 14 | A princess who loved her servant with all her heart, only to have her torn away by her wicked mother, and then took revenge — that was the gist of the story. The bard's telling was probably part of its power. The servant tried to protect the princess from the mother's wicked upbringing but was killed, unable to prevail. Learning of this, the princess flew into a rage and took up the sword, driven solely by her love for that servant. |
-| 15 | A tale of tragic love — the ending was sorrowful, too, and she cried her eyes out. Even now, merely thinking of the story made her eyes well up; that was how deeply it had stayed with her. |
-| 16 | From that point on, Anne harbored a kind of longing for the role of servant. She threw herself into her etiquette studies, and in her spare time she helped the servants around the estate, learning much. |
-| 17 | *'Anne, well, the thing is…… I'm glad you're showing initiative, but, well…… playing servant in your own home is a bit……'* |
-| 18 | *'No, Father. I realized I'm still inexperienced. Better to learn from my mistakes here, while I can still be indulged under my parents' roof, than to embarrass myself after I leave. I've been making fewer mistakes lately — real progress!'* |
-| 19 | *'N-now, now, Argoush. I'm not sure I understand, but she's finally showing some motivation. Let's not pour cold water on…… sh-she really has been making fewer mistakes lately and trying hard.'* |
-| 20 | *'Hmm……'* |
-| 21 | She mistook her father's herb garden for weeds and pulled them up. She dry-wiped a painting. She mistook a vase's pattern for dirt and polished it smooth. Her early days were filled with blunders, but she built upon those failures over the years, and eventually grew into someone who could handle most things — minor shortcomings aside. |
-| 22 | *'I've arranged for someone there to look after you, but the royal district is His Majesty's domain. Whatever you do, don't get carried away and do anything rash. There are many people in the royal district's estate. Perhaps someone might take a liking to you——'* |
-| 23 | *'Yes! I'll aim to become a splendid servant, Father!'* |
-| 24 | *'No, servant isn't really what you should be aiming for——'* |
-| 25 | *'Leave it to me! I'll live up to your expectations!'* |
-| 26 | *'Well…… well, Argoush, these things happen naturally…… you and I were the same, weren't we? Anne is just fine like this.'* |
-| 27 | *'Hmm……'* |
-| 28 | And so, with her efforts recognized and her parents' encouragement at her back, she set off for the royal district. Perhaps because she had learned so much beforehand, life there posed few difficulties. The slight boredom she felt was surely because she had over-prepared. |
-| 29 | Welcoming guests and tending to them — it had its glamour, but one day blurred into the next. She learned the rules of the royal district and settled into its routine. The life wasn't bad, but it felt like soaking in a lukewarm bath. |
-| 30 | It was the royal district, after all. Every servant was perfectly competent, but she had yet to meet anyone who truly struck her as exceptional. The ideal life of a servant that Anne had envisioned remained just that — an ideal. A dream was a dream; a story was a story. |
-| 31 | Just as she was beginning to resign herself to that, one day— |
-| 32 | *'We'll be receiving Margrave Christand here, Anne. She'll be staying at this estate during her time in the capital.'* |
-| 33 | *'……How unusual. Margrave Christand……'* |
-| 34 | *'Don't tell me you don't know?'* |
-| 35 | *'Of course I know! Giterns is in the north too, after all.'* |
-| 36 | There was no one in the north who didn't know of Bogan Christand, the kingdom's hero famed for his many distinguished feats of arms. Originally a baron — or was it a castellan? — a lower noble who had risen in a single generation to the rank of margrave, the pinnacle of the military aristocracy. He now commanded the kingdom's northern army as its general, and had recently repelled the Holy Empire's great invasion, adding yet another achievement to his name. |
-| 37 | He was popular among commoners and younger nobles. Yet it was unusual for a room in the royal district to be assigned to such a guest. The royal district was, in the literal sense, the king's garden. While its estates might be used as a temporary changing room, permission to stay overnight was reserved for foreign dignitaries or those bearing a royal title — for a mere margrave, however high, to be granted such lodging was rare. |
-| 38 | She was considering whether his military achievements had been that exceptional when— |
-| 39 | *'……It seems the order came directly from over there.'* |
-| 40 | *'I see……'* |
-| 41 | Her colleague leaned in and whispered, pointing toward the royal castle. In other words, a member of the royal family had ordered it. |
-| 42 | *'We've been told by Ozal-sama to treat the servant, Argan-sama, as we would the margrave's wife.'* |
-| 43 | *'A servant, treated as the wife?'* |
-| 44 | *'Yes. It's well known — you didn't know?'* |
-| 45 | *'Um…… not at all.'* |
-| 46 | *'Oh, honestly……'* |
-| 47 | Margrave Christand had lost his wife some years prior. Being a great noble of undiminished renown, proposals for a new wife naturally poured in from all sides — yet Margrave Christand had reportedly refused every single one. |
-| 48 | He had no mistress, and his children were limited to a daughter and an adopted daughter, which made it rather puzzling. It wasn't unheard of for a woman to become head of a household, but such cases typically arose from necessity — brothers dying, and the like. A woman, who might die in childbirth, inheriting a house was not generally preferred, and seeking a new spouse to produce a male heir was only natural. |
-| 49 | In such cases, one would typically arrange a match or choose a new partner from among the servants — which narrowed the field considerably. For reasons unclear, the Christand household, despite its size, employed only a single servant — the sister of the late margravine. In her mid-twenties, she had not married and returned; she was said to be a beautiful woman who resembled the former margravine. |
-| 50 | Considering all these circumstances, the rumor circulating among the nobility was that this sister would likely step into her sibling's place and, in time, become the new margravine. |
-| 51 | *'……You really are terribly well-informed about these things.'* |
-| 52 | *'Listen, knowing this kind of information is part of the job, Anne. Gossiping isn't just slacking off.'* |
-| 53 | Her colleague's usual demeanor while enjoying gossip looked like nothing but slacking off, but setting that aside— |
-| 54 | *Be careful,* she continued. |
-| 55 | *'Being the sole servant in a great house like Christand — she's probably terribly particular. Wouldn't be surprised if she's shockingly jealous.'* |
-| 56 | *'……I see, that makes sense.'* |
-| 57 | By any reasonable measure, a single servant for an entire estate was abnormal. The sheer volume of household work — maintaining and managing such a large estate alone was barely feasible. Normally, more servants would be brought in. Unless Margrave Christand was an extreme miser, the reason for deliberately keeping the staff at one likely lay with this individual. |
-| 58 | She might be a recluse, or someone who fiercely objected to other women making eyes at her master. Both were plausible. |
-| 59 | *— What sort of person would she be?* |
-| 60 | Anne waited for the day with mounting tension. |
-| 61 | *'Please, don't be so nervous. Krische-sama is not one to fuss over etiquette, and neither am I. Just be yourself.'* |
-| 62 | In a sense, it could be called love at first sight. |
-| 63 | A silver-haired, fairy-like young lady — and a red-haired, elegant servant. |
-| 64 | Every movement graceful and lovely. A warmth that enveloped you, paired with a fragile beauty. |
-| 65 | The servant she met that day — Bery Argan — was the very image of the ideal servant that Anne Giterns had always dreamed of. |
-| 66 | "— And from that day on, I have been striving to become a splendid gentlewoman and servant like Argan-sama, Father." |
-| 67 | "I-I see……" |
-| 68 | Now that the various commotions had settled somewhat, Argoush Giterns was seated in a room of the Christand estate, granted through the household's courtesy, facing his beloved daughter. He had been subjected to an extended lecture entitled, as it were, "Anne Giterns: Past and Future," and was pressing his fingers to his brow. |
-| 69 | Not from emotion, mind you. From exhaustion. |
-| 70 | Where, exactly, had things gone wrong? His daughter had veered off in a direction he could not fathom, and his head ached wondering what to do. |
-| 71 | Argoush had not sent Anne to the royal district to cultivate her into the ideal servant. His sons had both married successfully, with grandchildren born and all going smoothly. His only remaining concern was Anne. |
-| 72 | Personally, all he'd wanted was for her to meet a good match in the royal district and marry into some household — that alone would have put his mind at ease. He wouldn't even have minded if the man wasn't a noble — a merchant, a gardener, anyone would do, as long as they made his daughter happy. And yet — not a single romantic prospect had come up in Anne's stories. |
-| 73 | He let out a deep sigh. |
-| 74 | He could somewhat understand her claim that Bery Argan was a wonderful servant worthy of respect as a woman. But that was beside the point. Not as a noble but as a father, he was worried about his daughter's future. |
-| 75 | "And so now, Argan-sama has earned the deep trust of Her Majesty the Queen, and is recognized as the finest servant in the kingdom…… And today I also serve by Her Majesty's side, and truly, my intuition was not wrong." |
-| 76 | "……I've heard enough. You can stop there." |
-| 77 | Drinking the tea his daughter had brewed, Argoush waved his hand. The tea contained less than a teaspoon of honey — practically plain. She had probably been considerate of Argoush's preference for less sweetness. He would have liked a touch more sweetness in his tea, really, but that overly attentive quality reminded him of the daughter who hadn't changed, and he spoke. |
-| 78 | "But, Anne. Is this really what you want?" |
-| 79 | "……?" |
-| 80 | "Well…… isn't it about time you thought about marriage? Is there no one you're interested in?" |
-| 81 | "Someone I'm interested in……" |
-| 82 | Anne blinked and tilted her head, swaying her black hair. |
-| 83 | "If whoever it is will make you happy, I don't mind what kind of person they are. Noble or not, they'd be welcome. Well? Feel free to tell me." |
-| 84 | "……Hmm, there's no one like that at the moment." |
-| 85 | The expression on Anne's face said she hadn't expected to be asked such a thing. Argoush knew it well. |
-| 86 | She might not be a striking beauty, but she had a cute face that took after her mother. That there wasn't a single romantic story to tell was deeply puzzling to him. |
-| 87 | "Working in the royal district, every day was busy to begin with, and now even more so…… as a servant, harboring such impure motives would be——" |
-| 88 | "I see. ……Forgive me for asking." |
-| 89 | The whole point of placing a daughter as a servant was, ostensibly, to make connections and marry. But Anne's argument for the ideals of servanthood was not, strictly speaking, wrong. He knew her stubbornly earnest streak all too well. It had simply gone in an unfortunate direction. |
-| 90 | Her mother had been the same way, he recalled with a sigh. |
-| 91 | Refining herself as a servant — that in itself was no bad thing. Her mother had also been a Giterns servant, once. A bit scatterbrained, but Argoush had fallen for her earnestness, her gentle and kind nature, and proposed — they married and became the couple they were. If such a result was the measure of success, then the path was not a poor one. |
-| 92 | But she was at Christand. Head of house — Selene, female. Sister — Krische, female. Servants — two women. No butler. Finding a match in this all-female household devoid of any male presence was impossible; if there were prospects, they would have to come from guests. |
-| 93 | And herein lay the problem: Anne was currently working at the queen's side. While that was an honor in itself, no nobleman with any sense would have the courage to approach a woman who appeared to be the queen's personal attendant. |
-| 125 | This reconciliation with the daughter he'd parted from on bad terms — Argoush felt something rise in his own eyes too. He fought desperately to hold it back, pressing his fingers to his brow. |
+| 20 | The one she loved best was the tale of a princess and her servant. |
+| 21 | A servant loved from the heart, stolen away by a wicked mother, and avenged — such was the story's plot, and doubtless the bard's telling had been masterful as well. |
+| 27 | She threw herself into the study of etiquette, and whenever she had a spare moment, she helped the servants of the estate, learning everything she could. |
+| 28 | *'Anne, well, the thing is……I'm glad you're showing initiative, but, well……playing at being a servant in your own estate is rather……'* |
+| 29 | *'No, Tou-sama. I realize I'm still quite lacking. Rather than causing trouble after I leave home, I believe it's better to learn from my mistakes here, while I still have the comfort of family. Lately, my mistakes have been decreasing — I really am making progress!'* |
+| 30 | *'N-now, now, Argoush. I don't fully understand it either, but she's finally showing enthusiasm for studying for her future. Let's not pour water on it……s-she really hasn't made as many mistakes lately, and she's working hard.'* |
+| 31 | *'Hmm……'* |
+| 32 | She pulled herbs from her father's kitchen garden, mistaking them for weeds. She dry-wiped oil paintings. She mistook the painted pattern on a vase for grime and polished it smooth — at first, there were many failures, but she used each one as a lesson, and over several years she grew into someone who could handle most tasks, a few small flaws notwithstanding. |
+| 33 | *'I've asked the people there to look after you, but the Royal District is under His Majesty's very nose. Take care not to get carried away and do anything rash. The Royal District estates host many distinguished persons. Perhaps one of them might take a liking to you——'* |
+| 45 | Everyone was a fine servant, but she had yet to encounter one who truly struck her as exceptional. |
+| 46 | Her ideal life as a servant, as she had envisioned it, was nowhere to be found. |
+| 47 | Longing was longing, stories were stories. |
+| 63 | Her colleague leaned close, pointed toward the royal castle, and whispered. |
+| 64 | In other words, it was a command from someone in the royal family. |
+| 65 | *'We've been told by Ozal-sama to treat things with even more care than usual. In particular, the servant, Argan-sama, is to be attended to as though she were the margravine.'* |
+| 73 | He had no mistress, and his only children were a daughter and an adopted daughter; given that, it was a puzzling matter. |
+| 74 | It wasn't unheard of for a woman to head a house, but such cases typically arose from unavoidable circumstances — a brother's death, or the like. |
+| 75 | Since women faced the risk of dying in childbirth, it was generally unfavorable for them to inherit, and it was perfectly normal to seek a new spouse in order to produce a direct male heir. |
+| 76 | In such cases, one would typically arrange a marriage or else choose a new partner from among the household staff — and with options so narrowed, the picture came into focus. |
+| 77 | The Christand household, despite its size, employed only a single servant — the younger sister of the late margravine. |
+| 78 | She was in her mid-twenties, and though she had never married and returned home from elsewhere, she was said to be a beautiful woman, resembling the late margravine. |
+| 79 | Considering all these factors, it was widely rumored among the nobility that this sister would, in time, take her elder sibling's place and become the new margravine. |
+| 80 | *'……You really are remarkably well-informed about these things.'* |
+| 81 | *'Listen here, Anne — knowing these things is part of the job. Indulging in gossip isn't merely slacking off, you know.'* |
+| 82 | Her colleague's usual gossip-loving demeanor looked, by any definition, like slacking off and nothing else — but setting that aside. |
+| 83 | *'You need to be careful,'* she continued. |
+| 84 | *'Being the sole servant in a great house like Christand — she's probably terribly particular. Might be shockingly jealous, even.'* |
+| 85 | *'……Indeed, I can see that.'* |
+| 186 | A tendency to be moved easily and shed tears readily was one of the many flaws Argoush himself was well aware of. |
+| 187 | --- |
 
 ---
 
@@ -8644,8 +8377,8 @@
 | Raw file | `170_やさしいせかい.txt` |
 | Translated file | `c166-170.md` |
 | Raw line count | 244 |
-| Translated line count | 179 |
-| **Verdict** | **65 line(s) MISSING from translation** |
+| Translated line count | 242 |
+| **Verdict** | **2 line(s) MISSING from translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -8653,81 +8386,14 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 6 | その上からは実に清楚な、ピンクのリボンがついた薄青の下着。 |
-| 7 | 「そ、そうですね、とてもお似合い……お似合いです……」 |
-| 8 | アンバランス――いや、これはこれで見事に調和しているような。 |
-| 9 | というよりも調和しすぎているような気がしないでもなかった。 |
-| 10 | 発端はクリシェの腰当て。 |
-| 11 | 剣を提げるベルトが腰に擦れて痛めないように、適当なものを作ってもらおうと考えたのがはじまりであった。 |
-| 12 | クレシェンタが利用している仕立て屋に下着や靴下を頼むついでに来てもらい、あれこれと話し合い。 |
-| 13 | そうして出来上がったのは靴下留めのついたこの腰巻き――ガーターベルトである。 |
-| 17 | 似合っているかどうかで言えば似合っている。 |
-| 18 | しかし好ましくない方向で似合いすぎているとも言え、健康的に肉のついた太ももと黒い靴下、ガーターの組み合わせはどこか犯罪的であった。 |
-| 24 | 不埒なことをしているように感じてしまうのは、自分の中に邪念があるからに他ならない。 |
-| 25 | しかし不埒なことを目的としたつもりは決してなかったし、今もそうである。 |
-| 26 | ならば恥じることはなく、堂々としていれば良い。 |
-| 31 | 裾を捲ったまま、無邪気にふりふりと腰を揺らすクリシェの姿はどこまでも背徳的。 |
-| 32 | やはりどう言い繕おうと、自分はよこしまな人間であった。 |
-| 41 | 入室したのはアーネであった。 |
 | 42 | 顔を真っ赤に硬直するベリーをクリシェは不思議そうに見つめ。 |
-| 43 | アーネもまた妙に慌てた様子の『尊敬する使用人』を見て怪訝な顔。 |
-| 44 | そしてアーネの視線は、ベリーの更に奥へ。 |
-| 50 | ――恐らく自分は、見てはいけないものを見た。 |
-| 54 | 「な、なるほど、そういうことでございましたか……つ、つい早とちりを」 |
-| 63 | いつも穏やかで落ち着いた余裕を見せる尊敬すべき使用人、ベリー＝アルガンの取り乱す姿。 |
-| 64 | 有無を言わさず一瞬で取り押さえられた感覚はまさに、猫に襲われた鼠である。 |
-| 65 | 鈍いアーネでも尋ねてはいけないことである程度のことは本能的に理解していた。 |
-| 66 | やはり心に秘めるのが使用人としての正しい在り方であろう。 |
-| 67 | だがアーネが目指すのは、そこから更に一歩を踏み込んだ使用人である。 |
-| 68 | 「……ですがアルガン様、ご安心を。もしもこれが勘違いでなかったとしても、わたしがアルガン様を尊敬するという事実も変わりません」 |
-| 78 | まるで懺悔でもするかの如く、か細い声音。 |
-| 81 | ああ、なんて可愛らしいお方なのかと半ば感動しながら、真摯な顔を作ってアーネは頷き、告げる。 |
-| 84 | ベリーは諦めたようにため息をつくと対面の椅子に座る。 |
-| 87 | ベリーもベリーで当然のようにそんなクリシェをぎゅう、と抱き寄せ――やはりいまいちその線引きがアーネには分からない。 |
-| 93 | 王領を出てクリシュタンドに来る際は大げんかをしたのだという。 |
-| 94 | 久しぶりの再会、積もる話もあるだろう。 |
-| 104 | 「まず話すべきは、わたしが何故こうして使用人の道を志そうとしたかでしょう……」 |
-| 105 | 「え？　え、と……はい……」 |
-| 108 | いかにして自分が使用人の道へ進み、そして今に至ったか。 |
-| 109 | まるで吟遊詩人が英雄譚でも語るが如く、妙に仰々しい難解な言い回し。 |
-| 110 | ベリーは若干の後悔をしないでもなかったが、適度に相づちを打ちつつ話を聞いていく。 |
-| 116 | 恥ずかしさでベリーが顔も上げられなくなった頃にようやく、その辺りを抜け本題に。 |
-| 117 | クリシェは話のはじめの方で静かな寝息を立て始め、ベリーの上で幸せそうに眠っていた。 |
-| 120 | これまでの前振りは果たして、本当に必要だったのだろうか。 |
+| 75 | 「そ、そのですね……」 |
 | 121 | そう思わないでもなかったが顔には出さなかった。 |
-| 127 | 父は恐らくそこから持ち直しを図ったのだろう。 |
-| 128 | その半ばで倒れたものの、借金の問題さえ解消すれば再び返り咲くことが出来る、と。 |
-| 129 | 借金が解消された今であれば、比較的容易いこと。 |
-| 134 | 気質の問題だろう。 |
-| 135 | 言うなればベリーもラズラも貴族としては不真面目なのだ。 |
-| 136 | 「まぁ、それも一般論としては、でしょうか。それに関してわたしは何とも言えなさそうです。アーネ様はどのように？」 |
-| 137 | 「……あまり考えたことも。これは、という殿方にお会いしたこともありませんし――」 |
-| 138 | アーネは言って、ちらりとクリシェに目をやり、頬を染めた。 |
-| 139 | ベリーが不思議そうに彼女を見ると、慌てたようにアーネは首を振る。 |
-| 140 | 「いえ……そ、その、が、ガーレン様のような殿方には、こう……大人の魅力というものを感じたりはすることはあるのですが」 |
-| 141 | 「ああ……ふふ、確かにガーレン様は素敵な方ですね」 |
-| 142 | ベリーはくすくすと笑う。 |
-| 143 | アーネがガーレンに良く懐いているのは知っている。 |
-| 144 | 魅力的と言われれば確かにそうだろう。 |
-| 145 | 厳しい雰囲気の人ではあるが、その外見からは想像できないほど優しい老人だった。 |
+| 122 | ベリーは少なくともそういう気遣いが出来る人間であったし、先ほどの話が更に繰り返されるのは彼女としても避けたい。 |
+| 130 | 例えばボーガンと姉ラズラの間にもう一人子が生まれ、そちらがアルガンを継いで何らかの功績を残していれば家を再興させることは容易であっただろう。 |
+| 131 | あるいはベリーが同じようにするか、それとも婿をもらうか。 |
 | 146 | ただ彼は老人。 |
-| 152 | 静かに聞いて、彼女の言葉を待つ。 |
-| 157 | ただ、分かることはあった。 |
-| 164 | 気持ちは嬉しいが、アーネは時々直球に過ぎて反応に困るものがある。 |
-| 167 | 彼女は彼女なりに、クリシュタンドとクレシェンタの事情を考えてくれているのだろう。 |
-| 168 | アーネは確かに少しばかり欠点はあるものの、思慮深い女性だった。 |
-| 171 | その上で告げるならば、どのようなものか。 |
-| 177 | 悩んでいても過ぎた景色に戻れはせず、何事も不可逆で、流れるまま。 |
-| 179 | 日常に、名誉に。 |
-| 183 | 彼女はむず痒そうに顔を歪め、ベリーは静かに肩を揺らす。 |
-| 191 | そして、選ぶ事とはそのためにあるものだ。 |
-| 195 | けれどそんな姿が、やはり彼女の魅力だろう。 |
-| 198 | 少なくともベリーにはないものだった。 |
-| 205 | 「も、申し訳ありません。な、なにやら感動してしまって……アルガン様にも、そんなことを仰ってもらえるだなんて、わ、わたし……」 |
-| 220 | なんというタイミングの悪さだろうか。 |
-| 225 | 「く、クリシェ様……っ」 |
-| 231 | 何とも都合の良い巡り合わせの使い方である。 |
-| 233 | ベリーは困ったように曖昧な笑みを浮かべる。 |
+| 147 | アーネもそういう意図で言ってるわけではないだろう。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -8735,16 +8401,12 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 2 | The silver-haired girl — fairy-like — hiked up the hem of her dress without the slightest embarrassment and showed what was underneath to her servant. |
-| 3 | "Bery, how is it? Does it suit Krische?" |
-| 4 | Black lace against white hips was a striking contrast. From the waistband — far too beautiful to be called a mere wrap — four garter straps hung down, pulling up and securing stockings that reached above the thigh. |
-| 40 | The beautiful princess called Krische was utterly obedient to Bery; she would do anything asked of her without hesitation. Even acts that would make one blush merely to imagine — no exceptions. And thinking of how it must feel to be loved by such a princess, if temptation struck, it was only human. |
-| 71 | "That's fine. Work is done for the day, so please don't worry." |
-| 72 | "……Thank you." |
-| 93 | "Well, that's only in the abstract, I suppose. I'm hardly in a position to weigh in on that. What about you, Anne-sama?" |
-| 94 | "……I've never given it much thought. I've never met a gentleman who struck me as — well——" |
-| 96 | "No…… it's just, well, I-I do sometimes feel, with someone like Gallen-sama, a certain…… mature charm." |
-| 97 | "Ah…… tehe, yes, Gallen-sama is a wonderful person." |
+| 72 | Clutching herself with her own arms, her refined face scarlet, eyes brimming with tears, darting left and right — she looked like a girl. |
+| 119 | *Had all that preamble truly been necessary?* |
+| 120 | She thought it but kept it from her face. |
+| 128 | If, for instance, Bogan and her sister Lazura had had another child, and that child had inherited the Argan name and achieved some distinction, restoring the family would have been simple. |
+| 141 | She knew that Anne was quite attached to Gallen. |
+| 142 | If someone called him attractive, she could certainly see why. |
 
 ---
 
@@ -8909,8 +8571,8 @@
 | Raw file | `174_魔法少女マジカル☆ベリーReincarnation.txt` |
 | Translated file | `c171-175.md` |
 | Raw line count | 293 |
-| Translated line count | 281 |
-| **Verdict** | **12 line(s) MISSING from translation** |
+| Translated line count | 290 |
+| **Verdict** | **3 line(s) MISSING from translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -8918,10 +8580,9 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 22 | 「うぅ……」 |
-| 23 | そんな衣装に身を包む彼女は顔を真っ赤に目を潤ませ。 |
 | 24 | 見ようによってはセレネ以上に幼く見える可憐な叔母はしかし、その実二十八歳。 |
 | 25 | 何をどう好意的に見ても、魔法少女の格好をして公園で遊ぶことが許される歳ではない。 |
+| 26 | ――由々しき事態であった。 |
 | 27 | 彼女の奇行が近所の人に見られていたらと思えば背筋が凍り付く思いである。 |
 | 28 | 何もない虚空に向かってマジカルスパイス、マジカルフライパン、などと声高に叫びながらステッキを振り、公園を走り回る姿は狂気の沙汰。 |
 | 29 | どこをどう見ても真っ当でないことは確かであった。 |
@@ -8941,35 +8602,31 @@
 | 44 | 「してませんっ、お、お嬢さまは勘違いを……違、違うのです。本当にそういうのではなくて……」 |
 | 45 | 否定する声に、セレネは真っ直ぐベリーを見た。 |
 | 46 | 「……そういうのでないなら、どういうことなの？　控え目に言ってもベリー、あなたがやっていたことは正気とは思えないわ」 |
-| 94 | 「まぁ、信じる信じないはひとまず……その封印とやらが緩んだことに心当たりはあるの？」 |
-| 119 | 見るからに怠惰である。 |
+| 47 | 「っ……」 |
+| 48 | ベリーは視線を泳がせた。 |
+| 49 | そして虚空を見ながら、囁くように誰かに語りかけ始める |
+| 50 | 「クレシェンタ様、よろしいでしょうか？　……え？　でも……こ、このままではわたしが変態みたいに……あの、お、お嬢さまは口の堅い方ですので……」 |
+| 62 | 「いいの！　ね、明日は学校を休んで付き添うわ。一緒に病院に行きましょう？」 |
+| 63 | 「うぅ……で、ですから……その……」 |
+| 64 | 「そういうのを認めるには勇気がいるって言うけれど……大丈夫。わたし達はあなたの味方だもの。何年だって付き合う――」 |
+| 65 | 言葉の途中、部屋を満たすは目映い光であった。 |
+| 66 | え？　とその目映さにセレネは目を閉じ―― |
+| 67 | 「な、何してますの！？　わたくしは許可してませんわ！」 |
 | 120 | 食い意地も張っている。 |
-| 134 | 「ひとまずこの子を始末してみれば……その、なんだっけ、悪のななちゅーとかいう幹部も消えたりするんじゃ――」 |
-| 135 | 「馬鹿な事を言わないでくださいまし！　わたくしのどこに悪の心が――」 |
-| 144 | ――羽虫は呆然と告げた。 |
+| 121 | 「それから、明日は雑魚狩りじゃなくて大物を狙いに行きますわよ」 |
+| 122 | 「え、えと……もう少し戦力を削ってからの方が――」 |
+| 123 | 「明日はわたくしの運営するフェアリー放送のカメラが入りますの。あなたの活躍を多少見せておかないとスポンサーから予算がおりませんわ。折角あなたを魔法少女として使うんですもの、今のうちに稼いでおきませんと……」 |
+| 127 | 「あ、あのですね……」 |
+| 128 | 「……もう少しマジカルバトルドレスも改良して露出を増やそうかしら」 |
+| 142 | クレシェンタもまた硬直したようにクリシェを見つめ。 |
 | 151 | それに対し、大きく羽ばたき、両手を広げてクリシェに向かったクレシェンタ。 |
 | 152 | 「ちょっと待っててくださいね。すぐに持って来ますから」 |
+| 169 | セレネが指を伸ばすとびりびりと少し指が痺れた。 |
 | 228 | あなたたちに倒して欲しいのは中でも特に触手型。 |
-| 241 | 趣味は料理で調理器具コレクション。 |
-| 244 | ――マジカルフライパン |
-| 246 | ――マジカルスライサー |
-| 248 | ――マジカルミキサー |
-| 250 | ――マジカルスパイス |
-| 260 | 書類上の保護者は義祖父我連、元は施設の孤児であったらしい。 |
-| 268 | ――マジカルバゥムジェ＝イラ（古き言葉で膨らむ衝撃を示す） |
-| 269 | 空へと舞い上がり、魔力で作りだした爆弾によって爆撃を行う。相手は死ぬ。 |
-| 270 | ――マジカルジャレィア＝ガシェア（古き言葉で勝利の鉄を示す） |
-| 271 | 戦闘人形を無数に生みだし、数で押し潰す。相手は死ぬ。 |
-| 272 | ――マジカルおっき |
-| 274 | ○マジカルセレネ（１４） |
-| 275 | マジカルベリー、マジカルクリシェに続く新たな魔法少女。 |
+| 265 | ・得意魔法 |
+| 286 | ――マジカルソード |
 | 287 | 魔力で作り上げた長剣で敵を切り裂く。結構強い。 |
 | 288 | ――露流火式マジカルソード＆シールド |
-| 289 | 魔力で盾を作りだしシールドバッシュで相手を吹き飛ばす。結構硬い。 |
-| 290 | ――座陰式マジカルソード |
-| 291 | 魔力でマジカルソードを伸ばし、相手を貫く。結構鋭い。 |
-| 292 | ――マジカルスプレー |
-| 293 | 魔力で謎の缶スプレーを作りだし、敵の目つぶしを行う。クレシェンタへの誤射が極めて多い。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -8977,46 +8634,50 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 2 | (T/N: This is an April Fools non-canon chapter. The title is kept in its original mixed Japanese/English format per the context rules. Character portrayals are deliberately exaggerated for comedy.) |
-| 7 | * * * |
-| 18 | On the carpet of Selene's room. |
-| 19 | Sitting in formal seiza while wearing a frilly pink gothic lolita outfit was Selene's aunt and household helper, Aruga Bery (28). |
-| 22 | "Um, Ojou-sama……might I change out of this first?" |
-| 23 | "Not until we're done talking. Don't you like wearing it?" |
-| 24 | "Uuu……" |
-| 26 | No matter how charitably one looked at it, she was not of an age where dressing as a magical girl and playing in a park could be excused. |
-| 27 | ——This was a grave matter. |
-| 28 | The thought of neighbors having witnessed her behavior sent ice down Selene's spine. |
-| 29 | Shouting *Magical Spice, Magical Frying Pan* at empty air while waving a wand and dashing around the park was the very definition of unhinged. |
-| 30 | No angle could make this seem acceptable. |
-| 31 | "I understand, Bery. I think I've been putting a lot on you. Maybe the stress has been building up……I know I've been leaning on you too much. That's partly my fault." |
-| 32 | She sighed and pressed a hand to her forehead. |
-| 33 | Her mother had passed away young — and Bery had been a surrogate parent to Selene ever since. |
-| 34 | That a woman who could surely find a partner anytime had neither lover nor husband was almost certainly because of that. |
-| 35 | "And I'm not trying to condemn the hobby itself." |
-| 36 | "Um, Ojou-sama……" |
-| 37 | She had been taking advantage of Bery's kindness — that much was fact. Learning that Bery's way of blowing off steam was dressing up as a magical girl and pretending was a shock, but everyone had a secret or two they could not share. |
-| 38 | It would not make her think less of Bery, and her feelings had not changed one bit — however. |
-| 39 | "……Be honest with me. You haven't been, say, posting weird photos online, or……going somewhere to have photos taken in that outfit, or anything——" |
-| 40 | "I have not!" |
-| 41 | Perhaps the indoors had stopped being enough, and she had crossed a line. |
-| 42 | Selene was worried. |
-| 116 | Absurdly arrogant. |
-| 117 | Short-tempered. |
-| 132 | "……Bery, isn't she basically one away from a full set?" |
-| 133 | "Oh, now that you mention it……" |
-| 149 | "——Onee-sama!!" |
-| 150 | In response, Kreschenta spread her arms wide and flew toward Krische—— |
-| 177 | * * * |
-| 212 | It doesn't continue. |
-| 231 | ——Magical Alberan |
-| 239 | Known around the neighborhood as "Bery from the mansion" — extremely popular with the elderly. |
-| 263 | — **Magical Baumje Ira** (ancient tongue for "expanding impact"): Ascends into the sky and conducts aerial bombardment with mana bombs. Target dies. |
-| 264 | — **Magical Jaleia Gashea** (ancient tongue for "iron of victory"): Spawns countless war-golems to overwhelm by numbers. Target dies. |
-| 277 | — **Magical Sword**: Cuts enemies with a mana longsword. Fairly strong. |
-| 278 | — **Rollka-Style Magical Sword & Shield**: Creates a mana shield and launches a shield bash. Fairly tough. |
-| 279 | — **Zain-Style Magical Sword**: Extends the Magical Sword with mana to pierce the target. Fairly sharp. |
-| 280 | — **Magical Spray**: Creates a mysterious mana aerosol can to blind enemies. Friendly-fire rate against Kreschenta is extremely high. |
+| 7 | An autumn day with the school festival just around the corner. |
+| 16 | **'Magical Girl Magical☆Bery Reincarnation' — Prologue** |
+| 21 | "Um, Ojou-sama……could I please change first……?" |
+| 22 | "Not until this conversation is over. Don't you enjoy wearing that?" |
+| 23 | "Uuu……" |
+| 24 | Her face was scarlet, her eyes brimming — depending on how you looked at her, the pretty aunt who could seem even younger than Selene was, in fact, twenty-eight years old. |
+| 25 | By no possible favorable interpretation was she at an age where dressing as a magical girl and playing in the park could be excused. |
+| 26 | ——This was a grave situation. |
+| 27 | The thought that a neighbor might have witnessed her antics sent a chill down Selene's spine. |
+| 28 | Shouting 'Magical Spice!' and 'Magical Frying Pan!' at empty air while waving a wand and running around the park — it was the very picture of madness. |
+| 29 | It was, without question, not normal. |
+| 30 | "Look, Bery. I do think I've put pressure on you. And yes, maybe the stress has been building……it's my fault too, leaning on you for everything." |
+| 31 | She sighed and pressed her forehead. |
+| 32 | Her mother had died young — and Bery had been Selene's surrogate parent ever since. |
+| 33 | That she never made a boyfriend, never married — the reason was surely that. Selene understood. |
+| 34 | "And I'm not trying to criticize the hobby itself." |
+| 35 | "Um, Ojou-sama……" |
+| 36 | She had been taking advantage of Bery's kindness — that was a fact. That Bery's stress release had involved dressing up in costume and playing magical girl in the park was a surprise, but everyone had a secret or two they couldn't tell others. |
+| 37 | It wouldn't make Selene think any less of her, and her feelings toward Bery hadn't changed one bit. However—— |
+| 38 | "……Be honest with me. You haven't been, say, posting weird photos on the computer, or going somewhere to have pictures taken in that outfit, or……things like——" |
+| 39 | "I-I haven't!" |
+| 40 | She was worried. Unable to be satisfied with the privacy of home, Bery had perhaps gone too far. |
+| 44 | At her denial, Selene looked straight at Bery. |
+| 45 | "……If it's not that sort of thing, then what is it? Even putting it charitably, Bery, what you were doing didn't look sane." |
+| 47 | Bery's eyes darted. |
+| 56 | "O-Ojou-sama……?" |
+| 57 | "……I'm sorry, Bery. I had no idea I'd pushed you this far……I'm truly sorry." |
+| 58 | Beautiful, cute, the older sister she looked up to. |
+| 59 | She had probably been the one to do this to her. |
+| 60 | "Ojou-sama, that really is a misunderstan——" |
+| 61 | "It's all right! Listen, I'll skip school tomorrow and go with you. Let's go to the doctor together, okay?" |
+| 121 | "Um……wouldn't it be better to thin them out a little more before——" |
+| 134 | Then her gaze fell upon Kreschenta, buzzing through the air. |
+| 144 | "——Onee-sama!!" |
+| 145 | In response, Kreschenta beat her wings wide, arms outstretched, and flew toward Krische. |
+| 160 | "O-Ojou-sama……please calm down. Kreschenta-sama, too……" |
+| 206 | *It doesn't continue.* |
+| 222 | There are various types — humanoid, mechanical, bestial — sorted by the desire that spawns them, but explaining all that is tiresome, so I'll skip it. |
+| 226 | *——Magical Alberan* |
+| 258 | Can't say no, so she frequently joins clubs as a temporary member — though at her previous school, she was apparently somewhat feared. |
+| 281 | **Signature spells:** |
+| 288 | *——Magical Spray* |
+| 289 | Creates a mysterious aerosol can from magical power for blinding enemies. Friendly fire on Kreschenta is extremely frequent. |
+| 290 | --- |
 
 ---
 
@@ -13999,8 +13660,8 @@
 | Raw file | `241_少女の望まぬ英雄譚.txt` |
 | Translated file | `c241-245.md` |
 | Raw line count | 299 |
-| Translated line count | 285 |
-| **Verdict** | **14 line(s) MISSING from translation** |
+| Translated line count | 300 |
+| **Verdict** | **1 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -14008,28 +13669,10 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 1 | 少女の望まぬ英雄譚 |
-| 12 | レドは己とアルベリネアが正対する状況を作り上げたかったのだ。 |
 | 13 | 本陣を横から狙い、そして後方に打撃を加え相手の足並みを乱し、敵本陣をレドの真正面に引きずり出す。 |
-| 14 | 調べた限り、アルベリネアは首狩りを好む極めて攻撃的な指揮官。 |
-| 15 | 周囲をそのように封じられ、大将であるレドが正面に現れれば、高い確率で反転攻撃を仕掛けてくるだろう。 |
 | 17 | 左翼にある敵軍団の高い統制と指揮能力。 |
-| 18 | 多少予測のズレはあったが、ここにアルベリネアがいれば想定の通りに行く。 |
-| 19 | それ故レドは、それほどこの状況を悪いものとは思っていなかった。 |
-| 20 | 誤算はアルベリネア軍を率いていたのがアルベリネアではなく、王国元帥セレネ＝クリシュタンドであったことだが、しかしその誤算に彼が気付くことはなかった。 |
-| 21 | 「……何を考えている？」 |
-| 28 | 戦場にはどこまでも不似合いで、浮いた姿。 |
-| 44 | あるいは、力が入りすぎていた。 |
-| 45 | まるでそれは、怯えを意思で押し殺すように。 |
-| 46 | 震えているのはレドだけではなかった。 |
-| 47 | アルベリネアが取ったのはあまりに理解しがたい行動であった。 |
-| 48 | 北の軍団は良くこちらの攻勢を押しとどめている。 |
-| 49 | 南から迂回する者達が敵の後方と接敵するまでには今しばらく時間が掛かるだろう。 |
-| 50 | とはいえ、それもあくまで短時間。 |
-| 51 | アルベリネア軍本陣の行動としては、この時間で軍を退いていなければならなかったのだ。 |
+| 54 | それをこのようなひらけた場所で、堂々たる正面戦闘を行うなど馬鹿げていた。 |
 | 55 | あちらが兵力で上回るならばまだしも、局所で見ても全体で見ても、大きく不利なのはあちらであった。 |
-| 56 | 仮にこのような行動に出るにしろ、今レド達が立っているこの空間への出口で敵は構えるべきだろう。 |
-| 57 | わざわざ橋を背後にした対面で、あのように馬鹿げた戦列を組む戦術的な意味など欠片もなかった。 |
 | 83 | 彼等はアルベリネアがいかなる存在であるかをよく知っていた。 |
 | 84 | このような無謀に見える行動も決して初めての経験ではない。 |
 | 85 | 彼女自身の人格に対しては意見が分かれることがあったが、少なくともその圧倒的な強さと能力を疑う者はこの軍には一人としていない。 |
@@ -14039,30 +13682,38 @@
 | 91 | ゆったりとした動き――開戦の挨拶でもするのかと互いの兵士達は顔を見合わせ、しかし少し歩いた両軍の中央で翠虎は止まる。 |
 | 92 | そしてアルベリネアは、翠虎の腰に提げられた、二つの大きな袋を曲剣で切り離し、その口を開くと乱暴に周囲へ。 |
 | 93 | 草原に散らばるは無数の魔水晶であった。 |
-| 104 | もしくは自ら、その領域へと足を踏み入れるかのように。 |
-| 118 | 神と人、天と地とを明確に分けるもの。 |
-| 141 | 明確な死と暴力が向けられるのはただ一方なのだから。 |
-| 156 | 彼女には『何となく』邪魔に思え、そしてその『何となく』で数千人の命が無造作に奪われた。 |
 | 168 | 少女は自分が殺した全てを、気に留めることなく前に進む。 |
 | 169 | 青き無数の魔法円に囲まれ、外套を棚引かせ――薄紅の花飾りで括られた、長い二本の銀の髪を左右に揺らし。 |
 | 184 | もはや誰もが、その死に意味を持たせるためだけに動いていた。 |
 | 185 | 「シェルナの仇だ。……命をもらうぞ、アルベリネア！！」 |
 | 186 | レドが叫び、踏み込めば――対するクリシェは立ち止まる。 |
-| 236 | 「それに、そもそも、攻めて来たのはあなた達で……」 |
+| 196 | 少女は、軽く上体を反らすだけでそれを躱した。 |
 | 237 | 少女は美麗な顔を歪め、自分の額を押さえた。 |
-| 242 | その戦いはきっとこのように、一方的なものであったのだろう。 |
-| 255 | 戦神、軍神などと呼ばれるものは過去に多くあれど、その言葉通りであったものなど彼等の前にいる彼女以外にはあり得まい。 |
-| 256 | 語るならばそれは、ある種の神話であり、英雄譚であった。 |
-| 257 | 大人になれば虚飾を交えた空想と知るお伽噺は、今こうして現実のものとして目の前にあった。 |
-| 258 | 王家に捨てられし子は、英雄に拾われ戦士となり、英雄となり、そして神の領域にさえ到ったのだと。 |
-| 259 | 今目の前で起こった非現実的な全てを、納得するための方便が彼等には必要だった。 |
-| 260 | だからこそ彼等は声を震わせ高らかに、英雄アルベリネアを天に讃えた。 |
-| 261 | 運命に導かれし神の御子。 |
-| 267 | 語るまでもなく、戦いはそれからほどなく終了した。 |
-| 268 | 全てを姉と部下に任せた少女は、翠虎を走らせて王都に向かう。 |
-| 269 | 時折、首から提げた小さな袋を握り締め。 |
-| 276 | それから本当に、後ほんの少しだけだと改めて安心させて。 |
+| 238 | そして転がったレドの、残った左腕を踏みつける。 |
+| 274 | 邪魔が入ったことをどうしようもなく恨みながら、なるべく笑顔で彼女と会えるよう、考えないように、戦場の事は忘れ彼女の事だけを考えた。 |
+| 275 | 口づけをして、お詫びを言って。 |
+| 278 | この先も変わらぬように、いつも通りの毎日を過ごす。 |
+| 279 | 少女の望みはただそれだけで、苦しかったのも忘れられるくらいに、沢山彼女が喜ぶことをしてあげたかった。 |
+| 280 | 少女は自分がそのためにあると信じていて、そうであると疑わない。 |
+| 281 | 少女の居場所は戦場ではなく、彼女の待つ屋敷の中にあった。 |
+| 282 | 王都が見えれば、自分を乗せるペットに無理をさせ、謝りながら急がせた。 |
+| 283 | そうして風のように王都を駆けて、いつもの見慣れた屋敷の前に。 |
+| 284 | 首から提げた袋を取って、玄関から入る間も惜しんで、バルコニーから自分の部屋へと踏み入れる。 |
+| 285 | ――けれどそのベッドの上には誰もおらず、黒髪を肩で切り揃えた使用人が一人。 |
 | 286 | 現れた少女を見ると呆然と、それから顔を歪めて両手で顔を覆い、膝を突いた。 |
+| 287 | 「――――」 |
+| 288 | 考えたくもない想像がちらつくのを感じながら、少女は恐る恐る尋ね。 |
+| 289 | 微かな望みとは裏腹に、使用人は首を横に振る。 |
+| 290 | 手に持っていた小袋が、床の上に落ちて、硬質な音を立てた。 |
+| 291 | それを拾い上げることも出来ず、ただ呆然と立ち竦む。 |
+| 292 | 時間が止まったかのように、温度が失われたかのように。 |
+| 293 | 世界からは色が失われ、その思考は理解を拒んでいた。 |
+| 294 | ふらついて、目を泳がせて。 |
+| 295 | 額を押さえて首を振った。 |
+| 296 | この世で最も貴重であった、取り返しのつかない時間が、彼女から失われたことを認められず。 |
+| 297 | 頭の中では耳鳴りのように、戦場での高らかな称賛の声が響いていた。 |
+| 298 | まるで少女に怯えるように、恐れるように。 |
+| 299 | ――少女の望まぬ英雄譚を、高らかに讃えるその声が。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -14070,47 +13721,52 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 5 | If it was Alberinea, she would without question push into the forest. |
-| 6 | His movements were built on that premise. |
-| 7 | No matter how advanced Alberan might be, there were limits to the speed of information relay. With an invasion that prioritized speed, the enemy could not possibly mount a fully prepared defense. At best, they could field something slightly more than a single corps. |
-| 8 | He had not expected that the enemy, inferior in numbers, would engage him head-on in the forest. By necessity, he assumed it would be a hit-and-run strike aimed at halting his initial advance. |
-| 9 | There was also the possibility that such a strike-and-retreat might target Red's head directly, but if so, that suited Red's purposes just fine. |
-| 10 | Red wanted to create a situation where he and Alberinea stood face to face. |
-| 11 | Strike the main camp from the side, deliver a blow to the rear to disrupt their formation, and drag the enemy headquarters out directly in front of Red. |
-| 12 | From everything he had researched, Alberinea was an extremely aggressive commander who favored taking heads. |
-| 13 | If she was hemmed in on both sides and the commanding general Red appeared before her, there was a high probability she would launch a counter-attack. |
-| 36 | Without thinking, he stared down at his own trembling palms. |
-| 39 | The soldiers around him were raising their voices, beginning to form their lines. But something was off. Their voices were pitched slightly too high, as though something was slipping out of alignment. Or perhaps too much force was being put into them. As if crushing their fear under sheer willpower. |
-| 63 | Had he been in the opposite position, he could see no means of turning the situation around. Even setting aside the outcome, their advantage only grew further — there was no benefit to her stance that he could see. |
-| 64 | And his soldiers felt the same. |
-| 65 | The confusion was not limited to Red's side; it seemed to exist among Alberan's soldiers as well. In a situation like this, silently watching the superior enemy form battle lines — it was a clear deviation from the logic of military science. It was not in their original plans either. |
-| 70 | Opinions on her personality were divided, but there was not a single person in this army who doubted her overwhelming strength and ability. |
-| 72 | Her power was beyond question, and the woman who had challenged a godlike ancient dragon, exchanged true names, and won its friendship was nothing less than a living myth. |
-| 86 | What it signified was one single law and logic. |
-| 108 | Not even the heroes whose names were known to all in their land. |
-| 128 | Everyone understood that standing against it was futile. |
-| 139 | She knew that, and yet it did not matter. |
-| 149 | Everything they had built was equally worthless to her. |
-| 150 | No matter how many thousands, tens of thousands — or even hundreds of millions — of their lives were piled upon her scales, they would not waver in the slightest. |
-| 168 | They spread out, taking positions on both sides of the approaching girl. |
-| 169 | Every one of them was moving now solely to give their deaths some meaning. |
-| 170 | "You're Shelna's enemy. ……I'll have your life, Alberinea!!" |
-| 218 | Then she kicked his body at the same time, sending it rolling. |
-| 219 | "……So weak, and Bery is in such a difficult state, and you're getting in Krische's way." |
-| 230 | "……Enough." |
-| 234 | Even the commanders could not move upon witnessing that scene, could not even raise their voices, and the soldiers were no different. |
-| 235 | Amid them, one commander in black armor was the first to cry out in praise of the great Alberinea's victory. |
-| 236 | He too had been among the frozen — his shout was instinctive, raised to prevent the Alberinea he revered from carrying out further slaughter, to make the victory definitive. |
-| 237 | The warriors in black-lacquered armor responded in kind, and the soldiers followed suit. |
-| 238 | What most of them felt toward Alberinea's power was a reverence that should properly be called fear. |
-| 239 | To defeat an army single-handedly, in the most literal sense. |
-| 240 | Many in history had been called war-gods or divine generals, but none had ever been the genuine article — except the one standing before them. |
-| 250 | She had never sought praise, nor honor, nor faith. |
-| 251 | She was thinking only of the one woman who waited for her return. |
-| 252 | The battle, needless to say, ended shortly thereafter. |
-| 260 | A kiss, an apology. |
-| 261 | Then, once more, reassurance that it really was just a little longer. |
-| 285 | --- |
+| 11 | There was also the possibility that the hit-and-run might be aimed at Red's head — but if so, that aligned perfectly with Red's objectives. |
+| 19 | And so Red did not consider the situation particularly bad. |
+| 36 | There was no boiling-blood fury at confronting his enemy. |
+| 39 | ——*Am I… afraid?* |
+| 79 | This was a clear deviation from the logic of warfare. |
+| 80 | Nothing in the original plan accounted for it. |
+| 81 | The only information that could be conveyed to them in this short time was that Alberinea had a hidden strategy. |
+| 82 | The soldiers of Alberan exchanged uneasy glances under the heavy air — and yet they obeyed without question, forming their battle line. This was the product of training and experience. |
+| 83 | They knew full well what manner of existence Alberinea was. |
+| 84 | This was not the first time they had experienced what appeared to be suicidal folly. |
+| 85 | Opinions on her personal character might differ, but not a single person in this army doubted her overwhelming strength and ability. |
+| 86 | Galshan, Elderant, Elsren — she had effortlessly shattered invasions that had filled every one of them with despair. |
+| 87 | Her power was beyond question, and having challenged an ancient dragon of godlike might, exchanging true names and winning its friendship, she was nothing less than a living myth. |
+| 161 | That alone made them worthy of killing in her eyes. |
+| 164 | Everything they had built was, to her, equally worthless. |
+| 183 | They spread out and took positions to the left and right of the approaching girl. |
+| 184 | Every one of them was moving now only to give meaning to their deaths. |
+| 185 | "This is for Shelna. ……I'll take your life, Alberinea!!" |
+| 198 | Four, five, six, seven, eight — every last ounce of martial skill Red had accumulated in his life, and the girl simply kept dodging. |
+| 233 | And in the same motion, she kicked his body and sent him tumbling. |
+| 234 | "……You're so weak, and Bery is having such a hard time, and you're getting in Krische's way." |
+| 254 | Defeating an army single-handedly, in the most literal sense. |
+| 255 | Many throughout history had been called war-gods and divine generals, but none before her had ever made those words real. |
+| 256 | To speak of it was to speak of a kind of myth — a heroic epic. |
+| 257 | The fairy tales one learned as a child to be mere fantasies dressed in embellishment — they were here, now, real and manifest before their eyes. |
+| 258 | The child abandoned by the royal house was taken in by a hero, became a warrior, became a hero, and had reached even the realm of the gods — so the story went. |
+| 259 | They needed a justification to accept the impossible reality unfolding before them. |
+| 260 | And so, with trembling voices raised high, they praised the hero Alberinea to the heavens. |
+| 261 | The divine child, guided by destiny. |
+| 267 | Needless to say, the battle concluded shortly after. |
+| 271 | She had done everything she could, given her absolute best — and yet anxiety remained. |
+| 272 | But once she returned this candy to her, as always, it would finally put her at ease. |
+| 275 | A kiss, an apology. |
+| 276 | Then reassurance, once more, that it was truly almost over. |
+| 277 | Once everything was finished, things would go back to the way they'd always been. |
+| 278 | They would stay that way, forever — the same as always, ordinary days. |
+| 279 | That was all the girl wished for, and she wanted to do so many things to make her happy that all the suffering would be forgotten. |
+| 280 | The girl believed that was what she existed for, and she did not doubt it. |
+| 281 | Her place was not the battlefield — it was in the estate where she waited. |
+| 282 | When the capital came into view, she pushed her mount harder, apologizing as she urged it on. |
+| 283 | She tore through the capital like the wind, arriving before the familiar estate. |
+| 284 | She took the pouch from around her neck — and without even waiting to enter through the front door, she leapt from the balcony into her own room. |
+| 285 | ——But no one lay on the bed. Only a single servant with black hair cut to her shoulders. |
+| 286 | Seeing the girl appear, the servant stared blankly — then twisted her face, covered it with both hands, and sank to her knees. |
+| 287 | "——————" |
+| 288 | Trying not to think the thought that flickered at the edge of her mind, the girl asked, trembling. |
 
 ---
 
@@ -16081,8 +15737,8 @@
 | Raw file | `260_それは未完の物語.txt` |
 | Translated file | `c256-260.md` |
 | Raw line count | 664 |
-| Translated line count | 583 |
-| **Verdict** | **81 line(s) MISSING from translation** |
+| Translated line count | 668 |
+| **Verdict** | **4 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -16090,31 +15746,24 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 13 | 色々と不便のない世界であったが、その分随分と人の意識の影響を受けるらしい。 |
-| 14 | いつ頃からか生まれた精霊もその一つ。 |
+| 1 | それは未完の物語 |
+| 7 | 告げると風が少女の周りを渦巻くように、緩く束ねた長い髪が体に巻き付き、呆れ。 |
+| 8 | 羽虫のような小人一匹を捕まえると、怒りますよと一言告げた。 |
+| 9 | もがく彼女を手放すと、周囲に目をやり嘆息した。 |
 | 30 | 関われば関わるほどに不思議であった。 |
-| 57 | 「……、ええと、わたしには難しい問題です。リーガレイブ様」 |
-| 93 | 「……、またその内ですね。クリシェは色々忙しいのです」 |
-| 111 | クリシェは不満げに唇を尖らせた。 |
-| 112 | 「ベリーが来るって言ったらですからね……？」 |
-| 113 | クリシェの言葉を笑うように、断続的に魔力が揺れる。 |
-| 114 | 色々と催し事が好きな彼女の答えは決まっていた。 |
-| 115 | 「……全く。リラ、明日もお買い物に行くことになったのですが、どうします？」 |
+| 37 | しかしきっと彼等がその矜持で死なぬよう計らってくれたのだろうとリラは勝手に考えていた。 |
+| 119 | 「そういうことでしたら、わたしもちょっと……そろそろ予備の布が欲しいと思っていたのをすっかり忘れておりまして」 |
+| 120 | 言いながら胸や腰の巻布に目を。 |
+| 121 | あちこちがほつれたり、破けたりしていた。 |
+| 122 | 補修を繰り返し、控え目に言ってもボロボロ。 |
 | 162 | 王国中枢を速やかに占領、多くの議員を捕虜としたことで、百二十三年に渡る大陸の安定は崩れることになる。 |
 | 167 | 千年に渡る魔法文明はそれをはじまりとし―― |
-| 169 | かつてのクラインメール皇都であり、アルベランの王都。 |
-| 210 | 赤毛を揺らして振り返ると、そちらもまた美しい。 |
-| 234 | カルシェは自分の勘はそれなりに当たると自負しているし、違和感を覚えるような相手と主人を関わらせるのはあまり好ましくないことだった。 |
-| 235 | 少女達が危険人物であるとも思わなかったが、関わりは持たない方がいいだろう、と適当にこの場を離れる言い訳を考え、 |
-| 252 | 「え、あ……はい……」 |
-| 261 | 「それにクリシェ＝アルガンにベリーだなんて……ふふん、わかったわ。これからあなた達も博物館に行くんでしょ？」 |
-| 292 | 「ふふん、どう？」 |
-| 293 | また始まった、とカルシェは呆れながらそれを見る。 |
-| 296 | 教員の導師にその若さでこの力量は素晴らしい、と褒められたのがよほど嬉しかったらしい。 |
-| 299 | 先輩風モードに入ったミーは気付いていないものの、既にカルシェはこの二人が並の魔術師ではないことに気付いていた。 |
-| 300 | 猫はその尻尾を用いて、魔力を非常に高い精度で感じ取る。 |
-| 301 | 肉体拡張――魔力による仮想筋肉の構築。 |
-| 302 | 彼女たちが今も纏うそれは原始的な魔術の一種で、今も体内魔力の操作に慣れるため、魔術師が幼い頃から基本としてやらされるものであった。 |
+| 218 | けれど今彼女らが振り返って初めて彼女達を認識したような――そういう何とも言えない感覚。 |
+| 219 | 魔術師でも非常に高位な者となれば、その姿を見えなくしてしまうことすら可能であると聞くが、しかし目の前の二人がそのような魔術の類を使っている様子は見えなかった。 |
+| 220 | 「……何？」 |
+| 221 | 僅かな警戒を覚えたカルシェとは異なり、平然と彼女のご主人様はその目を見返し睨み付けた。 |
+| 222 | 彼女は今、絶賛不機嫌タイムである。 |
+| 231 | 知人に似ている――先ほどのは人名だろうか。 |
 | 303 | 剣を振り回し戦うことが常であった統一歴以前の魔術師達――英雄の時代にはそれを日常的に使う者達ばかりであったそうだが、今ではカルシェのような警護を主目的とする人間や、戦場に出て戦うことを目的とした魔術師くらいしか真面目に修めない。 |
 | 304 | 魔術師に求められるものは基本的に魔法であり、普通の魔術師は魔法に集中するためそれを切り捨てていたし、肉体拡張を行いながら宙空に術式を刻み魔法を操るのは至難の業。 |
 | 305 | カルシェなども魔法を切り捨てることでそれを修めていたし、技術とはそうしたもの。 |
@@ -16122,85 +15771,41 @@
 | 307 | しかしそういう観点から見て、二人は大分おかしい。 |
 | 308 | 明らかに二人は肉体拡張に慣れていた。 |
 | 309 | 人並み以上に肉体拡張を収め、魔力の感知に秀でたカルシェですら一瞬気付かないほどの静謐さ。 |
-| 325 | 竜に史を説くが如く。 |
-| 326 | ようやく彼女もそれに気付いたらしい。 |
-| 329 | 「いえっ、べ、勉強になりましたっ」 |
-| 332 | 容易くやったそれは素人目にも高度な事。 |
-| 333 | 魔力の色を合わせ、魔力同士の反発が起きないようにしながら、既に展開されている術式を邪魔せず、崩さず、新たな式を刻んで組み込む。 |
+| 310 | その静謐さは日常的に仮想筋肉を纏っていることの証左で、動作の度に起こるはずの僅かな揺らぎすらが存在しない。 |
+| 311 | その達人めいた力量の高さは尋常ではなく、考えれば考えるほどに違和感を覚える。 |
+| 312 | カルシェは既に、二人が単なる新入生と側付きなどではあり得ないと考えていた。 |
+| 313 | ふと使用人と目が合う。 |
+| 314 | 薄茶の瞳で彼女はカルシェを見つめ、少し考え込んだ様子で立ち上がると、再びミーに目を向ける。 |
+| 335 | 魔術や魔法の教導を正式に認められた導師の中でも上澄みだろう。 |
 | 336 | その上、肉体拡張に一切の乱れは無く。 |
+| 351 | 「教えて……はい。ベリーはクリシェの先生なのです。色々教わってるのです」 |
+| 352 | クリシェはどこか自慢げに言って、ベリーは苦笑する。 |
+| 353 | 若き天才と高位魔術師の側付き――確かにそう言われればそう見えなくもない。 |
+| 355 | だが先ほど目が合った使用人の様子と、今の指導。 |
+| 356 | まるで『そういうことなので納得して欲しい』と告げられたような気がして、それが妙に引っかかる。 |
+| 357 | とはいえ、そうでなかったら何なのだ、と問われれば答えることは出来ず、引っかかる、という言葉以上のものはカルシェにもなかった。 |
+| 358 | 楽しげにクリシェは立ち上がると、使用人に腕を絡める。 |
 | 359 | その様子はまさにお子様――ある意味何とも言えない天才っぽさが出ているような気もして、一人カルシェは考え込み。 |
-| 376 | 様々な人の手に渡りながらも残されたものは多くあり、そしてアルベナリア魔導学院は過去のそうした遺産を収拾、保管することにも力を注いだ。 |
-| 377 | クラインメールの大いなる発展はアルベランにこそ有り。 |
-| 378 | そこを探ることはこの先の発展に繋がるものと考えたらしい。 |
-| 379 | 魔術師狩りが原因で魔導技術は最盛期から大きく後退している。 |
-| 380 | 車輪を再発明するよりも、車輪を見つけ出す方が早い場合も大いにある。 |
-| 381 | 過去を究明するための資料収拾は研究と並行して行われており、この博物館に展示されているものはその一部――現在研究が行われていないものや、当時の魔術と関わりのない、歴史的資料としての価値しか持たないものが展示されている。 |
-| 382 | 腹の足しにもならないと、カルシェなどは全く興味のないものだが、わざわざ地方から見に来る者もいるらしい。 |
-| 383 | 地方の学者か画家か。 |
-| 384 | 真面目にカリカリと最近流行の鉛筆でノートに書き込みながら、展示物を真剣に眺めている者は多くいた。 |
-| 385 | 興味のないカルシェでも最初の一回目は多少楽しもうとは思えたが、流石にミーに付き合わされて七回目ともなるとうんざり。 |
-| 386 | 展示物よりも隣の二人の動向の方が気になり、もっぱらそちらを眺めていた。 |
-| 387 | 「意外と言うと失礼かもですが……お好きなんですね」 |
-| 389 | 中に入ると少女の外套を使用人が預かり、自分のものと重ねて折りたたんで持っていた。 |
-| 390 | 帽子も使用人が受け取って、身につけるのは白マフラーとシャツ、黒のスカート。 |
-| 407 | 魔術保護のなされた硝子の向こう――並べられるのは当時使われていた剣や槍、美術品、女王クレシェンタの手紙などなど、こういうものを楽しむのは魔術師でも老人連中が多い。 |
-| 408 | 若手は何かしらの成果を挙げたいと、どちらかと言えば洗練され数の多いクラインメール時代のものに掛かりきりになることが多いためだ。 |
-| 411 | 調べて新たな魔術理論が生まれるのであればともかく、人間は即物的なもの。 |
-| 412 | 莫大な手間のわりに見返りがない研究に取り組もうと思う人間が少ないのは当然のことであった。 |
-| 413 | 控えめに見ても導師級、明らかに見た目通りではないだろう側付きベリーがこうしたことに興味を持つのはまだ理解が出来る。 |
-| 414 | 導師級の実力があればどこに行っても是非に是非にと引く手数多。だというのに側付きなんてものをやってる変わり者なのだから、変わった趣味があってもおかしくはない。 |
-| 415 | とはいえこの少女がこうした歴史に詳しい事は少々意外ではあった。 |
-| 416 | 教育者の趣味がそのまま影響しているのかも知れない。 |
-| 417 | そうして奥へと歩いて行けば軍旗が並ぶ場所へ。 |
-| 418 | その内の一つを見て眉を顰める。 |
-| 419 | アルベリネアが率いたとされる黒旗特務中隊――三日月髑髏の黒旗と並べられて、雷と鷹の紋章。 |
-| 434 | 「ええ。商人が趣味でこっそり観賞用にこういうものを保管していたそうです。魔術的な保護も行われていたようですし、これだけ綺麗なものが残っていたのはそれが理由でしょう」 |
-| 435 | 「なるほど……軍旗の刺繍は美しいですし、確かに美術品と言われればそのように楽しめるのかも知れませんね」 |
-| 436 | 使用人が少女の家紋について触れることはなかった。 |
-| 437 | ミーも気付いていないのか、それとも気付いた上で特に不思議なことでもないと無視しているのか、何も言わず。 |
-| 438 | この軍旗が使われたのは１３００年も前の話。 |
+| 360 | 「羨ましい……中等部で話題になりそうね。専属導師付きだなんて」 |
+| 361 | ミーはクリシェを眺めつつ嘆息するように言って、カルシェを横目に見た。 |
+| 374 | 当然多くはその崩壊時共に焼かれ、随分な数の歴史的文献、資料が失われたのだと聞いている。 |
+| 399 | だがミーの話には使用人のベリーが相づちを打ち。 |
+| 409 | 純粋な歴史研究などというものは地位を確立した者や単なる学者が半ば趣味でやるもの。 |
+| 420 | 意匠はこちらの方が優美で鮮やかだが、描かれる雷と鷹は彼女の身に着けていた外套のそれとよく似ているような気がした。 |
 | 439 | 雷も鷹も武門の家を示すに適当なものに思えるし、別な組み合わせで作られた家紋にも見覚えがある。 |
 | 440 | 案外似たものが出来るのは普通のことであるのかも知れない。 |
-| 441 | このエリアにはアルベラン末期――特に女王クレシェンタやその腹心アルベリネア、クリシュタンドに関わりが深いものが多く、ここに入ってから二人の歩くペースは落ちていた。 |
-| 442 | アルベラン――古き英雄の時代。 |
-| 443 | それを観賞する彼女らの姿は、不思議とそれを懐かしんでいるかのようで、ミーや他の者とは雰囲気が少し異なって見えた。 |
-| 451 | 「竜の盟約者は先ほどの鷹の美姫と並んでアルベリネアを描く題材に使われることが多いのですが、フィリペーヌは特に多くの作品を残しています。実は彼の祖父に黒旗特務の隊員がいたのだとか……これも彼の祖父が晩年に趣味で残した絵を参考に描きあげたものだと言われています」 |
-| 452 | 自慢げに指を立ててミーは言った。 |
-| 453 | 「二人の口付けは当時話題を呼んだそうで、フィリペーヌが画家として羽ばたく切っ掛けとなった作品なのですが……実物は残念ながら燃えてしまったみたいで、ここにあるのは現存している頃に作られた贋作です。それでも貴重で、非常に見事なものだと思いますけれど」 |
-| 487 | 「――クリシェ、じゃらがしゃじゃなくてジャレィア＝ガシェア。アルベリネアの叡智の結晶を変な略称で呼ばないの」 |
-| 488 | 「……じゃらがしゃです」 |
-| 489 | 「も、申し訳ありません。クリシェ様は昔からその呼び方がお気に入りで……」 |
-| 490 | 「お気に入りじゃなくて……うぅ」 |
-| 498 | 「それにしても芸術的な刻印……こんなものをアルベリネアはどうやって量産したのかしら」 |
-| 505 | 「不思議とこのジャレィア＝ガシェアにも変な弱点があったそうで、赤毛の女性に対して剣を振るうことがなかったのだとか」 |
-| 506 | ジャレィア＝ガシェアに殲滅された部隊の、唯一の生き残り――赤い髪の女性兵士。 |
-| 507 | 彼女はまるで、意思のない殺戮人形であるジャレィア＝ガシェアから見逃されたように感じたのだと証言した。 |
-| 508 | 連合も戦争末期には多くの女性が兵士として参戦していたが、同様の事例がいくつかあり、それが偶然ではないと気がついたのは一人の参謀。 |
-| 509 | 元は歴史学者であったという彼はアルベラン、そしてアルベリネアについての逸話をいくつか知っていた。 |
-| 510 | 「竜の盟約者という題材は有名ですし、絵画にもなるくらい……赤毛の使用人をアルベリネアが深く愛していたという話は歴史を学ぶものならば多くが知っているものです。そこにジャレィア＝ガシェア攻略の糸口があるのではないかと検証を行い、そして赤毛の女性で構成された特殊部隊『赤の女神達』を結成。見事これを鹵獲し、それが切っ掛けとなり連合は劣勢を巻き返したそうです」 |
-| 514 | 「……アルベリネアの評価は様々なものが多いですが、しかしやはり、類い希なる力を持ちながら運命に翻弄された方であったのだと思います。これはその証明……この殺戮人形に秘められた彼女の愛こそが、千年越しにあの戦争を終わらせたと言っても過言ではないでしょう」 |
-| 518 | 「これが数百年の平和と安定を築いたのもまた事実……やはり道具を生み出し、操るのは人の手。これを見るとやはり、平和な時代を生きているわたしも色々と考えさせられます」 |
-| 519 | ミーはしみじみと言って、一人頷き。 |
-| 520 | 頬を赤らめていた使用人も静かに頷く。 |
-| 521 | 「そうですね、それは仰るとおりであるとわたしも。……アルベリネアはきっと、ささやかな日常を守るためにこそ、これを作られたのでしょう」 |
-| 522 | ――少なくともわたしは、そのように。 |
-| 523 | そしてそう続け、少女の銀色を愛おしげに撫でるのをカルシェは眺めた。 |
-| 524 | 博物館から出てくると既に日は少し傾き、冷気が強まり。 |
-| 525 | おかげさまで楽しめましたと二人はミーとカルシェに感謝を告げ、別れを告げる。 |
-| 526 | また近いうちにとミーは声を掛け、二人は困ったように苦笑して――他にも連れがいたのか、少し離れたところに数人の女性。 |
-| 527 | 優美な金の髪の少女は眉尻を吊り上げ、どこで何をしていたのかと文句を言い、桃色の髪の少女も同じく。 |
-| 528 | その背後で二人の使用人が困ったように、楽しげに笑う。 |
+| 467 | 二人の関係性は、逸話に残る彼女らとも奇妙に一致する。 |
+| 473 | らしからぬ妄想だ、と自分に呆れた。 |
+| 474 | そんな二人がもし今も存在していたとして、あんな街中を普通に歩いてる訳がない。 |
+| 475 | しかし彼女らの纏う不思議な空気はどうにも、そのような思考へカルシェを導く。 |
+| 480 | 認識阻害を行うような魔力の気配は感じない。 |
 | 529 | そう言えば彼女達が買い出しがどうだ、と言っていたことを思いだし、彼女らの後ろ――巨大な魔獣が欠伸をしながら荷車を引いているのに気付いて、体を硬直させる。 |
 | 530 | その荷台の上には大量の荷物が載っていた。 |
 | 531 | どこをどう見ても目立つ馬車と目立つ女性達。 |
 | 532 | けれど彼女らは当然のように空気に溶け込みそこにいて、カルシェの隣で同じものを見ているミーでさえ馬車を引いている魔獣――巨大な翠虎に驚きもせず、気付いてさえいない様子。 |
 | 533 | もはやカルシェはあの少女と使用人が単なる新入生と側付きであるなどとは全く思っていなかったし、遠目に見える彼女達が普通の人間であるとも思わなかった。 |
-| 534 | 少女は赤毛の使用人の手を引いて、あちらにいる使用人の一人の所へ駆け寄ると、何かを小さく耳打ちする。 |
-| 535 | 流石にその声は雑踏に紛れて聞こえなかった。 |
-| 536 | けれど少し驚いた様子を浮かべて、使用人がこちらを見つめたのがはっきりと分かった。 |
-| 545 | 「――なんで言わなかったの！」 |
-| 546 | 「なんでって言われても、うーん、まぁ雰囲気かなぁ……」 |
-| 547 | ――その日の夜、魔導学院の大図書館。 |
+| 538 | 更に何事かを伝える少女にその首を振ると、苦笑して。 |
+| 542 | 少女も赤毛の使用人と共に軽く一礼すると背を向け、そのまま彼女達と歩いて行く。 |
 | 548 | 高い塔の内側に整然と並ぶ本棚と螺旋の階段。 |
 | 549 | 知識の塔と呼ばれるそこの三階にある席は、比較的魔術と関わりの薄いアルベラン関連の書籍が並ぶ場所で、半ばミーの指定席であった。 |
 | 550 | 暇な時間は大抵ここで彼女は過ごし、カルシェは暇つぶしに古い伝承や物語、劇や小話などが書かれた本を眺める。 |
@@ -16209,73 +15814,12 @@
 | 553 | 「雰囲気！？　あのね、あなたこれがどれだけ重要なことか――」 |
 | 554 | 「ミーデリアリーゼ！　あまり騒ぐようならまたしばらく出入り禁止にしますよ！」 |
 | 555 | 「は、はいっ！」 |
-| 556 | 階下からの司書長の声に身を竦ませ、ミーはカルシェを睨む。 |
-| 557 | カルシェは笑って、まぁまぁとなだめる。 |
-| 558 | 「ミー様は気付いてない様子だったし、二人も何だか楽しそうだったし……わたしの想像が仮に当たっていたとしても、それは多分あの二人の望むところじゃないでしょ。ミー様は絶対わーわー騒ぐでしょーから」 |
-| 559 | 「ぐ……で、でもっ」 |
-| 560 | 「それともミー様はわたしに教えてもらって、折角楽しんでる二人に根掘り葉掘りあれやこれやを質問攻めした方が良かったって？」 |
-| 561 | 「うぅ……だって……」 |
-| 562 | 「稀なこともあったもんだ、と思い返すくらいで丁度いいんですよ、きっと」 |
-| 563 | ミーは悔しそうに唸りながら目を泳がせる。 |
-| 564 | 『でもでもだって症候群』であった。 |
-| 565 | 感情論に正論をぶつけられると、でも、と、だって、しか言えなくなる彼女の深刻な病気である。 |
-| 566 | よほど悔しいのか若干泣きそうになっており、苦笑してミーの頭を撫でて、あれでいいんですよ、と言葉を重ねる。 |
-| 567 | 「貴重な体験、貴重な巡り合わせ。気付かずとはいえミー様の憧れの人とお話出来たんだからいいじゃないですか。まぁ、これも全部わたしの勘違いという線もありますし」 |
-| 572 | 本を紐解いていくと、全く同じものが描かれていたためだ。 |
-| 573 | 歴史書とは少し異なる軍事書籍。 |
-| 574 | 現在の軍構造がクリシュタンド式などと呼ばれていることを思い出して開いてみると、彼女の外套――その左胸に描かれたものと同じものが本の始めに記されていた。 |
-| 575 | 偉大なるクリシュタンド家の功績を讃え、などと書かれており、衣服や所持品など、一般的に用いられるクリシュタンド家の家紋はあのようなものであるらしい。 |
-| 576 | そしてどうあれ、本に今なお記されるような紋章を使うものなどはいない。 |
-| 577 | 過去の英雄にあやかって同じものを使用したり、与えられたりする貴族はいるし、国が違えば似た家紋を持つものもいるだろう。 |
-| 578 | だがクラインメールの歴史は長い。 |
-| 579 | 今家紋を持っている家はそのほとんどがそのクラインメール時代に家紋を持ち、与えられたものであるし、書物の中で『今も生きている紋章』を与えられることはまずない。 |
-| 584 | 「してないしてない、何となく興味が湧いたから色々眺めてるだけですよ」 |
 | 585 | 今捲っているのは『気高き鷹の館にて』という本。 |
-| 586 | これはクリシュタンド家の使用人が記し、残したものの写本であるらしい。 |
-| 587 | 何とも難解な、飾りの多い文章――今使われているメール語の元になった西部共通語とはいえ、読み解くのがうんざりするものであったが、案外書かれている内容は自叙伝というより日記のそれに近い。 |
-| 588 | それなりに分厚いものだが、無駄を省けば半分くらいになりそうだった。 |
-| 589 | 己の生まれから尊敬すべきクリシュタンド使用人、ベリー＝アルガンとの出会い。 |
-| 590 | この辺りを見たときにはあの使用人が咄嗟に考えたであろう下手な嘘に呆れ、自分のご主人様にも呆れた。 |
-| 591 | アルベリネアが愛した使用人の名前について触れられているものはほとんどない。 |
-| 592 | 赤毛であったということは学者の間で有名だが、多くの場合、アルベリネアのおまけである彼女は単に使用人と記される。 |
-| 593 | とはいえミーが何度も読んだはずのこれには、名も姓も容姿の特徴も半ページに渡り無駄にしっかりと記されていた。 |
-| 594 | もう少し違和感を覚えても良いだろうに、ミーは疑うこともなく。 |
-| 595 | 恐らくあの使用人は自分の名前がこうして残っているなどということも知らなかったのではなかろうか。 |
-| 596 | でなければクリシェ＝アルガンとベリー、などと隠す気があるとは思えない。 |
-| 597 | 思えばアルベランについてはとても詳しく見えたが、後世での話やクラインメールに関する知識は随分と薄いように感じたように思う。 |
-| 598 | あれだけ知識があれば知っていて当然だろう、クラインメールの有名な絵画などもまるで初めて見るように。 |
 | 599 | パラパラとページを捲り、書き記されるは屋敷の住人。 |
-| 600 | 女王クレシェンタ、後の元帥セレネ。 |
-| 601 | 別れ際――翠虎の側に見えた二人の姿と重なった。 |
-| 602 | あれがそうなら、残る二人の使用人――その内の一人がこれを書き記した者であろうか。 |
-| 603 | 登場人物は多くなかった。 |
-| 604 | 三人の姫君が記されて使用人が二人――そして内戦後に一人。 |
-| 606 | 口に出すと不思議としっくりと来て、指先でその文字をなぞり目を細める。 |
-| 607 | 肩口で切り揃えられた黒髪の、美しい使用人。 |
-| 608 | 筆者アーネとは切磋琢磨する間柄であったらしい。 |
-| 609 | 「……もうそこ？　斜め読みしすぎだと思うんだけど」 |
-| 610 | 「いや、どうでも良さそうな所多いし。これ、続きはないんだっけ？」 |
-| 611 | 「ない。火事で燃えたんだって。……こんな重要なもの、写本も作ってないだなんてどうかしてると思うんだけど」 |
-| 612 | 本はもう少しで終わり。 |
-| 613 | 本当はもう一冊あったそうで、けれど今は残されていない。 |
-| 614 | 彼女の生家であるギーテルンス家の父に贈られたものであるらしく、その莫大な蔵書と共に長年保管され、そこに埋もれていたらしい。 |
-| 615 | 屋敷の火事と共に忘れられていたその存在に気付いた当時の当主が、歴史的価値あるものだと学者に売りつけ、そうして残っているのがこの一冊。 |
 | 616 | ぷりぷりと怒るミーに苦笑しながらページを捲る。 |
-| 617 | 内戦が終わって、内容はしばらくライバルであるエルヴェナについて。 |
-| 618 | そしてクリシェがあの有名な黒旗特務中隊を設立したことについて語り、その隊員が時折王領の屋敷を尋ねるようになったと語る。 |
-| 619 | 当時としては随分珍しいことであったようで、エルヴェナを含め、貴族平民に関わらず一切の差別をしない主人、アルベリネアの人柄を彼女はただただ褒め称えた。 |
-| 620 | 今日の姿を見るに、確かにそのような人物なのだろう。 |
-| 621 | 純粋で優しいお方、と言われれば、確かに、と頷ける。 |
-| 622 | エルヴェナには黒旗特務の前身、黒の百人隊に所属する姉がいたらしく、特に顔を出すのは彼女と隊の副官であったと本は語った。 |
-| 623 | その名前は―― |
-| 624 | 「……、まさかね」 |
-| 625 | 頭の上の耳が強ばり、尻尾がぴんと伸びる。 |
-| 626 | 苦笑いをする頬が引き攣るのを感じて、目頭を揉む。 |
-| 627 | 「どうしたの？　もしかして何かあった？」 |
-| 628 | 「いーや、ちょっと慣れない本なんか読んで疲れただけ」 |
-| 629 | 「……分かってると思うけれど、今日は徹夜だからね」 |
 | 630 | 「は？　なんで？」 |
-| 639 | 『――喧嘩をするほど仲が良いとはこのお二人のことを言うのだろう。クリシェ様はいつも困ったようにお二人を眺め、エルヴェナ様はそれをなだめた。苦笑しながらも、とてもとてもお幸せそうに』 |
+| 663 | そんなことを考えながら微笑んで、口ずさむように響かせる。 |
+| 664 | 「とっても可愛いと思いますし。――うさちゃん、って」 |
 
 ### Likely Extra Lines (English translation)
 
@@ -16283,111 +15827,84 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 12 | The liminal world between the essential world where souls existed and the material world of the living — the overlapping world of phantasm. |
-| 13 | It was a world without many inconveniences, but perhaps because of that, it was quite susceptible to the influence of human consciousness. |
-| 29 | They had started talking yesterday and were now on their fourth day — falling silent at times, but otherwise exchanging various questions and answers. |
-| 56 | *'——Lila. What do you think?'* |
-| 92 | *'Krische, accompany me when you have a free moment.'* |
-| 115 | "……? Tomorrow too?" |
-| 116 | She nodded, looking somewhat pleased despite herself. |
-| 117 | They had gone shopping today — Lila tilted her head, thought for a moment, and nodded. |
-| 118 | "If that's the case, I'd like to as well……I've been meaning to get spare cloth and kept forgetting." |
-| 135 | After the continental unification, Queen Kreschenta remained absent for nearly fifty years, yet the Alberan 'kingdom' maintained its structure. |
-| 164 | And the formulae carved into the air — magic — which they had discovered by studying Alberinea's mana crystals, combined with the abundant mana filling the atmosphere and those weapons, allowed them to swiftly subjugate surrounding resistance forces and absorb them, forging the Kleinmeil Mage Empire from the remains of the Kingdom of Alberan. |
-| 165 | Its name, in the Old Tongue, meant *moonlight's legacy.* |
-| 173 | She was of the beastkin — specifically the species known as cat-people. |
-| 230 | Someone they knew — the words earlier had been names, perhaps. |
-| 231 | That would make sense, yet there remained an oddity she couldn't quite pin down. |
-| 249 | "My apologies for the late introduction. This is Krische Argan-sama. My name is Bery. It's a pleasure to meet you, Vahnashtel-sama." |
-| 257 | The girl looked even more troubled, turning to her servant. |
-| 271 | * * * |
-| 274 | Priceless magical technologies were burned along with precious records, lost — and the World Tree itself was repeatedly targeted for burning. |
-| 275 | Yet each time, the World Tree wrapped itself in water and extinguished the flames; when wounded, it swayed and regenerated. In time, even those who had tried to destroy it came to accept it as something sacred. |
-| 276 | And given a hundred years, hatred faded. |
-| 286 | The Albernaria Academy of Magic was one product of that movement — an academy of the highest prestige among all magic academies. |
-| 289 | Naturally, career prospects were abundant. Meedeliarieze, daughter of the great mage house Vahnashtel, was one who studied there. |
-| 290 | "Fufu — well? What do you think?" |
-| 291 | *Here we go again*, Karshe thought, watching wearily. |
-| 294 | The teaching mentor had praised her lavishly for her skill at her age, and she'd been showing it off everywhere since. |
-| 295 | The girl had seemed to want to say something — waiting for her sea-devil dumpling to cool (a cat-tongue, perhaps?) before eating — then looked at her servant. The servant smiled wryly and applauded. |
-| 296 | Mee, in full senior-mode, hadn't noticed, but Karshe had already realized these two were no ordinary mages. |
-| 320 | Mee stared, stunned, at the water puppy, then blushed. |
-| 346 | But the servant's earlier reaction and the demonstration just now — it had felt less like offering proof and more like telling Karshe: *That's what this is, so please accept it.* |
-| 360 | Bery tried to smooth things over, and the girl, still linked to her servant's arm, studied Karshe and Mee. |
-| 361 | Then her long lashes fluttered, and her cheeks softened into a thoroughly amused smile. |
-| 362 | — Rare, jewel-like purple. |
-| 363 | That gaze and that smile, seen for the first time, felt strangely nostalgic. |
-| 364 | * * * |
-| 365 | Alberan's many legacies had been inherited by Kleinmeil. |
-| 366 | Much had burned in its collapse, and a great many historical documents and materials were lost. |
-| 367 | But where there were destroyers, there were also preservers. |
-| 368 | Much had survived, passing through many hands, and the Albernaria Academy of Magic had invested heavily in collecting and conserving such relics. |
-| 369 | Kleinmeil's great progress had its roots in Alberan. |
-| 370 | Investigating that past could lead to future breakthroughs. |
-| 371 | During the mage-hunts, magical technology had regressed significantly from its peak. |
-| 372 | Rediscovering the wheel was often faster than reinventing it. |
-| 385 | An alluring gesture — a thinking habit, perhaps. |
-| 408 | Krische let out a small *ohhh* and seemed impressed. |
-| 413 | The area featured many artifacts from the late Alberan period — closely connected to Queen Kreschenta, Alberinea, and Christand — and here, the pair slowed their pace. |
-| 428 | Mee said, clearly self-satisfied, that the image of a girl soldier with red hair — the sole survivor of a unit annihilated by a Jaleia Gashea, who reported that the machines seemed to *spare* red-haired women — had led, near the end of the war, to the formation of a special all-red-haired-women unit called the 'Red Goddesses,' which captured the war-golems and turned the tide. |
-| 429 | Bery stood agape, then blushed, and glanced at Krische in bewilderment. |
-| 430 | Karshe couldn't see Krische's face from this angle, but the girl had gripped the servant's arm tightly, looking somehow bashful. |
-| 431 | "……Evaluations of Alberinea vary widely, but I believe she was someone of rare power who was tossed about by fate. This is proof of that……her love, hidden within these killing machines, ended that war a thousand years later. It would not be an exaggeration to say so." |
-| 432 | "I-I see……" |
-| 433 | Pale skin flushed red, voice slightly strained. |
-| 434 | Karshe watched the 'red-haired servant named Bery' and felt the settled mystery begin to swell again. |
-| 435 | "The centuries of peace and stability they upheld is also fact……tools are created and wielded by human hands. Looking at this, even living in a peaceful era, I find much to reflect upon." |
-| 436 | Mee said it with feeling, nodding to herself. |
-| 437 | The blushing servant nodded quietly too. |
-| 438 | "Yes, I quite agree. ……I believe Alberinea surely created this to protect a modest, everyday life." |
-| 439 | — *At the very least, that is what I believe.* |
-| 440 | She added, and Karshe watched her lovingly stroke the girl's silver hair. |
-| 441 | * * * |
-| 442 | When they emerged from the museum, the sun had already begun to slant and the cold was deepening. |
-| 443 | The two thanked Mee and Karshe warmly, and said their goodbyes. |
-| 444 | Mee called *until next time*, and the two smiled ruefully — then, at a slight distance, several women. |
-| 445 | The elegant golden-haired girl raised her eyebrows, demanding to know where they'd been and what they'd been doing, and the peach-haired girl did the same. |
-| 446 | Behind them, two servants laughed, troubled yet amused. |
-| 447 | Karshe remembered them mentioning shopping, and noticed behind the group — a massive beast pulling a cart, yawning. |
-| 448 | Its bed was loaded with a mountain of goods. |
-| 449 | Her body went rigid. |
-| 450 | A conspicuous carriage and conspicuous women, any way you looked. |
-| 451 | Yet they existed there as naturally as air, and Mee beside her, looking at the same scene, showed no surprise at the giant jade tiger pulling the cart — she didn't even seem to notice. |
-| 452 | Karshe no longer thought for a moment that those two were merely a new student and attendant, nor that the distant group were ordinary people. |
-| 453 | The girl pulled the red-haired servant to one of the other servants and leaned in to whisper. |
-| 454 | The voice was lost in the crowd. |
-| 455 | But Karshe clearly saw the servant look surprised, then turn her gaze toward them. |
-| 463 | As if no one had ever been there at all. |
-| 464 | * * * |
-| 465 | "——Why didn't you tell me!" |
-| 466 | "Why, you ask? Hmm, well……the vibe, I guess……" |
-| 471 | Mee had initially been browsing books of her own interest, but today, unusually, it was Karshe flipping through Alberan-related texts, searching for something — and that had piqued Mee's curiosity. |
-| 472 | When asked why, Karshe told her candidly about the pair — and Mee flew into a rage. |
-| 473 | "The vibe!? Do you realize how important this is——" |
-| 474 | "Meedeliarieze! If you make any more noise, you're banned again for a while!" |
-| 475 | "Y-yes, ma'am!" |
-| 476 | The head librarian's voice from below made her flinch, and she glared at Karshe. |
-| 478 | "Mee-sama didn't seem to notice, and the two of them looked like they were having fun……even if my guess were right, that's probably not what they'd want. You'd absolutely cause a scene." |
-| 480 | "Or would you rather I'd told you so you could interrogate two people who were clearly enjoying themselves?" |
-| 481 | "Uugh……but……" |
-| 482 | "Chalking it up to a rare coincidence is just about right, I think." |
-| 485 | She seemed close to tears from sheer vexation; Karshe smiled wryly, patted her head, and repeated: *That's fine, really.* |
-| 486 | "A precious experience, a precious encounter. Even if you didn't realize it, you got to talk to your hero. Isn't that enough? Besides, it could all be my imagination." |
-| 492 | Not a history book but a military manual. |
-| 493 | Remembering that the current military structure was called the *Christand system*, she opened it — and there on the first page was the same crest she'd seen on the girl's cloak. |
-| 497 | But Kleinmeil's history was long. |
-| 498 | Nearly every family that held a crest today had received it during that era, and crests that were 'still alive' in the written record were virtually never bestowed. |
-| 501 | "Hmm, good question." |
-| 502 | "Are you mocking me?" |
-| 503 | "Not at all — I'm just browsing out of curiosity." |
-| 504 | She was turning the pages of *In the Hall of the Noble Hawk*. |
-| 507 | Fairly thick, though stripping out the fluff would halve it. |
-| 508 | From the author's birth to her meeting with the revered Christand servant, Bery Argan. |
-| 511 | Scholars knew she was red-haired, but in most cases, she was simply recorded as *the servant* — an appendage to Alberinea. |
-| 512 | Yet this book — which Mee must have read many times — devoted half a page to her name, surname, and appearance in unnecessary detail. |
-| 538 | That had apparently been quite unusual for the time, and the author praised her mistress Alberinea effusively — a person who made no distinction between noble and commoner, including Elvena. |
-| 543 | "……No way." |
-| 555 | "Sigh……is it really so hard to just keep it as a memory?" |
+| 5 | If one listened closely, delighted shrieks echoed through the air, and there upon those roots that blanketed the earth, a girl clad only in wrappings around her chest and waist opened her mouth with a troubled expression. |
+| 12 | The boundary between the world of essence where souls exist and the physical mortal realm――the overlapping phantasm world. |
+| 13 | It was a world without many of the inconveniences of the material one, but perhaps because of that, it was quite susceptible to the influence of human consciousness. |
+| 14 | The spirits that had been born at some point were one such product of that. |
+| 29 | They had begun talking yesterday and were now in their fourth day――going silent occasionally, but cycling through all manner of questions and answers. |
+| 35 | *It is an eyesore to have you clinging to me*, Rigaleiwe had told Lila in a single sentence, but surely that was not the whole reason. |
+| 117 | Krische nodded, yet there was something pleased about her smile. |
+| 118 | She should have already gone shopping today――Lila tilted her head at this, thought for a moment, and then nodded. |
+| 119 | "If that's the case, I also……I've just remembered that I've been meaning to get some spare cloth for a while now." |
+| 120 | She glanced down at the wrappings around her chest and waist as she spoke. |
+| 136 | Having achieved continental unification, Queen Kreschenta remained absent for nearly fifty years, yet the Alberan 'Kingdom' continued to maintain its governing structure. |
+| 165 | And magic inscribed upon the open air――having discovered the existence of magic by studying Alberinea's mana crystals, they used the abundant mana saturating the atmosphere and these weapons to rapidly suppress surrounding resistance forces, absorb them, and from the Kingdom of Alberan forge anew the Mage Empire of Kleinmeil. |
+| 166 | In the Old Tongue, its name meant moonlight's legacy. |
+| 213 | Like the girl, she appeared small and slender, yet through the gap in her cloak, her figure traced beautiful curves beneath an apron dress. |
+| 214 | A sudden sense of unease struck Karshe, and she scanned their surroundings. |
+| 215 | Walking along a thoroughfare like this, these two should have been conspicuous. |
+| 216 | Karshe had been trained since childhood as this young lady's bodyguard, and she should have been alert to the atmosphere created when someone drew that kind of attention. |
+| 221 | "……What?" |
+| 234 | Ordinarily, the correct thing would be to leave this place promptly. |
+| 297 | Her mentor had praised her, saying her skill at such a young age was impressive, and the elation of that was apparently boundless. |
+| 298 | She had been showing it off everywhere. |
+| 299 | The girl who had been cat-tongue-blowing on her sea-devil dumplings to cool them finished eating and glanced beside her as if wanting to say something, her expression slightly troubled. The attendant caught the look and, with a wry smile, applauded. |
+| 300 | Mee, now fully in senior-student mode, had not noticed, but Karshe had already realized that these two were far from ordinary mages. |
+| 301 | Cats used their tails to sense mana with extraordinarily high precision. |
+| 302 | Physical enhancement――the construction of virtual musculature from mana. |
+| 303 | What they wore even now was a primitive form of magic, the kind mages were made to practice from a young age to acclimate to internal mana manipulation. |
+| 304 | Mages of the pre-Unified Calendar era――the Age of Heroes――who routinely wielded swords were said to have used it daily, but now only those like Karshe whose primary duty was personal protection, or mages intended for combat, seriously trained in it. |
+| 305 | What was primarily expected of mages was spell-casting, and ordinary mages discarded physical enhancement to focus on their magic. It was an extreme feat to inscribe formulae in the air and manipulate magic while simultaneously maintaining physical enhancement. |
+| 306 | Karshe herself had abandoned spell-casting to master it. That was the nature of technique. |
+| 307 | To gain something, one inevitably had to give something up. |
+| 313 | Karshe had already concluded that these two could not possibly be a mere new student and her attendant. |
+| 345 | Such an imagination presented itself. |
+| 346 | Compared to this attendant, the girl looked her apparent age――no, her manner seemed even younger than her appearance. |
+| 347 | She had seemed as though she wanted to say something, yet she had watched her attendant's actions as a matter of course, looking satisfied. |
+| 348 | Mee was remarkably talented for her seventeen years, a head above her peers. |
+| 349 | Even within the Albernaria Academy of Magic, that gathering of elites, she ranked among the top achievers. |
+| 350 | That this girl, clearly younger, possessed abilities far exceeding hers was abnormal. |
+| 351 | "Krische, this person teaches you every day?" |
+| 352 | "Teaches……yes. Bery is Krische's teacher. Krische learns all sorts of things." |
+| 353 | Krische said with a touch of pride, and Bery offered a wry smile. |
+| 354 | A young genius and a high-ranking mage serving as her attendant――put that way, it was not impossible to see them as such. |
+| 355 | There was something that clicked. |
+| 356 | But the attendant's earlier manner when their eyes met, and this instruction just now. |
+| 378 | Much had survived, passed through many hands, and the Albernaria Academy of Magic had put great effort into collecting and preserving these remnants of the past. |
+| 379 | The great advancement of Kleinmeil was rooted in Alberan. |
+| 399 | Krische did not appear indifferent to Mee's tiresome commentary either, and she was apparently quite knowledgeable about the local history. |
+| 410 | Younger ones wanted to achieve results and tended to focus on the more refined and numerous artifacts from the Kleinmeil era. |
+| 418 | Perhaps the tutor's interests had rubbed off directly. |
+| 438 | The attendant made no mention of the girl's family crest. |
+| 439 | Mee either had not noticed or had noticed and dismissed it as unremarkable, saying nothing. |
+| 465 | *So what of it*――but still, something nagged. |
+| 480 | Karshe did not doubt her own good looks, and Mee, childish personality aside, was easy on the eyes. |
+| 481 | Ordinarily, this group of four should have drawn more gazes――yet she felt fewer eyes on them than when she and Mee walked the streets alone. |
+| 482 | She sensed no mana signatures of any perception-inhibiting kind. |
+| 483 | The atmosphere, the feeling of being there, was not unpleasant, and if she stopped paying attention, it would cease to matter entirely. |
+| 525 | She continued thus, and Karshe watched as she lovingly stroked the girl's silver hair. |
+| 526 | * * * |
+| 527 | When they emerged from the museum the sun had already begun to tilt, and the chill deepened. |
+| 528 | The two expressed their thanks to Mee and Karshe for an enjoyable time, and bade them farewell. |
+| 529 | *Let's meet again soon*, Mee called out, and the two offered troubled, wry smiles――they apparently had other companions waiting, as several women stood a short distance away. |
+| 530 | A girl with elegant golden hair raised her eyebrows and scolded them for where they had been and what they had been doing, and a girl with peach-colored hair did the same. |
+| 531 | Behind them, two attendants looked on with troubled, amused smiles. |
+| 532 | Recalling that the pair had mentioned something about shopping, Karshe noticed what was behind them――a massive magical beast yawning as it pulled a cart, and her body went rigid. |
+| 533 | Piled on the cart bed was an enormous quantity of goods. |
+| 534 | No matter how you looked at it, it was a conspicuous carriage with conspicuous women. |
+| 535 | Yet they blended into the air as naturally as could be, and Mee, standing right beside Karshe and looking at the same thing, showed not even a flicker of surprise at the magical beast――the enormous jade tiger――pulling the cart, seemingly not noticing at all. |
+| 536 | Karshe no longer believed for a moment that the girl and her attendant were merely a new student and her escort, nor did she believe that the women she could see in the distance were ordinary people. |
+| 537 | The girl tugged the red-haired attendant by the hand, rushed over to one of the attendants on the other side, and whispered something in her ear. |
+| 538 | The distance and the noise of the crowd swallowed the words beyond hearing. |
+| 539 | But Karshe clearly saw the attendant look surprised and then turn her gaze toward them. |
+| 549 | "――Why didn't you tell me!?" |
+| 550 | "Why, you ask……hmm, well, the vibe, I guess……" |
+| 586 | "Hmm, what indeed." |
+| 605 | Their figures overlapped with the two she had glimpsed near the jade tiger at parting. |
+| 618 | It had been a gift to the author's father at the Giterns estate, buried among that vast collection for years. |
+| 632 | "Nah, just tired from reading a book I'm not used to." |
+| 665 | She recalled the girl frolicking in the snow like a rabbit. |
+| 666 | Why had she thought of a rabbit at all? |
 
 ---
 
@@ -16595,111 +16112,6 @@
 | 162 | It was not a name he had heard among mages. |
 | 163 | "A truly splendid person who can do anything — the world's finest servant, a teacher who teaches Krische all manner of things……Krische's ideal, she is." |
 | 169 | What the words *I want to see her soon* had meant. |
-
----
-
-## Chapter 269
-
-| | |
-|---|---|
-| Raw file | `269_月明かりの遺産 二.txt` |
-| Translated file | `c266-270.md` |
-| Raw line count | 355 |
-| Translated line count | 336 |
-| **Verdict** | **19 line(s) MISSING from translation** |
-
-### Likely Missing Lines (raw Japanese)
-
-*These raw lines appear to have no corresponding translation.*
-
-| Raw Line # | Japanese Content |
-|---:|---|
-| 11 | けれど彼女とほんのひととき語るだけで、目の前にあったはずの壁が取り払われ、新たな神秘への道が生まれる。 |
-| 12 | 壁には本棚と魔水晶が並び、作業机が三つ。 |
-| 37 | エルゲインストも、彼女に対する気持ちは変わらない。 |
-| 60 | 「はい。簡単です」 |
-| 61 | アルベリネアの感覚は人からかけ離れ過ぎている。 |
-| 62 | 彼女の簡単は大抵、常人にとっては想像を絶する難しさであることが多い。 |
-| 64 | 「えへへ、だからって無理しちゃ駄目ですよ。……難しく考えないで、適当で良いのです」 |
-| 65 | 告げると彼女は微笑み、 |
-| 66 | 「大切なことはもっと沢山他にもありますから」 |
-| 67 | そう言って頭をぽんぽんと軽く叩いた。 |
-| 68 | 「ねむねむみたいに良いお仕事のために頑張るのは良いことですし、上達のために熱心なのも良いこと。……でも大事なのはきっと、そういうことではないのです」 |
-| 69 | 「大事なこと……」 |
-| 70 | アルベリネアは頷き、持って来たクッキーを袋から取りだし口にし、それから一つをエルゲインストの前で振る。 |
-| 71 | エルゲインストは頭を下げて両手で受け取り、それを口にした。 |
-| 72 | 「……美味しいです」 |
-| 73 | ほんの少しの塩気、舌の上に広がる蕩けるような甘味は蜂蜜だろう |
-| 77 | それを見たアルベリネアは、びしっと指を立てた。 |
-| 78 | 「……？」 |
-| 79 | 「こういう美味しい一つ、クッキーの一つで誰かをちょっと喜ばせたり出来る訳です。そういうちょっとしたことで誰かを喜ばせたり、良い気分にさせたり……」 |
-| 80 | そして微笑む。 |
-| 81 | 「そうやって、誰かのちょっとした幸せのために頑張るのが、一番大事なことなのです」 |
-| 82 | アルベリネアは美しい、といつも思う。 |
-| 83 | それでも、どうしようもなく美しく感じる時は、決まってこういう微笑みを見る時であった。 |
-| 84 | そう感じるのはきっと、その容姿の美しさだけではない。 |
-| 200 | しかしこの距離でさえ見え、魔力の圧を感じるのだ。 |
-| 209 | アルベリネアと女王クレシェンタ。 |
-| 218 | それは天極へ近づいて行き、慌ててエルゲインストは王都を駆ける。 |
-| 219 | 衝動的なもので、何か明確な理由があった訳でもない。 |
-| 220 | ただ、今行くべきだと心の中の何かが叫んでいた。 |
-| 221 | 全力で肉体拡張を行い、騒ぎに外へ出てきていた群衆を飛び越えるように通りを駆けていき――しかしその途中で足を止める。 |
-| 223 | ――まるで、己が魔水晶の内側に閉じ込められたかのような錯覚すら覚えた。 |
-| 224 | 大気を、大地を、周囲の全てに刻まれていくのは、青きライン。 |
-| 225 | 規模に関わらず精緻であり、迷いは無く、刻まれる速度はエルゲインストの理解を超越したもの。 |
-| 226 | 見間違えることなど有りはしない。 |
-| 227 | 誰より敬愛するアルベリネアの、完成された術式刻印であった。 |
-| 228 | 天極の外壁が崩落し、内側から大樹が姿を現しているのが見えた。 |
-| 229 | 莫大な魔力を迸らせながら、枝を広げ、幹を太く伸ばし、光輝く花弁をその枝葉の隅々まで覆うように芽吹かせる。 |
-| 230 | 周囲にあった刻印は空の彼方にまで広がっていき、溶けるように消え、 |
-| 231 | 「アルベリネアっ！！」 |
-| 232 | ようやく大樹の傘、その下に見いだした青き光を目で捉え吠えるように叫ぶ。 |
-| 233 | しかし声もむなしくその光が消えるのを目にし、 |
-| 234 | 「ぁ……アルベ、リネア……」 |
-| 235 | 虹色の花弁が舞い踊り、王都に降り注ぐ。 |
-| 236 | 手を伸ばしたまま呆然と、エルゲインストは立っていた。 |
-| 237 | 何があったのかはわからない。 |
-| 238 | 理由も知らない。 |
-| 253 | エルゲインストはただ、彼にそうされるまま歩いた。 |
-| 258 | 『ふふん、ねむねむは他と比べてそこそこ優秀ですね。悪くない出来です』 |
-| 285 | 慌てて顔を上げると、ワルツァは笑い、ベッドに腰掛けた。 |
-
-### Likely Extra Lines (English translation)
-
-*These translated lines appear to have no corresponding source.*
-
-| Trans Line # | English Content |
-|---:|---|
-| 7 | She was the very truth that mages had once pursued. |
-| 11 | But a mere moment's conversation with her could strip away the wall that should have been before him and open a new path toward mystery. |
-| 34 | If going by appearances, Elgeinst was far older. |
-| 168 | Hurrying out, they came close to Elgeinst. |
-| 169 | Elgeinst did not answer; as they did, he too stared up at the sky in shock. |
-| 170 | Chain explosions continued. |
-| 171 | The trailing flash of a trajectory was, in principle, like that of a Pishuune-style mana projection. |
-| 172 | But it was not such a *toy*. |
-| 173 | If the countless mana dancing wildly in the sky were to fall directly below — this capital city would without question be reduced to scorched wasteland in an instant. |
-| 174 | No need to think. |
-| 175 | He understood whose hand was behind this. |
-| 176 | Among Alberinea and the Queen, there was no other existence capable of such things. |
-| 177 | Before logic could work, he was certain the two were fighting. |
-| 178 | Too distant to see their shapes — only explosions and flashes were visible. |
-| 182 | Those who more than anyone wielded mana expertly — the mages — were the very ones who understood what scale the mana released above them was. |
-| 183 | A single one of those lights descending would without question cause the deaths of ten thousand — and that number grew. |
-| 196 | For a while there was no movement — but then, a small blue something appeared in the sky once more. |
-| 197 | It moved toward the Zenith, and in a panic Elgeinst ran through the capital. |
-| 216 | He did not know what had happened. |
-| 217 | He did not know the reason. |
-| 218 | Only — that Alberinea had disappeared was certain. |
-| 219 | Likely she would not return, and the Zenith had been for that purpose — somewhere in his heart he understood this. |
-| 220 | "……Elgeinst." |
-| 221 | Called to, he turned; there stood one elderly man, white beard grown long. |
-| 222 | In military uniform — an upright and dignified figure who still did not die as a warrior. |
-| 233 | Thinking: *I have been abandoned.* |
-| 234 | --- |
-| 241 | *'Nemunemu, for something like this, it's like this. Like this — a* pishu *like so, you see.'* |
-| 267 | "Your feelings are not something I can't understand — always going on about Alberinea like that. But she didn't die." |
-| 333 | Thinking nothing. |
 
 ---
 
@@ -18281,8 +17693,8 @@
 | Raw file | `287_少年とおねえさん 上.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 280 |
-| Translated line count | 225 |
-| **Verdict** | **55 line(s) MISSING from translation** |
+| Translated line count | 272 |
+| **Verdict** | **8 line(s) MISSING from translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -18290,68 +17702,16 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 5 | 建てる時には隊員達が報奨金などを寄付したこともあって道場の大きさは王都一。 |
-| 6 | いかに民衆から人気の黒旗特務とはいえ、憧れだけで厳しい稽古を続けられる人間というものは少数。本格的に剣術を習いたいと考えるものは普通、歴史ある道場を好む。 |
-| 7 | 知名度だけの黒旗剣術指南所は道場として軽薄なイメージもあり、剣術道場としては異例の入門数こそあれど、定着する門下生の比率は大きくはなかったのだ。 |
-| 12 | 老人と言って良い見た目だが、随分な強面で左目を潰した刃傷。 |
-| 13 | 体も未だ戦士のそれであり、クッキーを咥えつつ現れた少女が隣に立つと余計にその迫力が際だって見えた。 |
 | 14 | 指導は厳しいが話が面白く、休憩中はとても優しい一番人気の師範である。 |
-| 23 | 指導を行う屈強な元隊員達の方が明らかに強そうで、実際彼らは強い。 |
-| 28 | 「キューリス！　お前は――」 |
-| 39 | アルベリネアと言えば、誰もが知っている大陸一の英雄であった。 |
-| 60 | 「……？　いえ、気にしないでいいですよ。キューリスの言うとおり、大きい人が強くて有利なのは当たり前の事で、戦闘術というのは弱い人が強い人に勝つためのもの。客観的に見て、小さいクリシェは強くないですし、同じくらいの力量があって大きい人には負けるでしょう」 |
-| 61 | うんうんと真面目な顔で頷き、クリシェはちゃんと自分の弱さを認めることが出来る大人なのです、などと一人納得したように続ける。 |
-| 62 | ザーカは隣で額を押さえていた。 |
-| 65 | そこに現れたのはこの指南所の筆頭師範、カルアである。 |
-| 66 | 整った顔には小皺が刻まれていたが、老いてなお凜とした美しさ。 |
-| 67 | アルベリネアの黒猫と呼ばれた彼女の髪には若干の白髪が交じり、けれどその柔らかな立ち姿、動き一つに強者の風格がキューリスにも透けて見えるような気がする。 |
-| 68 | 彼女の振るう剣の速さを知っていることも理由だろう。 |
-| 72 | やはり戦士の風格など皆無である。 |
+| 15 | 彼が今日の鍛錬についての説明を行い、質問がないかと尋ねたところで――意を決して少年、キューリスは口を開いた。 |
+| 16 | 「あの、クリシェ様って、ほんとに強いの……いえ、強いんですか？」 |
+| 34 | 「んー……クリシェはまぁ、そこそこ強い方でしょうか」 |
 | 73 | 「なるほどなるほど、キューリスもそういう時期かぁ」 |
-| 75 | 「バックやボジーも来たばっかの頃似たようなこと言ってたしね」 |
-| 76 | 「バックさん達も俺と同じ事を……？」 |
-| 77 | バックとボジーは指南所でも師範代を任される高弟。 |
-| 78 | 特にバックは魔力という特別な才能を持たず、技術のみで師範代として指導する側に回ったすごい人――門下生達のほとんどから尊敬されていた。 |
-| 79 | そんな二人と同じ指摘をした、ということにキューリスは何やら嬉しくなり、目を輝かせる。 |
-| 80 | 「よしよし、うさちゃんが弱そうに見える人は挙手して。大丈夫、怒らないから」 |
-| 81 | カルアの言葉にキューリスの周囲にいた子供達も顔を見合わせ、一人、また一人と手を挙げて、最終的には殆どと言っていいほどの子供達が挙手した。 |
-| 82 | クリシェは、ほへー、と何とも暢気な顔でそれを眺め、カルアは肩を揺らして笑う。 |
-| 83 | ザーカは渋面を作って嘆息した。 |
-| 84 | 「見た目に惑わされるなといつも教えているつもりなんだが……」 |
-| 85 | 「まぁ子供だしね。シェリシアはうさちゃんが強そうに見えるの？」 |
-| 86 | 茶色の髪をした可愛らしい少女――シェリシアは他の子の様子を見ながら、頷く。 |
-| 87 | 「え、と……お父さんが戦場でクリシェ様を見たことがあって……その、敵を何十人も斬り殺すのを見たって……」 |
-| 88 | 「なるほど、そういう方向か。他の手を挙げてない二人もそんな感じかな？」 |
-| 89 | 手を挙げていなかった残りの二人も頷く。 |
-| 90 | シェリシアを含めた三人は軍人の子供。 |
 | 91 | 特にシェリシアはいつも何やらクリシェを不思議そうに見つめていて、どうしたのかと思っていたが、そういうことだったのだろう。 |
-| 92 | 確かに、この『お姉さん』が何十人と敵を斬り殺すようには見えない。 |
-| 93 | 「じゃあ、続いて館長のミアが弱そうに見える人は挙手」 |
-| 94 | 続けられた言葉に再びキューリスは手を挙げ、今度はシェリシア達も。 |
-| 95 | 満場一致であった。 |
-| 96 | 「むぅ、これは由々しき事態だね。ザーカ、教育をサボってたんじゃない？」 |
-| 97 | 「……笑い話に寄せすぎたかも知れんな。受けは良かったんだが……」 |
-| 98 | 「うさちゃん。うさちゃんはどうにもミアと同じくらい弱そうなんだって」 |
-| 99 | 「うーん、ミアと同じくらい弱そう……」 |
-| 100 | 「そう。ミアと一緒だよ？　王国のアルベリネアとしてここは認識を改めさせるべきだと思うんだけど……どーかな？　ちょっとした合宿に付き合わない？」 |
-| 101 | 「合宿……？」 |
-| 102 | 「そーそー。丁度気分転換に近所の森で二泊三日くらいでやろうと思っててさ、ついでにうさちゃんから適当にその辺りの許可も欲しかったんだけど――」 |
-| 110 | 指南所が開いている日はいつでも稽古に参加して良いということになっているが、それは逆にサボっても誰も文句を言わないということ。 |
-| 111 | 強制されることなく、厳しい鍛錬に自らの意思で通うというのは中々に気力がいるもの。 |
-| 112 | 外で他の子供と遊ぶ方が普通は楽しいし、初日でやめていくのが半数。 |
-| 113 | 十人入ってきて、半年後に残っているのは一人か二人であった。 |
-| 114 | キューリスは既に二年、そしてシェリシアも同じく。 |
-| 115 | 九歳からここで鍛錬を続けており、子供達の中ではそこそこな古株。 |
-| 116 | 力量もトップクラスであり、型や実戦形式の稽古ではペアになることが多い。 |
-| 117 | ここまでキューリスが続けて来れたのは半分、シェリシアのおかげと言えるだろう。 |
-| 118 | 同じ時期に始め、同じように通い続けた彼女はちょっと不思議な雰囲気があるものの、頭が良くて可愛く真面目。 |
-| 119 | アルベリネアへの憧れで始めたこれも、いつの間にかキューリスの中で彼女と過ごすためという理由が半分を占めていた。 |
-| 122 | 「師範あっちに行ってるし、いいじゃんっ」 |
-| 123 | こちらの横薙ぎを姿勢を低くして躱し――シェリシアは目がいい。 |
-| 124 | 動きも一つ一つが丁寧で、いつも落ち着いて見えた。 |
-| 125 | 剣も無闇矢鱈には振らず、鋭く速い必殺剣。 |
-| 126 | 大体いつもキューリスが押し切って勝つか、あるいは押しきれずに負けるか。 |
-| 127 | 力量はほとんど五分であったが―― |
+| 104 | ザーカは嘆息して頭を掻きながら、話は終わりだとキューリス達への指導を始める。 |
+| 105 | 既に軽い準備運動は終えており、まずは素振りを百本ずつ。 |
+| 106 | 振り下ろし、袈裟、薙ぎ払い、斬り上げ、そしてその逆。 |
+| 107 | とりあえずは剣を振ることに慣れることが子供達の稽古の主体で、大抵これを終える頃には疲れ切り、休憩を挟んでからロールカ式――左手を前に置く戦場剣術の型の訓練が始まる。 |
 | 128 | 「うぇ」 |
 | 129 | 「わたしの勝ち。……集中してないからそうなるの」 |
 | 130 | 集中を欠いたキューリスが負けることの方が若干多かった。 |
@@ -18359,49 +17719,35 @@
 | 132 | シェリシアは怒っていても可愛い。 |
 | 133 | 仕方ない、といった様子でシェリシアはゆっくりと剣を振るい始めた。 |
 | 134 | キューリスもそれに合わせてゆっくりと動きながら、剣を避ける。 |
-| 135 | あえてゆっくりと剣を振るい、互いの動きを確認する――そういう趣向の稽古であったが、ちょっとしたお喋りにも都合が良い。 |
-| 136 | シェリシアはそうでなくともこの練習が好きであったし、彼女と喋りたいキューリスは言わずもがな。 |
-| 137 | 機会を作るため、求められれば積極的に応じた。 |
-| 138 | 「……道場でクリシェ様と会った、って前にお父さんに言ったら、すっごく怖い顔で絶対に怒らせるなって何度も言われたもん。わたしのお父さん知ってるでしょ？」 |
-| 139 | 「ああ、うん……おっかねえ人だよな」 |
-| 140 | 指南所には強面が多いが、シェリシアの父親も負けず劣らず。 |
-| 141 | 軍に四十年近く――解体戦争の頃から従軍していたらしい兵卒叩き上げの百人隊長で、冗談など一切通じなさそうな人だった。 |
-| 142 | 「お父さん嘘ついたりしないし、実際……例えばわたしがクリシェ様に斬りかかったらあっさり返り討ちにされそうな気がするの」 |
-| 143 | 「そりゃ……強い弱いって言ったって俺たちよりは――」 |
-| 144 | 「そーじゃなくてさ、例えばさっきみたいにカルア先生に抱きついてる時とかも、隙だらけに見えて、そうじゃないような気がするって言うか……他の師範達はそもそも隙なんて見せないでしょ？」 |
-| 145 | シェリシアは小声で言いながら剣を袈裟に。 |
-| 146 | キューリスはそれを左に流すように剣で受けた。 |
-| 147 | 「隙がない人に返り討ちにされるのは当たり前だけど、隙だらけにしか見えない人なのに返り討ちにされそうなのって変だし、だから本当はすっごく強いんじゃないかって……」 |
-| 148 | 「んー、そういう話を聞いてビビりすぎとか？」 |
-| 149 | 「……かも知れないけど」 |
-| 150 | 子供達は道場にいる間、いつでも師範や師範代に斬りかかっても良い。 |
-| 151 | 稽古の一環として、そういう変な決まりがここにはある。 |
-| 159 | とんでもなく偉い人だというのは理由の一つだろうが、隙だらけに過ぎる、というのが一番の理由だろう。 |
-| 160 | 練習用とはいえ、仮に木剣が当たって怪我でもさせれば大目玉間違いなしだなんて子供でも分かることで、師範達に斬りかかれるのもある意味、師範達なら大丈夫という安心があるからだ。 |
+| 152 | 例えばさっきのような説明の最中だろうと、腕をクリシェに取られた状況であろうと、キューリス達が斬りかかっても怒られることはない。 |
+| 172 | 謎の力でキューリスの剣はあらぬ方向を斬っており、それをあの紫色が不思議そうに眺めるのだ。 |
 | 173 | ――そう、不思議そうに。 |
 | 174 | 怒るでもなく、驚くでもなく、どうしたのかと言いたげに。 |
 | 175 | 何故かと考えても分からない。 |
 | 176 | ただ何となく、キューリスの剣が彼女に当たる想像がどうしても浮かばなかった。 |
 | 177 | それから、剣術交流合宿と呼ばれた催しは一ヶ月後。 |
 | 178 | 黒旗特務が訓練に使っていた、王都北の小さな森で二泊三日。 |
+| 179 | 黒旗剣術指南所のみならず、王都にある道場も合同で、という形で開催された。 |
+| 180 | 軍の訓練所も側にあり、そこは厳密に言うと国――軍の所有地。 |
+| 181 | かつての私兵がやっているとはいえ、民間の一道場のためにそこを無償で開放するというのは公平性を失するという考えから、他の道場にも声が掛けられたのだ。 |
+| 182 | それに加え、希望者の現役軍人も参加を許され――剣術指南所自体百人を超える門下生を抱えるが、軍その他からも三百人近く集まることとなり、随分な大所帯での合宿となった。 |
+| 183 | お忍びでアルベリネアも参加するという話もあったからだろう。 |
 | 184 | 特に軍人の参加希望者があまりに多く、希望者から抽選という形になったと聞いている。 |
+| 185 | 館長のミアはカルアの思いつきから始まったこの企画で随分忙しかったらしく、目に隈を作っていたが、子供達の中でも親から許可を得て参加を許されたキューリス達はまるでお祭り気分である。 |
+| 186 | 王都中の猛者が集まる剣術合宿。 |
+| 187 | 心躍らぬような人間が、わざわざ剣術指南所になど通わない。 |
+| 188 | 当日朝、門下生達は指南所前に集合し、それから王都の北通りを抜け軍の訓練所に。 |
 | 189 | 他の道場の人間や軍人と合流したところで、シェリシアと歩いていたキューリスの所に現れたのは鎧姿の男。 |
+| 190 | 「お、お久しぶりです、おじさん」 |
 | 192 | 六十近いはずだが、未だ壮健。 |
 | 193 | たてがみの兜こそ被っていないが、誰も彼が一兵卒などとは思わぬだろう。 |
 | 194 | そこに浮かぶは歴戦の風格。 |
-| 212 | 実際の戦場を見てきた軍人の言葉には重みがあった。 |
-| 225 | それほど話したこともないが、シェリシアの父メルケスはまさに絵で描いたような武人であり、キューリスの憧れの一人であり、そんな彼の言葉に身が引き締まる思いであった。 |
-| 226 | が、シェリシアは馬鹿にしたような顔でキューリスを見た。 |
-| 227 | 「……キューリスと謙虚って言葉は水と油な気がする」 |
-| 239 | いつものエプロンドレスではなく、黒い外套とシャツにスカート。 |
-| 240 | 答えかけたキューリスは一瞬にして空気が入れ替わるのを感じて、メルケスを見る。 |
-| 245 | そして答礼を返したクリシェが翠虎を歩かせるのを見て、皆再び歩み始めた。 |
-| 246 | 先ほどまではどことなく朗らかな空気であったが、列全体が緊張した様子。 |
-| 251 | 翠の体毛には黒のラインが模様を作り、その瞳と合わせて実に獰猛な気配を漂わせる。 |
-| 252 | そんな化け物の上に乗る少女の顔は、道場で見るものと変わらず、普段通り。 |
-| 253 | 当然のように横乗りになって、ぺちぺちと怪物の背中を叩いていた。 |
-| 270 | 翠虎はその巨体からは信じられないほどの速度で、瞬きの間もなく遙か先、列の先頭に。 |
-| 271 | キューリス達は唖然と見送り、そして、安堵するような溜息が聞こえてメルケスを見る。 |
+| 195 | 巌のように厳しい顔には複数の傷跡があり、背丈こそ高くはないが、筋骨隆々――革鎧と服の境目を見失うほどに、鎧が似合っていた。 |
+| 196 | 可愛らしいシェリシアと一致するのは茶色の髪くらいだろう。 |
+| 197 | メルケスは白髪交じりの短い髭を撫でて笑い、隣のシェリシアの頭を軽く叩く。 |
+| 198 | 「君にはシェリシアがいつも世話になっている。毎日のように君の話を聞かされている身としては、あまり久しぶりという感じもしないが」 |
+| 207 | そのことを言っているのだろう。 |
+| 255 | のほほんとした様子のアルベリネアはそんなキューリスとシェリシアを見て、メルケスに目を向ける。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -18409,63 +17755,44 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 11 | "Um, is Krische-sama really strong……I mean, is she strong?" |
-| 41 | Watching this, the doubt only grew deeper within Kyuris. |
-| 42 | He could see by watching that she was a very kind person. |
-| 43 | The Queen's elder sister, a military officer second only to the Marshal. She had to be extraordinarily important, yet she was polite to everyone, humble and approachable — he understood that this was quite admirable. He could also see that the members held her in deep respect, and they were the Black Flag Special Service company, composed of common-born soldiers. Their rise was undoubtedly thanks to Krische, and it didn't seem strange that they would exaggerate her greatness to others out of gratitude for that debt. |
-| 44 | She was a kind princess and the masters' lord, so it was understandable that they would want children like Kyuris to like her, to show her respect. |
-| 45 | On top of that, the fact that she was actually undefeated and remarkable in war was true — for someone in a position to command tens of thousands, whether her personal swordsmanship was strong or weak was a trivial matter. |
-| 46 | Stronger was better, sure, but even if she were weak, Alberinea was Alberinea. The kingdom's hero. |
-| 47 | Adding a little embellishment to that ought to be forgiven, and rather, pointing it out like this in front of people was the wrong thing to do. |
-| 48 | Watching Zaaka try to convince Krische by repeating that she was very strong, the strongest, without peer, Kyuris bowed his head. |
-| 49 | "U-um……I'm sorry. That was rude of me……" |
-| 50 | "……? No, don't worry about it. What Kyuris says is correct. For instance, it's only natural that bigger people are stronger and have the advantage, and martial technique exists so that weaker people can defeat stronger ones. Objectively speaking, small Krische isn't strong, and Krische would probably lose to someone of similar skill who was bigger." |
-| 51 | Mm-hm, mm-hm — Krische nodded with a serious face and continued, as though having reached some private conclusion, that Krische was a grown-up who could properly acknowledge her own weakness. |
-| 52 | Beside her, Zaaka was pressing a hand to his forehead. |
-| 53 | "Zaaka, what's wrong?" |
-| 54 | "Haah……no, it's this idiot Kyuris……" |
-| 55 | The one who appeared just then was the academy's chief instructor, Kalua. |
-| 56 | Fine wrinkles were etched into her well-formed face, but even in old age she possessed a dignified beauty. Her hair — that of the one called "the Black Cat of Alberinea" — was streaked with some white, yet from her relaxed posture and every subtle movement, Kyuris thought he could see the bearing of a master shining through. |
-| 57 | Part of the reason was surely that he knew how fast the sword she wielded could be. The way she could summon a storm of blades in an instant from that easy stance — just remembering it sent a chill down his spine. The atmosphere was completely different from the onee-san in the apron dress. |
-| 58 | Zaaka gave her the gist of the conversation, and Kalua listened with amusement, laughing as she patted Krische's head. Kyuris watched Krische smile happily at the gesture, immediately grabbing Kalua's arm and clinging to her without a shred of shame. |
-| 59 | Indeed — not a trace of a warrior's bearing. |
-| 60 | "I see, I see. So Kyuris has reached that phase too." |
-| 61 | "That phase……" |
-| 62 | "Buck and Boji said the same kind of thing when they first joined." |
-| 63 | "Buck-san and the others said the same thing as me……?" |
-| 64 | Buck and Boji were senior disciples entrusted with the role of assistant instructor. Buck in particular had no special talent for mana and had risen to the position of assistant instructor through technique alone — respected by nearly all the students. |
-| 65 | Having made the same observation as those two, Kyuris felt rather pleased and his eyes lit up. |
-| 66 | "All right, all right. Hands up if you think Bunny looks weak. Don't worry, no one's getting in trouble." |
-| 67 | At Kalua's words, the children around Kyuris exchanged glances, and one by one they raised their hands, until in the end nearly every child had done so. |
-| 68 | Krische watched this with an easygoing *hoheh* sort of expression, and Kalua shook with laughter. Zaaka made a sour face and sighed. |
-| 69 | "I've been teaching them not to be fooled by appearances, and yet……" |
-| 70 | "Well, they're kids. Sherishia, does Bunny look strong to you?" |
-| 71 | The pretty girl with brown hair — Sherishia looked around at the other children's responses, then nodded. |
-| 72 | "Um, well……my father saw Krische-sama on the battlefield once……and, he said he saw her cut down dozens of enemies……" |
-| 73 | "Ah, so that's the angle. Same for the other two who didn't raise their hands?" |
-| 78 | "Next question — hands up if you think Director Mia looks weak." |
-| 79 | At the follow-up, Kyuris raised his hand again, and this time Sherishia's group did too. |
-| 80 | It was unanimous. |
-| 81 | "Hmm, this is a dire situation. Zaaka, have you been slacking on their education?" |
-| 82 | "……Might have leaned too far into the funny stories. They did go over well, but……" |
-| 83 | "Bunny. Apparently you look about as weak as Mia." |
-| 84 | "Hmm, about as weak as Mia……" |
-| 85 | "Yep. On the same level as Mia. As the kingdom's Alberinea, don't you think you should correct this perception? How about it? Want to join us for a little training camp?" |
-| 86 | "Training camp……?" |
-| 87 | "Yeah, yeah. I was just thinking of doing a two-night, three-day thing in the forest nearby for a change of pace, and I was also hoping to get some kind of permission from you, Bunny, while I'm at it——" |
-| 88 | Still talking about something or other, Kalua led Krische away. |
-| 89 | Zaaka sighed and scratched his head, then declared the conversation over and began instruction for Kyuris and the others. |
-| 108 | "……When I told my dad that I'd met Krische-sama at the training hall, he got this really scary face and kept telling me over and over to absolutely never make her angry. You know my dad, right?" |
-| 109 | "Yeah……he's a scary guy." |
-| 110 | There were plenty of fierce-looking people at the academy, but Sherishia's father was no less intimidating. He had served in the military for close to forty years — a centurion who had risen from the ranks as an enlisted man, apparently fighting since the Disassembly War. He seemed like the kind of person who would never tolerate a joke. |
-| 111 | "My dad doesn't lie, and actually……for example, if I attacked Krische-sama with a sword, I feel like she'd strike me down in an instant." |
-| 112 | "Well……sure, even saying strong or weak, she'd at least be better than us——" |
-| 113 | "That's not what I mean. Like, even when she's clinging to Kalua-sensei earlier, she looks completely full of openings, but I get the feeling she's not, actually……The other instructors don't show any openings in the first place, right?" |
-| 134 | In his imagination, his sword, for some reason, never landed on her. Through some mysterious force, Kyuris's sword would slash through empty air, and those purple eyes would watch it with a puzzled look. |
-| 135 | ——Yes, puzzled. |
-| 177 | To always be humble was one of the instructors' teachings. Even Kalua, the chief instructor, said with a laugh that she was still a novice. |
-| 178 | He hadn't spoken to him much, but Sherishia's father Merkes was the very picture of a warrior, one of Kyuris's idols, and the man's words made him straighten with resolve. |
-| 225 | --- |
+| 12 | He looked elderly, but his scarred, fearsome face had lost none of its intensity, and the left eye he had lost added to his aura. His body was still that of a warrior, and when the girl who appeared beside him, cookie in mouth, stood at his side, the contrast made his presence all the more striking. |
+| 13 | His instruction was strict but his stories entertaining, and he was the kindest during breaks――the most popular instructor among the children. |
+| 72 | "That phase……" |
+| 87 | The remaining two who had kept their hands down nodded as well. |
+| 101 | Kalua continued talking as she led Krische away. |
+| 114 | Their skill level was near the top, and they were often paired for form practice and sparring. |
+| 115 | That Kyuris had persisted this long was half thanks to Sherishia. |
+| 118 | "Sherishia, does Krische-sama really look strong to you?" |
+| 119 | "……No talking during practice." |
+| 120 | "The instructor went that way, come on!" |
+| 121 | She ducked low beneath his horizontal swing――Sherishia had sharp eyes. |
+| 122 | Her movements were precise, always composed. |
+| 123 | She never swung wildly; her strikes were sharp, fast, and decisive. |
+| 124 | Usually Kyuris either pressed through to win or failed to and lost. |
+| 125 | Their skill was roughly even, but―― |
+| 149 | It was a sort of training rule unique to this place. |
+| 165 | What came to mind was her tilting her head in puzzlement. |
+| 166 | He furrowed his brow. |
+| 167 | "Hey. You can talk, but concentrate." |
+| 168 | "Oh, yeah……sorry." |
+| 169 | At Sherishia's annoyed look, Kyuris realized that, oddly, he could not imagine Krische's face in pain. |
+| 170 | All he could picture was that beautiful face gazing at him, puzzled. |
+| 171 | In his imagination, his sword never connected. Some inexplicable force sent it slicing in the wrong direction entirely, and those purple eyes watched with curiosity. |
+| 172 | ――Yes, with curiosity. |
+| 173 | Not anger, not surprise――as if asking *What happened?* |
+| 174 | He could not explain why. |
+| 175 | He simply could not imagine his sword ever reaching her. |
+| 176 | * * * |
+| 177 | Then, the event dubbed the 'Swordsmanship Exchange Camp' took place one month later. |
+| 178 | Two nights, three days in a small forest north of the capital, where the Black Flag Special Service had once trained. |
+| 179 | It was organized jointly with other training halls across the capital, not exclusively for the Black Flag Academy. |
+| 180 | A military training ground was adjacent, and since that land was technically military property, offering it free of charge to a single private academy run by former soldiers would have raised fairness concerns. Other academies were therefore invited as well. |
+| 181 | In addition, serving soldiers who wished to participate were also permitted――and with word that Alberinea would be joining incognito, the military volunteers were overwhelming, requiring a lottery. Head Instructor Mia, dealing with the logistics Kalua had casually set in motion, had dark circles under her eyes, but the children whose parents had granted permission were in a festive mood. |
+| 182 | A swordsmanship camp where the capital's finest gathered. |
+| 183 | No one who willingly attended a swordsmanship academy could fail to be thrilled. |
+| 184 | On the morning of the event, students gathered before the academy, marched north through the capital, and arrived at the military training ground. |
+| 185 | As they merged with members from other academies and soldiers, a man in armor appeared before Kyuris and Sherishia. |
+| 245 | Sitting sideways, she patted the beast's back casually. |
 
 ---
 
@@ -18476,8 +17803,8 @@
 | Raw file | `288_少年とおねえさん 中.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 310 |
-| Translated line count | 265 |
-| **Verdict** | **45 line(s) MISSING from translation** |
+| Translated line count | 293 |
+| **Verdict** | **17 line(s) MISSING from translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -18485,71 +17812,79 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 7 | それなりに長い挨拶を何を見るでもなく平然と語って見せた。 |
-| 12 | 軍人達の視線にも敬意があることに気付いて、キューリスは自分の考えが浅はかなものであったのではないかと考え始めていた。 |
-| 13 | そもそもミアが弱そうに見えるのは、単に剣を振っているところを見たことがない、見た目が強そうではない、というただそれだけで、それ以上の理由もないのだ。 |
-| 14 | 単なる決めつけと言えばその通りである。 |
+| 8 | 優しい見た目に反した堂々たる姿。 |
 | 15 | 「ああして見ると、館長ってすげぇんだな」 |
 | 16 | 「そうだね。意外というか……」 |
+| 18 | 普段やっている稽古の延長線上で、それぞれの道場が少し離れて、演武や実戦さながらの手合わせを行う姿を見せ、午後からは興味のある流派にお試し入門。 |
+| 19 | 文字通りの交流といった形で緩く、参加するしないも自由であった。 |
+| 20 | エルカファレスト式は王国で単に『正統剣術』と呼ばれるものに近く、切っ先を相手の首筋に向ける中段の構え。 |
+| 21 | 正統剣術は両手持ちの長剣を用いることを前提としながらも、あらゆる剣技の基礎、中心にあるものとして、キューリス達も最初に習った構えの一つ。 |
+| 22 | 剣一本であらゆる攻撃を捌き、打ち負かすことに主眼が置かれ、その堂々たる構えから気高き剣として貴族達にも好まれるものであるらしい。 |
+| 23 | エルカファレストもそれによく似ていて、切っ先が僅かに寝ているのが違い――僅かながら突きに重点を置いた構えであるそうだ。 |
 | 24 | とはいえ、大雑把に見ると同じく。 |
-| 28 | 相手の癖や好み、隙を見つけるのが得意で、剣を振っているときもそうであるらしい。 |
-| 33 | やはり王都で何年も続く道場達だけあって、どこも中々しっかりしているように見えた。 |
-| 34 | むしろ一番適当に見えるのが黒旗剣術指南所である。 |
-| 41 | 黒旗剣術指南所では強さこそ正義。 |
+| 25 | 明確に違う構えを取るのはザイン式やロールカ式くらいで、流派によって細部は異なるものの、多くの構えは共通であった。 |
 | 45 | それなら手合わせしてるほうが楽しいし、意味があるように思える。 |
+| 46 | 「カルア師範にも型はあるさ。誰でも学べるものではないというだけで」 |
+| 47 | 「っ、バックさん」 |
+| 48 | 背後から現れたのは黒髪を後ろで束ねた精悍な男だった。 |
 | 49 | 細身ながらも筋肉質で、無精髭。 |
-| 50 | 高弟の一人で、魔力という特殊な才能を持たずに師範代として指導に回る。 |
 | 55 | こういう唐突な指導もよくあるもので、慣れてはいた。 |
-| 73 | バックは楽しげに笑う。 |
+| 89 | 時々意地悪だが、やはりシェリシアは可愛く、そういうところがズルかった。 |
+| 90 | 自分の頬が赤くなる前に視線を切り、そういえば、とバックに尋ねる。 |
+| 91 | 「その、バックさん。クリシェ様の事どう思います？」 |
+| 92 | 「ん……？　ああ、聞いたぞ。どうにもアルベリネアに弱そうだと面と向かって言ったらしいな。恐れ知らずと言うか何というか……」 |
+| 93 | 「バックさんとボジーさんも似たようなこと言ってたって聞いたんですが……」 |
 | 94 | 「ボジーはともかく、俺はそこまで思っていなかったさ。まぁ、普段の様子で侮っていたと言われれば俺も否定は出来ないが」 |
 | 95 | バックは苦笑し、見ればぞっとする、と続けた。 |
-| 107 | 「だって、あれだけ言われたら見てみたくないか？」 |
+| 103 | そう言ってバックは手を振り、他の所に歩いて行く。 |
 | 111 | 何故か館長のミアが側で野菜の皮剥きをさせられており、一部の軍人や子供達がその手伝いを。 |
-| 118 | 「良いことです。ミアがびっくりするくらい不器用なので手伝ってあげて下さい」 |
-| 131 | 肉は下ごしらえにフライパンで焼く手間の掛けようである。 |
-| 132 | しかも食材運びと皮剥きを除けばそのほとんどを一人で行なっていた。 |
+| 119 | そんなことを言い放つ。 |
 | 133 | そして余っている時間を使い串焼きを用意。 |
-| 135 | 特にミアとシェリシアが遅い訳ではなく、彼女が速すぎるのだ。 |
-| 136 | それでいて慌てている様子はなく、普段通り。 |
+| 134 | ミアとシェリシアがそれぞれ一本を用意する間にクリシェは六つの串を用意し、何とも鮮やかに皿の上に積み上げていく。 |
 | 137 | 平然とこなす仕事量が常人の比ではない。 |
-| 139 | 出来映えも見事なもの。 |
-| 140 | スープはあっさりとしながらも奥深く、肉も野菜もとろけるよう。 |
-| 150 | さっきからクリシェ様はすごい、と繰り返している。 |
-| 161 | 知らない人間からすれば雲の上――声を掛けづらい人であることは間違いなく、誰もが遠巻きに彼女を見ていた。 |
-| 162 | 「んー、わたしは何となく分かったけど」 |
-| 168 | 「イメージ……」 |
-| 171 | 「まぁ、それはともかく。……昼からどうするの？」 |
-| 172 | 尋ねられ、首を振る。 |
-| 173 | 「じゃあザイン式習いに行こうよ。使う人って師範達にもいないし貴重だし」 |
-| 174 | 「……はぁ、いいけど」 |
-| 175 | そうして昼からはザイン剣術道場の所に。 |
-| 176 | 稀な機会であることは確かであった。 |
+| 157 | 剣を見たいというのは確かであるが、弱そうなどと言った手前言い辛いことは確かであるし、わざわざ楽しそうにしているところに口を出すなら尚更。 |
+| 183 | 魔力保有者としての超人的な身体能力を最大限に発揮するからこそ有効となり得るもので、それを極めるには必然的に魔力を操る才覚が必要となるのだ。 |
+| 184 | 非魔力保有者が学んでも無意味という訳ではないが、結局間合い、速度で絶対的な優位を手にする魔力保有者に対して、速度で劣る彼らでは先を取ることは難しい。 |
 | 185 | 後の先を取ることに特化したロールカ式を修める方が非魔力保有者にとっては実戦的である、という考えが一般的で、ザイン式が貴族の剣と呼ばれるのもそれが所以であった。 |
 | 186 | 「準備は良いですかな？」 |
+| 187 | 「は。……ザイン総師範直々の剣を間近で見られる稀な機会、勉強させて頂きます」 |
+| 188 | 「はは、そう気負わなくとも構いません」 |
 | 189 | 集まった軍人や他の門下生達の前。 |
+| 190 | シェリシアの父、メルケスの正面に立つのは、白髪交じりの黒髪短髪、長身の偉丈夫、ウェスリアル＝ザイン。 |
+| 191 | かつては王都一の剣術道場と呼ばれたザイン剣術道場の総師範。 |
 | 192 | 今代のザイン式剣術正統後継者であった。 |
+| 193 | メルケスはロールカ式で構え、ウェスリアルはザイン式で構える。 |
+| 194 | 対照的な構え――隣のシェリシアは胸の前でぎゅっと拳を握っていた。 |
 | 195 | 百人隊長。実戦経験もあり、魔力も扱える。 |
-| 203 | ウェスリアルの肉体は動を飛ばして静から静へ。 |
+| 196 | メルケスは師範達と比べて見劣りせぬ剣腕の持ち主であったが、しかし対するウェスリアルを見れば、どちらが優位かは一目で分かった。 |
+| 197 | 静謐とさえ感じる構えの美しさ。 |
+| 198 | まさに達人という風格があり、互いの間に五間という距離を取っているにも関わらず、メルケスはじりじりと後ろに下がる。 |
+| 199 | それだけの距離を開いてなお、ウェスリアルの間合いということだ。 |
+| 200 | 「では」 |
+| 201 | 「っ！？」 |
+| 202 | まるで冗談のような踏み込み。 |
+| 209 | 言って、ウェスリアルはメルケスを示す。 |
+| 210 | 「実に堅実なロールカ式、戦場で磨かれた故か甘えも緩みもない。後の先を合わせることのみに集中し、普通に踏み込めば少なくとも反応は出来たでしょう。だが、では、という私の言葉に反応し、ほんの僅かな揺らぎを見せ――その虚へ私が踏み込んだからこそ、無防備なまま剣を突きつけられる結果となったまで」 |
+| 211 | 口にしながら腰に提げた長剣を叩く。 |
+| 212 | 「重要なのはその程度の隙で十分に、この剣術ならば致命の一撃を与えることが出来るということ。彼のような熟練を相手にしてさえ、その技術を発揮させる前に問答無用で切り裂き、刺し貫き、一瞬で勝負を終わらせる。……それがザイン式剣術というものです」 |
 | 213 | ありがとうございます、と笑みを浮かべてウェスリアルはメルケスに目を向ける。 |
-| 220 | 柔らかな雰囲気は少し似ているように感じられた。 |
+| 214 | メルケスは頭を下げて、キューリス達の側に。 |
+| 215 | 目を向けると苦笑をし、軽く頭を叩いた。 |
+| 216 | 衆目の前で手も足も出ず敗れながらも、その顔に恥はない。 |
+| 217 | 「分かりやすくするために小細工を弄したものの、これを卑劣と感じるべきではないでしょう。あくまで剣術とは殺人術であり、そして弱きものが強きものに勝つための技術。七尺の巨漢に力で挑めぬものが、勝利を得るために培う卑劣な手段だということを念頭に。……人には決して負けてはならぬ時があり、私が教えるのもまた、そのための技術。まずはそれを理解して頂けるとありがたい」 |
 | 221 | キューリスは感心しながら彼を見つめ、シェリシアも同様。 |
 | 222 | 「いかがでしょう？　アルベリネア」 |
 | 223 | ウェスリアルの声と視線、咄嗟に背後を振り返る。 |
-| 229 | 軍人達は一斉に敬礼を行ない、ウェスリアルは膝を突く。 |
-| 230 | 平然と答礼を返しながら、構いませんよ、と彼らに告げる。 |
-| 251 | 「そうですね、まぁふりふりはへたっぴの中ではまだ悪くない方ですけれど、ザイン式が体に染みついちゃってるというか、何も考えずにそっちに寄ってしまうというか……」 |
-| 252 | 二本の尾のように銀の長い髪を揺らして、唇に指先を。 |
-| 253 | 首を傾ける。 |
-| 254 | 「……ザイン式自体、お馬鹿で反応の遅い人を殺すには良い剣だと思うのですが、ちゃんと相手が見える人なら当然躱せますし……所詮一部のお馬鹿さんに向けた、特定の状況にだけ強い剣で――むぐっ？」 |
-| 255 | 「あ、あのね、うさちゃん……」 |
-| 256 | 咄嗟にクリシェの口を覆ったカルアがフォローする。 |
+| 224 | 大人達の後ろ――翠虎に乗りながらクッキーを食べ、木彫りのコップで紅茶らしきものを飲むクリシェとカルアの姿がそこにあった。 |
+| 225 | 気付いているものもほとんどいなかったのか、一瞬悲鳴に似た声が聞こえる。 |
+| 245 | 「……一般的」 |
+| 259 | 名門中の名門ザイン剣術道場。 |
+| 267 | しかし、言葉に出来ぬ何かが、その音の内側に秘められていた。 |
+| 268 | 「……よろしければ是非に一度、お手合わせを願いたいと思っておりました。いかがでしょう？　皆の勉強にもなります」 |
 | 269 | 明らかに空気が変わり、凍り付くような気配。 |
 | 270 | 空気はどこまでも重々しく、先ほどメルケスと対峙していた時の比ではない。 |
 | 271 | それも当然、一流派の長たるものがその流派を衆目の面前でそれを貶められたようなものだ。 |
-| 272 | 名誉と誇りに掛けてそう告げるほかあるまい。 |
-| 273 | 「あー……その、流石にこの場ではやめておいた方が……」 |
-| 289 | 剣を見てみたいのは確かだが、人が集まったこの場で恥を掻かされるクリシェというのは見たくない。 |
-| 296 | 口を押さえて黙らせると頭を下げた。 |
+| 295 | カルアがクリシェにそうしたように、今度はメルケスがキューリスに。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -18557,26 +17892,62 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 15 | "Yeah. Surprising, kind of……" |
-| 76 | "Um, Buck-san. What do you think about Krische-sama?" |
-| 78 | "I heard you and Boji-san said something similar……" |
-| 100 | "Huh? O-oh, yes……" |
-| 134 | "Get it?" |
-| 135 | "That Krische-sama isn't normal." |
-| 136 | "……From the cooking?" |
-| 137 | "From the cooking. ……Her knife work isn't normal. It's like she's moving the entire blade exactly as she imagines it, from handle to tip." |
-| 162 | Merkes's skill with the sword was not inferior to the instructors', but looking at Wesrial opposite him, which of them held the advantage was immediately obvious. |
-| 182 | Including that composed bearing — this was what a master was, Kyuris thought, reminded of Kalua. There was something similar in their gentle manner. |
-| 183 | Kyuris watched him with admiration, and Sherishia likewise. |
-| 184 | "What did you think? Alberinea." |
-| 214 | "……The Zain style itself is a good sword for killing fools with slow reactions, Krische thinks, but naturally anyone who can properly see would dodge it……In the end, it's a sword that's only strong against certain fools in certain situations, and——*mmph*?" |
-| 215 | "U-um, Bunny……" |
-| 216 | Kalua, who had hastily covered Krische's mouth, tried to smooth things over. |
-| 217 | "Uh, ahaha……well, Bunny here is a bit, shall we say, unfiltered, or rather, she doesn't really understand how to put things……her explanations are a little, uh, rough around the edges……" |
-| 218 | But the words just spoken could not be taken back. Even Kyuris and the others, who had simply been listening, were struck speechless. |
-| 219 | The Zain Swordsmanship Academy — a storied institution among storied institutions. |
-| 220 | And she had said this in front of the legitimate Zain heir himself. |
-| 265 | --- |
+| 3 | Assembled before the forest, all three hundred and twenty participants. |
+| 4 | Head Instructor Mia stood on a platform and began her address without the faintest sign of nerves. |
+| 5 | Though showing her age, she was a charming woman with chestnut hair loosely gathered――if Krische was the neighborhood onee-san, Mia was the neighborhood auntie. |
+| 6 | She hardly looked formidable either, yet she rattled off a fairly lengthy address before an assembly of warriors and swordsmen with perfect composure. |
+| 8 | In the academy, too, she never seemed to command the instructors' particular respect, and was teased more often than not, but to see her stand before a crowd that made even Kyuris tense and speak as if nothing were unusual――that did change his impression. |
+| 12 | After all, thinking Mia was weak amounted to nothing more than never having seen her fight and her not looking tough――and no reason beyond that. |
+| 13 | It was, to put it plainly, mere prejudice. |
+| 14 | "Seeing her like that, the Head Instructor is pretty impressive." |
+| 15 | "Yeah. Unexpected, kind of……" |
+| 22 | Elkaforest was similar, with the point tilted slightly lower――a marginal emphasis on the thrust. |
+| 43 | Honestly, kata did not seem very important to him. |
+| 44 | Sparring was more fun and more productive. |
+| 45 | "Kalua-sensei has kata too, you know. It's just not something anyone can learn." |
+| 46 | "Ah――Back-san." |
+| 81 | "When Kyuris says that, it usually means about a third." |
+| 82 | "Heh, go easy on him. He's still young. You can explain it all slowly later, Sherishia." |
+| 83 | "……A dog would understand better." |
+| 84 | "……You……" |
+| 85 | *Well, fine*, Sherishia said, somehow looking pleased. |
+| 86 | She could be mean sometimes, but she was still cute, and that was unfair. |
+| 87 | Before the heat reached his cheeks, he cut his gaze away. |
+| 112 | "Huh? U-um, yes……" |
+| 126 | She even seared the meat beforehand in frying pans. |
+| 127 | And aside from the carrying and the peeling, she did nearly everything herself. |
+| 128 | In the remaining gaps she prepared skewers. |
+| 167 | "Then let's go study Zain style. None of the instructors use it, so it's a rare chance." |
+| 168 | "……Fine, sure." |
+| 169 | And so, in the afternoon, they headed to the Zain Swordsmanship Academy's area. |
+| 170 | It was indeed a rare opportunity. |
+| 171 | If Rollka was the gritty soldier's sword, Zain was the brilliant noble's sword. |
+| 172 | The only academy in the capital was in the first-class quarter, beyond the reach of most commoners, and the tuition was steep. |
+| 173 | Moreover, this style was considered impossible for ordinary commoners to master. |
+| 174 | ――Because it presupposed the talent to manipulate mana. |
+| 175 | The opposite of Rollka. |
+| 176 | A half-body stance with the sword forward, specializing in seizing the initiative. Arrow-like lunges closed the distance and delivered lethal strikes. |
+| 177 | Effective *because* one could deploy the superhuman capabilities of a mana wielder to the fullest, it naturally required the talent to manipulate mana. |
+| 178 | A non-wielder could still benefit from studying it, but the absolute advantage mana wielders held in reach and speed made it difficult for a non-wielder to seize the initiative. |
+| 179 | The consensus was that for non-wielders, Rollka style――designed to take the counter-initiative――was far more practical. That was why Zain was called the noble's sword. |
+| 180 | "Are you ready?" |
+| 184 | Facing Merkes stood a tall, imposing man with short, grey-streaked black hair――Wesliahl Zain. |
+| 185 | Grand Master of the Zain Swordsmanship Academy. |
+| 186 | The current legitimate successor of the Zain style. |
+| 187 | Merkes took a Rollka stance; Wesliahl, a Zain stance. |
+| 188 | Contrasting guards――beside him, Sherishia clutched her fists before her chest. |
+| 189 | A hundred-man captain. Battle-tested, a mana wielder. |
+| 190 | Merkes was a swordsman of real caliber, but one glance at Wesliahl made the gap obvious. |
+| 191 | His stance was stillness incarnate. |
+| 192 | True mastery radiated from him, and despite the five-ken gap between them, Merkes was inching backward. |
+| 193 | Even at that distance, he was inside Wesliahl's reach. |
+| 194 | "Then." |
+| 195 | "!?" |
+| 222 | "Bunny, that kind of story probably undermines General Sandika's reputation as a nobleman……well, knowing him, he wouldn't care." |
+| 231 | "……By any normal standard, he's more than enough of a master." |
+| 256 | Far heavier than when he had faced Merkes. |
+| 257 | "Ah……in this kind of setting, maybe we should hold off……" |
+| 293 | --- |
 
 ---
 
@@ -18587,8 +17958,8 @@
 | Raw file | `289_少年とおねえさん 下.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 430 |
-| Translated line count | 393 |
-| **Verdict** | **37 line(s) MISSING from translation** |
+| Translated line count | 385 |
+| **Verdict** | **45 line(s) MISSING from translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -18596,64 +17967,153 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 7 | 「店番の手伝いしてあげてるの。おばさんに頼まれてるし」 |
-| 8 | 誰を真似しているのか。 |
-| 9 | 茶色の髪を耳の後ろで二本に結び、顔立ちは綺麗と可愛いの中間。 |
 | 10 | すらりとした細身を不作法にカウンターの上に乗せたまま、修繕を手伝いもせず、開いた本に目を落としたままシェリシアは答えた。 |
 | 11 | 見た目こそ変わったものの、シェリシアは昔から変わらない。 |
 | 12 | 「いらっしゃいませ。……まぁ、エルカ様。本のご返却でしょうか？」 |
-| 13 | 扉が開き鈴が鳴ると、途端にキューリスには見せない笑顔を浮かべて接客対応。 |
-| 14 | どういう客にどういう本を貸してるか、どういう本が好みかなど、キューリスよりも把握している。 |
+| 15 | 本を受け取ってキューリスが片付けている間、エルカ様におすすめの貸本なのだと入ったばかりの本を貸し出し手続き。 |
+| 16 | キューリスよりも貸本屋をやっていた。 |
+| 17 | 客が店を出て行けば、ふふん、と彼女は鼻高々。 |
+| 18 | 「ただ本を読んでるだけじゃなくて、どういう本かを勉強してるの。読んでもない本をお客さんにおすすめできないでしょ？」 |
 | 19 | 「わかった。俺が悪かった。……口喧嘩じゃお前に勝てん」 |
-| 25 | 師範代となる日も近いと言われており、十代では一番の実力者である。 |
-| 38 | 上機嫌なシェリシアにからかわれながら道場に行くと、 |
-| 47 | 「はい。この前はすぐなくなっちゃったので、今日は一杯作ってきたのです。前より随分子供も増えましたし……」 |
-| 48 | 微笑む彼女の顔は、やはり近所のお姉さん。 |
-| 54 | 魔力保有者でも達人と呼ばれるものは一息の間に五間を潰し、相手に致命傷を与える。 |
-| 60 | ウェスリアルのような長身であれば、そして先ほど見た限りでは、五間は優にウェスリアルの刃圏。 |
-| 61 | メルケスが後ろにじりじりと距離を開いていたのは、気圧されたというだけではない。 |
-| 62 | 恐らく、無意識に選んだ五間という距離が、相手の刃圏の内側であると理解したためだ。 |
+| 20 | 「口喧嘩でも、でしょ？」 |
+| 29 | 馬鹿にするような笑みを見て何かを言おうとすると、裏から母が顔を出す。 |
+| 32 | 「ただのぎっくり腰、いつものことだよ。気にしなくていい。……キューリス、帰りはちゃんと送ってやんなよ」 |
+| 33 | 「シェリシアに襲いかかれるような奴もそうそういないと思うけどな」 |
 | 63 | だが、何も考えず距離を取ったように見えたクリシェは、メルケスが取った間合いよりも更に一間ばかり遠い。 |
-| 72 | 空気が更に、重々しく冷え切ったものに変わる。 |
-| 73 | この場の状況に気付いたか。 |
-| 74 | 他の所からも人が集まり始めていたが、誰も騒ぐことなく、黙ったまま二人を眺めていた。 |
-| 75 | 少なくとも、雑談を行えるような雰囲気ではない。 |
-| 85 | 見ることもなくその小さな手を握りしめて、もう一方の手でズボンをぎゅっと握りしめた。 |
+| 76 | 「はぁ……うさちゃん、手甲は？」 |
+| 77 | 「んー……ちょっとしたお稽古ですし、今はいいです。……あ、いつでもいいですよ、ザインさん」 |
+| 78 | 「……いつでも、とは？」 |
+| 79 | 「クリシェ、特に構えたりしないので」 |
+| 80 | 火に油を注ぐような言葉である。 |
 | 86 | そうしていないと、立っていられなくなるような重圧がこの場にはある。 |
 | 87 | ただ剣を構える、それだけのことでまるで首筋に刃が突きつけられたかのよう。 |
 | 88 | そして周囲の者達も皆、同じものを感じているように見えた。 |
+| 89 | カルアでさえ、呆れたような顔をしながらもその瞳にどこか真剣な色を宿している。 |
+| 90 | 「恐れながら……それはあまりにも、侮りと油断が過ぎるのではありませんか？」 |
+| 91 | 「侮る……？」 |
+| 92 | 繰り返して、桜色の唇に指先を。小首を傾げた。 |
 | 98 | ただ、どう好意的に解釈しようとしても怒りを煽っているようにしか聞こえず、ひたすら火に油を注ぎ続けるクリシェに、見ているキューリスの胃が痛くなった。 |
-| 99 | カルアもまた額を押さえ、首を左右に振っている。 |
+| 101 | 「はい、どう――」 |
+| 104 | ザインの剣は構えに非ず。 |
+| 105 | 先ほど彼が語った言葉は所詮、表層概念でしかない。 |
+| 106 | その真なる本質は肉体の内側における静かな魔力運用とその発露にある。 |
+| 107 | 肉体拡張――身に纏い形作る仮想の筋肉へと、体内で密かに練り上げた多大な魔力を瞬時に流し込むことによって生まれる、爆発的な運動エネルギー。 |
+| 108 | それを余すことなく推進に用いることで、動を飛ばして静から静へ。 |
 | 109 | 矢の如くと呼ばれる瞬間的な加速、踏み込みを行なう。 |
-| 111 | 多くが学ぶ型など所詮入り口でしかなく、表の技。 |
-| 112 | その高度な仮想筋肉構築、魔力運用をこなして初めて表裏が備わり、ザイン式剣術はその真価を発揮するのだ。 |
-| 125 | 状況や疲労、精神状態など、そこではありとあらゆる条件が課せられる。 |
-| 126 | ザインの剣は必殺であれど、その必殺剣を放つまでの機を作れるか否かはその個人の力量次第。 |
-| 127 | 誰もがザインの剣、その表裏を極めてからも終わりなき研鑽の途上にあるのだ。 |
-| 128 | ウォルター＝ザーガンの死は彼個人が敗れただけのことであり、だからと言ってザインの剣が敗れたことを意味しない。 |
-| 129 | とはいえ世間の評価はそうではなかった。 |
+| 110 | ザイン式の深奥を学ぶものは、その爆発的な魔力の圧送に耐える強固なる仮想筋肉の構築に長い年月を費やし、そしてそれを常時維持できるようになってようやく、一人前のザインの剣士と扱われる。 |
+| 117 | この刃は一度取った先の機を、相手の死まで手離しはしないのだから。 |
+| 118 | 相手の認識を超える踏み込みと刃の速度を以て、問答無用の勝利を手にする。 |
+| 120 | 無論、ウェスリアルとて、これだけで完全無欠とは思ってはいない。 |
+| 121 | 『完全無欠の使い手』がいない以上、後手を取らざるを得なくなる状況は存在する。 |
+| 123 | その死もまた、アルベリネアの奇襲を受けた結果のものであったと聞いた。 |
+| 124 | 戦場という混沌の世界。 |
+| 130 | ザイン式剣術、その正統後継者はアルベリネアを前に為す術もなく討たれたのだと語られ、所詮本質は道場剣であり、貴族達の決闘遊びの剣術なのだと民衆は語る。 |
+| 131 | 王弟ギルダンスタインにウォルターが荷担したことで、一時は女王の不興を買うことを恐れた貴族達も離れ――評判も落とした道場は一時、風前の灯火であった。 |
+| 132 | 『学びに罪があるはずも無し』とする女王の言葉。 |
 | 133 | そして戦場を潜り抜けたザイン式剣術の達人、べーギル＝サンディカを外部から招き、それを喧伝することでようやく持ち直すことに成功したが――だからこそ、これまでの努力を鼻で笑うようなアルベリネアの言葉には耐えかねるものがあった。 |
-| 203 | 「っ……！？」 |
-| 204 | キューリスの目にはやはり、ウェスリアルは消えて見えた。 |
-| 205 | 瞬時に間合いを潰して、伸びるは切っ先。 |
+| 134 | 彼女に悪意がないことは理解している。 |
+| 135 | 才覚故の無自覚な驕りは誰にでもあるもの。 |
+| 136 | ――しかし、この場でそれを口にした以上は看過することは出来ない。 |
+| 137 | 立ち姿、歩く姿一つとっても静謐。 |
+| 138 | アルベリネアがウォルターを討ち取るほどの剣士であることは疑ってはいない。 |
+| 139 | 強者としての風格は十分に備わっていた。 |
+| 140 | あらゆる才覚に恵まれ、経験を積み、その剣技もまた卓越したものなのだろう。 |
+| 141 | だが、ザインの剣を前にして、無防備に先手を許した。 |
+| 142 | それは侮り以外の何ものでもない。 |
+| 143 | 放たれたが最後、反応など出来るはずもない必殺剣なのだから。 |
+| 144 | 手心など加えていない。 |
+| 145 | 刃は首の真横を貫くようにずらしていたが、最大の加速、最高の一撃を放っていた。 |
+| 146 | 万が一にも傷つけることはない。 |
+| 147 | なぜならば、人間の反応を超越した剣。 |
+| 148 | 気配を読まれた様子はなく、踏み込む瞬間に動きはなかった。 |
+| 149 | だからこそ、アルベリネアは棒立ちで、首の真横を貫かれて気付くことになる――はずであった。 |
+| 150 | 「っ！？」 |
+| 151 | ウェスリアルですら正常に認識出来ぬその一瞬――刃が放たれた後にアルベリネアは動き、 |
+| 152 | 「ぐ、っ！？」 |
+| 153 | 感じたのは、剣の引かれる感触。 |
+| 154 | そして足が掛けられ、気付いた時には正面から地面に倒れ込み。 |
+| 155 | 「えへへ、こんな感じでしょうか」 |
+| 156 | ――うつぶせに倒れ込んだウェスリアルの首に、補強されたブーツの踵が乗っていた。 |
+| 157 | 「クリシェくらいの体重でも勢いよく、ぐいって踏めば首の骨も簡単に折れるので、こういう風に転ばせた相手の首を踏む、というのは中々効果的です。血も飛び散らなくて汚れませんし、剣も汚れませんし」 |
+| 158 | 長年彼女の『殺人術』を間近で見ていたカルアを除けば、誰一人何が起きたかも分からず硬直していた。 |
+| 159 | 彼らの目に映った情報は、消えたウェスリアルが突如、彼女の側で転倒して現れたようにしか見えなかったし、カルアでさえ彼女が何をしたのか、はっきり見えた訳ではない。 |
+| 160 | ただ、経験から知っていただけだった。 |
+| 161 | 「見ての通り突きというのは速くて威力は高い攻撃なのですが、軌道は分かりやすいですし、踏み込んだ足の位置からどこまで伸びてくるのかが予測しやすいもの」 |
+| 162 | 足を離すとクリシェは、そのまま唐突に、素手で突きの構えを見せた。 |
+| 163 | ウェスリアルと同じザインの構えから、剣を突き出すように。 |
+| 164 | 「こういう風にどしゅー、と相手の剣が伸びきった所で、相手の剣を捕んで引っ張ってあげれば、おっとっと……」 |
+| 165 | そして、突いた剣を引っ張られるかのように、そのまま前のめりに一本足でぴょんぴょんと跳ね――そこでようやく、見ていた者達もそれが解説であることに気付いた。 |
+| 166 | 「って感じにバランスを崩せます。そこにちょん、と足を引っかけて転倒させてやれば、大体こんな感じですね」 |
+| 167 | 皆さんも気をつけるように、などと、ウェスリアルを指で示しながら平然と。 |
+| 168 | 目を見張る必殺剣に対し、欠片の驚きさえも見せることなく少女は告げる。 |
+| 169 | 言葉を聞いてなお、その場で理解できたのは一握りであった。 |
+| 170 | そもそも、ウェスリアルの突きに反応できたものがいないし、転倒させられ首を踏まれたウェスリアルでさえもが混乱の最中にあった。 |
+| 171 | ザインの剣。人の反応を超越した、神速の必殺剣。 |
+| 172 | それに対し、アルベリネアは至極当然のように刃をつまんで引っ張ったのだ。 |
+| 173 | 彼女は手甲すら身につけていない、全くの素手である。 |
+| 174 | つまりは、足のつま先から全身のバネを使って全力、限界まで集約され、解き放たれた最速の切っ先に対し――その『速度に合わせて』手を操ったということ。 |
+| 175 | 少しでも遅れれば、触れた手など吹き飛んでいるだろう。 |
+| 176 | 人の限界を目指すウェスリアルから見てなお、人間業とは思えなかった。 |
+| 177 | 塵一つほどの微かな狂いさえない動作の正確さと、時間さえ超越するが如き反応速度がなければ届きもしない、神の業。 |
+| 178 | 己の剣技への自負があればこそ認識出来る、その途方もない隔たり。 |
+| 196 | 「ぃ……、いえ……」 |
+| 210 | 常人であれば十人が十人、何が起きたかも分からず両断されているであろう剣閃に対し、その動きはゆらゆらと揺れるように、いっそ緩慢にさえ映った。 |
 | 211 | だというのに髪の一本、ひらひらと踊る外套さえ触れさせることなく、毛の先、衣服の端にまで、まるで神経が通っているかのような滑らかさ。 |
+| 212 | 「突きはそこそこ良いですね。他も一つ一つはそこまで悪くないのですが――」 |
+| 213 | 剣閃が十を超えたところで、ウェスリアルが振るうは凍り付くような横薙ぎ。 |
+| 214 | 胴から上を跳ね飛ばされるはずのアルベリネアは、それをすり抜け地を這うが如く、ウェスリアルの足下から伸びるように曲剣を。 |
+| 215 | 「繋ぎ目がちょっと甘いでしょうか」 |
 | 232 | 「っ……」 |
 | 233 | その瞬間、クリシェの剣はそれをすり抜け――いや、彼女の体さえウェスリアルの体をすり抜けるように、一瞬の内に後ろに回る。 |
-| 234 | 膝の裏を蹴り跪かせながら、背後から首に曲剣を、掻き切るように押し当てる。 |
 | 235 | 「速い動きが必要な場面はこういう風に、それで間違いなく相手を殺せるときだけ。戦いで考えるべきは、こちらの選択肢を可能な限り多く残しながら、いかに相手の可能行動を減らし、そのままゼロに導いて殺すか。速い動きは相手の体勢が不十分――物理的に対処できない状態の時にだけ使うというのが基本です」 |
 | 236 | ほんの少し力を込めれば、それだけでウェスリアルは死ぬのだろう。 |
 | 237 | 強い、という言葉では語れぬほどの絶望的な実力差が、両者の間に存在していた。 |
 | 238 | また彼女は離れて指を立て、解説を。 |
+| 239 | 「皆さん瞬間的な速度ばかりに気を取られてしまいますが、重要なものは速度ではなく到達時間。速い剣も到達時間の短縮、小さな隙で殺せるという点で悪くはありませんが、結局重要なのは致命的な隙を相手に生じさせること――」 |
+| 240 | ザイン式の理念も基本的にこのようなものではないでしょうか、とクリシェは尋ねる。 |
+| 241 | 「っ……、仰る、とおりです」 |
+| 242 | 「……軍運用の場合は相手の状況が見えず、死角が多くて難しい部分もありますが、こうやって一対一で対峙する分には死角なんてないですし、全部見えてますからとても簡単。相手の可能行動を全部計算して、段階的に排除し、崩してやればそれで終わりなのです」 |
+| 247 | 「――無防備にしたらぱぱっと首を裂いて、次に行くのが理想ですね」 |
+| 248 | すっと首筋に剣を押し当てる。 |
+| 249 | 達人を相手にした、一方的で作業的な殺人術の講義。 |
+| 250 | 首は致命的な部位であり、そこを守るというのは基本中の基本であった。 |
+| 251 | ウェスリアルが知らぬはずもなかったが、問答無用。 |
+| 252 | ただただ、彼女は繰り返す。 |
+| 253 | アルベリネアはその歪な曲剣が痛まぬよう、柔らかい首の肉をそぎ落とす事を病的なまでに好み――付けられた異名が首狩人。 |
+| 254 | それに関する多くの逸話を、キューリスは思い出していた。 |
+| 255 | 一兵卒から豪傑、達人、勇者英雄に到るまで無関係――アルベリネアは首を狩る。 |
+| 256 | 麦穂を鎌で刈り入れるように、人の首を無造作に。 |
+| 257 | 「余裕があれば殺しながら次に殺す相手をどうやって殺すかを考えておくというのが良いです。クリシェは剣が痛むので好きじゃないですが、とりあえず手足を切り落とすというのも――」 |
+| 258 | 逸話通り――あまりにも自然に、剣豪ウェスリアル＝ザインは殺されていた。 |
+| 259 | その剣は、キューリスがこれまでに見たどんな剣とも違う。 |
+| 260 | 圧倒されるような迫力はなく、身構えさせられるような圧迫感を覚える訳ではない。 |
+| 261 | 例えるならそれは、気付けば足元から首筋にまで纏わり付いている、蛇のような何か。 |
 | 262 | ふと身を委ねたそよ風に、突如首を裂かれているような――そんな理不尽で突拍子もない想像を、キューリスにさえ抱かせる。 |
 | 263 | 『さっき言った理不尽でも最たるものだろう。……戦場ではあの方の前に立つこと以上の理不尽はない。下生えを蹴分けるように易々と戦列を抜け、果実をもぐように将軍首を落とすのだから』 |
-| 264 | メルケスの言葉には、一切の嘘偽りも存在しなかった。 |
-| 265 | 人の道理など成り立たなくなるからこそ、彼女は『天剣』と呼ばれるのだ。 |
-| 266 | だからこそ彼女は、ウェスリアルの語った必殺の刃さえ、真っ向から否定する。 |
-| 267 | 「――まぁ、剣の基本というのはこんな所でしょうか。もちろんザイン式が悪い、という訳じゃありません。キューリス、木剣」 |
-| 268 | 「え、ぁ……はい……」 |
 | 269 | クリシェは曲剣を鞘に収めると、キューリスが差し出した木剣を手に取る。 |
 | 270 | そして六間ほどの距離を取って、全身に汗を滲ませ、蒼白な顔になったウェスリアルに対峙する。 |
 | 271 | 少女が構えるのは剣を前にした半身――ザイン式。 |
+| 272 | 「剣を前にした半身、必然予備動作は少なくなりますから、場合によっては効果的。相手の反応速度を測った上で、これくらい実力差があるなら――」 |
+| 273 | 動を飛ばして静から静へ。 |
+| 274 | ウェスリアルの首、その真横を木剣で貫くようにして、一瞬見失ったクリシェの姿。 |
+| 275 | 舞った銀の髪と外套がふわりと、失った時間を取り戻すかのように一拍遅れて降りてくる。 |
+| 276 | ――それは時間さえも跳躍するが如き、ザインの剣であった。 |
+| 277 | 「最短最速で相手の先、先の先を取れるこの構えも決して悪くありません」 |
+| 278 | ザインの後継者たるウェスリアルでさえ、限界であったのか。 |
+| 279 | 突如現れた木剣と彼女に怯えたように尻餅をついた。 |
+| 280 | 一拍遅れて、キューリスの所へ届く微風が、奇妙なほどに冷たく感じる。 |
+| 281 | 「クリシェとしてはきゅきゅっ、というよりゆるゆる、ふわーな感じで剣を振る方が一番だとは思いますが、まぁ大体の人はそもそもしゅぱんっ、びしゅっ、とザインさんのような最低限の剣も振れてないので、まずはザイン式で素早い踏み込みや剣の振り方を覚えるというのも一つの手ですね」 |
+| 282 | 語り口は最初から最後まで変わらず、真剣さで言えば料理の方が真剣だった。 |
+| 283 | 少なくとも彼女に取って剣など、その程度のことなのだろう。 |
+| 284 | 「料理においても、包丁や調理器具の扱いなどというものは上手に扱えて最低限です。大事なのはその技術を美味しいお料理のため、どのように使うべきかという思索。これに答えはなく、クリシェの先生でさえ道半ばなのだと口にするくらいに奥深い、終わりなき探求が必要となりますが……その点、剣も似ているものと言えるでしょう」 |
+| 285 | うんうんと頷きながら、誰一人言葉を発せぬことに気付かず続ける。 |
+| 286 | 「剣なんて所詮、突き詰めれば動くお肉に切り込みを入れる程度のこと。料理の奥深さとは比べるまでもありません。ですが、どちらもまずは最低限の技術を学び、自分の可能行動の幅を増やしていくというのは共通するところであり、そして一つの技術に拘らず、必要十分な最低限を意識し、考えることが大事なのです」 |
+| 287 | 理解できましたか、とクリシェはくるりと向き直り、尻餅を突いたままのウェスリアルに目をやった。 |
+| 288 | 威圧する様子などなく、穏やかな子供のような微笑。 |
+| 289 | 雰囲気も何もかも、紫色の瞳も含めて全て、彼女はいつもの『お姉さん』。 |
+| 290 | 子供と大人、素人と達人の区別もなく。 |
+| 291 | 彼女はそのように、人を平然と見下ろして、それを許される存在なのだと気が付いた。 |
+| 292 | 少年がいつも見るその優しげな紫色が、今は途轍もなく恐ろしいものであるかのように感じて、身を震わせる。 |
 | 293 | 「ザインの、剣……」 |
 | 294 | 唖然と彼女を見つめていたウェスリアルは腰を上げ、片膝を突いて頭を垂れた。 |
 | 295 | 「……その先にある深奥を……見せて頂きました」 |
@@ -18661,18 +18121,18 @@
 | 297 | アルベリネアが一体、どのような存在か。 |
 | 298 | それを知らずに挑んだ彼を誰も愚かとは思うまい。 |
 | 299 | 一人残らず彼を憐れむように眺めていたが、その視線さえ酷だろう。 |
-| 306 | この状況で、何を教えてもらえというのだろう。 |
+| 300 | 「……ん、よく分からないですけれど、まぁ、理解できたなら良いです。剣はそこそこ振れているようですし、これからはきゅっきゅきゅっ、って感じじゃなくて、ふわふわー、きゅっ、しゅびっという感じで全体的な組み立て方を考えていくように」 |
+| 301 | 「……、畏まりました」 |
 | 307 | 意気消沈のウェスリアルが、すぐさま指導を行える状態まで立ち直れるなどとは思わなかったが、キューリスには頷く他ない。 |
-| 313 | 森となれば木も隠れる。 |
-| 316 | 翌年からも恒例となった交流会にも参加。 |
-| 334 | 『へーきへーき、最後に投げたのが昨日だって二十年前だってミアの場合似たようなもんでしょ。……力任せに投げるだけだし』 |
-| 335 | 『この……っ！』 |
 | 341 | 相手が超人カルアとは言え、その暴力を至近距離で平然と解き放つ姿はやはり、常人のものではない。 |
 | 342 | 穏やかに見える彼女もまた、数多の戦場を潜り抜けた怪物なのだった。 |
 | 343 | 『ミア、あなたが壊した槍一本でカボチャ何個分になると思ってるんです。いえ、お金の問題ではなく、自分のお金で買ったから乱暴に使っていいなんて考えは駄目ですよ。折角職人さんが一生懸命作った槍なんですから』 |
 | 344 | 『……すみません。でも、一応木に突き刺す予定で壊すつもりは……久しぶりで力加減が、その……』 |
 | 345 | 『言い訳は見苦しいですよミア館長。皆ちゃんと遠投してるのにあたしに向かって投げるなんて――』 |
 | 346 | 『うるさい！』 |
+| 347 | 『ミア、お説教してるんですよ』 |
+| 348 | 『うぅ……なんでわたしが……』 |
+| 349 | こんこんとクリシェが説教を始めてしまったせいで槍投げ訓練は取りやめとなり、人間業ではないと言われるアルベリネアの投槍を見る機会を逃してしまったのは少し残念であったが、どうであれ、あれからキューリスも他の子供達も二度と二人を指して弱そうなどと口にすることはなかった。 |
 | 350 | 二十年ぶり、助走も無しに雑な投槍であれだけの威力――本気を出した彼女の投槍が一体どれほどの威力かなど想像するまでもない。 |
 | 351 | それからは誰もが、彼女を決して怒らせまいと敬意を払っていた。 |
 | 352 | 普段怒らぬ人ほど怖いものはない、という言葉通り、ミアもその一人だと理解して。 |
@@ -18683,6 +18143,9 @@
 | 357 | 弱く見せるというのも技術の一つであると、今はキューリスも理解していた。 |
 | 358 | 「なるほど。分かりました。……とは言ってもしばらく稽古って雰囲気じゃないですが」 |
 | 359 | 「まぁ、クリシェ様が来てるとね。適当でいいよ」 |
+| 360 | クッキーに群がる子供達を見ながらミアは苦笑する。 |
+| 361 | 自分にもそういう時期もあったものだとキューリスも笑った。 |
+| 362 | アルベリネアの手作りクッキーはまさに最高級と呼べるものであったが、贅を凝らした一品ではなく、シンプルでどこか素朴な、優しい蜂蜜の味わい。 |
 | 363 | 誰もが彼女の持ってくる、そんなクッキーを喜んだ。 |
 | 364 | じゃあお願い、とどこかに行ったミアに頭を下げつつ、シェリシアと顔を見合わせ苦笑する。 |
 | 365 | 「キューリスももらってきたら？」 |
@@ -18693,32 +18156,7 @@
 | 370 | ありがたくそれを受け取り口にした後、手を打ち鳴らし、子供達を整列させた。 |
 | 371 | 年々子供の数も増え、今では四十名近くがずらりと並ぶ。 |
 | 372 | 腕白小僧だったキューリスのような子供もここに通って落ち着いた、などと、そういう評判が広まった結果であろう。 |
-| 373 | 今日のように小学をやっていない日は特に多く、半ば子供預かり所であったが、やはり館長達は気にしていない。 |
-| 376 | 求められぬ限り特に指導へ口出しすることはないが、まだまだキューリスは未熟も未熟。 |
-| 378 | あれからシェリシアは彼女へ強い憧れを抱くようになったこともあって、余計にだろう。 |
-| 379 | みっともない姿は決して見せまいと張り切ることが常で、気迫が違う。 |
-| 386 | キューリスは半ば呆れつつ、続きを口にした。 |
-| 389 | 真面目で稽古熱心、子供達のリーダーという立ち位置の少年で、問われたボルズは左右の子供達を見渡す。 |
-| 390 | 子供達は頷き、期待の目でボルズを見ており、ボルズは何かを決心したように拳を握る。 |
-| 400 | 「は。では、行かせてもらいます」 |
-| 401 | 多くの兵達が輪を作り、中央にあるは二人。 |
 | 413 | べーギル＝サンディカは九十を超えた老人であったが、今なお対峙すれば凍り付き、己が子供へ戻ってしまうかのような化け物である。 |
-| 414 | 大隊長は身を強ばらせ、これは何かあるかも知れぬと部下達に語ったという。 |
-| 415 | 右に剣を構えた半身――その踏み込みを目で捉えられたものなどいない。 |
-| 417 | しかし、アルベリネアは動揺さえ見せず、前のめりで宙を浮くのはべーギルの体。 |
-| 418 | 「っ！？」 |
-| 419 | その場にあった誰もが驚愕。 |
-| 420 | べーギルはその体勢にありながら、螺旋に体を捻ったのだ。 |
-| 421 | 誰もが一瞬の攻防、そこに繰り広げられる超絶技巧に息を呑むが、べーギルはそのまま仰向けに倒れ込み―― |
-| 422 | 「……、首ではないのですな」 |
-| 423 | 「えと……スカートの中が見えてしまうので……これでも十分頭を砕けますし」 |
-| 424 | そんなべーギルの顔――目の辺りを踏みつけるようにして足を浮かせる。 |
-| 425 | 「……あの、ふりふり？　今の、何か意味があるのでしょうか……？」 |
-| 426 | アルベリネアの顔にあるのは心の底からの疑問である。 |
-| 427 | 「試行錯誤、その過程にある一つの失敗というものです」 |
-| 428 | 「はぁ、なるほど……」 |
-| 429 | ――失敗とは、これでは上手く行かないという検証における成功である。 |
-| 430 | べーギルはその後部下達に、真面目な顔でそう語った。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -18726,92 +18164,151 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 3 | Books undergoing repair and maintenance were piled high on the counter as well. |
-| 4 | As a child, he had planned to become a soldier at fifteen, but he'd been told again and again that someone as scatterbrained as Kyuris wasn't suited for it, absolutely not, and so even now, at fifteen, he was helping at his family's lending library. He had half-resigned himself to the idea that he would eventually take over here. |
-| 5 | "If you want to read, why don't you borrow one?" |
-| 6 | "I'm helping with the counter. Your oba-san asked me to." |
-| 44 | * * * |
-| 45 | Within a ring of over a hundred people, a tall and imposing man faced a small girl with silver hair. |
-| 58 | The blade was three and a half shaku. The sword looked slender overall, yet the spine was thick — possessing both a curious weight and a keen edge. When he took his right-foot-forward half-stance, point aimed forward, his reach seemed to rival a spear's. |
-| 59 | The air grew heavier still, colder still. |
-| 67 | Kyuris felt dizzy. |
-| 68 | Wesrial sharpened his gaze even further, and the entire space froze solid. |
-| 70 | A chill as though frozen blood was rising from his feet up his spine and to the crown of his head — and without looking, he felt a small hand tug at his left sleeve. He gripped that small hand tightly, and clenched his trousers with his other hand. |
-| 82 | *Krische is neither contemptuous nor careless*, she added, her face brimming with the conviction that she was saying something very fine. |
-| 83 | Yet no matter how generously one tried to interpret it, it sounded like nothing but provocation — and watching Krische pour oil on fire without end made Kyuris's stomach ache. |
-| 90 | The words he had spoken earlier were mere surface concepts. |
-| 91 | Its true essence lay in the silent, internal manipulation and discharge of mana within the body. Physical enhancement — pouring vast amounts of mana, quietly built up within the body, into the virtual musculature that enveloped and shaped itself around the flesh — the explosive kinetic energy born from that. |
-| 106 | Walter Zargan — who had mastered the depths despite not being of Zain blood and had been chosen as successor by Ermel Zain. His death, too, had reportedly come from an ambush by Alberinea. |
-| 107 | The battlefield was a world of chaos. |
-| 108 | Conditions, fatigue, mental state — every conceivable variable was imposed there. |
-| 182 | The freezing pressure filled the space once more, a beat passed, and then the next instant—— |
-| 183 | "——!?" |
-| 209 | Not slow, exactly, but not fast either. |
-| 210 | Wesrial moved to parry the curved sword in an instant—— |
-| 211 | "……" |
-| 212 | In that instant, Krische's sword slipped past his — no, her very body seemed to pass through Wesrial's, circling behind him in a flash. She kicked the back of his knee, bringing him down, and from behind pressed the curved sword to his throat as though drawing it across. |
-| 213 | "Fast movement should be saved for exactly this kind of moment — when it will definitely kill the opponent. What you should think about in a fight is how to maintain as many options for yourself as possible while reducing the opponent's possible actions, and then leading them to zero to kill them. Fast movements should only be used when the opponent's posture is insufficient — when they physically can't respond. That's the basic principle." |
-| 214 | If she applied just a little more force, Wesrial would die. |
-| 237 | Her sword was unlike any Kyuris had ever seen. |
-| 238 | There was no overwhelming force, no oppressive presence that put one on guard. |
-| 239 | If he were to compare it — it was something like a serpent, coiling unnoticed from one's feet to one's throat. As though a gentle breeze one had entrusted oneself to had, without warning, slit one's throat — that kind of absurd, impossible image, even Kyuris could not help but conjure. |
-| 240 | *"She's the very pinnacle of the senselessness I spoke of. ……On the battlefield, there is no greater injustice than standing before her. She parts battle lines as easily as kicking through undergrowth and plucks generals' heads like picking fruit."* |
-| 241 | Merkes's words contained not the slightest falsehood. |
-| 244 | "——Well, that's the gist of the basics of swordsmanship. Of course, it's not that the Zain style is bad. Kyuris, wooden sword." |
-| 245 | "Huh, oh……yes……" |
-| 246 | Krische sheathed her curved sword, took the wooden sword Kyuris held out, and put six ken of distance between herself and the sweat-drenched, ashen-faced Wesrial. |
-| 264 | No intimidation, no pressure — a gentle, childlike smile. |
-| 266 | Without distinguishing between child and adult, novice and master. |
-| 267 | He realized that she simply — naturally — looked down upon people from above, and was permitted to do so. |
-| 268 | The gentle purple that the boy always saw now felt unbearably terrifying, and he shivered. |
-| 269 | "The Zain……blade……" |
-| 270 | Wesrial, who had been staring at her in astonishment, rose, dropped to one knee, and bowed his head. |
-| 271 | "……You have shown me……the depths that lie beyond." |
-| 285 | When she rode off somewhere on the jade tiger with Kalua, the only liveliness vanished from the scene — and all that remained was an overwhelmingly heavy silence. |
-| 286 | * * * |
-| 306 | *"C'mon, it's not like swinging a sword. You're good at this — javelin throwing."* |
-| 307 | *"……You know, I haven't thrown a javelin in over twenty years."* |
-| 308 | *"It'll be fiiiine. Whether your last throw was yesterday or twenty years ago, in your case it's basically the same thing. ……You're just chucking it with brute force anyway."* |
-| 309 | *"Why you……!"* |
-| 310 | After Kalua's splendid javelin throw, the director's looked worlds apart. Just as the words "brute force" implied, she threw it practically from a standstill, barely any run-up. |
-| 311 | Yet the heavy infantry spear she hurled at Kalua easily pierced and snapped the tree behind her. |
-| 312 | Every watching child froze solid at the sheer violence. |
-| 313 | A direct hit would have effortlessly blown a human torso apart. Even though her target was the superhuman Kalua, the sight of her calmly unleashing that violence at point-blank range was not the act of a normal person. |
-| 314 | Behind her gentle appearance, she too was a monster who had survived countless battlefields. |
-| 315 | *"Mia, do you have any idea how many pumpkins one of the spears you just broke is worth? No — it's not about the money. Just because you bought something with your own money doesn't mean you can treat it roughly. A craftsman worked hard to make that spear."* |
-| 316 | *"……I'm sorry. I was aiming to stick it in the tree — I didn't mean to break it……it's been so long, and I couldn't control my strength, um……"* |
-| 317 | *"Excuses are unbecoming, Director Mia. Everyone else is throwing at distance, and you threw it at me——"* |
-| 318 | *"Shut up!"* |
-| 319 | *"Mia, Krische is lecturing you."* |
-| 320 | *"Uuu……why am I the one……"* |
-| 321 | Krische had started scolding her, which put an end to the javelin practice — they lost the chance to witness Alberinea's throwing arm, said to be beyond human ability, which was a small disappointment. But regardless, after that day, neither Kyuris nor any of the other children ever again dared to call either of them weak. |
-| 322 | Twenty years since her last throw, without even a run-up, a casual toss — and that kind of power. What her javelin could do at full force didn't even bear imagining. |
-| 323 | From then on, everyone treated her with respect, resolved never to anger her. |
-| 324 | *There's nothing scarier than a person who never gets angry* — and just as the saying went, they understood that Mia was one such person. |
-| 325 | "Understood. ……Um, did something happen to Zaaka-san and the others?" |
-| 326 | "Kalua and Zaaka and the rest are all hungover. I don't think they'll be out until past noon. ……They all got together for drinks last night after a long time." |
-| 327 | *I stopped early, though*, Mia said with evident displeasure — her manner was so much more normal than the other warriors', but this, too, was probably what fooled people. |
-| 328 | *Don't judge by appearances* — the instructors' words were deeply carved into his heart. He now understood that looking weak could itself be a technique. |
-| 361 | > Bonus < |
-| 367 | Everyone had heard the recent rumor. |
-| 370 | *"A divine-speed thrust, too fast for the eye to follow — and Alberinea pinched the point and pulled him forward. Then she planted her boot on the back of his neck——"* |
-| 371 | *"——On his neck? With her foot?"* |
-| 372 | *"Y-yes, sir. Exactly so."* |
-| 373 | *"I see……that is worth testing."* |
-| 374 | Against the battalion commander's account, his voice had been serious — a rare degree of seriousness. Serious enough to make the seasoned battalion commander, a veteran of the Unification War, tremble. |
-| 375 | Begil Sandika was over ninety years old, yet even now, to stand opposite him was to freeze solid, to feel as though one had been reduced to a child again. A monster. |
-| 376 | The battalion commander had stiffened and later told his subordinates, *something might come of this.* |
-| 377 | The half-stance with sword forward, his right foot leading — not a single person could track his step-in with the naked eye. |
-| 378 | Truly, divine speed. |
-| 379 | Yet Alberinea showed no sign of alarm — Begil's body pitched forward and hung in the air. |
-| 380 | "——!?" |
-| 381 | Every person present gasped. |
-| 382 | In that posture, Begil twisted his body in a spiral. |
-| 383 | Everyone held their breath at the split-second exchange, the transcendent technique on display — but Begil fell onto his back, and—— |
-| 385 | "Um……Krische's skirt would ride up, so……but this is more than enough to crush a skull." |
-| 386 | She hovered her boot over his face — over his eyes — then lifted her foot away. |
-| 387 | "……Um, Furi-furi? Just now……was there a point to that?" |
-| 388 | What showed on Alberinea's face was genuine puzzlement. |
+| 16 | She was running the book shop better than Kyuris was. |
+| 18 | "I'm not just reading. I'm studying what the books are about. You can't recommend a book you haven't read, right?" |
+| 19 | "Fine. You win. ……I can't beat you in a war of words." |
+| 20 | "A war of words *either*, you mean?" |
+| 21 | "……I'll catch up with swords soon enough." |
+| 22 | Sherishia smiled with amusement, and Kyuris sighed. |
+| 23 | He had learned physical enhancement and could now spar properly with the instructors, but he was still on a losing streak. |
+| 24 | Sherishia, however, was already scoring hits against them. |
+| 25 | She was said to be close to becoming an assistant instructor, the strongest of the teenagers. |
+| 26 | Naturally, Kyuris could not throw his weight around. |
+| 27 | "Sorry to keep you, Sherishia-chan." |
+| 28 | "Not at all." |
+| 52 | * * * |
+| 58 | At first it had seemed cumbersome, but once he understood that people like Kalua existed, he had complied without argument. |
+| 59 | Five ken could be the enemy's killing zone. If you could not internalize that, you would simply be killed. |
+| 60 | With a longer weapon, more so; with a larger frame, more so again. |
+| 61 | For someone of Wesliahl's height, and from what he had just demonstrated, five ken was well within his reach. |
+| 63 | But Krische, who seemed to have given the distance no thought at all, had placed herself a full ken *beyond* the gap Merkes had taken. |
+| 64 | Her brazen words. Her natural ease. An expression that seemed to think about nothing. |
+| 65 | Yet she had, with absolute precision, gauged his maximum reach――and stood just outside it. |
+| 66 | Kyuris held his breath. |
+| 67 | "……Even granting it is practice, with live blades, a serious injury could occur." |
+| 68 | "It's fine. Krische won't be hurt, and even if a sword does go *stab*, um……Krische swears on her name not to complain." |
+| 69 | A smile with no burden in it. |
+| 70 | Wesliahl regarded Krische, then said, *If you insist*, and drew his long sword. |
+| 71 | Three and a half shaku of blade. The weapon looked slender but the spine was thick, conveying both heft and keenness. |
+| 72 | Held in a right-half-body stance, point forward, the reach seemed to rival a spear. |
+| 73 | The atmosphere grew heavier still. |
+| 74 | Others had gathered, drawn by the scene, but no one spoke; they simply watched. |
+| 75 | "Haah……Bunny, your gauntlets?" |
+| 76 | "Hmm……it's just a little practice, so Krische will skip them. ……Oh, whenever you're ready, Zain-san." |
+| 77 | "……Whenever you're ready?" |
+| 78 | "Krische won't bother with a stance." |
+| 79 | More fuel on the fire. |
+| 80 | Kyuris felt dizzy. |
+| 89 | "Insult……?" |
+| 90 | She repeated the word, touched cherry-blossom lips with her fingertip. Tilted her silver head. Those purple eyes regarded Wesliahl with curiosity, and she answered, *No.* |
+| 92 | She raised a finger and nodded with great seriousness. |
+| 93 | "There is no need to fetch the mop from the closet and scrub every hallway for a small smudge. Keep your surroundings in mind, and when you spot it, wipe it with a cloth――that's the sufficient minimum. ……In this case, Zain-san is a small smudge. A cloth-wipe will do. No mop required." |
+| 94 | *I am neither insulting nor careless*, she said, her expression one of absolute conviction. |
+| 95 | No matter how charitably one tried to interpret it, it sounded like nothing but provocation, and Kyuris's stomach ached watching Krische heap fuel on the blaze. |
+| 96 | Kalua, too, pressed her forehead into her palm and shook her head. |
+| 97 | "If you say that much, there is nothing more to say. ……Then, without further ado." |
+| 98 | "Yes, her――" |
+| 99 | What happened next was seen by only a handful among the gathered swordsmen. |
+| 100 | Wesliahl lunged, unleashing the fury coiled within. |
+| 101 | The Zain sword was not in the stance. |
+| 102 | What he had demonstrated earlier was only the surface concept. |
+| 103 | Its true essence lay in the silent internal mana operation and its explosive release. |
+| 104 | Physical enhancement――channeling vast reserves of quietly refined mana into the virtual musculature in a single instant, producing explosive kinetic energy. |
+| 105 | Directing that energy entirely into propulsion allowed the body to leap from stillness to stillness, skipping motion entirely. |
+| 106 | The arrow-like instantaneous acceleration――the lunge. |
+| 107 | Those who studied the deepest reaches of Zain spent long years building virtual musculature strong enough to withstand that explosive mana surge, and only when they could maintain it at all times were they considered true Zain swordsmen. |
+| 108 | The kata most learned were merely the entrance――the surface art. |
+| 109 | Only when that advanced virtual musculature and mana operation were mastered did surface and depth unite, and Zain swordsmanship reveal its true worth. |
+| 110 | None could escape it. |
+| 111 | A lunge surpassing human reaction――once loosed, fatal. |
+| 122 | Therefore, Alberinea would be standing stock-still when the point pierced the air beside her neck――that was how it should have been. |
+| 123 | "!?" |
+| 125 | "Guh――!?" |
+| 130 | Except for Kalua, who had spent years watching her 'art of killing' up close, every single person stood frozen, unable to comprehend what had happened. |
+| 131 | All they saw was Wesliahl vanishing and then suddenly appearing on the ground beside her. |
+| 132 | Even Kalua had not seen clearly what she had done. |
+| 163 | Simple in words. |
+| 164 | But Krische had done it as if it were the *same thing*. |
+| 165 | A master had been toppled like a child. |
+| 166 | *Even Kalua-sensei is a child next to Alberinea.* |
+| 167 | He had heard it many times, doubted it each time. |
+| 168 | ――Understanding at last, a chill ran down his spine. |
+| 169 | "Zain-san, is something the matter?" |
+| 170 | "N-no……" |
+| 171 | Wesliahl, still shaken, rose slowly. |
+| 172 | "Now, once more." |
+| 173 | "……Yes." |
+| 174 | A deep breath; he resumed his stance. |
+| 175 | Once more the crushing pressure filled the clearing, and after a single beat―― |
+| 176 | "……!?" |
+| 177 | Again, to Kyuris's eyes, Wesliahl simply vanished. |
+| 178 | The point shot forward. |
+| 179 | But the blade found only empty air. |
+| 180 | Twin tails of long silver hair swaying, Alberinea stood behind Wesliahl. |
+| 181 | His freeze lasted only an instant――a spinning slash, a gale of steel, which she evaded by a hair's breadth, and by the second, third strokes, she seemed to *flow through* the blade. |
+| 182 | The girl's smile was something else――an apparition. |
+| 183 | Against slashes that would have bisected any ten ordinary people, her movements seemed languid, swaying, almost slow. |
+| 184 | Yet not a single hair, not a flutter of her cloak, was touched――as though nerves extended to the tip of every hair, every fiber. |
+| 185 | "Your thrust is fairly good. The rest aren't bad individually, but――" |
+| 186 | Past ten strokes, Wesliahl unleashed a freezing horizontal sweep. |
+| 187 | Alberinea, who should have been cut in two, slipped beneath it as if melting to the ground, and from below his feet a curved sword rose. |
+| 188 | "The transitions are a bit rough." |
+| 189 | The crescent blade traced along his neck. |
+| 201 | Stepping in again, she kicked his high-speed slash upward with her heel. |
+| 202 | "――Strip away the defense, and then a quick cut to the throat. Move on to the next. That's the ideal." |
+| 206 | Wesliahl would have known this better than anyone, and yet――it made no difference. |
+| 207 | She simply repeated it. |
+| 208 | Alberinea favored slicing the soft flesh of the throat with her peculiar curved swords, precisely so the blade would not be damaged――thus the epithet: the Headhuntress. |
+| 209 | The many tales attached to that name flooded back to Kyuris. |
+| 210 | From common soldier to champion, from master to hero――Alberinea harvested necks. |
+| 211 | As a sickle reaps wheat, so she reaped heads, with the same casual ease. |
+| 212 | "If you have the luxury, plan how to kill the next one while killing the current one. Krische doesn't prefer it because it damages the sword, but lopping off arms and legs to start is also――" |
+| 218 | *'The most extreme form of what I called senseless. ……On the battlefield, there is no greater injustice than standing before her. She brushes through formations like kicking aside undergrowth, and plucks generals' heads like picking fruit.'* |
+| 222 | "――Well, that's about the basics of swordsmanship. Of course, Zain style isn't *bad*. Kyuris, the wooden sword." |
+| 223 | "Huh, oh……yes……" |
+| 231 | ――A Zain sword that seemed to leap through time. |
+| 232 | "This stance, which takes the absolute initiative at maximum speed, is by no means bad." |
+| 233 | Even Wesliahl, the Zain successor, had reached his limit. |
+| 234 | He fell backward at the wooden sword and the girl who had materialized before him. |
+| 235 | A beat later, a faint breeze reached Kyuris――strangely cold. |
+| 236 | "Krische personally thinks a sort of *fluid, easygoing, flowing* approach suits Krische best, but most people can't even manage a proper *quick, sharp* sword like Zain-san's basic level, so starting with Zain style to learn fast footwork and clean strikes is one valid path." |
+| 237 | From first to last, her tone never changed. She had been more serious about the cooking. |
+| 238 | To her, swordplay was simply that trivial. |
+| 262 | The chill lingered; Krische alone was cheerful and buoyant. |
+| 265 | * * * |
+| 285 | At the last exchange camp, Kalua had suggested spear-throwing, and Mia's throw had shattered the illusion once and for all. |
+| 286 | *'Come on, you're not swinging a sword. You're good at throwing, right?'* |
+| 287 | *'……Hey, I haven't thrown a spear in over twenty years.'* |
+| 288 | *'You'll be fine, fine. Last throw yesterday or twenty years ago, it's about the same for you. ……It's just heaving it.'* |
+| 289 | *'You……!'* |
+| 290 | After Kalua's dazzling javelin, Mia's form had looked pedestrian by comparison. |
+| 291 | Brute force, as advertised――barely any run-up, practically a standing throw. |
+| 292 | Yet the heavy infantry spear she hurled at Kalua punched clean through the tree behind her and snapped it in two. |
+| 293 | Every child watching had frozen solid. |
+| 296 | Gentle as she seemed, she too was a monster who had survived countless battlefields. |
+| 297 | *'Mia, do you have any idea how many pumpkins the spear you just ruined is worth? No, it's not about the money――just because you bought it yourself doesn't mean you can treat it roughly. The craftsman put heart and soul into making that spear.'* |
+| 298 | *'……Sorry. But I was aiming for the tree, I just……it's been a while, and my control was……um……'* |
+| 299 | *'Excuses are unbecoming, Head Instructor Mia. Everyone else threw at range, and you go and throw it at me――'* |
+| 300 | *'Shut up!'* |
+| 301 | *'Mia, Krische is giving you a lecture.'* |
+| 302 | *'Ugh……why is this happening to me……'* |
+| 303 | Krische's ensuing lecture had cut the throwing drill short, and Kyuris lost his chance to see Alberinea's legendarily inhuman javelin――a minor regret. But from that day forward, no child ever called those two weak. |
+| 304 | A standing, run-up-less, casual throw after twenty years, with that power――the mind refused to estimate what she could do at full strength. |
+| 305 | From then on, everyone treated her with quiet respect, determined never to anger her. |
+| 306 | *The person who never gets angry is the scariest when they do*――Mia was one of them. |
+| 307 | "Understood. ……Are Zaaka-san and the others all right?" |
+| 308 | "Kalua and Zaaka and everyone are hungover. Won't be out till past noon. ……They all got together for drinks last night." |
+| 309 | *I stopped early, though*, Mia said, looking displeased. Her demeanor was endearingly ordinary, but it was surely that very ordinariness that fooled people. |
+| 310 | *Never judge by appearances*――the instructors' maxim was carved deep. |
+| 311 | Appearing weak was itself a skill. Kyuris understood that now. |
+| 316 | Alberinea's handmade cookies were truly the finest, yet they were not lavish confections but simple, somewhat rustic, with a gentle honey flavor. |
+| 317 | Everyone loved them. |
+| 318 | *Leave it to me*, he told the departing Mia, and exchanged a wry smile with Sherishia. |
+| 319 | "You should go get some too, Kyuris." |
+| 320 | "……How old do you think I am? I'm fifteen." |
+| 321 | Saying this, he moved to the corner of the hall. |
+| 352 | * * * |
+| 366 | The gravity in his voice was of a rare intensity. |
 
 ---
 
