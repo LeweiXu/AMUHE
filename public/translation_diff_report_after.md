@@ -2,7 +2,7 @@
 
 ## Summary
 
-**213** chapter(s) have line count differences  **2** flagged (5+ lines, bold)
+**213** chapter(s) have line count differences
 
 | Ch | Raw | EN | Delta | Trans file |
 |---:|---:|---:|---|---|
@@ -251,9 +251,9 @@
 | [284](#chapter-284) | 285 | 287 | +2 (extra) | `c281-285.md` |
 | [285](#chapter-285) | 258 | 260 | +2 (extra) | `c281-285.md` |
 | [286](#chapter-286) | 249 | 244 | -5 (missing) | `c286-290.md` |
-| [287](#chapter-287) | 280 | 272 | -8 (missing) | `c286-290.md` |
-| [288](#chapter-288) | 310 | 293 | **-17 (MISSING)** | `c286-290.md` |
-| [289](#chapter-289) | 430 | 385 | **-45 (MISSING)** | `c286-290.md` |
+| [287](#chapter-287) | 280 | 282 | +2 (extra) | `c286-290.md` |
+| [288](#chapter-288) | 310 | 311 | +1 (extra) | `c286-290.md` |
+| [289](#chapter-289) | 430 | 432 | +2 (extra) | `c286-290.md` |
 | 290 | 227 | 222 | OK | `c286-290.md` |
 | [291](#chapter-291) | 362 | 364 | +2 (extra) | `c291-295.md` |
 | 292 | 240 | 240 | OK | `c291-295.md` |
@@ -17693,8 +17693,8 @@
 | Raw file | `287_少年とおねえさん 上.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 280 |
-| Translated line count | 272 |
-| **Verdict** | **8 line(s) MISSING from translation** |
+| Translated line count | 282 |
+| **Verdict** | **2 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -17702,52 +17702,18 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
+| 12 | 老人と言って良い見た目だが、随分な強面で左目を潰した刃傷。 |
+| 13 | 体も未だ戦士のそれであり、クッキーを咥えつつ現れた少女が隣に立つと余計にその迫力が際だって見えた。 |
 | 14 | 指導は厳しいが話が面白く、休憩中はとても優しい一番人気の師範である。 |
-| 15 | 彼が今日の鍛錬についての説明を行い、質問がないかと尋ねたところで――意を決して少年、キューリスは口を開いた。 |
-| 16 | 「あの、クリシェ様って、ほんとに強いの……いえ、強いんですか？」 |
-| 34 | 「んー……クリシェはまぁ、そこそこ強い方でしょうか」 |
 | 73 | 「なるほどなるほど、キューリスもそういう時期かぁ」 |
-| 91 | 特にシェリシアはいつも何やらクリシェを不思議そうに見つめていて、どうしたのかと思っていたが、そういうことだったのだろう。 |
-| 104 | ザーカは嘆息して頭を掻きながら、話は終わりだとキューリス達への指導を始める。 |
+| 96 | 「むぅ、これは由々しき事態だね。ザーカ、教育をサボってたんじゃない？」 |
 | 105 | 既に軽い準備運動は終えており、まずは素振りを百本ずつ。 |
 | 106 | 振り下ろし、袈裟、薙ぎ払い、斬り上げ、そしてその逆。 |
 | 107 | とりあえずは剣を振ることに慣れることが子供達の稽古の主体で、大抵これを終える頃には疲れ切り、休憩を挟んでからロールカ式――左手を前に置く戦場剣術の型の訓練が始まる。 |
-| 128 | 「うぇ」 |
-| 129 | 「わたしの勝ち。……集中してないからそうなるの」 |
-| 130 | 集中を欠いたキューリスが負けることの方が若干多かった。 |
-| 131 | 剣を首に突きつけられて両手を挙げ、シェリシアはそんなキューリスを睨みつつ、全くもう、と嘆息した。 |
-| 132 | シェリシアは怒っていても可愛い。 |
-| 133 | 仕方ない、といった様子でシェリシアはゆっくりと剣を振るい始めた。 |
-| 134 | キューリスもそれに合わせてゆっくりと動きながら、剣を避ける。 |
-| 152 | 例えばさっきのような説明の最中だろうと、腕をクリシェに取られた状況であろうと、キューリス達が斬りかかっても怒られることはない。 |
-| 172 | 謎の力でキューリスの剣はあらぬ方向を斬っており、それをあの紫色が不思議そうに眺めるのだ。 |
-| 173 | ――そう、不思議そうに。 |
-| 174 | 怒るでもなく、驚くでもなく、どうしたのかと言いたげに。 |
-| 175 | 何故かと考えても分からない。 |
-| 176 | ただ何となく、キューリスの剣が彼女に当たる想像がどうしても浮かばなかった。 |
-| 177 | それから、剣術交流合宿と呼ばれた催しは一ヶ月後。 |
-| 178 | 黒旗特務が訓練に使っていた、王都北の小さな森で二泊三日。 |
-| 179 | 黒旗剣術指南所のみならず、王都にある道場も合同で、という形で開催された。 |
-| 180 | 軍の訓練所も側にあり、そこは厳密に言うと国――軍の所有地。 |
-| 181 | かつての私兵がやっているとはいえ、民間の一道場のためにそこを無償で開放するというのは公平性を失するという考えから、他の道場にも声が掛けられたのだ。 |
-| 182 | それに加え、希望者の現役軍人も参加を許され――剣術指南所自体百人を超える門下生を抱えるが、軍その他からも三百人近く集まることとなり、随分な大所帯での合宿となった。 |
-| 183 | お忍びでアルベリネアも参加するという話もあったからだろう。 |
-| 184 | 特に軍人の参加希望者があまりに多く、希望者から抽選という形になったと聞いている。 |
-| 185 | 館長のミアはカルアの思いつきから始まったこの企画で随分忙しかったらしく、目に隈を作っていたが、子供達の中でも親から許可を得て参加を許されたキューリス達はまるでお祭り気分である。 |
+| 158 | 流石にアルベリネアに斬りかかろうとするものは子供達にも存在しない。 |
+| 159 | とんでもなく偉い人だというのは理由の一つだろうが、隙だらけに過ぎる、というのが一番の理由だろう。 |
+| 169 | 怒った様子のシェリシアに言いつつ、キューリスも何故だか、痛がるクリシェの表情を想像できないことに気付いた。 |
 | 186 | 王都中の猛者が集まる剣術合宿。 |
-| 187 | 心躍らぬような人間が、わざわざ剣術指南所になど通わない。 |
-| 188 | 当日朝、門下生達は指南所前に集合し、それから王都の北通りを抜け軍の訓練所に。 |
-| 189 | 他の道場の人間や軍人と合流したところで、シェリシアと歩いていたキューリスの所に現れたのは鎧姿の男。 |
-| 190 | 「お、お久しぶりです、おじさん」 |
-| 192 | 六十近いはずだが、未だ壮健。 |
-| 193 | たてがみの兜こそ被っていないが、誰も彼が一兵卒などとは思わぬだろう。 |
-| 194 | そこに浮かぶは歴戦の風格。 |
-| 195 | 巌のように厳しい顔には複数の傷跡があり、背丈こそ高くはないが、筋骨隆々――革鎧と服の境目を見失うほどに、鎧が似合っていた。 |
-| 196 | 可愛らしいシェリシアと一致するのは茶色の髪くらいだろう。 |
-| 197 | メルケスは白髪交じりの短い髭を撫でて笑い、隣のシェリシアの頭を軽く叩く。 |
-| 198 | 「君にはシェリシアがいつも世話になっている。毎日のように君の話を聞かされている身としては、あまり久しぶりという感じもしないが」 |
-| 207 | そのことを言っているのだろう。 |
-| 255 | のほほんとした様子のアルベリネアはそんなキューリスとシェリシアを見て、メルケスに目を向ける。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -17755,44 +17721,20 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 12 | He looked elderly, but his scarred, fearsome face had lost none of its intensity, and the left eye he had lost added to his aura. His body was still that of a warrior, and when the girl who appeared beside him, cookie in mouth, stood at his side, the contrast made his presence all the more striking. |
-| 13 | His instruction was strict but his stories entertaining, and he was the kindest during breaks――the most popular instructor among the children. |
-| 72 | "That phase……" |
-| 87 | The remaining two who had kept their hands down nodded as well. |
-| 101 | Kalua continued talking as she led Krische away. |
-| 114 | Their skill level was near the top, and they were often paired for form practice and sparring. |
-| 115 | That Kyuris had persisted this long was half thanks to Sherishia. |
-| 118 | "Sherishia, does Krische-sama really look strong to you?" |
-| 119 | "……No talking during practice." |
-| 120 | "The instructor went that way, come on!" |
-| 121 | She ducked low beneath his horizontal swing――Sherishia had sharp eyes. |
-| 122 | Her movements were precise, always composed. |
-| 123 | She never swung wildly; her strikes were sharp, fast, and decisive. |
-| 124 | Usually Kyuris either pressed through to win or failed to and lost. |
-| 125 | Their skill was roughly even, but―― |
-| 149 | It was a sort of training rule unique to this place. |
-| 165 | What came to mind was her tilting her head in puzzlement. |
-| 166 | He furrowed his brow. |
-| 167 | "Hey. You can talk, but concentrate." |
-| 168 | "Oh, yeah……sorry." |
-| 169 | At Sherishia's annoyed look, Kyuris realized that, oddly, he could not imagine Krische's face in pain. |
-| 170 | All he could picture was that beautiful face gazing at him, puzzled. |
-| 171 | In his imagination, his sword never connected. Some inexplicable force sent it slicing in the wrong direction entirely, and those purple eyes watched with curiosity. |
-| 172 | ――Yes, with curiosity. |
-| 173 | Not anger, not surprise――as if asking *What happened?* |
-| 174 | He could not explain why. |
-| 175 | He simply could not imagine his sword ever reaching her. |
-| 176 | * * * |
-| 177 | Then, the event dubbed the 'Swordsmanship Exchange Camp' took place one month later. |
-| 178 | Two nights, three days in a small forest north of the capital, where the Black Flag Special Service had once trained. |
-| 179 | It was organized jointly with other training halls across the capital, not exclusively for the Black Flag Academy. |
-| 180 | A military training ground was adjacent, and since that land was technically military property, offering it free of charge to a single private academy run by former soldiers would have raised fairness concerns. Other academies were therefore invited as well. |
-| 181 | In addition, serving soldiers who wished to participate were also permitted――and with word that Alberinea would be joining incognito, the military volunteers were overwhelming, requiring a lottery. Head Instructor Mia, dealing with the logistics Kalua had casually set in motion, had dark circles under her eyes, but the children whose parents had granted permission were in a festive mood. |
-| 182 | A swordsmanship camp where the capital's finest gathered. |
-| 183 | No one who willingly attended a swordsmanship academy could fail to be thrilled. |
-| 184 | On the morning of the event, students gathered before the academy, marched north through the capital, and arrived at the military training ground. |
-| 185 | As they merged with members from other academies and soldiers, a man in armor appeared before Kyuris and Sherishia. |
-| 245 | Sitting sideways, she patted the beast's back casually. |
+| 14 | His instruction was strict, but his stories were entertaining, and during breaks he was very kind — the most popular instructor of them all. |
+| 15 | He finished explaining the day's training and asked if there were any questions — and that was when the boy, Kyuris, steeled his resolve and spoke up. |
+| 16 | "Um, is Krische-sama really strong……I mean, is she strong?" |
+| 74 | "That stage……" |
+| 99 | "Hmm, about as weak as Mia……" |
+| 116 | Their skill was also top-class, and they were often paired together for form drills and sparring. |
+| 117 | That Kyuris had continued this long was half thanks to Sherisia. |
+| 121 | "……Talking during practice is forbidden." |
+| 157 | That was limited to the instructors and assistant instructors. |
+| 161 | Injuries were part and parcel of sword training, but no one deliberately injured someone, and anyone who did would be scorned. |
+| 173 | ——Yes, curiously. |
+| 177 | * * * |
+| 190 | After joining up with people from the other dojos and the soldiers, an armored man appeared before Kyuris, who'd been walking with Sherisia. |
+| 282 | --- |
 
 ---
 
@@ -17803,8 +17745,8 @@
 | Raw file | `288_少年とおねえさん 中.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 310 |
-| Translated line count | 293 |
-| **Verdict** | **17 line(s) MISSING from translation** |
+| Translated line count | 311 |
+| **Verdict** | **1 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -17812,79 +17754,14 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 8 | 優しい見た目に反した堂々たる姿。 |
-| 15 | 「ああして見ると、館長ってすげぇんだな」 |
-| 16 | 「そうだね。意外というか……」 |
-| 18 | 普段やっている稽古の延長線上で、それぞれの道場が少し離れて、演武や実戦さながらの手合わせを行う姿を見せ、午後からは興味のある流派にお試し入門。 |
-| 19 | 文字通りの交流といった形で緩く、参加するしないも自由であった。 |
-| 20 | エルカファレスト式は王国で単に『正統剣術』と呼ばれるものに近く、切っ先を相手の首筋に向ける中段の構え。 |
-| 21 | 正統剣術は両手持ちの長剣を用いることを前提としながらも、あらゆる剣技の基礎、中心にあるものとして、キューリス達も最初に習った構えの一つ。 |
-| 22 | 剣一本であらゆる攻撃を捌き、打ち負かすことに主眼が置かれ、その堂々たる構えから気高き剣として貴族達にも好まれるものであるらしい。 |
-| 23 | エルカファレストもそれによく似ていて、切っ先が僅かに寝ているのが違い――僅かながら突きに重点を置いた構えであるそうだ。 |
-| 24 | とはいえ、大雑把に見ると同じく。 |
-| 25 | 明確に違う構えを取るのはザイン式やロールカ式くらいで、流派によって細部は異なるものの、多くの構えは共通であった。 |
-| 45 | それなら手合わせしてるほうが楽しいし、意味があるように思える。 |
-| 46 | 「カルア師範にも型はあるさ。誰でも学べるものではないというだけで」 |
-| 47 | 「っ、バックさん」 |
-| 48 | 背後から現れたのは黒髪を後ろで束ねた精悍な男だった。 |
-| 49 | 細身ながらも筋肉質で、無精髭。 |
-| 55 | こういう唐突な指導もよくあるもので、慣れてはいた。 |
-| 89 | 時々意地悪だが、やはりシェリシアは可愛く、そういうところがズルかった。 |
-| 90 | 自分の頬が赤くなる前に視線を切り、そういえば、とバックに尋ねる。 |
-| 91 | 「その、バックさん。クリシェ様の事どう思います？」 |
 | 92 | 「ん……？　ああ、聞いたぞ。どうにもアルベリネアに弱そうだと面と向かって言ったらしいな。恐れ知らずと言うか何というか……」 |
-| 93 | 「バックさんとボジーさんも似たようなこと言ってたって聞いたんですが……」 |
-| 94 | 「ボジーはともかく、俺はそこまで思っていなかったさ。まぁ、普段の様子で侮っていたと言われれば俺も否定は出来ないが」 |
-| 95 | バックは苦笑し、見ればぞっとする、と続けた。 |
-| 103 | そう言ってバックは手を振り、他の所に歩いて行く。 |
-| 111 | 何故か館長のミアが側で野菜の皮剥きをさせられており、一部の軍人や子供達がその手伝いを。 |
-| 119 | そんなことを言い放つ。 |
-| 133 | そして余っている時間を使い串焼きを用意。 |
-| 134 | ミアとシェリシアがそれぞれ一本を用意する間にクリシェは六つの串を用意し、何とも鮮やかに皿の上に積み上げていく。 |
-| 137 | 平然とこなす仕事量が常人の比ではない。 |
-| 157 | 剣を見たいというのは確かであるが、弱そうなどと言った手前言い辛いことは確かであるし、わざわざ楽しそうにしているところに口を出すなら尚更。 |
-| 183 | 魔力保有者としての超人的な身体能力を最大限に発揮するからこそ有効となり得るもので、それを極めるには必然的に魔力を操る才覚が必要となるのだ。 |
-| 184 | 非魔力保有者が学んでも無意味という訳ではないが、結局間合い、速度で絶対的な優位を手にする魔力保有者に対して、速度で劣る彼らでは先を取ることは難しい。 |
-| 185 | 後の先を取ることに特化したロールカ式を修める方が非魔力保有者にとっては実戦的である、という考えが一般的で、ザイン式が貴族の剣と呼ばれるのもそれが所以であった。 |
-| 186 | 「準備は良いですかな？」 |
-| 187 | 「は。……ザイン総師範直々の剣を間近で見られる稀な機会、勉強させて頂きます」 |
-| 188 | 「はは、そう気負わなくとも構いません」 |
-| 189 | 集まった軍人や他の門下生達の前。 |
-| 190 | シェリシアの父、メルケスの正面に立つのは、白髪交じりの黒髪短髪、長身の偉丈夫、ウェスリアル＝ザイン。 |
-| 191 | かつては王都一の剣術道場と呼ばれたザイン剣術道場の総師範。 |
-| 192 | 今代のザイン式剣術正統後継者であった。 |
+| 118 | 「良いことです。ミアがびっくりするくらい不器用なので手伝ってあげて下さい」 |
+| 159 | 先ほどの話を聞いて、もしかして本当に強いのかも、とは考え始めていたがやはり自然なタイミングというのは重要である。 |
 | 193 | メルケスはロールカ式で構え、ウェスリアルはザイン式で構える。 |
 | 194 | 対照的な構え――隣のシェリシアは胸の前でぎゅっと拳を握っていた。 |
-| 195 | 百人隊長。実戦経験もあり、魔力も扱える。 |
-| 196 | メルケスは師範達と比べて見劣りせぬ剣腕の持ち主であったが、しかし対するウェスリアルを見れば、どちらが優位かは一目で分かった。 |
-| 197 | 静謐とさえ感じる構えの美しさ。 |
 | 198 | まさに達人という風格があり、互いの間に五間という距離を取っているにも関わらず、メルケスはじりじりと後ろに下がる。 |
 | 199 | それだけの距離を開いてなお、ウェスリアルの間合いということだ。 |
-| 200 | 「では」 |
-| 201 | 「っ！？」 |
-| 202 | まるで冗談のような踏み込み。 |
-| 209 | 言って、ウェスリアルはメルケスを示す。 |
-| 210 | 「実に堅実なロールカ式、戦場で磨かれた故か甘えも緩みもない。後の先を合わせることのみに集中し、普通に踏み込めば少なくとも反応は出来たでしょう。だが、では、という私の言葉に反応し、ほんの僅かな揺らぎを見せ――その虚へ私が踏み込んだからこそ、無防備なまま剣を突きつけられる結果となったまで」 |
-| 211 | 口にしながら腰に提げた長剣を叩く。 |
-| 212 | 「重要なのはその程度の隙で十分に、この剣術ならば致命の一撃を与えることが出来るということ。彼のような熟練を相手にしてさえ、その技術を発揮させる前に問答無用で切り裂き、刺し貫き、一瞬で勝負を終わらせる。……それがザイン式剣術というものです」 |
-| 213 | ありがとうございます、と笑みを浮かべてウェスリアルはメルケスに目を向ける。 |
-| 214 | メルケスは頭を下げて、キューリス達の側に。 |
-| 215 | 目を向けると苦笑をし、軽く頭を叩いた。 |
-| 216 | 衆目の前で手も足も出ず敗れながらも、その顔に恥はない。 |
-| 217 | 「分かりやすくするために小細工を弄したものの、これを卑劣と感じるべきではないでしょう。あくまで剣術とは殺人術であり、そして弱きものが強きものに勝つための技術。七尺の巨漢に力で挑めぬものが、勝利を得るために培う卑劣な手段だということを念頭に。……人には決して負けてはならぬ時があり、私が教えるのもまた、そのための技術。まずはそれを理解して頂けるとありがたい」 |
 | 221 | キューリスは感心しながら彼を見つめ、シェリシアも同様。 |
-| 222 | 「いかがでしょう？　アルベリネア」 |
-| 223 | ウェスリアルの声と視線、咄嗟に背後を振り返る。 |
-| 224 | 大人達の後ろ――翠虎に乗りながらクッキーを食べ、木彫りのコップで紅茶らしきものを飲むクリシェとカルアの姿がそこにあった。 |
-| 225 | 気付いているものもほとんどいなかったのか、一瞬悲鳴に似た声が聞こえる。 |
-| 245 | 「……一般的」 |
-| 259 | 名門中の名門ザイン剣術道場。 |
-| 267 | しかし、言葉に出来ぬ何かが、その音の内側に秘められていた。 |
-| 268 | 「……よろしければ是非に一度、お手合わせを願いたいと思っておりました。いかがでしょう？　皆の勉強にもなります」 |
-| 269 | 明らかに空気が変わり、凍り付くような気配。 |
-| 270 | 空気はどこまでも重々しく、先ほどメルケスと対峙していた時の比ではない。 |
-| 271 | それも当然、一流派の長たるものがその流派を衆目の面前でそれを貶められたようなものだ。 |
-| 295 | カルアがクリシェにそうしたように、今度はメルケスがキューリスに。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -17892,62 +17769,15 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 3 | Assembled before the forest, all three hundred and twenty participants. |
-| 4 | Head Instructor Mia stood on a platform and began her address without the faintest sign of nerves. |
-| 5 | Though showing her age, she was a charming woman with chestnut hair loosely gathered――if Krische was the neighborhood onee-san, Mia was the neighborhood auntie. |
-| 6 | She hardly looked formidable either, yet she rattled off a fairly lengthy address before an assembly of warriors and swordsmen with perfect composure. |
-| 8 | In the academy, too, she never seemed to command the instructors' particular respect, and was teased more often than not, but to see her stand before a crowd that made even Kyuris tense and speak as if nothing were unusual――that did change his impression. |
-| 12 | After all, thinking Mia was weak amounted to nothing more than never having seen her fight and her not looking tough――and no reason beyond that. |
-| 13 | It was, to put it plainly, mere prejudice. |
-| 14 | "Seeing her like that, the Head Instructor is pretty impressive." |
-| 15 | "Yeah. Unexpected, kind of……" |
-| 22 | Elkaforest was similar, with the point tilted slightly lower――a marginal emphasis on the thrust. |
-| 43 | Honestly, kata did not seem very important to him. |
-| 44 | Sparring was more fun and more productive. |
-| 45 | "Kalua-sensei has kata too, you know. It's just not something anyone can learn." |
-| 46 | "Ah――Back-san." |
-| 81 | "When Kyuris says that, it usually means about a third." |
-| 82 | "Heh, go easy on him. He's still young. You can explain it all slowly later, Sherishia." |
-| 83 | "……A dog would understand better." |
-| 84 | "……You……" |
-| 85 | *Well, fine*, Sherishia said, somehow looking pleased. |
-| 86 | She could be mean sometimes, but she was still cute, and that was unfair. |
-| 87 | Before the heat reached his cheeks, he cut his gaze away. |
-| 112 | "Huh? U-um, yes……" |
-| 126 | She even seared the meat beforehand in frying pans. |
-| 127 | And aside from the carrying and the peeling, she did nearly everything herself. |
-| 128 | In the remaining gaps she prepared skewers. |
-| 167 | "Then let's go study Zain style. None of the instructors use it, so it's a rare chance." |
-| 168 | "……Fine, sure." |
-| 169 | And so, in the afternoon, they headed to the Zain Swordsmanship Academy's area. |
-| 170 | It was indeed a rare opportunity. |
-| 171 | If Rollka was the gritty soldier's sword, Zain was the brilliant noble's sword. |
-| 172 | The only academy in the capital was in the first-class quarter, beyond the reach of most commoners, and the tuition was steep. |
-| 173 | Moreover, this style was considered impossible for ordinary commoners to master. |
-| 174 | ――Because it presupposed the talent to manipulate mana. |
-| 175 | The opposite of Rollka. |
-| 176 | A half-body stance with the sword forward, specializing in seizing the initiative. Arrow-like lunges closed the distance and delivered lethal strikes. |
-| 177 | Effective *because* one could deploy the superhuman capabilities of a mana wielder to the fullest, it naturally required the talent to manipulate mana. |
-| 178 | A non-wielder could still benefit from studying it, but the absolute advantage mana wielders held in reach and speed made it difficult for a non-wielder to seize the initiative. |
-| 179 | The consensus was that for non-wielders, Rollka style――designed to take the counter-initiative――was far more practical. That was why Zain was called the noble's sword. |
-| 180 | "Are you ready?" |
-| 184 | Facing Merkes stood a tall, imposing man with short, grey-streaked black hair――Wesliahl Zain. |
-| 185 | Grand Master of the Zain Swordsmanship Academy. |
-| 186 | The current legitimate successor of the Zain style. |
-| 187 | Merkes took a Rollka stance; Wesliahl, a Zain stance. |
-| 188 | Contrasting guards――beside him, Sherishia clutched her fists before her chest. |
-| 189 | A hundred-man captain. Battle-tested, a mana wielder. |
-| 190 | Merkes was a swordsman of real caliber, but one glance at Wesliahl made the gap obvious. |
-| 191 | His stance was stillness incarnate. |
-| 192 | True mastery radiated from him, and despite the five-ken gap between them, Merkes was inching backward. |
-| 193 | Even at that distance, he was inside Wesliahl's reach. |
-| 194 | "Then." |
-| 195 | "!?" |
-| 222 | "Bunny, that kind of story probably undermines General Sandika's reputation as a nobleman……well, knowing him, he wouldn't care." |
-| 231 | "……By any normal standard, he's more than enough of a master." |
-| 256 | Far heavier than when he had faced Merkes. |
-| 257 | "Ah……in this kind of setting, maybe we should hold off……" |
-| 293 | --- |
+| 91 | "Um, Back-san. What do you think about Krische-sama?" |
+| 117 | "Huh? Oh, yes……" |
+| 161 | To people who didn't know her, she was above the clouds — impossible to casually approach — and everyone was watching her from a distance. |
+| 186 | "Are you prepared?" |
+| 187 | "Yes, sir. ……It is a rare honor to observe the Zain Grand Master's swordsmanship at such close range. I look forward to learning." |
+| 191 | The Grand Master of the Zain Swordsmanship Academy, once called the finest in the capital. |
+| 192 | The current orthodox successor of Zain-style swordsmanship. |
+| 220 | There was a certain resemblance in their soft-spoken manner. |
+| 311 | --- |
 
 ---
 
@@ -17958,8 +17788,8 @@
 | Raw file | `289_少年とおねえさん 下.txt` |
 | Translated file | `c286-290.md` |
 | Raw line count | 430 |
-| Translated line count | 385 |
-| **Verdict** | **45 line(s) MISSING from translation** |
+| Translated line count | 432 |
+| **Verdict** | **2 line(s) EXTRA in translation** |
 
 ### Likely Missing Lines (raw Japanese)
 
@@ -17967,163 +17797,45 @@
 
 | Raw Line # | Japanese Content |
 |---:|---|
-| 10 | すらりとした細身を不作法にカウンターの上に乗せたまま、修繕を手伝いもせず、開いた本に目を落としたままシェリシアは答えた。 |
-| 11 | 見た目こそ変わったものの、シェリシアは昔から変わらない。 |
-| 12 | 「いらっしゃいませ。……まぁ、エルカ様。本のご返却でしょうか？」 |
-| 15 | 本を受け取ってキューリスが片付けている間、エルカ様におすすめの貸本なのだと入ったばかりの本を貸し出し手続き。 |
-| 16 | キューリスよりも貸本屋をやっていた。 |
-| 17 | 客が店を出て行けば、ふふん、と彼女は鼻高々。 |
-| 18 | 「ただ本を読んでるだけじゃなくて、どういう本かを勉強してるの。読んでもない本をお客さんにおすすめできないでしょ？」 |
-| 19 | 「わかった。俺が悪かった。……口喧嘩じゃお前に勝てん」 |
-| 20 | 「口喧嘩でも、でしょ？」 |
-| 29 | 馬鹿にするような笑みを見て何かを言おうとすると、裏から母が顔を出す。 |
-| 32 | 「ただのぎっくり腰、いつものことだよ。気にしなくていい。……キューリス、帰りはちゃんと送ってやんなよ」 |
-| 33 | 「シェリシアに襲いかかれるような奴もそうそういないと思うけどな」 |
+| 52 | 百人を超える人の輪の中、長身の偉丈夫と、銀の髪の小さな少女。 |
+| 57 | 最初こそやりにくい、一々面倒くさいと思っていたものだが、実際にカルアのような人間が世の中にいると理解してからは大人しく従った。 |
+| 58 | 五間が相手の刃圏にある可能性を認識出来なければ、問答無用で瞬殺である。 |
+| 59 | 相手が長物であれば更に、体格も同様。 |
+| 60 | ウェスリアルのような長身であれば、そして先ほど見た限りでは、五間は優にウェスリアルの刃圏。 |
+| 61 | メルケスが後ろにじりじりと距離を開いていたのは、気圧されたというだけではない。 |
+| 62 | 恐らく、無意識に選んだ五間という距離が、相手の刃圏の内側であると理解したためだ。 |
 | 63 | だが、何も考えず距離を取ったように見えたクリシェは、メルケスが取った間合いよりも更に一間ばかり遠い。 |
+| 64 | あまりに強気な発言。自然体な姿。何も考えていないかのような表情。 |
+| 65 | しかし彼女はどこまでも冷静に相手の間合い――その限界を捉えているように思え、キューリスは息を飲んだ。 |
+| 66 | 「……いくら手合わせとはいえ、真剣ではまかり間違って大怪我となることもありましょう」 |
+| 67 | 「大丈夫ですよ。クリシェは怪我をしませんし、仮にぐさーっと剣が刺さっても……えーと、名前に誓って文句は言わないのです」 |
+| 68 | 何の気負いもない笑顔。 |
+| 69 | ウェスリアルはクリシェを見て、そう仰るならば、と腰から長剣を引き抜いた。 |
+| 70 | 刀身は三尺半。全体として細身に見えたが、重ねは厚く、不思議な重厚感と鋭さを兼ね備えている。 |
+| 71 | それを右半身――切っ先を前にして構えればもはや、その間合いは槍にさえ匹敵するように思えた。 |
+| 72 | 空気が更に、重々しく冷え切ったものに変わる。 |
+| 73 | この場の状況に気付いたか。 |
+| 74 | 他の所からも人が集まり始めていたが、誰も騒ぐことなく、黙ったまま二人を眺めていた。 |
+| 75 | 少なくとも、雑談を行えるような雰囲気ではない。 |
 | 76 | 「はぁ……うさちゃん、手甲は？」 |
 | 77 | 「んー……ちょっとしたお稽古ですし、今はいいです。……あ、いつでもいいですよ、ザインさん」 |
 | 78 | 「……いつでも、とは？」 |
 | 79 | 「クリシェ、特に構えたりしないので」 |
 | 80 | 火に油を注ぐような言葉である。 |
-| 86 | そうしていないと、立っていられなくなるような重圧がこの場にはある。 |
-| 87 | ただ剣を構える、それだけのことでまるで首筋に刃が突きつけられたかのよう。 |
-| 88 | そして周囲の者達も皆、同じものを感じているように見えた。 |
-| 89 | カルアでさえ、呆れたような顔をしながらもその瞳にどこか真剣な色を宿している。 |
-| 90 | 「恐れながら……それはあまりにも、侮りと油断が過ぎるのではありませんか？」 |
-| 91 | 「侮る……？」 |
-| 92 | 繰り返して、桜色の唇に指先を。小首を傾げた。 |
-| 98 | ただ、どう好意的に解釈しようとしても怒りを煽っているようにしか聞こえず、ひたすら火に油を注ぎ続けるクリシェに、見ているキューリスの胃が痛くなった。 |
-| 101 | 「はい、どう――」 |
-| 104 | ザインの剣は構えに非ず。 |
-| 105 | 先ほど彼が語った言葉は所詮、表層概念でしかない。 |
-| 106 | その真なる本質は肉体の内側における静かな魔力運用とその発露にある。 |
-| 107 | 肉体拡張――身に纏い形作る仮想の筋肉へと、体内で密かに練り上げた多大な魔力を瞬時に流し込むことによって生まれる、爆発的な運動エネルギー。 |
-| 108 | それを余すことなく推進に用いることで、動を飛ばして静から静へ。 |
-| 109 | 矢の如くと呼ばれる瞬間的な加速、踏み込みを行なう。 |
-| 110 | ザイン式の深奥を学ぶものは、その爆発的な魔力の圧送に耐える強固なる仮想筋肉の構築に長い年月を費やし、そしてそれを常時維持できるようになってようやく、一人前のザインの剣士と扱われる。 |
-| 117 | この刃は一度取った先の機を、相手の死まで手離しはしないのだから。 |
-| 118 | 相手の認識を超える踏み込みと刃の速度を以て、問答無用の勝利を手にする。 |
+| 81 | キューリスは目眩がした。 |
+| 119 | ――それこそが、極みに到ったザインの剣というもの。 |
 | 120 | 無論、ウェスリアルとて、これだけで完全無欠とは思ってはいない。 |
 | 121 | 『完全無欠の使い手』がいない以上、後手を取らざるを得なくなる状況は存在する。 |
-| 123 | その死もまた、アルベリネアの奇襲を受けた結果のものであったと聞いた。 |
-| 124 | 戦場という混沌の世界。 |
-| 130 | ザイン式剣術、その正統後継者はアルベリネアを前に為す術もなく討たれたのだと語られ、所詮本質は道場剣であり、貴族達の決闘遊びの剣術なのだと民衆は語る。 |
-| 131 | 王弟ギルダンスタインにウォルターが荷担したことで、一時は女王の不興を買うことを恐れた貴族達も離れ――評判も落とした道場は一時、風前の灯火であった。 |
-| 132 | 『学びに罪があるはずも無し』とする女王の言葉。 |
-| 133 | そして戦場を潜り抜けたザイン式剣術の達人、べーギル＝サンディカを外部から招き、それを喧伝することでようやく持ち直すことに成功したが――だからこそ、これまでの努力を鼻で笑うようなアルベリネアの言葉には耐えかねるものがあった。 |
-| 134 | 彼女に悪意がないことは理解している。 |
 | 135 | 才覚故の無自覚な驕りは誰にでもあるもの。 |
-| 136 | ――しかし、この場でそれを口にした以上は看過することは出来ない。 |
 | 137 | 立ち姿、歩く姿一つとっても静謐。 |
-| 138 | アルベリネアがウォルターを討ち取るほどの剣士であることは疑ってはいない。 |
-| 139 | 強者としての風格は十分に備わっていた。 |
-| 140 | あらゆる才覚に恵まれ、経験を積み、その剣技もまた卓越したものなのだろう。 |
-| 141 | だが、ザインの剣を前にして、無防備に先手を許した。 |
-| 142 | それは侮り以外の何ものでもない。 |
-| 143 | 放たれたが最後、反応など出来るはずもない必殺剣なのだから。 |
-| 144 | 手心など加えていない。 |
-| 145 | 刃は首の真横を貫くようにずらしていたが、最大の加速、最高の一撃を放っていた。 |
-| 146 | 万が一にも傷つけることはない。 |
-| 147 | なぜならば、人間の反応を超越した剣。 |
-| 148 | 気配を読まれた様子はなく、踏み込む瞬間に動きはなかった。 |
-| 149 | だからこそ、アルベリネアは棒立ちで、首の真横を貫かれて気付くことになる――はずであった。 |
-| 150 | 「っ！？」 |
-| 151 | ウェスリアルですら正常に認識出来ぬその一瞬――刃が放たれた後にアルベリネアは動き、 |
-| 152 | 「ぐ、っ！？」 |
-| 153 | 感じたのは、剣の引かれる感触。 |
-| 154 | そして足が掛けられ、気付いた時には正面から地面に倒れ込み。 |
-| 155 | 「えへへ、こんな感じでしょうか」 |
-| 156 | ――うつぶせに倒れ込んだウェスリアルの首に、補強されたブーツの踵が乗っていた。 |
-| 157 | 「クリシェくらいの体重でも勢いよく、ぐいって踏めば首の骨も簡単に折れるので、こういう風に転ばせた相手の首を踏む、というのは中々効果的です。血も飛び散らなくて汚れませんし、剣も汚れませんし」 |
-| 158 | 長年彼女の『殺人術』を間近で見ていたカルアを除けば、誰一人何が起きたかも分からず硬直していた。 |
-| 159 | 彼らの目に映った情報は、消えたウェスリアルが突如、彼女の側で転倒して現れたようにしか見えなかったし、カルアでさえ彼女が何をしたのか、はっきり見えた訳ではない。 |
-| 160 | ただ、経験から知っていただけだった。 |
-| 161 | 「見ての通り突きというのは速くて威力は高い攻撃なのですが、軌道は分かりやすいですし、踏み込んだ足の位置からどこまで伸びてくるのかが予測しやすいもの」 |
-| 162 | 足を離すとクリシェは、そのまま唐突に、素手で突きの構えを見せた。 |
-| 163 | ウェスリアルと同じザインの構えから、剣を突き出すように。 |
-| 164 | 「こういう風にどしゅー、と相手の剣が伸びきった所で、相手の剣を捕んで引っ張ってあげれば、おっとっと……」 |
-| 165 | そして、突いた剣を引っ張られるかのように、そのまま前のめりに一本足でぴょんぴょんと跳ね――そこでようやく、見ていた者達もそれが解説であることに気付いた。 |
-| 166 | 「って感じにバランスを崩せます。そこにちょん、と足を引っかけて転倒させてやれば、大体こんな感じですね」 |
-| 167 | 皆さんも気をつけるように、などと、ウェスリアルを指で示しながら平然と。 |
-| 168 | 目を見張る必殺剣に対し、欠片の驚きさえも見せることなく少女は告げる。 |
-| 169 | 言葉を聞いてなお、その場で理解できたのは一握りであった。 |
-| 170 | そもそも、ウェスリアルの突きに反応できたものがいないし、転倒させられ首を踏まれたウェスリアルでさえもが混乱の最中にあった。 |
 | 171 | ザインの剣。人の反応を超越した、神速の必殺剣。 |
-| 172 | それに対し、アルベリネアは至極当然のように刃をつまんで引っ張ったのだ。 |
-| 173 | 彼女は手甲すら身につけていない、全くの素手である。 |
-| 174 | つまりは、足のつま先から全身のバネを使って全力、限界まで集約され、解き放たれた最速の切っ先に対し――その『速度に合わせて』手を操ったということ。 |
-| 175 | 少しでも遅れれば、触れた手など吹き飛んでいるだろう。 |
 | 176 | 人の限界を目指すウェスリアルから見てなお、人間業とは思えなかった。 |
-| 177 | 塵一つほどの微かな狂いさえない動作の正確さと、時間さえ超越するが如き反応速度がなければ届きもしない、神の業。 |
-| 178 | 己の剣技への自負があればこそ認識出来る、その途方もない隔たり。 |
+| 194 | ――その言葉をようやく理解して、背筋がぞっとする。 |
+| 195 | 「ザインさん、どうしました？」 |
 | 196 | 「ぃ……、いえ……」 |
-| 210 | 常人であれば十人が十人、何が起きたかも分からず両断されているであろう剣閃に対し、その動きはゆらゆらと揺れるように、いっそ緩慢にさえ映った。 |
-| 211 | だというのに髪の一本、ひらひらと踊る外套さえ触れさせることなく、毛の先、衣服の端にまで、まるで神経が通っているかのような滑らかさ。 |
-| 212 | 「突きはそこそこ良いですね。他も一つ一つはそこまで悪くないのですが――」 |
-| 213 | 剣閃が十を超えたところで、ウェスリアルが振るうは凍り付くような横薙ぎ。 |
-| 214 | 胴から上を跳ね飛ばされるはずのアルベリネアは、それをすり抜け地を這うが如く、ウェスリアルの足下から伸びるように曲剣を。 |
-| 215 | 「繋ぎ目がちょっと甘いでしょうか」 |
-| 232 | 「っ……」 |
-| 233 | その瞬間、クリシェの剣はそれをすり抜け――いや、彼女の体さえウェスリアルの体をすり抜けるように、一瞬の内に後ろに回る。 |
-| 235 | 「速い動きが必要な場面はこういう風に、それで間違いなく相手を殺せるときだけ。戦いで考えるべきは、こちらの選択肢を可能な限り多く残しながら、いかに相手の可能行動を減らし、そのままゼロに導いて殺すか。速い動きは相手の体勢が不十分――物理的に対処できない状態の時にだけ使うというのが基本です」 |
-| 236 | ほんの少し力を込めれば、それだけでウェスリアルは死ぬのだろう。 |
-| 237 | 強い、という言葉では語れぬほどの絶望的な実力差が、両者の間に存在していた。 |
-| 238 | また彼女は離れて指を立て、解説を。 |
-| 239 | 「皆さん瞬間的な速度ばかりに気を取られてしまいますが、重要なものは速度ではなく到達時間。速い剣も到達時間の短縮、小さな隙で殺せるという点で悪くはありませんが、結局重要なのは致命的な隙を相手に生じさせること――」 |
-| 240 | ザイン式の理念も基本的にこのようなものではないでしょうか、とクリシェは尋ねる。 |
-| 241 | 「っ……、仰る、とおりです」 |
-| 242 | 「……軍運用の場合は相手の状況が見えず、死角が多くて難しい部分もありますが、こうやって一対一で対峙する分には死角なんてないですし、全部見えてますからとても簡単。相手の可能行動を全部計算して、段階的に排除し、崩してやればそれで終わりなのです」 |
-| 247 | 「――無防備にしたらぱぱっと首を裂いて、次に行くのが理想ですね」 |
-| 248 | すっと首筋に剣を押し当てる。 |
-| 249 | 達人を相手にした、一方的で作業的な殺人術の講義。 |
-| 250 | 首は致命的な部位であり、そこを守るというのは基本中の基本であった。 |
-| 251 | ウェスリアルが知らぬはずもなかったが、問答無用。 |
-| 252 | ただただ、彼女は繰り返す。 |
-| 253 | アルベリネアはその歪な曲剣が痛まぬよう、柔らかい首の肉をそぎ落とす事を病的なまでに好み――付けられた異名が首狩人。 |
-| 254 | それに関する多くの逸話を、キューリスは思い出していた。 |
-| 255 | 一兵卒から豪傑、達人、勇者英雄に到るまで無関係――アルベリネアは首を狩る。 |
 | 256 | 麦穂を鎌で刈り入れるように、人の首を無造作に。 |
-| 257 | 「余裕があれば殺しながら次に殺す相手をどうやって殺すかを考えておくというのが良いです。クリシェは剣が痛むので好きじゃないですが、とりあえず手足を切り落とすというのも――」 |
-| 258 | 逸話通り――あまりにも自然に、剣豪ウェスリアル＝ザインは殺されていた。 |
-| 259 | その剣は、キューリスがこれまでに見たどんな剣とも違う。 |
 | 260 | 圧倒されるような迫力はなく、身構えさせられるような圧迫感を覚える訳ではない。 |
-| 261 | 例えるならそれは、気付けば足元から首筋にまで纏わり付いている、蛇のような何か。 |
-| 262 | ふと身を委ねたそよ風に、突如首を裂かれているような――そんな理不尽で突拍子もない想像を、キューリスにさえ抱かせる。 |
-| 263 | 『さっき言った理不尽でも最たるものだろう。……戦場ではあの方の前に立つこと以上の理不尽はない。下生えを蹴分けるように易々と戦列を抜け、果実をもぐように将軍首を落とすのだから』 |
-| 269 | クリシェは曲剣を鞘に収めると、キューリスが差し出した木剣を手に取る。 |
-| 270 | そして六間ほどの距離を取って、全身に汗を滲ませ、蒼白な顔になったウェスリアルに対峙する。 |
-| 271 | 少女が構えるのは剣を前にした半身――ザイン式。 |
-| 272 | 「剣を前にした半身、必然予備動作は少なくなりますから、場合によっては効果的。相手の反応速度を測った上で、これくらい実力差があるなら――」 |
-| 273 | 動を飛ばして静から静へ。 |
-| 274 | ウェスリアルの首、その真横を木剣で貫くようにして、一瞬見失ったクリシェの姿。 |
-| 275 | 舞った銀の髪と外套がふわりと、失った時間を取り戻すかのように一拍遅れて降りてくる。 |
-| 276 | ――それは時間さえも跳躍するが如き、ザインの剣であった。 |
-| 277 | 「最短最速で相手の先、先の先を取れるこの構えも決して悪くありません」 |
-| 278 | ザインの後継者たるウェスリアルでさえ、限界であったのか。 |
-| 279 | 突如現れた木剣と彼女に怯えたように尻餅をついた。 |
-| 280 | 一拍遅れて、キューリスの所へ届く微風が、奇妙なほどに冷たく感じる。 |
-| 281 | 「クリシェとしてはきゅきゅっ、というよりゆるゆる、ふわーな感じで剣を振る方が一番だとは思いますが、まぁ大体の人はそもそもしゅぱんっ、びしゅっ、とザインさんのような最低限の剣も振れてないので、まずはザイン式で素早い踏み込みや剣の振り方を覚えるというのも一つの手ですね」 |
-| 282 | 語り口は最初から最後まで変わらず、真剣さで言えば料理の方が真剣だった。 |
-| 283 | 少なくとも彼女に取って剣など、その程度のことなのだろう。 |
-| 284 | 「料理においても、包丁や調理器具の扱いなどというものは上手に扱えて最低限です。大事なのはその技術を美味しいお料理のため、どのように使うべきかという思索。これに答えはなく、クリシェの先生でさえ道半ばなのだと口にするくらいに奥深い、終わりなき探求が必要となりますが……その点、剣も似ているものと言えるでしょう」 |
-| 285 | うんうんと頷きながら、誰一人言葉を発せぬことに気付かず続ける。 |
-| 286 | 「剣なんて所詮、突き詰めれば動くお肉に切り込みを入れる程度のこと。料理の奥深さとは比べるまでもありません。ですが、どちらもまずは最低限の技術を学び、自分の可能行動の幅を増やしていくというのは共通するところであり、そして一つの技術に拘らず、必要十分な最低限を意識し、考えることが大事なのです」 |
-| 287 | 理解できましたか、とクリシェはくるりと向き直り、尻餅を突いたままのウェスリアルに目をやった。 |
-| 288 | 威圧する様子などなく、穏やかな子供のような微笑。 |
-| 289 | 雰囲気も何もかも、紫色の瞳も含めて全て、彼女はいつもの『お姉さん』。 |
 | 290 | 子供と大人、素人と達人の区別もなく。 |
-| 291 | 彼女はそのように、人を平然と見下ろして、それを許される存在なのだと気が付いた。 |
-| 292 | 少年がいつも見るその優しげな紫色が、今は途轍もなく恐ろしいものであるかのように感じて、身を震わせる。 |
-| 293 | 「ザインの、剣……」 |
-| 294 | 唖然と彼女を見つめていたウェスリアルは腰を上げ、片膝を突いて頭を垂れた。 |
-| 295 | 「……その先にある深奥を……見せて頂きました」 |
-| 296 | 上擦った声音、地に突く拳が震えているのが見える。 |
-| 297 | アルベリネアが一体、どのような存在か。 |
-| 298 | それを知らずに挑んだ彼を誰も愚かとは思うまい。 |
-| 299 | 一人残らず彼を憐れむように眺めていたが、その視線さえ酷だろう。 |
-| 300 | 「……ん、よく分からないですけれど、まぁ、理解できたなら良いです。剣はそこそこ振れているようですし、これからはきゅっきゅきゅっ、って感じじゃなくて、ふわふわー、きゅっ、しゅびっという感じで全体的な組み立て方を考えていくように」 |
-| 301 | 「……、畏まりました」 |
-| 307 | 意気消沈のウェスリアルが、すぐさま指導を行える状態まで立ち直れるなどとは思わなかったが、キューリスには頷く他ない。 |
 | 341 | 相手が超人カルアとは言え、その暴力を至近距離で平然と解き放つ姿はやはり、常人のものではない。 |
 | 342 | 穏やかに見える彼女もまた、数多の戦場を潜り抜けた怪物なのだった。 |
 | 343 | 『ミア、あなたが壊した槍一本でカボチャ何個分になると思ってるんです。いえ、お金の問題ではなく、自分のお金で買ったから乱暴に使っていいなんて考えは駄目ですよ。折角職人さんが一生懸命作った槍なんですから』 |
@@ -18132,7 +17844,6 @@
 | 346 | 『うるさい！』 |
 | 347 | 『ミア、お説教してるんですよ』 |
 | 348 | 『うぅ……なんでわたしが……』 |
-| 349 | こんこんとクリシェが説教を始めてしまったせいで槍投げ訓練は取りやめとなり、人間業ではないと言われるアルベリネアの投槍を見る機会を逃してしまったのは少し残念であったが、どうであれ、あれからキューリスも他の子供達も二度と二人を指して弱そうなどと口にすることはなかった。 |
 | 350 | 二十年ぶり、助走も無しに雑な投槍であれだけの威力――本気を出した彼女の投槍が一体どれほどの威力かなど想像するまでもない。 |
 | 351 | それからは誰もが、彼女を決して怒らせまいと敬意を払っていた。 |
 | 352 | 普段怒らぬ人ほど怖いものはない、という言葉通り、ミアもその一人だと理解して。 |
@@ -18156,7 +17867,9 @@
 | 370 | ありがたくそれを受け取り口にした後、手を打ち鳴らし、子供達を整列させた。 |
 | 371 | 年々子供の数も増え、今では四十名近くがずらりと並ぶ。 |
 | 372 | 腕白小僧だったキューリスのような子供もここに通って落ち着いた、などと、そういう評判が広まった結果であろう。 |
-| 413 | べーギル＝サンディカは九十を超えた老人であったが、今なお対峙すれば凍り付き、己が子供へ戻ってしまうかのような化け物である。 |
+| 373 | 今日のように小学をやっていない日は特に多く、半ば子供預かり所であったが、やはり館長達は気にしていない。 |
+| 429 | ――失敗とは、これでは上手く行かないという検証における成功である。 |
+| 430 | べーギルはその後部下達に、真面目な顔でそう語った。 |
 
 ### Likely Extra Lines (English translation)
 
@@ -18164,151 +17877,81 @@
 
 | Trans Line # | English Content |
 |---:|---|
-| 16 | She was running the book shop better than Kyuris was. |
-| 18 | "I'm not just reading. I'm studying what the books are about. You can't recommend a book you haven't read, right?" |
-| 19 | "Fine. You win. ……I can't beat you in a war of words." |
-| 20 | "A war of words *either*, you mean?" |
-| 21 | "……I'll catch up with swords soon enough." |
-| 22 | Sherishia smiled with amusement, and Kyuris sighed. |
-| 23 | He had learned physical enhancement and could now spar properly with the instructors, but he was still on a losing streak. |
-| 24 | Sherishia, however, was already scoring hits against them. |
-| 25 | She was said to be close to becoming an assistant instructor, the strongest of the teenagers. |
-| 26 | Naturally, Kyuris could not throw his weight around. |
-| 27 | "Sorry to keep you, Sherishia-chan." |
-| 28 | "Not at all." |
-| 52 | * * * |
-| 58 | At first it had seemed cumbersome, but once he understood that people like Kalua existed, he had complied without argument. |
-| 59 | Five ken could be the enemy's killing zone. If you could not internalize that, you would simply be killed. |
-| 60 | With a longer weapon, more so; with a larger frame, more so again. |
-| 61 | For someone of Wesliahl's height, and from what he had just demonstrated, five ken was well within his reach. |
-| 63 | But Krische, who seemed to have given the distance no thought at all, had placed herself a full ken *beyond* the gap Merkes had taken. |
-| 64 | Her brazen words. Her natural ease. An expression that seemed to think about nothing. |
-| 65 | Yet she had, with absolute precision, gauged his maximum reach――and stood just outside it. |
-| 66 | Kyuris held his breath. |
-| 67 | "……Even granting it is practice, with live blades, a serious injury could occur." |
-| 68 | "It's fine. Krische won't be hurt, and even if a sword does go *stab*, um……Krische swears on her name not to complain." |
-| 69 | A smile with no burden in it. |
-| 70 | Wesliahl regarded Krische, then said, *If you insist*, and drew his long sword. |
-| 71 | Three and a half shaku of blade. The weapon looked slender but the spine was thick, conveying both heft and keenness. |
-| 72 | Held in a right-half-body stance, point forward, the reach seemed to rival a spear. |
-| 73 | The atmosphere grew heavier still. |
-| 74 | Others had gathered, drawn by the scene, but no one spoke; they simply watched. |
-| 75 | "Haah……Bunny, your gauntlets?" |
-| 76 | "Hmm……it's just a little practice, so Krische will skip them. ……Oh, whenever you're ready, Zain-san." |
-| 77 | "……Whenever you're ready?" |
-| 78 | "Krische won't bother with a stance." |
-| 79 | More fuel on the fire. |
+| 49 | Some of the children who didn't really know who Alberinea was didn't even remember her as *Krische-sama* — to them she was the *Cookie Onee-san*. |
+| 56 | *You must instinctively understand that an opponent can close that distance, not just whether you can* — so the instructors said. |
+| 65 | And yet she was, from start to finish, calmly gauging her opponent's reach — its outer limit — or so it seemed to Kyuris, and he held his breath. |
+| 66 | "……Sparring though it may be, with live blades there is always the risk of grievous injury." |
+| 67 | "It's fine. Krische won't be hurt, and even if a blade were to go *stab* right through……um, Krische swears on her name she won't complain." |
+| 68 | A smile without the faintest weight of tension. |
+| 69 | Wesrial regarded Krische, then said *if you insist*, and drew the long sword from his hip. |
+| 70 | The blade was three and a half shaku long. The sword appeared slender overall, yet the spine was thick, lending it a paradoxical sense of both heft and keenness. |
+| 71 | Held in his right half-stance, tip forward, the reach seemed as though it could rival a spear. |
+| 72 | The air grew heavier still, colder. |
+| 73 | Whether alerted by the mood or not, people from other areas began drifting over, but none spoke. All simply watched the two in silence. |
+| 74 | It was not, at the very least, an atmosphere for idle chatter. |
+| 75 | "Sigh……Bunny, your gauntlets?" |
+| 76 | "Hmm……It's just a bit of practice, so Krische is fine for now. ……Oh, whenever you're ready, Zain-san." |
+| 77 | "……Whenever I'm ready?" |
+| 78 | "Krische won't bother with a stance or anything." |
+| 79 | Words like fuel thrown on a fire. |
 | 80 | Kyuris felt dizzy. |
-| 89 | "Insult……?" |
-| 90 | She repeated the word, touched cherry-blossom lips with her fingertip. Tilted her silver head. Those purple eyes regarded Wesliahl with curiosity, and she answered, *No.* |
-| 92 | She raised a finger and nodded with great seriousness. |
-| 93 | "There is no need to fetch the mop from the closet and scrub every hallway for a small smudge. Keep your surroundings in mind, and when you spot it, wipe it with a cloth――that's the sufficient minimum. ……In this case, Zain-san is a small smudge. A cloth-wipe will do. No mop required." |
-| 94 | *I am neither insulting nor careless*, she said, her expression one of absolute conviction. |
-| 95 | No matter how charitably one tried to interpret it, it sounded like nothing but provocation, and Kyuris's stomach ached watching Krische heap fuel on the blaze. |
-| 96 | Kalua, too, pressed her forehead into her palm and shook her head. |
-| 97 | "If you say that much, there is nothing more to say. ……Then, without further ado." |
-| 98 | "Yes, her――" |
-| 99 | What happened next was seen by only a handful among the gathered swordsmen. |
-| 100 | Wesliahl lunged, unleashing the fury coiled within. |
-| 101 | The Zain sword was not in the stance. |
-| 102 | What he had demonstrated earlier was only the surface concept. |
-| 103 | Its true essence lay in the silent internal mana operation and its explosive release. |
-| 104 | Physical enhancement――channeling vast reserves of quietly refined mana into the virtual musculature in a single instant, producing explosive kinetic energy. |
-| 105 | Directing that energy entirely into propulsion allowed the body to leap from stillness to stillness, skipping motion entirely. |
-| 106 | The arrow-like instantaneous acceleration――the lunge. |
-| 107 | Those who studied the deepest reaches of Zain spent long years building virtual musculature strong enough to withstand that explosive mana surge, and only when they could maintain it at all times were they considered true Zain swordsmen. |
-| 108 | The kata most learned were merely the entrance――the surface art. |
-| 109 | Only when that advanced virtual musculature and mana operation were mastered did surface and depth unite, and Zain swordsmanship reveal its true worth. |
-| 110 | None could escape it. |
-| 111 | A lunge surpassing human reaction――once loosed, fatal. |
-| 122 | Therefore, Alberinea would be standing stock-still when the point pierced the air beside her neck――that was how it should have been. |
-| 123 | "!?" |
-| 125 | "Guh――!?" |
-| 130 | Except for Kalua, who had spent years watching her 'art of killing' up close, every single person stood frozen, unable to comprehend what had happened. |
-| 131 | All they saw was Wesliahl vanishing and then suddenly appearing on the ground beside her. |
-| 132 | Even Kalua had not seen clearly what she had done. |
-| 163 | Simple in words. |
-| 164 | But Krische had done it as if it were the *same thing*. |
-| 165 | A master had been toppled like a child. |
-| 166 | *Even Kalua-sensei is a child next to Alberinea.* |
-| 167 | He had heard it many times, doubted it each time. |
-| 168 | ――Understanding at last, a chill ran down his spine. |
-| 169 | "Zain-san, is something the matter?" |
-| 170 | "N-no……" |
-| 171 | Wesliahl, still shaken, rose slowly. |
-| 172 | "Now, once more." |
-| 173 | "……Yes." |
-| 174 | A deep breath; he resumed his stance. |
-| 175 | Once more the crushing pressure filled the clearing, and after a single beat―― |
-| 176 | "……!?" |
-| 177 | Again, to Kyuris's eyes, Wesliahl simply vanished. |
-| 178 | The point shot forward. |
-| 179 | But the blade found only empty air. |
-| 180 | Twin tails of long silver hair swaying, Alberinea stood behind Wesliahl. |
-| 181 | His freeze lasted only an instant――a spinning slash, a gale of steel, which she evaded by a hair's breadth, and by the second, third strokes, she seemed to *flow through* the blade. |
-| 182 | The girl's smile was something else――an apparition. |
-| 183 | Against slashes that would have bisected any ten ordinary people, her movements seemed languid, swaying, almost slow. |
-| 184 | Yet not a single hair, not a flutter of her cloak, was touched――as though nerves extended to the tip of every hair, every fiber. |
-| 185 | "Your thrust is fairly good. The rest aren't bad individually, but――" |
-| 186 | Past ten strokes, Wesliahl unleashed a freezing horizontal sweep. |
-| 187 | Alberinea, who should have been cut in two, slipped beneath it as if melting to the ground, and from below his feet a curved sword rose. |
-| 188 | "The transitions are a bit rough." |
-| 189 | The crescent blade traced along his neck. |
-| 201 | Stepping in again, she kicked his high-speed slash upward with her heel. |
-| 202 | "――Strip away the defense, and then a quick cut to the throat. Move on to the next. That's the ideal." |
-| 206 | Wesliahl would have known this better than anyone, and yet――it made no difference. |
-| 207 | She simply repeated it. |
-| 208 | Alberinea favored slicing the soft flesh of the throat with her peculiar curved swords, precisely so the blade would not be damaged――thus the epithet: the Headhuntress. |
-| 209 | The many tales attached to that name flooded back to Kyuris. |
-| 210 | From common soldier to champion, from master to hero――Alberinea harvested necks. |
-| 211 | As a sickle reaps wheat, so she reaped heads, with the same casual ease. |
-| 212 | "If you have the luxury, plan how to kill the next one while killing the current one. Krische doesn't prefer it because it damages the sword, but lopping off arms and legs to start is also――" |
-| 218 | *'The most extreme form of what I called senseless. ……On the battlefield, there is no greater injustice than standing before her. She brushes through formations like kicking aside undergrowth, and plucks generals' heads like picking fruit.'* |
-| 222 | "――Well, that's about the basics of swordsmanship. Of course, Zain style isn't *bad*. Kyuris, the wooden sword." |
-| 223 | "Huh, oh……yes……" |
-| 231 | ――A Zain sword that seemed to leap through time. |
-| 232 | "This stance, which takes the absolute initiative at maximum speed, is by no means bad." |
-| 233 | Even Wesliahl, the Zain successor, had reached his limit. |
-| 234 | He fell backward at the wooden sword and the girl who had materialized before him. |
-| 235 | A beat later, a faint breeze reached Kyuris――strangely cold. |
-| 236 | "Krische personally thinks a sort of *fluid, easygoing, flowing* approach suits Krische best, but most people can't even manage a proper *quick, sharp* sword like Zain-san's basic level, so starting with Zain style to learn fast footwork and clean strikes is one valid path." |
-| 237 | From first to last, her tone never changed. She had been more serious about the cooking. |
-| 238 | To her, swordplay was simply that trivial. |
-| 262 | The chill lingered; Krische alone was cheerful and buoyant. |
-| 265 | * * * |
-| 285 | At the last exchange camp, Kalua had suggested spear-throwing, and Mia's throw had shattered the illusion once and for all. |
-| 286 | *'Come on, you're not swinging a sword. You're good at throwing, right?'* |
-| 287 | *'……Hey, I haven't thrown a spear in over twenty years.'* |
-| 288 | *'You'll be fine, fine. Last throw yesterday or twenty years ago, it's about the same for you. ……It's just heaving it.'* |
-| 289 | *'You……!'* |
-| 290 | After Kalua's dazzling javelin, Mia's form had looked pedestrian by comparison. |
-| 291 | Brute force, as advertised――barely any run-up, practically a standing throw. |
-| 292 | Yet the heavy infantry spear she hurled at Kalua punched clean through the tree behind her and snapped it in two. |
-| 293 | Every child watching had frozen solid. |
-| 296 | Gentle as she seemed, she too was a monster who had survived countless battlefields. |
-| 297 | *'Mia, do you have any idea how many pumpkins the spear you just ruined is worth? No, it's not about the money――just because you bought it yourself doesn't mean you can treat it roughly. The craftsman put heart and soul into making that spear.'* |
-| 298 | *'……Sorry. But I was aiming for the tree, I just……it's been a while, and my control was……um……'* |
-| 299 | *'Excuses are unbecoming, Head Instructor Mia. Everyone else threw at range, and you go and throw it at me――'* |
-| 300 | *'Shut up!'* |
-| 301 | *'Mia, Krische is giving you a lecture.'* |
-| 302 | *'Ugh……why is this happening to me……'* |
-| 303 | Krische's ensuing lecture had cut the throwing drill short, and Kyuris lost his chance to see Alberinea's legendarily inhuman javelin――a minor regret. But from that day forward, no child ever called those two weak. |
-| 304 | A standing, run-up-less, casual throw after twenty years, with that power――the mind refused to estimate what she could do at full strength. |
-| 305 | From then on, everyone treated her with quiet respect, determined never to anger her. |
-| 306 | *The person who never gets angry is the scariest when they do*――Mia was one of them. |
-| 307 | "Understood. ……Are Zaaka-san and the others all right?" |
-| 308 | "Kalua and Zaaka and everyone are hungover. Won't be out till past noon. ……They all got together for drinks last night." |
-| 309 | *I stopped early, though*, Mia said, looking displeased. Her demeanor was endearingly ordinary, but it was surely that very ordinariness that fooled people. |
-| 310 | *Never judge by appearances*――the instructors' maxim was carved deep. |
-| 311 | Appearing weak was itself a skill. Kyuris understood that now. |
-| 316 | Alberinea's handmade cookies were truly the finest, yet they were not lavish confections but simple, somewhat rustic, with a gentle honey flavor. |
-| 317 | Everyone loved them. |
-| 318 | *Leave it to me*, he told the departing Mia, and exchanged a wry smile with Sherishia. |
-| 319 | "You should go get some too, Kyuris." |
-| 320 | "……How old do you think I am? I'm fifteen." |
-| 321 | Saying this, he moved to the corner of the hall. |
-| 352 | * * * |
-| 366 | The gravity in his voice was of a rare intensity. |
+| 81 | Wesrial's eyes sharpened further, and the atmosphere in the clearing turned to solid ice. |
+| 82 | Every person there surely felt his quiet fury. |
+| 83 | A chill crawled from the soles of his feet up his spine and into the crown of his head, and then a small hand caught his left sleeve. |
+| 84 | Without looking, he squeezed that small hand tightly, gripping his trousers with the other. |
+| 85 | If he hadn't, he felt he might not have been able to stay on his feet — the pressure in this place was that immense. |
+| 86 | Simply standing there with a sword in guard, and it was as though a blade had been pressed to every throat. |
+| 87 | Everyone around him seemed to feel the same. |
+| 110 | The kata most students learned was merely the entrance — surface technique. |
+| 111 | Only when that advanced virtual musculature and mana control were achieved did front and back unite, allowing Zain-style swordsmanship to reveal its true worth. |
+| 118 | ——That was the sword of Zain, brought to its apex. |
+| 137 | He did not doubt that Alberinea was a swordswoman capable of slaying Walter. |
+| 138 | She had the bearing of a true master, more than sufficiently. |
+| 172 | She wore no gauntlets. Her hands were completely bare. |
+| 176 | Precision of motion without a mote of error, and a reaction speed that seemed to transcend time itself — without those, one couldn't even begin to approach such a feat. |
+| 177 | It was the work of a god. |
+| 198 | "Now, once more." |
+| 199 | "……Yes, ma'am." |
+| 200 | At her words he took a deep breath and raised his guard again. |
+| 254 | Kyuris was remembering those many tales now. |
+| 263 | *"The greatest of the unreasonable things I spoke of just now. ……On the battlefield, there is no greater unreason than standing before that woman. She parts the ranks as easily as kicking through underbrush and plucks a general's head as if picking fruit."* |
+| 288 | No trace of intimidation, just a peaceful, childlike smile. |
+| 311 | * * * |
+| 333 | *"Come on, it's not like you're swinging a sword. You're good at this, right? Javelin-throwing."* |
+| 334 | *"……Listen, the last time I threw a javelin was over twenty years ago."* |
+| 335 | *"It's fine, it's fine. Whether the last time was yesterday or twenty years ago, in your case it's about the same. ……You're just chucking it with brute force."* |
+| 336 | *"Why you——!"* |
+| 337 | After watching Kalua's brilliant javelin throw, the Director's form was, by comparison, worlds apart. |
+| 338 | Just as the words *brute force* suggested — almost no run-up, a simple overhand toss. |
+| 339 | But the heavy infantry spear she'd hurled at Kalua easily pierced and snapped the tree behind her. |
+| 340 | The sheer violence of it froze every child watching. |
+| 341 | Had it actually hit, it would have blown clean through a human torso. |
+| 342 | To unleash that kind of force at close range without batting an eye — even if her target was the superhuman Kalua — that was not the act of an ordinary person. |
+| 343 | Gentle as she appeared, she too was a monster who'd survived countless battlefields. |
+| 344 | *"Mia, do you have any idea how many pumpkins that spear you just broke is worth? No — it isn't about the money. Just because you bought it with your own money doesn't mean you can use it roughly. The craftsman who made it worked so hard on it."* |
+| 345 | *"……I'm sorry. I was planning to stick it in the tree, I wasn't trying to break it……It's been a while, so my strength, um……"* |
+| 346 | *"Excuses are unbecoming, Director Mia. Everyone else threw properly at distance, and you had to go and throw it at me——"* |
+| 347 | *"Shut up!"* |
+| 348 | *"Mia, Krische is giving you a talking-to."* |
+| 349 | *"Uuu……why am I the one……"* |
+| 350 | Because Krische launched into a lecture, the javelin training was called off, and they lost the chance to see Alberinea's throwing — said to be beyond human ability — which was a small regret. But regardless, after that day, neither Kyuris nor any of the other children ever again dared say either of the two "looked weak." |
+| 351 | Twenty years out of practice, no run-up, a casual throw with that kind of power — there was no need to even imagine what her full-force throw could do. |
+| 352 | After that, everyone treated her with careful respect, determined never to anger her. |
+| 353 | *The ones who rarely get angry are the most terrifying* — as the saying went, and they'd come to understand that Mia was one of those people. |
+| 354 | "Understood. ……Um, did something happen with Zaaka-san and the others?" |
+| 355 | "Kalua and Zaaka and the rest are all hungover. I don't think they'll be out before noon. ……They all got together for drinks last night for the first time in a while." |
+| 356 | *I bailed early*, Mia grumbled, and though she seemed perfectly ordinary compared to the other warriors, that was probably what fooled most people. |
+| 357 | *Don't judge by appearances* — the instructors' words were carved deep into his heart. |
+| 358 | Making yourself seem weak was itself a technique, and Kyuris understood that now. |
+| 363 | Alberinea's handmade cookies were truly of the highest quality, yet they weren't extravagant confections — simple, a little rustic, with a gentle taste of honey. |
+| 364 | Everyone loved the cookies she brought. |
+| 365 | *All right, I'll leave it to you then*, Mia said, heading off somewhere, and Kyuris bowed, then exchanged a wry grin with Sherisia. |
+| 366 | "Why don't you go grab some too, Kyuris?" |
+| 367 | "……How old do you think I am? I'm fifteen now." |
+| 398 | * * * |
+| 427 | Alberinea's face bore nothing but genuine curiosity. |
+| 428 | "Trial and error — one particular failure in the process." |
+| 429 | "Oh, I see……" |
 
 ---
 

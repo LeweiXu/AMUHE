@@ -3118,7 +3118,7 @@ Her attire being what it was—Cax and the others looked awkward, lowering their
 
 "Yes, sir."
 
-Lira, with her feminine figure and this attire, was also well-groomed in appearance.
+Lila, with her feminine figure and this attire, was also well-groomed in appearance.
 
 Although she had worn furs the other day, it was a bit too stimulating for the people of Alberan.
 
@@ -3128,9 +3128,9 @@ The unconscious cannot be underestimated.
 
 "Uh, being a bother, you mean..."
 
-"Lira-sama. If that's the case, I'll show them around the settlement a bit. They must be nervous in an unfamiliar land... Of course, if Giterns-dono wishes."
+"Lila-sama. If that's the case, I'll show them around the settlement a bit. They must be nervous in an unfamiliar land... Of course, if Giterns-dono wishes."
 
-In place of the puzzled Lira, he probably understood his intention.
+In place of the puzzled Lila, he probably understood his intention.
 
 Bege said with a wry smile, and Argoush bowed his head.
 
@@ -3140,11 +3140,11 @@ Bege said with a wry smile, and Argoush bowed his head.
 
 He thanked him, and Bege, as if saying "don't worry about it," smiled cheerfully and led the guards away.
 
-Lira, seeing them off with a smile, invited Argoush into the house.
+Lila, seeing them off with a smile, invited Argoush into the house.
 
 He had learned a little about their culture and etiquette beforehand.
 
-When he unbuckled his beloved sword from his sword belt, Lira smiled slightly in surprise and accepted it.
+When he unbuckled his beloved sword from his sword belt, Lila smiled slightly in surprise and accepted it.
 
 He took off his boots and lined them up at the entrance, then stepped onto the wooden floor.
 
@@ -3180,7 +3180,7 @@ It was a kind of herbal tea, not black tea—he bowed his head, and then a heapi
 
 It was a mountain in a large bowl.
 
-Was this Kresharana's way of entertaining guests—he felt a slight confusion and looked at Lira, who smiled shyly.
+Was this Kresharana's way of entertaining guests—he felt a slight confusion and looked at Lila, who smiled shyly.
 
 "I thought everyone would be coming, so, um, I made a lot..."
 
@@ -3190,7 +3190,7 @@ Such etiquette was difficult.
 
 Some would say it was proper to take one bite as a matter of politeness, while others would say reaching for sweets before important discussions was out of the question.
 
-Alkierence watched him silently, sipping his tea, and Lira smiled expectantly.
+Alkierence watched him silently, sipping his tea, and Lila smiled expectantly.
 
 Should he open the conversation, or reach for a cookie?
 
@@ -3202,7 +3202,7 @@ While the texture was slightly unique, the faint sweetness of honey was soft.
 
 Alkierence remained silent while he ate.
 
-Lira continued to smile.
+Lila continued to smile.
 
 Was this the right choice, or the wrong one—he swallowed the question, and then offered a calm, noble smile.
 
@@ -3220,7 +3220,7 @@ He recalled his daughter, who had been a bit too eager, and said this from the b
 
 She gave a wry smile and moved to his right front.
 
-Alkierence's eyes showed a slight, gentle smile—he was looking at Lira.
+Alkierence's eyes showed a slight, gentle smile—he was looking at Lila.
 
 He was relieved that it seemed to have been the right choice, and inwardly let out a sigh of relief.
 
@@ -3238,7 +3238,7 @@ Alkierence looked directly at him.
 
 It wasn't an intimidating gaze, but simply one filled with an imposing aura.
 
-"I have heard about you from Lira and Vinthril who are here, and from those who accompanied you on the recent journey. Now that I see you, you are indeed as I heard... a good man."
+"I have heard about you from Lila and Vinthril who are here, and from those who accompanied you on the recent journey. Now that I see you, you are indeed as I heard... a good man."
 
 "No, that's an excessive evaluation. We even caused significant delays to your journey due to our unpreparedness."
 
@@ -3300,11 +3300,11 @@ They gazed at each other for a while, and then, after a moment, Alkierence gave 
 
 Then he nodded deeply and replied, "By the Holy Spirit and the sword, I swear."
 
-"I promise to meet your resolve to the fullest extent possible. If you need anything, or have any problems, come to me... Lira, for a while, stay with Giterns-donoand tell him about the settlement and the forest."
+"I promise to meet your resolve to the fullest extent possible. If you need anything, or have any problems, come to me... Lila, for a while, stay with Giterns-donoand tell him about the settlement and the forest."
 
 "Yes! If that is the case, I, too, swear by the Holy Spirit!"
 
-Lira nodded, a charming and pleasing smile on her face.
+Lila nodded, a charming and pleasing smile on her face.
 
 "Fufu, I look forward to working with you, Giterns-sama. My gratitude from the other day still hasn't been repaid... Please tell me anything you don't understand or any inconveniences you encounter. I'll try to show my face at least once a day during your stay."
 
@@ -3422,7 +3422,7 @@ This time, unlike their usual escort duties, he had specifically selected and br
 
 The remaining escorts were foraging and hunting in the forest.
 
-Argoush had intended to create a field from scratch, wishing not to burden them, but Lira advised against it, saying it was too much, so they were lent one of the abandoned fields.
+Argoush had intended to create a field from scratch, wishing not to burden them, but Lila advised against it, saying it was too much, so they were lent one of the abandoned fields.
 
 It was at the edge of the settlement, far from a water source, and not known for good yields, but whether it had been worked on before made a big difference.
 
@@ -3592,9 +3592,9 @@ He looked up at the resounding voice.
 
 From the direction of the settlement, a girl mounted on a griffon.
 
-"...Lira-sama."
+"...Lila-sama."
 
-It was Lira, carrying a basket of fruit, with a stern expression.
+It was Lila, carrying a basket of fruit, with a stern expression.
 
 Dukaran clicked his tongue and scratched his head.
 
@@ -3624,9 +3624,9 @@ With his small scimitar slung over his shoulder, he looked at Argoush.
 
 "What's the point of interacting with such cowards? Kresharana will only rot... I ask you, please keep them away from the children. If one rotten apple is mixed in, the whole barrel goes bad."
 
-Lira called his name again, but Dukaran walked away without looking back.
+Lila called his name again, but Dukaran walked away without looking back.
 
-While some glanced at Lira with concern, they too eventually followed Dukaran.
+While some glanced at Lila with concern, they too eventually followed Dukaran.
 
 "...I apologize."
 
@@ -3644,7 +3644,7 @@ Although not a griffon rider, he was a respected figure in Kresharana and was kn
 
 "...I see."
 
-He listened while resting, sitting side-by-side in front of the field, eating the fruit Lira had brought.
+He listened while resting, sitting side-by-side in front of the field, eating the fruit Lila had brought.
 
 His subordinates also listened intently without speaking, apparently sensing that there had been trouble.
 
@@ -3690,7 +3690,7 @@ It was no wonder the rift deepened.
 
 "That's... fufu, perhaps so."
 
-Lira shook her shoulders and gave a wry smile.
+Lila shook her shoulders and gave a wry smile.
 
 She was like a storm that swept up everyone around her.
 
@@ -3718,7 +3718,7 @@ Everyone around her would be swept up, and yet she would resolve everything, or 
 
 "There might be similar problems in the future, but please don't let them trouble you. In a future where our two nations can join hands, such problems will surely become but small, funny anecdotes of the past."
 
-Lira gazed at him intently, then smiled and nodded.
+Lila gazed at him intently, then smiled and nodded.
 
 "Thank you. To hear you say that truly... I wish I could be someone who commands as much respect as Her Majesty the Queen, but I still lack the power..."
 
@@ -3726,7 +3726,7 @@ Lira gazed at him intently, then smiled and nodded.
 
 "No, not at all. When there are no rituals, I usually just take care of these children or help with other tasks... In fact, I often have the least to do in the settlement."
 
-As she spoke, Lira took a fruit and offered it to the griffon behind her.
+As she spoke, Lila took a fruit and offered it to the griffon behind her.
 
 The griffon chirped with its distinctive high-pitched cry, crushed the fruit, and happily swallowed it.
 
@@ -3738,7 +3738,7 @@ Warriors tend to be too strict with their training. Young griffons are especiall
 
 She chuckled as she tickled the griffon's neck.
 
-The griffon rested its chin on Lira's shoulder affectionately and chirped, "Kyu-kururu."
+The griffon rested its chin on Lila's shoulder affectionately and chirped, "Kyu-kururu."
 
 "Warriors actually ride them once they can understand words to some extent and grow larger. After a mount is chosen, warriors usually stay at the breeding ground for about half a year, living with the griffon.
 
@@ -3748,7 +3748,7 @@ It might take a month, or nearly a year... of course, there's quite a bit of ind
 
 "Indeed. As they grow older, they also tend to become more temperamental... and on top of that, you have to train them strictly, so it's quite challenging. Sometimes they get angry and cause serious injuries."
 
-Lira recalled, "My brother even broke his arm once."
+Lila recalled, "My brother even broke his arm once."
 
 "The Warrior Chief too?"
 
@@ -3764,7 +3764,7 @@ He nodded and stood up.
 
 "I am fully prepared to break an arm or two. Right now, we are each other's griffons... Thinking of what happened earlier as a step toward understanding each other, it's not a big deal."
 
-He called out to his subordinates, "Let's continue," then smiled at Lira and extended his right hand.
+He called out to his subordinates, "Let's continue," then smiled at Lila and extended his right hand.
 
 She grasped it and stood up.
 
@@ -3786,7 +3786,7 @@ Or perhaps she had very deep considerations—she was Alberinea's younger sister
 
 At the very least, understanding her inner thoughts was difficult for Argoush.
 
-Lira shook her head, smiled, and then bowed deeply.
+Lila shook her head, smiled, and then bowed deeply.
 
 "Please continue to favor us with your presence, Giterns-sama."
 
@@ -3926,15 +3926,15 @@ He had largely finished greeting other acquaintances besides Bege, and everyone 
 
 Vinthril, too, exchanged words with a constant smile.
 
-"Lira told me. It seems Dukaran was rather impolite. ...Before hearing his side, I wanted to speak with Giterns-dono first."
+"Lila told me. It seems Dukaran was rather impolite. ...Before hearing his side, I wanted to speak with Giterns-dono first."
 
 After a while, Vinthril broached the topic.
 
-It was probably his most important business—he was glad that Lira, and now Vinthril, were so considerate.
+It was probably his most important business—he was glad that Lila, and now Vinthril, were so considerate.
 
 "It wasn't so much impoliteness. Knowing the circumstances, it's only natural... I was aware that there would be those who disapproved of this exchange. I believe it's unavoidable."
 
-Argoush smiled, giving the same reply he had given Lira.
+Argoush smiled, giving the same reply he had given Lila.
 
 "Furthermore, Dukaran-dono is said to be one of Kresharana's most respected warriors. If I am not recognized by such individuals first, this exchange will not go well. It wasn't an actual injury, and this is also part of the exchange... If you can view it patiently."
 
@@ -4094,7 +4094,7 @@ As Argoush hastily denied it, Bege laughed in a manly way and continued.
 
 "..., Thank you."
 
-"Besides, the Warrior Chief and Lira-sama seem quite concerned, but Dukaran's brother is just being stubborn. ...Eventually, when he starts talking to 'Argoush Giterns' instead of some unbearable noble from Alberan, it'll be an easily resolved problem. ...'The beauty of the self doesn't even reach the Holy Spirit,' you know."
+"Besides, the Warrior Chief and Lila-sama seem quite concerned, but Dukaran's brother is just being stubborn. ...Eventually, when he starts talking to 'Argoush Giterns' instead of some unbearable noble from Alberan, it'll be an easily resolved problem. ...'The beauty of the self doesn't even reach the Holy Spirit,' you know."
 
 "He's not a bad person either," Bege said, pouring new wine into his cup.
 
@@ -4132,7 +4132,7 @@ The water-drinking potatoes had taken root in the field, their vines spreading a
 
 Their growth seemed remarkably fast, probably related to the atmosphere and the dragon's magical power filling it.
 
-Argoush and his companions, who had been outsiders, were gradually being accepted, thanks to Vinthril, Lira, Bege, and others.
+Argoush and his companions, who had been outsiders, were gradually being accepted, thanks to Vinthril, Lila, Bege, and others.
 
 If they met, greetings were exchanged, and they were spoken to.
 
@@ -4522,7 +4522,7 @@ Quietly steadying his breathing, he straightened his posture and gave a slight b
 
 On a slightly elevated platform.
 
-Sitting in front were Alkierence, Vinthril, and Lira.
+Sitting in front were Alkierence, Vinthril, and Lila.
 
 A slender old man sat alongside them on something like an armchair, likely the former chief, Elder Beikiru.
 
@@ -4726,7 +4726,7 @@ However, he could also understand Dukaran's feelings and thoughts.
 
 Kresharana, living in such a harsh land—the exchange with Alberan might someday lead to their destruction.
 
-At least, from what Vinthril and Lira said, they also seemed to imagine such a future.
+At least, from what Vinthril and Lila said, they also seemed to imagine such a future.
 
 Most people probably understood this, and that's why some disliked it.
 
@@ -4832,7 +4832,7 @@ There was too much for just bonfires.
 
 "Yes, what is it?"
 
-He called out to Lira, who had been watching, and she turned, tilting her head slightly.
+He called out to Lila, who had been watching, and she turned, tilting her head slightly.
 
 As always, her feminine figure was quite exposed—something he still hadn't quite gotten used to.
 
@@ -4852,7 +4852,7 @@ However, it doesn't seem to matter when prey is involved... Is something wrong?"
 
 "...I just want to do everything I can, even small things."
 
-Lira smiled softly, looking pleased.
+Lila smiled softly, looking pleased.
 
 "Thank you, truly. ...But please, don't overdo it if anything happens.
 
@@ -4944,7 +4944,7 @@ The entire settlement was on edge, and the women had begun sleeping in the wareh
 
 They stopped gathering and hunting, and all cooking and eating was done together in the center of the settlement.
 
-Even Lira and some of the women, who usually cared for griffins and knew how to ride them, ascended into the sky during the day, ensuring someone was always airborne.
+Even Lila and some of the women, who usually cared for griffins and knew how to ride them, ascended into the sky during the day, ensuring someone was always airborne.
 
 However, even this must be normal life for the people of Kresharana.
 
@@ -4962,7 +4962,7 @@ It meant that each person accepted the danger of death as a familiar presence.
 
 This, perhaps, was the strength of Kresharana.
 
-As Argoush, who had awakened at dusk, was eating, Lira offered him a fruit, saying, "Please."
+As Argoush, who had awakened at dusk, was eating, Lila offered him a fruit, saying, "Please."
 
 He thanked her and accepted it, sitting next to the log he was using as a chair.
 
@@ -4988,9 +4988,9 @@ If they bear fruit, the nutrients seem to get sucked into them... It's the wisdo
 
 "Yes, very... I was surprised."
 
-Lira said shyly.
+Lila said shyly.
 
-Argoush gave a wry smile, remembering Lira's face as her cheeks softened, putting the fruit to her mouth.
+Argoush gave a wry smile, remembering Lila's face as her cheeks softened, putting the fruit to her mouth.
 
 "Those were also grown that way. Even the same fruit can vary greatly in price depending on how it's grown. Thinning out the poorly grown or small ones and concentrating the energy on the better fruits... Ah, I see."
 
@@ -5026,11 +5026,11 @@ He chuckled, "However..."
 
 "Death is a familiar thing here. ...It's also proof that Alberan is such a peaceful and good country."
 
-Lira said quietly, lowering her voice a little so as not to be overheard.
+Lila said quietly, lowering her voice a little so as not to be overheard.
 
 "Seeing Alberan's prosperity with my own eyes, I thought to myself: there's war instead of magical beasts, but usually people don't experience this kind of fear, and many people, strong or weak, are accepted and seem to live happily."
 
-Lira gazed at the fruit in her hand.
+Lila gazed at the fruit in her hand.
 
 It was harvested from Kresharana's fields.
 
@@ -5038,7 +5038,7 @@ Similar fruits were grown in Alberan, but compared to this one, they were smalle
 
 "I was born and raised here, and I like this life. But I'm sure even if I had been born in Alberan, I would have accepted that life just the same and lived happily. ...In terms of personality, I might even have adapted too well there."
 
-Lira giggled.
+Lila giggled.
 
 "Some people are born strong like my brother, and some aren't. Many people say that if you just make an effort, but having that kind of spirit from childhood is also a kind of natural talent, I think. People who are called cowards because they dislike fighting can also be kind-hearted and considerate from a different perspective, and I think that's also a kind of natural talent."
 
@@ -5056,7 +5056,7 @@ He gave a wry smile.
 
 Indeed, that was probably the natural disposition of this young priestess.
 
-However, Lira shook her head from side to side, saying, "But I am still immature."
+However, Lila shook her head from side to side, saying, "But I am still immature."
 
 "Even when I think it's for others and for the future, ultimately, it's for myself... I'm just thinking that it would be good if it became a comfortable place for me. That's why I can't have a clear will or purpose, and I'm weak and indecisive... I'm easily swayed."
 
@@ -5088,7 +5088,7 @@ Not many people would be able to willingly let go of that future.
 
 While I genuinely believed the previous priestess's way of being was beautiful, I simply didn't want to see myself as pathetic, afraid to walk the same path... Deep down, I can't say there was absolutely no expectation that someone else would step forward first."
 
-Lira was a beautiful girl.
+Lila was a beautiful girl.
 
 On top of that, she was good-natured, hardworking, and thoughtful—if she wished, such happiness would have been promised in her future.
 
@@ -5098,7 +5098,7 @@ At an age where one "loved love," it was easy to imagine how painful it must hav
 
 "And so I became a priestess in name only, hoping that by becoming one, I too would change... But even now, I remain unchanged. I'm just tracing the form of a Holy Spirit Priestess, putting on a front... I can hardly call myself a respectable person."
 
-Lira's demeanor, as she spoke with such shame, was too pure.
+Lila's demeanor, as she spoke with such shame, was too pure.
 
 *Beautiful*, he truly thought.
 
@@ -5142,7 +5142,7 @@ Perhaps his father was scolding his foolish son amidst their mingled blood.
 
 "The same goes for me... I'm halfway on a path to become an ideal version of myself, one that my great father and beloved younger brother would recognize. Just as the Holy Spirit Priestess's duty is for you, for me it is simply the obligation of a noble. ...Surely, that's true for everyone; it's true for your father and brother too."
 
-Lira thought for a while, then chuckled, her shoulders shaking.
+Lila thought for a while, then chuckled, her shoulders shaking.
 
 "My brother often said something similar. ...That he trains every day to make his own vessel larger."
 
@@ -5150,7 +5150,7 @@ Lira thought for a while, then chuckled, her shoulders shaking.
 
 "...Thank you."
 
-Lira nodded quietly.
+Lila nodded quietly.
 
 Then, she gave another wry smile.
 
@@ -5194,7 +5194,7 @@ And it was clearly heading towards them, mowing down trees as it came.
 
 Above them, Bege and the Griffon Knights were already visible, with a few more knights on top of this very watchtower.
 
-Lira, along with other women accustomed to riding griffins, had also ascended into the sky, trying to grasp the situation.
+Lila, along with other women accustomed to riding griffins, had also ascended into the sky, trying to grasp the situation.
 
 "—Here it comes!"
 
@@ -5346,7 +5346,7 @@ Beikiru coughed as he spoke, then looked at Argoush.
 
 Debel and the others readied their spears, and those behind them thrust their spearheads through the gaps.
 
-As he watched, he heard the beating of griffin wings—it was Lira.
+As he watched, he heard the beating of griffin wings—it was Lila.
 
 "Giterns-sama, the people inside?"
 
@@ -5354,7 +5354,7 @@ As he watched, he heard the beating of griffin wings—it was Lira.
 
 "That's good..."
 
-He nodded to Lira, who had landed in the central plaza in front of the warehouse and let out a sigh of relief.
+He nodded to Lila, who had landed in the central plaza in front of the warehouse and let out a sigh of relief.
 
 Then he looked next to him.
 
@@ -5362,7 +5362,7 @@ Then he looked next to him.
 
 "Understood! Let's go!"
 
-Seeing Cax and the others run off, Argoush asked Lira,
+Seeing Cax and the others run off, Argoush asked Lila,
 
 "The Indigo Deer and Jade Tiger?"
 
@@ -5848,9 +5848,9 @@ Argoush groaned in pain but endured it, and after a short while, Dukaran took hi
 
 "Dukaran, Giterns-sama is...!?"
 
-"He seems fine, Lira-sama. His bones are probably cracked, but thanks to the leather armor, it's not severe. He won't die if he doesn't thrash around anymore."
+"He seems fine, Lila-sama. His bones are probably cracked, but thanks to the leather armor, it's not severe. He won't die if he doesn't thrash around anymore."
 
-With a flutter of wings, Lira appeared, and she sighed in relief.
+With a flutter of wings, Lila appeared, and she sighed in relief.
 
 Then she leaped off the griffon and rushed towards Argoush.
 
@@ -5858,9 +5858,9 @@ Then she leaped off the griffon and rushed towards Argoush.
 
 "Yes, cough..."
 
-He coughed, almost crouching in pain from his chest, and Cax supported him while Lira stroked his back.
+He coughed, almost crouching in pain from his chest, and Cax supported him while Lila stroked his back.
 
-Seeing blood mixed with his saliva, Lira cried out, "Giterns-sama!" and then gave a wry smile, shaking her head.
+Seeing blood mixed with his saliva, Lila cried out, "Giterns-sama!" and then gave a wry smile, shaking her head.
 
 "Just a cut inside my mouth... that's the blood. Don't worry."
 
@@ -5868,7 +5868,7 @@ Seeing blood mixed with his saliva, Lira cried out, "Giterns-sama!" and then gav
 
 "...No."
 
-Another person, replacing Lira, also offered Argoush a shoulder. Leaning on them, he said,
+Another person, replacing Lila, also offered Argoush a shoulder. Leaning on them, he said,
 
 "I merely fulfilled my obligation. ...However, the situation is still precarious. I leave the rest to you, Dukaran-dono."
 
@@ -5928,7 +5928,7 @@ Vinthril and the others seemed to have returned around that time, and perhaps ha
 
 In times of emergency, warriors apparently generally didn't pay visits.
 
-Lira had visited frequently, but not a single warrior came, remaining faithful to their duty.
+Lila had visited frequently, but not a single warrior came, remaining faithful to their duty.
 
 However, when he did go out, many men, from young to old, greeted Argoush with smiles and clapped him on the shoulder.
 
@@ -5958,7 +5958,7 @@ Argoush, too, accepted it as a matter of course and returned to his routine as i
 
 In the mornings, he lightly swung his sword and visited the fields to gaze at the harvest.
 
-He harvested the well-grown water-drinking potatoes and told Lira he really wanted everyone in the settlement to eat them.
+He harvested the well-grown water-drinking potatoes and told Lila he really wanted everyone in the settlement to eat them.
 
 He was then informed that they would hold a feast to celebrate the mountain calming down and their safe passage.
 
@@ -6574,15 +6574,15 @@ And Krische, holding down her skirt, tilted her head slightly.
 
 On the back of a griffon—high above the mountain.
 
-Krische sat sideways behind Lira, holding a spear and looking down.
+Krische sat sideways behind Lila, holding a spear and looking down.
 
-"Oh, there's another one. Lira, a little further back."
+"Oh, there's another one. Lila, a little further back."
 
 "Uh, um, yes... Rainer."
 
 What on earth could she see?
 
-Lira watched as Krische, still seated, threw her spear straight down at an alarming speed.
+Lila watched as Krische, still seated, threw her spear straight down at an alarming speed.
 
 As the spear disappeared into the gaps between the trees, an Jade Tiger's shriek echoed.
 
@@ -7364,7 +7364,7 @@ The fact that a single individual could seize their flagship was beyond astoundi
 
 "…Orbu—excuse me, Alberinea's language is close to our unified language.
 
-But it sounds quite archaic… perhaps it's a dialect derived from the Mail language, considered the prototype of the unified language… no, the Western Common Language. The language used in Alberan, the continent-unifying nation at that time, was called that."
+But it sounds quite archaic… perhaps it's a dialect derived from the Meil language, considered the prototype of the unified language… no, the Western Common Language. The language used in Alberan, the continent-unifying nation at that time, was called that."
 
 'So it seems. We have been analyzing it since then, but there are some differences between this language and the known languages.'
 
@@ -7498,7 +7498,7 @@ Very cheerful Venua people.
 
 It was an unremarkable sight, but there was something off.
 
-'—The objective is to find the Queen Group and negotiate directly. Their names are Krische and Bery, or possibly Kreschenta, Selene, Elvena, Anne, Lira, or similar names. The group is characterized by their apron dresses; some may wear swords. Their language is a dialect of the unified language. They are thought to possess the ability to interfere with perception—'
+'—The objective is to find the Queen Group and negotiate directly. Their names are Krische and Bery, or possibly Kreschenta, Selene, Elvena, Anne, Lila, or similar names. The group is characterized by their apron dresses; some may wear swords. Their language is a dialect of the unified language. They are thought to possess the ability to interfere with perception—'
 
 Millgangga's eyes widened as the recording he'd prepared was played.
 
@@ -7516,7 +7516,7 @@ Upon arrival, he quickly scanned his surroundings and replayed the recording.
 
 Their names are Krische and Bery, or possibly Kreschenta and Selene.
 
-Elvena, Anne, Lira, and similar names are possibilities. The group's characteristic is apron dresses; some may carry swords. Their language is a unified language with a dialect. They are believed to possess the ability to interfere with perception——"
+Elvena, Anne, Lila, and similar names are possibilities. The group's characteristic is apron dresses; some may carry swords. Their language is a unified language with a dialect. They are believed to possess the ability to interfere with perception——"
 
 Apron dresses, apron dresses.
 
@@ -8792,11 +8792,11 @@ My only fear was the loss of that everyday life. When Krische-sama said she want
 
 How naive of me.
 
-I imagine people as thoughtful as Selene-sama, Elvena-sama, and Lira-sama had many concerns, and I feel a little sorry for that.
+I imagine people as thoughtful as Selene-sama, Elvena-sama, and Lila-sama had many concerns, and I feel a little sorry for that.
 
 The mansion remains unchanged, filled with familiar and beloved people.
 
-A week has passed since we welcomed Lira-sama as a guest, and eternity has begun.
+A week has passed since we welcomed Lila-sama as a guest, and eternity has begun.
 
 The scene before me perfectly reflects the happiness I envisioned.
 
@@ -8814,11 +8814,11 @@ Washing myself is still difficult; I even had the rare experience of almost drow
 
 Even getting dressed in the morning, I need Elvena-sama's help to put on my apron dress, so getting used to this body is an urgent matter.
 
-Even Selene-sama, who is used to manipulating her body with magic, still seems to have some discomfort, and she and Lira-sama, who is training in martial arts, are still training in the garden.
+Even Selene-sama, who is used to manipulating her body with magic, still seems to have some discomfort, and she and Lila-sama, who is training in martial arts, are still training in the garden.
 
 Knowing their efforts, I, a servant, can't afford to slack off.
 
-And Selene-sama, needless to say, Lira-sama is the same.
+And Selene-sama, needless to say, Lila-sama is the same.
 
 In Kresharana, they're taught how to handle magic from a young age, regardless of gender, and Elvena-sama is skilled in handling magic thanks to assisting Krische-sama; she has a natural talent that is incomparable to mine.
 
@@ -9618,7 +9618,7 @@ In terms of sensation, there wasn't much difference from before, but we seem to 
 
 When I was still getting used to it, I slipped while going down the stairs and hit the back of my head, but despite the shock that would have killed most people, I only felt the impact; there was no pain.
 
-Minor pains remain as before—for example, the pain of almost crushing Kreschenta-sama while falling—seem unchanged. It's still fresh in my memory how Lira-sama screamed and crouched down with tears in her eyes after apparently hitting her little finger in the bathroom.
+Minor pains remain as before—for example, the pain of almost crushing Kreschenta-sama while falling—seem unchanged. It's still fresh in my memory how Lila-sama screamed and crouched down with tears in her eyes after apparently hitting her little finger in the bathroom.
 
 Holding your breath makes you feel short of breath, but in reality, breathing isn't even necessary.
 
@@ -10114,7 +10114,7 @@ I know that even the currently open plains were mostly forests in the past. Perh
 
 <br /><br />
 
-It's been about half a year since we came here—the whole mansion is engaged in farming. Krische-sama knocked down trees with a whirlwind, pulling out their roots. Selene-sama and Lira-sama trimmed the branches and processed them into logs. Argan-sama and Elvena-sama were using hoes to till the land in the area that had been cleared. Kreschenta-sama and I were also hoeing, but I took a break with Kreschenta-sama, who started complaining about how troublesome it was. I was massaging Kreschenta-sama's feet as she sat on a rock.
+It's been about half a year since we came here—the whole mansion is engaged in farming. Krische-sama knocked down trees with a whirlwind, pulling out their roots. Selene-sama and Lila-sama trimmed the branches and processed them into logs. Argan-sama and Elvena-sama were using hoes to till the land in the area that had been cleared. Kreschenta-sama and I were also hoeing, but I took a break with Kreschenta-sama, who started complaining about how troublesome it was. I was massaging Kreschenta-sama's feet as she sat on a rock.
 
 The mansion was quite far away now, and the cleared land behind it was one ri square. Krische-sama had started running with something that looked like a farming implement attached to her whirlwind. She must have removed the trees from the area scheduled for this round of clearing.
 
@@ -10228,7 +10228,7 @@ The mansion is a paradise, a paragon of beauty.
 
 Bathing together is commonplace; I usually bathe with Selene-sama.
 
-However, Selene-sama sometimes bathes with Argan-sama and the others, or sometimes she prefers to bathe alone. In those cases, I bathe with Elvena-sama and Lira-sama.
+However, Selene-sama sometimes bathes with Argan-sama and the others, or sometimes she prefers to bathe alone. In those cases, I bathe with Elvena-sama and Lila-sama.
 
 "Is something wrong…?"
 
@@ -10236,11 +10236,11 @@ However, Selene-sama sometimes bathes with Argan-sama and the others, or sometim
 
 "Ah… Hehe, no, it’s not like it will diminish if you look. If it’s for reference for your books, then look all you like."
 
-Lira-sama, washing her body, answered with a smile.
+Lila-sama, washing her body, answered with a smile.
 
 A girl-like beauty, with a physique overflowing with feminine charm similar to Argan-sama’s.
 
-Her healthily tanned skin and the contrast of her chest and waist, usually covered by cloth, were breathtakingly beautiful. A truly attractive woman, with a figure as curvaceous as Argan-sama’s. The difference from Argan-sama is that she readily shows her naked body with a smile. Perhaps it’s a cultural difference, but Lira-sama had little resistance to showing her skin.
+Her healthily tanned skin and the contrast of her chest and waist, usually covered by cloth, were breathtakingly beautiful. A truly attractive woman, with a figure as curvaceous as Argan-sama’s. The difference from Argan-sama is that she readily shows her naked body with a smile. Perhaps it’s a cultural difference, but Lila-sama had little resistance to showing her skin.
 
 Elvena-sama, washing her body next to her, was the same.
 
@@ -10258,7 +10258,7 @@ When I, out of misplaced concern, asked if she was sure she was okay with it, sh
 
 She said she cherished all memories, both sad and happy, and her manner was so beautiful that her words were deeply imprinted on my heart.
 
-Elvena-sama is that kind of person, and so is Lira-sama.
+Elvena-sama is that kind of person, and so is Lila-sama.
 
 They are the type of people who would spend decades alone in the forest, simply to stand as a testament. Everyone here possesses an overwhelming self-discipline, far surpassing that of an ordinary person like me, and I believe that is also the reason for their beauty.
 
@@ -10290,7 +10290,7 @@ After rinsing off the soap, I soaked in the bath, and I was asked about the book
 
 "I see…"
 
-Lira-sama, with her ample bosom bobbing gently, chuckled.
+Lila-sama, with her ample bosom bobbing gently, chuckled.
 
 "Fufu, you truly do possess the blood of Giterns-sama, don't you, Anne-sama?"
 
@@ -10298,7 +10298,7 @@ Lira-sama, with her ample bosom bobbing gently, chuckled.
 
 "Yes. He was someone who looked at people and things so honestly and straightforwardly. The warriors of Kresharana, as well as their lords, often told young people to learn from his example."
 
-Lira-sama scooped up some of the faintly reddish water, forming a waterspiegel with her hands.
+Lila-sama scooped up some of the faintly reddish water, forming a waterspiegel with her hands.
 
 She gazed at my reflection, her eyes narrowing.
 
@@ -10308,17 +10308,17 @@ Water is always just water; everything depends on the heart of the beholder. …
 
 "S-such…"
 
-My cheeks flushed at her words, and Lira-sama laughed nostalgically.
+My cheeks flushed at her words, and Lila-sama laughed nostalgically.
 
 "Giterns-sama was like that too. Even when facing unjust malice and harsh words from outsiders of the plains, he would smile and speak only of the beauty of Kresharana… until eventually, even those people came to admire him. He truly loved people."
 
-Lira-sama’s smile possessed the gentle quality befitting a Holy Spirit Priestess.
+Lila-sama’s smile possessed the gentle quality befitting a Holy Spirit Priestess.
 
 She spoke in a calm, soft voice, rippling the pale red surface of the water, and gazed at me directly.
 
 "I respect Giterns-sama, and I respect you, Anne-sama, as well. To be able to speak of others with such natural kindness and smiles is something one can only dream of… Hehe, if you feel something about us, it's the same as what we feel towards you."
 
-Then, Lira-sama turned her gaze to Elvena-sama, seeking agreement.
+Then, Lila-sama turned her gaze to Elvena-sama, seeking agreement.
 
 "Yes, truly… Fufu, if Anne-sama is truly ordinary, a common person who could be anywhere, then the other world would be a paradise just like this one. Anne-sama, who says we underestimate ourselves, is the one underestimating herself."
 
@@ -10344,9 +10344,9 @@ You are beautiful, always dazzling, to the point where I feel my eyes might be b
 
 A voice like a whisper, tickling my ears.
 
-I couldn't look away, and when she caressed my cheek, my heart felt like it might burst. Elvena-sama narrowed her eyes playfully, then gently moved away and returned to Lira-sama’s side.
+I couldn't look away, and when she caressed my cheek, my heart felt like it might burst. Elvena-sama narrowed her eyes playfully, then gently moved away and returned to Lila-sama’s side.
 
-I remained frozen, gazing at Lira-sama, who was similarly frozen with her mouth agape and her face crimson.
+I remained frozen, gazing at Lila-sama, who was similarly frozen with her mouth agape and her face crimson.
 
 Meanwhile, Elvena-sama smiled serenely, tilting her head as if to ask, "Is something wrong?"
 
@@ -10374,25 +10374,25 @@ Even Kreschenta-sama, who usually complains and grumbles, once she transforms in
 
 Would show herself to be begging for kisses all day.
 
-Kreschenta (dog), being carried as usual, receiving kisses from Argan-sama as she was carried to the upper floor. Lira-sama and I, watching this after our bath, stood motionless for a while.
+Kreschenta (dog), being carried as usual, receiving kisses from Argan-sama as she was carried to the upper floor. Lila-sama and I, watching this after our bath, stood motionless for a while.
 
 "Fufu, I’ll go bake cookies."
 
 "O-oh, yes…"
 
-Then, Elvena-sama’s words brought us back to our senses, and we started to move, going up the stairs with Argan-sama and the others to Lira-sama’s room. Even after entering the room, there was an indescribable silence. As if to break the awkward silence, Lira-sama, settling onto a cushion, spoke.
+Then, Elvena-sama’s words brought us back to our senses, and we started to move, going up the stairs with Argan-sama and the others to Lila-sama’s room. Even after entering the room, there was an indescribable silence. As if to break the awkward silence, Lila-sama, settling onto a cushion, spoke.
 
 "S-so…, that… setting aside Krische-sama, the fact that Kreschenta-sama behaves like that normally is… surprising, to say the least… I’m not used to it."
 
 "M-my feelings… well… I was surprised the first time I saw it too."
 
-The memory of Krische-sama, incapacitated during the battle in Bernaich, clinging to Argan-sama as if their skin would fuse together, showering her with affection during the midst of the civil war. Lira-sama probably felt the same way I did at that time.
+The memory of Krische-sama, incapacitated during the battle in Bernaich, clinging to Argan-sama as if their skin would fuse together, showering her with affection during the midst of the civil war. Lila-sama probably felt the same way I did at that time.
 
-How many times have I experienced such surprises since coming to this mansion? I’ve become quite accustomed to it. I can now take such sights in stride, but Lira-sama, even after a year, still hasn’t gotten used to it.
+How many times have I experienced such surprises since coming to this mansion? I’ve become quite accustomed to it. I can now take such sights in stride, but Lila-sama, even after a year, still hasn’t gotten used to it.
 
 Every time she sees a sight like that, an awkward atmosphere arises.
 
-Lira-sama was still wearing a kind of wrap around her chest and waist.
+Lila-sama was still wearing a kind of wrap around her chest and waist.
 
 She had made it herself from cloth and string and wore it like underwear. Honestly, at first, I thought, with all due respect, that she didn't have a concept of shame, but even Krische-sama kissing Argan-sama, a common sight in this mansion (the frequency of witnessing it likely exceeds twenty times a day on average), still bothers her often.
 
@@ -10410,7 +10410,7 @@ She doesn't mind showing her body, yet she's embarrassed in strange situations�
 
 "In the Kingdom, is it common for women to, uh, engage in love… between the same sex?"
 
-Seeing Lira-sama blush, I fell into thought.
+Seeing Lila-sama blush, I fell into thought.
 
 "It’s a complicated question… but it’s not forbidden. I’ve heard that there are countries that prohibit same-sex love, but in Kresharana, perhaps…?"
 
@@ -10664,7 +10664,7 @@ I wiped away my tears with the towel and caught my breath.
 
 "N-no, it’s fine…"
 
-Smiling faintly and gently stroking my back, Lira-sama continued.
+Smiling faintly and gently stroking my back, Lila-sama continued.
 
 "But…yes. After hearing such a story, I've been thinking…it might be an incredibly rude question to ask what is generally considered normal."
 
@@ -10672,7 +10672,7 @@ Smiling faintly and gently stroking my back, Lira-sama continued.
 
 "No, no, I was incredibly shallow-minded."
 
-Finally raising my head, Lira-sama returned to her cushion.
+Finally raising my head, Lila-sama returned to her cushion.
 
 She spoke thoughtfully.
 
@@ -10680,19 +10680,19 @@ She spoke thoughtfully.
 
 "Oh, right…there was such a thing."
 
-Lira-sama chuckled. She came to the mansion to serve the Holy Spirit as a Holy Spirit Priestess.
+Lila-sama chuckled. She came to the mansion to serve the Holy Spirit as a Holy Spirit Priestess.
 
 Some time after coming here, Krische-sama asked her, as if remembering something:
 
-‘By the way, Lira is currently in the same human body as before, what should we do? If you’d prefer a body like Regalave-san’s, Krische could prepare one…'
+‘By the way, Lila is currently in the same human body as before, what should we do? If you’d prefer a body like Regalave-san’s, Krische could prepare one…'
 
-It was a well-intentioned suggestion from Krische-sama. Lira-sama takes things seriously.
+It was a well-intentioned suggestion from Krische-sama. Lila-sama takes things seriously.
 
 Krische-sama casually mentioned that Regalave-san might appreciate it too.
 
-Lira-sama seriously pondered whether she should do so for three days…
+Lila-sama seriously pondered whether she should do so for three days…
 
-‘B-but Krische-sama, you just asked casually… don’t worry so much. I’m sure Yagernaus-sama wouldn’t mind Lira-sama’s appearance. Besides, Krische-sama is really looking forward to having you try her cooking, and so am I…’
+‘B-but Krische-sama, you just asked casually… don’t worry so much. I’m sure Yagernaus-sama wouldn’t mind Lila-sama’s appearance. Besides, Krische-sama is really looking forward to having you try her cooking, and so am I…’
 
 ‘B-but…’
 
@@ -10714,7 +10714,7 @@ As she said that, Elvena-sama enters carrying a tray of cookies.
 
 She tilted her head at the somewhat somber atmosphere and curiously asked what we were talking about.
 
-Lira-sama explained a bit sheepishly, and Elvena-sama smiled knowingly.
+Lila-sama explained a bit sheepishly, and Elvena-sama smiled knowingly.
 
 "That's an interesting story. Whether it's common is debatable, but it's not that unusual either. …In a way, it could be said that this is the norm in this world."
 
@@ -10722,7 +10722,7 @@ Lira-sama explained a bit sheepishly, and Elvena-sama smiled knowingly.
 
 "More than the norm, it's easier to think that way."
 
-Lira-sama, tilting her head, received a nod from Elvena-sama.
+Lila-sama, tilting her head, received a nod from Elvena-sama.
 
 "If we're going to spend eternity together, it's not something unrelated to us, and it's better not to be bound by the common sense of that world. In a way, we're no different from Krische-sama’s group…"
 
@@ -10732,7 +10732,7 @@ Then, shyly placing a hand on her cheek and shifting her gaze, she said,
 
 Such were the words she uttered.
 
-Lira-sama and I, momentarily frozen, exchanged glances, our faces involuntarily flushing crimson—Elvena-sama continued to shyly fidget her body from side to side.
+Lila-sama and I, momentarily frozen, exchanged glances, our faces involuntarily flushing crimson—Elvena-sama continued to shyly fidget her body from side to side.
 
 "In a thousand years, two thousand years, or even further into the future, there's a possibility that we might even be among that circle…
 
@@ -10758,7 +10758,7 @@ Even if Elvena-sama were to kiss someone.
 
 While I might be surprised at first, I wouldn't look upon it with disfavor.
 
-Lira-sama, too, blushed, nodding in agreement.
+Lila-sama, too, blushed, nodding in agreement.
 
 "Besides, a kiss is just a touch of lips. In our culture, it's seen as a sign of deep intimacy, but in some places it might be just a light greeting. Depending on the culture…"
 
@@ -10766,15 +10766,15 @@ Lira-sama, too, blushed, nodding in agreement.
 
 "…holding hands might be the equivalent. Considering the various cultures that exist depending on the land and customs, it's better to accept things as they are in this world rather than being bound by the common sense of that world."
 
-As she spoke, Elvena-sama gently squeezed Lira-sama's hand.
+As she spoke, Elvena-sama gently squeezed Lila-sama's hand.
 
-Lira-sama stared at it with a crimson face—Elvena-sama looked at her with a serious expression.
+Lila-sama stared at it with a crimson face—Elvena-sama looked at her with a serious expression.
 
 "Love is the union of souls, what a lovely phrase… For us, who have become souls, the body is certainly not the essence. Depending on how you look at it, even a kiss might just be a little bit of physical contact…"
 
-Then, lightly pulling on her hand, with a very natural movement, she moved closer to Lira-sama.
+Then, lightly pulling on her hand, with a very natural movement, she moved closer to Lila-sama.
 
-Lira-sama, noticing this, shifted her gaze.
+Lila-sama, noticing this, shifted her gaze.
 
 "Um, uhm…?"
 
@@ -10782,9 +10782,9 @@ Lira-sama, noticing this, shifted her gaze.
 
 "Eh, eh…?"
 
-Ignoring the bewildered Lira-sama, Elvena-sama leaned in, bringing her face closer.
+Ignoring the bewildered Lila-sama, Elvena-sama leaned in, bringing her face closer.
 
-Lira-sama leaned back, her eyes widening as she stared at Elvena-sama—seeing this, I also froze, breathless.
+Lila-sama leaned back, her eyes widening as she stared at Elvena-sama—seeing this, I also froze, breathless.
 
 "It's alright. I'm not going to do anything strange."
 
@@ -10792,7 +10792,7 @@ Lira-sama leaned back, her eyes widening as she stared at Elvena-sama—seeing t
 
 "Yes, so just stay still…"
 
-Elvena-sama's left hand reached Lira-sama's right cheek, which Lira-sama glanced at sideways.
+Elvena-sama's left hand reached Lila-sama's right cheek, which Lila-sama glanced at sideways.
 
 Looking at Elvena-sama, she watched the approaching face and serious eyes, and closed her eyes as if resigned.
 
@@ -10800,9 +10800,9 @@ I watched, mouth covered, dumbfounded—
 
 "…Huh?"
 
-I watched as Elvena-sama, having somehow produced a handkerchief, wiped Lira-sama's mouth.
+I watched as Elvena-sama, having somehow produced a handkerchief, wiped Lila-sama's mouth.
 
-Lira-sama, letting out a dazed voice, opened her eyes and looked at the handkerchief, while Elvena-sama alone smiled happily.
+Lila-sama, letting out a dazed voice, opened her eyes and looked at the handkerchief, while Elvena-sama alone smiled happily.
 
 "Fufu, there was a bit of cookie crumbs on your mouth… It's all clean now."
 
@@ -11184,13 +11184,13 @@ She sat down next to the wooden box I was sitting on, took a sip of the black be
 
 "Gallen-sama liked it this strong… so I made it like this."
 
-"I see," Selene-sama laughed, wrapping her hands around the wooden cup and looking towards the blue planet. Argan-sama was taking a walk with the two of them bouncing on her shoulders, and Lira-sama was performing some kind of Kresharana ritual with Elvena-sama.
+"I see," Selene-sama laughed, wrapping her hands around the wooden cup and looking towards the blue planet. Argan-sama was taking a walk with the two of them bouncing on her shoulders, and Lila-sama was performing some kind of Kresharana ritual with Elvena-sama.
 
 With serious faces, they hopped around, piling up moonstones to build a mysterious tower.
 
 That’s usually how it goes at the end of a trip.
 
-I often found Selene-sama relaxing next to me, looking a little tired, away from the energetic two and Lira-sama who started the mysterious ritual.
+I often found Selene-sama relaxing next to me, looking a little tired, away from the energetic two and Lila-sama who started the mysterious ritual.
 
 "It’s beautiful, no matter how many times I see it. I’ve seen many beautiful sights…"
 
@@ -17414,7 +17414,7 @@ Bery, however, was already a top-class user of magic. On her first day with this
 
 She had already laid the foundation for swordsmanship in the "other" world; all she needed was knowledge and experience—despite not practicing with a sword daily, in the past few decades she had honed her skills to the point where Selene felt threatened.
 
-Probably, while Selene was sparring with Krische, or watching her instruct Lira and Elvena, she picked up on subtle habits and fought them in her mind. As evidence, Bery's swordsmanship was a nasty style, oozing pure malice.
+Probably, while Selene was sparring with Krische, or watching her instruct Lila and Elvena, she picked up on subtle habits and fought them in her mind. As evidence, Bery's swordsmanship was a nasty style, oozing pure malice.
 
 When they spar, Selene invariably finds herself in awkward positions or stances.
 
@@ -17524,7 +17524,7 @@ Watching the three of them leave, Selene sighed and looked at the three who rema
 
 "That kind of provocation is also Bery’s strategy. I’m used to it."
 
-Saying this to Lira, who looked astonished, she tilted her head, looked at me, and chuckled.
+Saying this to Lila, who looked astonished, she tilted her head, looked at me, and chuckled.
 
 "You seem more excited than usual today."
 
@@ -17538,7 +17538,7 @@ She nodded thoughtfully.
 
 "I think you're quite talented... Don't apologize. I'm having enough fun sparring with you, and if you keep at it, you'll get better."
 
-Kresharana upbringing truly showed itself; Lira's movements were far from amateurish.
+Kresharana upbringing truly showed itself; Lila's movements were far from amateurish.
 
 She regularly sparred with Selene, significantly improving her skills.
 
@@ -23422,7 +23422,7 @@ No rush, no hurry, organized and thorough.
 
 Anne would handle this task today, Elvena would handle that one.
 
-When should they check on Lira? When will Kreschenta wake up? How is Selene's work progress?
+When should they check on Lila? When will Kreschenta wake up? How is Selene's work progress?
 
 Considering such things was what being a servant was all about.
 
@@ -24564,7 +24564,7 @@ The sky was lit by stars and moon.
 
 Opening the spatially fixed door in the hollow, with a covered pumpkin and a basket in hand, revealed two dragons.
 
-Lira sat alone at the sources just before them.
+Lila sat alone at the sources just before them.
 
 Around the towering world tree, countless lights—silly spirits—emitted a faint phosphorescence, swimming, fluttering, and darting here and there, while at their feet, they hopped and skipped about.
 
@@ -24590,11 +24590,11 @@ Krische can feel this way because Bery tries so hard to create many memories.
 
 Every time she recalls an insignificant memory, she feels happy reflecting on the little things from their travels.
 
-Using magic to shoo away a troublesome wind spirit trying to lift her skirt, she headed to Lira.
+Using magic to shoo away a troublesome wind spirit trying to lift her skirt, she headed to Lila.
 
 "K-Krische-sama…"
 
-Lira, noticing her, turned around in her usual attire, covering only her chest and waist.
+Lila, noticing her, turned around in her usual attire, covering only her chest and waist.
 
 Kresharana was a gathering of people who liked revealing clothing.
 
@@ -24604,15 +24604,15 @@ Since Bery, the epitome of a lady, prefers such attire, Krische also prefers it,
 
 Common sense is complicated.
 
-However, if Bery had grown up in a culture where revealing clothes were preferred like Lira's, Krische might have easily adopted that culture.
+However, if Bery had grown up in a culture where revealing clothes were preferred like Lila's, Krische might have easily adopted that culture.
 
 Considering that, it seems understandable.
 
 "Looking at things from various angles" is also a teaching of Bery's.
 
-While it was understandable in the heat, Krische thought Lira should wear more comfortable clothing in the cold, but she hasn't said anything about it.
+While it was understandable in the heat, Krische thought Lila should wear more comfortable clothing in the cold, but she hasn't said anything about it.
 
-"Ehehe, Krische brought pumpkin gratin for Lira too."
+"Ehehe, Krische brought pumpkin gratin for Lila too."
 
 "I'm, uh, currently in training…"
 
@@ -24626,15 +24626,15 @@ Krische nodded.
 
 Opening the lid revealed a rich pumpkin aroma.
 
-Lira purred, gazing intently at the gratin.
+Lila purred, gazing intently at the gratin.
 
-"This pumpkin gratin is the best pumpkin gratin Bery painstakingly made for Krische. That's why Krische wanted Lira to try it too."
+"This pumpkin gratin is the best pumpkin gratin Bery painstakingly made for Krische. That's why Krische wanted Lila to try it too."
 
 "F-for me…?"
 
-"Yes, if Lira’s only been eating nuts and wild vegetables, Lira, this will surely move you."
+"Yes, if Lira’s only been eating nuts and wild vegetables, Lila, this will surely move you."
 
-Lira was, among the people in the mansion, the biggest foodie.
+Lila was, among the people in the mansion, the biggest foodie.
 
 However, because she sometimes forgets the value of food, she has a hobby of regularly undergoing self-imposed training.
 
@@ -24644,25 +24644,25 @@ The appeal, apparently, is that enduring deprivation enhances the joy of its end
 
 Her relaxed appearance after breaking her fast in the mansion is truly indescribably happy.
 
-If Krische had lived like Lira, and then eaten Bery's cooking… just imagining it makes her mouth water.
+If Krische had lived like Lila, and then eaten Bery's cooking… just imagining it makes her mouth water.
 
 The first time Krische, after leaving the village, tasted Bery's cooking, it was a world-altering shock.
 
 However, she doesn't have the confidence to push herself to that extent again to experience that same feeling.
 
-Considering this, Lira, who works so hard just to eat delicious food, is an overwhelming gourmand compared to Krische.
+Considering this, Lila, who works so hard just to eat delicious food, is an overwhelming gourmand compared to Krische.
 
 Krische even feels a certain degree of respect for her dedication to food.
 
 Elvena, who happened to appear in the kitchen, offered to help, and as a result, another pumpkin gratin was made.
 
-It's a good opportunity. Today's pumpkin gratin is exquisite, the ultimate delicacy that rewards Lira's efforts.
+It's a good opportunity. Today's pumpkin gratin is exquisite, the ultimate delicacy that rewards Lila's efforts.
 
-Krische handed Lira a pumpkin and a spoon, who then scooped up some gratin with trembling hands.
+Krische handed Lila a pumpkin and a spoon, who then scooped up some gratin with trembling hands.
 
 She cautiously took a bite, savored it, closed her eyes, and…
 
-"Lira?"
+"Lila?"
 
 Tears silently roll down her closed eyelids.
 
@@ -24678,15 +24678,15 @@ Smiling, Krische figured she must have been enduring a lot and showed her the ba
 
 "Krische also brought some bread, would you like some? Ehehe,  it's freshly baked."
 
-Lira nodded and timidly picked up a piece of bread, biting into it.
+Lila nodded and timidly picked up a piece of bread, biting into it.
 
 She ate the gratin and then bread, becoming completely engrossed.
 
-The first piece of bread disappeared quickly into Lira's stomach.
+The first piece of bread disappeared quickly into Lila's stomach.
 
 "You can eat as much as you want. Your break… um, ah, that's right.
 
-Tomorrow, let's have a skewer party with Lira's favorite meat!"
+Tomorrow, let's have a skewer party with Lila's favorite meat!"
 
 "T-that's…"
 
@@ -24704,21 +24704,21 @@ She asked, and Regalave looked at her with large eyes, his magical power crackli
 
 "R-Regalave-sama also…"
 
-"Yes. If Lira really wants to continue your training, Krische won't force you… but deprivation is bad for your body, and overdoing it isn't good. It's okay to take a small break."
+"Yes. If Lila really wants to continue your training, Krische won't force you… but deprivation is bad for your body, and overdoing it isn't good. It's okay to take a small break."
 
-Lira stared at the bread and pumpkin for a while, then said, "W-well, refusing would… b-be bad."
+Lila stared at the bread and pumpkin for a while, then said, "W-well, refusing would… b-be bad."
 
 She nodded with eyes filled with desire.
 
 <br /><br />
 
-And so, after parting with Lira, she returned to the mansion.
+And so, after parting with Lila, she returned to the mansion.
 
 Elvena was just feeding Gururun in the garden.
 
 "Welcome back. How was it?"
 
-"Ehehe, Krische’s thinking of having Lira's favorite meat skewers tomorrow."
+"Ehehe, Krische’s thinking of having Lila's favorite meat skewers tomorrow."
 
 "Is that so? Fufu, that's wonderful."
 
@@ -24730,13 +24730,13 @@ Krische may be the deputy head servant, but Elvena is quite something.
 
 While she doesn't match Krische or Bery in terms of ability, Krische marvels at her ability to understand people's feelings and subtly take care of them.
 
-"Did you know about Lira's pumpkin and prepare it?"
+"Did you know about Lila's pumpkin and prepare it?"
 
 "Of course not. Krische-sama and the others seemed so happy, so I just…"
 
 Elvena said that with a smile, and Krische nodded.
 
-"Either way, it's thanks to Elvena. Krische thinks Lira has been depriving herself a bit too much, even if it's for the sake of delicious food. And Krische thinks that Elvena's worry and consideration were conveyed to Lira."
+"Either way, it's thanks to Elvena. Krische thinks Lila has been depriving herself a bit too much, even if it's for the sake of delicious food. And Krische thinks that Elvena's worry and consideration were conveyed to Lila."
 
 "Is that so… I sometimes worry that I'm getting in the way."
 
@@ -24750,7 +24750,7 @@ Elvena was a bit mischievous, but a kind and considerate person.
 
 Observing others closely, showing subtle care, and giving small happiness to others – that was the source of being a servant, and Elvena understood it well.
 
-Even if unintentional, her actions may have been an unconscious act of care for Lira.
+Even if unintentional, her actions may have been an unconscious act of care for Lila.
 
 Elvena usually denies such things, but it's probably humility.
 
@@ -24964,7 +24964,7 @@ Her emotions are clearly displayed on her face.
 
 Bery, on the other hand, is the opposite.
 
-Anne and Lira are more like Selene; Elvena is a bit more like Bery.
+Anne and Lila are more like Selene; Elvena is a bit more like Bery.
 
 There's a slight pause before their emotions show on their faces.
 
@@ -30272,7 +30272,7 @@ Kreschenta sat on Selene's lap next to her, complaining that it wasn't comfortab
 
 The others listened to Sena's story with expressions of surprise and interest.
 
-With the exception of Bery and Lira, the Holy Spirit Maiden, who looked uncomfortable as if wondering if it was even okay for her to be sitting there, there were records of everyone's faces and there wasn't much change.
+With the exception of Bery and Lila, the Holy Spirit Maiden, who looked uncomfortable as if wondering if it was even okay for her to be sitting there, there were records of everyone's faces and there wasn't much change.
 
 "It's more surprising than anything else... From what I've heard, she's exactly like a human. It's just that the Jara—ahem, Jaragasha I saw a long time ago and you now don't quite match."
 
@@ -31754,7 +31754,7 @@ Despite writing questionable books, what a pure heart she possessed.
 
 Completely unlike a certain other servant.
 
-"Well, let's relax for a while. Since Bery has taken those two idiots on a trip, we might as well enjoy this time... How about we gather around a bonfire and have a barbecue in the garden tonight while looking at the night sky? Let's call Lira too."
+"Well, let's relax for a while. Since Bery has taken those two idiots on a trip, we might as well enjoy this time... How about we gather around a bonfire and have a barbecue in the garden tonight while looking at the night sky? Let's call Lila too."
 
 "Oh, that sounds fun."
 
@@ -31762,7 +31762,7 @@ Completely unlike a certain other servant.
 
 The servant with black hair cut evenly at the shoulders—Elvena—nodded and smiled.
 
-"Lira-sama is also nearing the end of her training cycle, so I'll call her later."
+"Lila-sama is also nearing the end of her training cycle, so I'll call her later."
 
 "...Don't tease her too much, okay?"
 
