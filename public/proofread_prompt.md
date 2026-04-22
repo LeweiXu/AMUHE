@@ -4,7 +4,7 @@ Your task is to edit exactly one file in place.
 
 Reference files:
 - `public/context.md`
-- The corresponding Japanese raw chapters in `raw_chapters/`, matched by chapter number:
+- The corresponding Japanese raw chapters in `raw_chapters/`, matched by chapter number e.g.:
   - Chapter 311 -> `raw_chapters/311_*.txt`
   - Chapter 312 -> `raw_chapters/312_*.txt`
   - ...
@@ -27,10 +27,10 @@ This is not a generic proofreading pass.
 ## Required workflow
 
 1. Read `public/context.md` first and follow it strictly for voice, naming, honorifics, and fixed terminology.
-2. Then work through `translated_chapters/c311-364.md` sequentially from Chapter 311 to Chapter 364.
+2. Then work through `translated_chapters/cXXX-XXX.md` sequentially from Chapter 311 to Chapter 364.
 3. For each chapter, compare the English against the matching Japanese raw chapter in `raw_chapters/` before making edits.
 4. Review the entire document. Do not stop early and do not skip passages.
-5. Make edits directly in `translated_chapters/c311-364.md`.
+5. Make edits directly in `translated_chapters/cXXX-XXX.md`.
 
 ## What to fix
 
@@ -89,11 +89,11 @@ Fix words, naming and romanizations that conflict with contex.md. This translati
 ## Important note on continuity
 
 `public/context.md` is the authority for established series-wide choices.
-If a chapter-311+ detail is not covered there, use the Japanese raw as the main authority and preserve the already-established rendering in `translated_chapters/c311-364.md` unless it is clearly unnatural, inconsistent, or slightly wrong.
+If a chapter-311+ detail is not covered there, use the Japanese raw as the main authority and preserve the already-established rendering in `translated_chapters/cXXX-XXX.md` unless it is clearly unnatural, inconsistent, or slightly wrong.
 
 ## Output rules
 
-- Edit `translated_chapters/c311-364.md` directly
+- Edit the file directly
 - Do not output commentary
 - Do not produce a summary
 - Do not list the changes

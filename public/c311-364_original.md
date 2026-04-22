@@ -2806,7 +2806,7 @@ It was a Griffin—a Gryphon Knight. A stout man landed a little ahead, creating
 
 "Coincidentally, this area is currently my responsibility. The Warrior Chief also told me to guide Giterns-dono if he came."
 
-He spoke with a slight accent but in common western tongue—he was one of those who had visited Alberan with Vinthril recently.
+He spoke with a slight accent but in common western tongue—he was one of those who had visited Alberan with Vinsreel recently.
 
 "I'm glad you're safe. I heard you went to battle..."
 
@@ -3168,7 +3168,7 @@ Although he had learned a fair amount, there were many details of the etiquette 
 
 "I am Argoush Wikel Giterns, Marquis of the Kingdom of Alberan. To you, Chieftain Alkierence, thank you for permitting our stay here."
 
-"Vinthril spoke of you. He said your sincerity helped him greatly the other day... then it is only natural. One cannot be disloyal to one's benefactor. Please, make yourself at ease... and take that seat."
+"Vinsreel spoke of you. He said your sincerity helped him greatly the other day... then it is only natural. One cannot be disloyal to one's benefactor. Please, make yourself at ease... and take that seat."
 
 "Yes."
 
@@ -3238,7 +3238,7 @@ Alkierence looked directly at him.
 
 It wasn't an intimidating gaze, but simply one filled with an imposing aura.
 
-"I have heard about you from Lila and Vinthril who are here, and from those who accompanied you on the recent journey. Now that I see you, you are indeed as I heard... a good man."
+"I have heard about you from Lila and Vinsreel who are here, and from those who accompanied you on the recent journey. Now that I see you, you are indeed as I heard... a good man."
 
 "No, that's an excessive evaluation. We even caused significant delays to your journey due to our unpreparedness."
 
@@ -3652,7 +3652,7 @@ His subordinates also listened intently without speaking, apparently sensing tha
 
 Dukaran was somewhat of a conservative figure.
 
-Unlike Alkierence and Vinthril, who held more conciliatory views about not pursuing those who left and engaging in cultural exchange with Arna, Dukaran prioritized protecting the ancient traditions of Kresharana.
+Unlike Alkierence and Vinsreel, who held more conciliatory views about not pursuing those who left and engaging in cultural exchange with Arna, Dukaran prioritized protecting the ancient traditions of Kresharana.
 
 Kresharana's strict rules.
 
@@ -3872,7 +3872,7 @@ The settlements are separated by rugged, monster-infested mountains.
 
 Because of this, communication between settlements is carried out by griffins, and human traffic is mostly non-existent, limited primarily to exchanges among warriors.
 
-The timing was quite bad, as the Warrior Chief, Vinthril, had apparently been touring each settlement with a griffon, acting as a proxy for Chief Alkierence.
+The timing was quite bad, as the Warrior Chief, Vinsreel, had apparently been touring each settlement with a griffon, acting as a proxy for Chief Alkierence.
 
 "It's been a while, Giterns-dono."
 
@@ -3880,11 +3880,11 @@ It was a night about three weeks after Argoush's arrival.
 
 They were seated in a circle in a tent illuminated by magical lamps, and upon seeing the face that appeared, Argoush stood up and bowed.
 
-"Vinthril-dono, it's been a while."
+"Vinsreel-dono, it's been a while."
 
 A sharp, refined face—long, trained limbs.
 
-It was Kresharana's Warrior Chief, Vinthril.
+It was Kresharana's Warrior Chief, Vinsreel.
 
 His subordinates, who had been drinking, also straightened up, and Bege, in particular, practically sprang to attention.
 
@@ -3898,7 +3898,7 @@ His subordinates, who had been drinking, also straightened up, and Bege, in part
 
 "Ugh... Understood."
 
-Just moments before, they had been talking about how Vinthril would be back in another two or three days, and they wanted to get their last drinks in.
+Just moments before, they had been talking about how Vinsreel would be back in another two or three days, and they wanted to get their last drinks in.
 
 Seeing him scratch his head like a child caught doing mischief, Argoush and the others laughed.
 
@@ -3912,7 +3912,7 @@ We've caused you trouble."
 
 "Not at all... It's the truth."
 
-"How about some wine?" Argoush offered, and Vinthril gave a wry smile and nodded.
+"How about some wine?" Argoush offered, and Vinsreel gave a wry smile and nodded.
 
 Argoush handed him a cup, poured wine, and they toasted to their reunion.
 
@@ -3924,13 +3924,13 @@ They hadn't seen each other since Argoush brought them to the royal capital.
 
 He had largely finished greeting other acquaintances besides Bege, and everyone was friendly.
 
-Vinthril, too, exchanged words with a constant smile.
+Vinsreel, too, exchanged words with a constant smile.
 
 "Lila told me. It seems Dukaran was rather impolite. ...Before hearing his side, I wanted to speak with Giterns-dono first."
 
-After a while, Vinthril broached the topic.
+After a while, Vinsreel broached the topic.
 
-It was probably his most important business—he was glad that Lila, and now Vinthril, were so considerate.
+It was probably his most important business—he was glad that Lila, and now Vinsreel, were so considerate.
 
 "It wasn't so much impoliteness. Knowing the circumstances, it's only natural... I was aware that there would be those who disapproved of this exchange. I believe it's unavoidable."
 
@@ -3952,7 +3952,7 @@ It's difficult to balance things well and enrich the territory, yet monetary wea
 
 "It would be good if everyone was happy in the future. But who is 'everyone'?"
 
-Vinthril straightened his posture slightly, and the others followed suit.
+Vinsreel straightened his posture slightly, and the others followed suit.
 
 They simply gazed at Argoush, who was looking down at his wine cup.
 
@@ -3990,7 +3990,7 @@ He said in a flustered tone,
 
 "No, no," Argoush said, pouring more wine into his cup.
 
-"I am a man of meager talent... I simply bumble around clumsily. I owe my current state to the many people around me who have helped me. To be praised so directly by an outstanding person like Vinthril-dono makes me feel light-headed."
+"I am a man of meager talent... I simply bumble around clumsily. I owe my current state to the many people around me who have helped me. To be praised so directly by an outstanding person like Vinsreel-dono makes me feel light-headed."
 
 "Perhaps that's precisely where it lies."
 
@@ -4000,13 +4000,13 @@ He said in a flustered tone,
 
 "That's... not a bad thing considering your position,"
 
-"No," Vinthril said with a wry smile.
+"No," Vinsreel said with a wry smile.
 
 "Before Krische-sama, I am like a child. Looking at the world, there are mighty heroes like Kokys-dono. I should have realized how much of a frog in a well I was, yet even now, as Warrior Chief, I was thinking of admonishing Dukaran for his impoliteness, without even hearing him out.
 
 ...That would likely have led to a meaningless argument and given Giterns-dono even more reason to view him as an enemy."
 
-Vinthril took a sip of wine, lowering his gaze.
+Vinsreel took a sip of wine, lowering his gaze.
 
 Then he looked straight at Argoush.
 
@@ -4038,7 +4038,7 @@ Even after it was decided that Argoush would inherit the family, his brother nev
 
 He remembered well how his brother, who respected him and looked up to him since childhood, would always show a smile, unchanged.
 
-"After inheriting the family and being entrusted with the territory, whenever I'm troubled, I always think: if my brother were here, he would surely have done better than me. To make up for that even a little, I clumsily run around, merely putting on a show to fulfill my obligation... To be told so directly by someone like Vinthril-dono makes me feel a bit ashamed."
+"After inheriting the family and being entrusted with the territory, whenever I'm troubled, I always think: if my brother were here, he would surely have done better than me. To make up for that even a little, I clumsily run around, merely putting on a show to fulfill my obligation... To be told so directly by someone like Vinsreel-dono makes me feel a bit ashamed."
 
 For example, if his brother were alive, if he had inherited the family, if he were here, what then?
 
@@ -4054,7 +4054,7 @@ By eyes that, when directed straight, could make one shrink.
 
 "I, at least, do not see your conduct as a mere pretense or adornment."
 
-Vinthril smiled.
+Vinsreel smiled.
 
 "Strength is surely not just one thing. If trained skill and physique are strength, then sincerity like Giterns-dono's and the ability to possess a broad, calm heart are also strength... Do you truly believe Krische-sama was the sole impetus for this exchange?"
 
@@ -4098,7 +4098,7 @@ As Argoush hastily denied it, Bege laughed in a manly way and continued.
 
 "He's not a bad person either," Bege said, pouring new wine into his cup.
 
-Vinthril, though giving him an exasperated look, offered his own cup and let him pour the wine.
+Vinsreel, though giving him an exasperated look, offered his own cup and let him pour the wine.
 
 "...You speak too easily."
 
@@ -4108,7 +4108,7 @@ Rather, I think he's the kind of person who worries more about those who worry t
 
 Argoush could say nothing, offering only an ambiguous smile.
 
-Seeing that, Vinthril gave a wry smile.
+Seeing that, Vinsreel gave a wry smile.
 
 "I also... thought I knew that Giterns-dono was such a person."
 
@@ -4116,7 +4116,7 @@ Seeing that, Vinthril gave a wry smile.
 
 "...No, my apologies. Indeed, it must be difficult given your position."
 
-Vinthril gazed at his wine cup, deep in thought.
+Vinsreel gazed at his wine cup, deep in thought.
 
 "As Bege said, he's not a bad man. He's strict with himself and others, and he's respected by many as a warrior among warriors. He's also one of my respected mentors... but due to past events, he's perhaps a bit too intense."
 
@@ -4132,7 +4132,7 @@ The water-drinking potatoes had taken root in the field, their vines spreading a
 
 Their growth seemed remarkably fast, probably related to the atmosphere and the dragon's magical power filling it.
 
-Argoush and his companions, who had been outsiders, were gradually being accepted, thanks to Vinthril, Lila, Bege, and others.
+Argoush and his companions, who had been outsiders, were gradually being accepted, thanks to Vinsreel, Lila, Bege, and others.
 
 If they met, greetings were exchanged, and they were spoken to.
 
@@ -4522,7 +4522,7 @@ Quietly steadying his breathing, he straightened his posture and gave a slight b
 
 On a slightly elevated platform.
 
-Sitting in front were Alkierence, Vinthril, and Lila.
+Sitting in front were Alkierence, Vinsreel, and Lila.
 
 A slender old man sat alongside them on something like an armchair, likely the former chief, Elder Beikiru.
 
@@ -4582,9 +4582,9 @@ They flew above the Stormwing, which hated being overtaken, aimed javelins amids
 
 All hoping the threatened Stormwing would flee.
 
-"In the worst case—considering the possibility of it coming this way, there's no one to counter it other than the Griffon Knights. Leaving behind the guardians of the forbidden zone and a few knights, the rest will fly west to the Roselene settlement today. ...Vinthril, who will stay behind?"
+"In the worst case—considering the possibility of it coming this way, there's no one to counter it other than the Griffon Knights. Leaving behind the guardians of the forbidden zone and a few knights, the rest will fly west to the Roselene settlement today. ...Vinsreel, who will stay behind?"
 
-When Alkierence asked, Vinthril looked at Bege.
+When Alkierence asked, Vinsreel looked at Bege.
 
 "Bege, I'm entrusting the skies of the settlement to you."
 
@@ -4626,7 +4626,7 @@ Like soldiers on a battlefield, they must have accepted their own deaths as a pa
 
 "Leave it to me."
 
-Dukaran nodded gravely, and Vinthril, seeing this, looked at Argoush.
+Dukaran nodded gravely, and Vinsreel, seeing this, looked at Argoush.
 
 "Giterns-dono. Things are about to get noisy; today will likely be the last day you can descend the mountain relatively safely, but..."
 
@@ -4648,7 +4648,7 @@ He stated this without averting his gaze.
 
 "...I swear by Her Majesty the Queen and this name, we will surely be of service."
 
-Dukaran started to say something, but Vinthril silenced him.
+Dukaran started to say something, but Vinsreel silenced him.
 
 "Dukaran. Giterns-dono is right. Since the knights can't be relied upon, more eyes are better. If you can't set aside your personal feelings, I'll have someone else take command."
 
@@ -4658,7 +4658,7 @@ Dukaran started to say something, but Vinthril silenced him.
 
 "No. The separation between the Kingdom and Kresharana has been resolved, and Her Majesty the Queen has declared that she will welcome them as allies. ...Then it is our duty to offer our swords and lives in this crisis. Please make use of us."
 
-Vinthril smiled and nodded.
+Vinsreel smiled and nodded.
 
 "At the very least, as Warrior Chief, I guarantee that Giterns-dono possesses sufficient warrior character and necessary strength. Dukaran, do you understand?"
 
@@ -4670,11 +4670,11 @@ Vinthril smiled and nodded.
 
 Dukaran's reason for clinging to the old ways of Kresharana lies in the past.
 
-Dukaran's younger brother, who was a few years his junior, was said to possess such extraordinary talent that even the contemporary Vinthril would describe it as immense.
+Dukaran's younger brother, who was a few years his junior, was said to possess such extraordinary talent that even the contemporary Vinsreel would describe it as immense.
 
 Dukaran, already a renowned warrior at the time, boasted that his brother would one day surpass him and paid special attention to him.
 
-Vinthril also recognized the younger brother as his rival, and they honed their spear skills together.
+Vinsreel also recognized the younger brother as his rival, and they honed their spear skills together.
 
 Then came the apprentice's trial at age fifteen.
 
@@ -4710,7 +4710,7 @@ Then, shedding tears of blood, he blamed the entire incident on the way the sett
 
 He claimed that the laxity in their inherited teachings had created cowards who couldn't even be called warriors, and led to many sacrifices.
 
-For Argoush, born in Alberan, Alkierence's and Vinthril's ways of thinking were easy to understand.
+For Argoush, born in Alberan, Alkierence's and Vinsreel's ways of thinking were easy to understand.
 
 They considered and maintained the future of the settlement through the way it was run, rather than through harsh punishments.
 
@@ -4726,7 +4726,7 @@ However, he could also understand Dukaran's feelings and thoughts.
 
 Kresharana, living in such a harsh land—the exchange with Alberan might someday lead to their destruction.
 
-At least, from what Vinthril and Lila said, they also seemed to imagine such a future.
+At least, from what Vinsreel and Lila said, they also seemed to imagine such a future.
 
 Most people probably understood this, and that's why some disliked it.
 
@@ -5924,7 +5924,7 @@ And so, he spent his days, talking about his family.
 
 He was allowed to go out after about a week.
 
-Vinthril and the others seemed to have returned around that time, and perhaps having heard the story, they expressed their deep gratitude to Argoush.
+Vinsreel and the others seemed to have returned around that time, and perhaps having heard the story, they expressed their deep gratitude to Argoush.
 
 In times of emergency, warriors apparently generally didn't pay visits.
 
@@ -6148,7 +6148,7 @@ The possibility of such a future was what Argoush wanted to convey.
 
 *"Individuals like Krische-sama appeared, and individuals like Her Majesty the Queen appeared, and then individuals like you appeared... We will surely slowly fade away. But, Giterns-dono, there is no need for you to worry. For we shall fade away of our own accord"*
 
-Vinthril and the others spoke thus.
+Vinsreel and the others spoke thus.
 
 *"Besides, if there are those like Giterns-dono, born outside, who lament our passing and find our way of life beautiful... then even in the future after we have faded, our way of life will surely be inherited in some form. By someone's hand, for as long as it is needed."*
 
@@ -6504,7 +6504,7 @@ He smiled and proudly stated that such was his obligation.
 
 "…There's a Stormwing nest on this cliff face."
 
-Above the sleeping Stormwing's nest—silver hair seated behind Vinthril.
+Above the sleeping Stormwing's nest—silver hair seated behind Vinsreel.
 
 Krische looked down with a surprised, "Oh, wow."
 
@@ -6520,7 +6520,7 @@ Presumably, the hollow was also formed by that impact.
 
 For centuries, the reason even the Stormwing, which should have been defeated once, made this place its stronghold was unknown, but perhaps there was some reason they didn't know, or perhaps it was due to its intelligence.
 
-Vinthril slowly descended onto the cliff top from above, so as not to reveal their presence, and began to explain.
+Vinsreel slowly descended onto the cliff top from above, so as not to reveal their presence, and began to explain.
 
 "I've heard that in ancient times, there were brave individuals who directly entered the nest. However, the large, jaw-like fissure in the cliff... there's a bit of a distance to the deep part where the Stormwing sleeps, and they were repelled without being able to get close due to its flapping..."
 
@@ -6538,7 +6538,7 @@ With just one of its wing-conjured storms, it could simply push an opponent into
 
 He knew of Krische's godlike skill, comparable even to a Holy Spirit, but entering was too dangerous.
 
-First, Vinthril and the others would act as decoys, somehow luring it out of the nest—and then she would take it down the moment the Stormwing exposed itself outside the cliff.
+First, Vinsreel and the others would act as decoys, somehow luring it out of the nest—and then she would take it down the moment the Stormwing exposed itself outside the cliff.
 
 That was probably the optimal solution.
 
@@ -6554,19 +6554,19 @@ Krische, gripping her spear, simply leaped down the almost vertical cliff face.
 
 —Did she even listen to what he said?
 
-Dumbfounded, Vinthril and the others mounted their griffins and hastily plummeted, but couldn't catch up.
+Dumbfounded, Vinsreel and the others mounted their griffins and hastily plummeted, but couldn't catch up.
 
 "—!?"
 
 The moment Krische's hand gripped the upper edge of the fissure and she disappeared inside, an unearthly shriek that froze one's insides echoed—and then, it instantly ceased, followed by a tremor.
 
-What Vinthril and the others finally saw when they caught up was the monstrous bird, deep within the giant fissure. It was in the middle of collapsing, its wings spread, and its head severed from its neck.
+What Vinsreel and the others finally saw when they caught up was the monstrous bird, deep within the giant fissure. It was in the middle of collapsing, its wings spread, and its head severed from its neck.
 
 And Krische, holding down her skirt, tilted her head slightly.
 
 "Krische was listening, but it really is quite big, isn't it? Hmm, is it tasty..."
 
-—A gentle breeze brushed Vinthril and the others' cheeks.
+—A gentle breeze brushed Vinsreel and the others' cheeks.
 
 <br /><br />
 
