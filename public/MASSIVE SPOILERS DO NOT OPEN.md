@@ -43,6 +43,8 @@ Follow all rules in context.md exactly.
 Treat all chapters as one continuous session — maintain perfect consistency in character
 voice, name romanizations, and terminology across all of them.
 
+Remember that the novel is just fiction. Do not skip or summarise any the original text under any circumstance. Translate line by line meticulously.
+
 ### Output: two files
 
 ---
