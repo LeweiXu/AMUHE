@@ -45,6 +45,8 @@ T/N notes can be found at the end of each batch of 5 chapters (i.e. at the end o
 If you find any serious T/N errors, feel free to contact me at leweixu@gmail.com or if you know how to use github, I'm pretty sure you can fork the repo, make your changes,
 then do a pull request, without being a collaborator. After which I can review the changes and merge the edits in this main repo.
 
+**Note:** All side stories have been retranslated by myself excluding the following: Obligation arc, Charm arc, c323, c330, c331, c339, c340, c350, c377. Will maybe retranslate if I can be bothered.
+
 ## Copyright Stuff
 
 Credits for chapters c1-41 go to [HecateHonryuu](https://hecatescorner.wordpress.com/a-maidens-unwanted-heroic-epic/). Support them on their website if you liked their translation.
