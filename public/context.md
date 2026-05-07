@@ -1,5 +1,5 @@
 # A Maiden's Unwanted Heroic Epic — Knowledge Base
-*Current coverage: Chapters 1–310*
+*Current coverage: Chapters 1–378*
 *Update this file after each translated chapter.*
 
 ---
@@ -422,6 +422,141 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | オルロス＝ナートリアス | Oruros Natrias | One of the Three Grand Dukes; heavyset, bearded; has the largest original territory; military-focused; commands with a forceful presence; less adept at internal governance |
 | ダルコス | Dalcos | Alberan corps commander; experienced; skilled in commanding heavy infantry; killed by Reine in the dawn column-charge battle (C.309) |
 | オルカンス | Orkans | Powerful great noble in Elsren's western region; decent, sharp; had strong popular support; had opposed the nobles' plan and favored Reine leading the army; killed in battle against Seil's force (C.308) |
+| クリシェリア | Krischeria | April-Fools alternate-universe name for Krische as Alberan princess (C.331); raised alongside sister Kreschenta under uncle Gildanstein |
+| ノーラ | Nora | Krischeria's black-haired royal-house servant in the C.331 AU |
+| ドルス | Doruss | Mention only — muscular Black Flag soldier (C.332) |
+| バグ | Bag | Black Flag rough-man; beaten down by Kalua (C.332, mention only) |
+| クーリ | Kuli | Kouz's daughter; runs the Dawn Crescent in his old age (C.336/338) |
+| 風間鉄舟斎 / 不二斎 | Kazama Tetsushūsai (Fujisai) | Founder of Kotensuigetsu (Lone-Sky Water-Moon) school; head sword instructor of the imperial house; spar partner of Alberinea in the eastern imperial tournament (C.340 spin-off) |
+| ミルガンガ＝ゴ＝シェア | Mirganga Go Shea | Seventh Prince of the Super-Galactic Minarshi Empire; commander of 237th Expeditionary Fleet (C.340 spin-off) |
+| ギリュリャ＝ゲ＝リュリュ | Giryulya Ge Ryuryu | Minarshi survey engineer; discoverer of planet Benua (C.340 spin-off) |
+| アルアリゼ＝クイロス | Aruarize Quiros | Ether scholar; researcher near Albernaria's World Tree (C.340 spin-off) |
+| ミルシー＝ゲーシア | Mirsie Geshia | Archaeologist; Alberan-otaku (C.340 spin-off) |
+| カレン＝シュロッテ | Karen Schlotte | Royal-estate servant; Anne's senior; from a marquis house (C.340 profile) |
+| ベーグ | Beeg | Confirmed (C.340 profile): Kreisharana great warrior; one of top five griffin riders |
+| ドゥカラン | Doukaran | Kreisharana warrior; conservative faction's chief; gives Argoush the warriors' breastplate (C.340 profile) |
+| カックス | Cackus | Head private soldier of the Giterns house; always at Argoush's side; eventually marries a Kreisharana woman (C.340 profile) |
+| ラズラ＝アルガン | Lazura Argan | Bery's older half-sister; protagonist POV of C.342–349 backstory; Bogan's wife; Selene's mother; died in childbirth (second child miscarried) |
+| リールド＝アルガン | Reerld Argan | Lazura and Bery's father; Baron Argan; died of overwork after Roland's deal ruined the family |
+| ルーベル | Lubelle | Elderly home tutor (mathematics + sorcery); had a breakdown when 7-year-old Bery innocently pointed out his formulae could be simplified; later apologized and resigned (C.343) |
+| セリス | Selis | Difficult senior Argan-house servant; angered when 5-year-old Bery critiqued her work efficiency (C.342) |
+| リガルス | Rigarus | Author of *The Mystic Tomb-Robber*, a sorcery text in Reerld Argan's library (C.343) |
+| 神秘の盗掘者 | The Mystic Tomb-Robber | Sorcery treatise by Rigarus on compound mana-crystal formulae (C.343) |
+| ベルティース伯爵 | Count Bertis | Banquet host where Lazura met Roland in girlhood (mention only, C.344) |
+| アルガン家 | Argan house | Bery and Lazura's family; old baronial line; ruined by Roland's mana-crystal contract scheme (C.344) |
+| セルクート | Selkut | Town northwest of Gurgain; Lazura's home town in girlhood (C.344) |
+| ファーレ先生 | Faren-sensei | Aleha-era corps commander Felwors-style; previously Bogan's superior; nags him to study (C.348) |
+| シャーセレネ | Sha-Selene | Mythological "most radiant form of the moon"; goddess of beauty, night-illuminator, traveler's protector — namesake of Selene (C.348) |
+| ファスナ海溝 | Fasna Trench | Krisneit-era undersea trench with mana-crystal caverns (C.349 spin-off) |
+| クリーシアン | Krishian | Largest mana-crystal cavern on the planet, dug by dragon Venashir (C.349 spin-off) |
+| ヴェナシル | Venashir | Digging-dragon who excavated the Krishian cavern over tens of thousands of years (C.349 spin-off) |
+| ビナシアレ大陸 | Bynashiale Continent | Continent opposite the Alberan Continent (C.349 spin-off geography) |
+| 有賀ベリー | Aruga Bery | Bery's modern-AU family name (already established; reaffirmed C.350 as "Aruga-sama") |
+| にゅるりん | Nyururin | Smaller tentacle in the Magical Bery AU; subordinate to Nyururun (C.350) |
+| ロランド | Roland | Modern-AU doll-shop owner; reformed pure-hearted craftsman; Doll Shop *Kirzalan* (C.350) |
+| キルザラン | Kirzalan | Doll Shop name (modern AU; matches kingdom city name; C.350) |
+| プリンセスミミちゃんロイヤルルーム | Princess Mimi-chan Royal Room | Top-grade miniature playset, Kreschenta's bed in modern AU (C.350) |
+| お料理ミミちゃんリストランテ | Cooking Mimi-chan Ristorante | Miniature dining playset (C.350) |
+| 根源の触手 | Tentacle of the Source | Cosmic-abyss villain in the Magical Bery game (C.350) |
+| マジカルセレネ | Magical Selene | Selene's persona in the Magical Bery franchise (C.350) |
+| 退魔師☆シェルナ | Exorcist☆Shelna | In-universe spinoff series; Shelna's role (C.350) |
+| 極東第七支部 | Far East Seventh Branch | Shelna's exorcist branch in modern AU (C.350) |
+| フェアリーソフト | Fairy Soft | Game studio in the Magical Bery AU (C.350) |
+| ボッとまん | Bot-Tomman | Brand-name fire-starter / lighter (C.350; rendered phonetically) |
+| ボジー | Bozii | Disciple at Black Flag Swordsmanship Academy (C.355–357); baker's son; betrothed to Saranis |
+| サラニス | Saranis | Bozii's fiancée (C.355–357); Tarta Baurzon's adopted granddaughter |
+| タルタ＝バウルゾン | Tarta Baurzon | Baron; old soldier; survivor of Bernaich and the War of Royal Authority; Saranis's grandfather (C.355–357) |
+| シェリシア | Sherishia | Deputy instructor at Black Flag Swordsmanship Academy; talented young swordswoman (C.355) |
+| キューリス | Kyuris | Sherishia's near-fiancé; mentioned only (C.355) |
+| ロンダ | Ronda | Child at the dojo riding on Krische's shoulders (C.357) |
+| ボルゾー＝ベルセン | Borzou Belsen | Late legion commander killed by Krische at Bernaich during the War of Royal Authority; spear-wielder, commoner-promoted (C.356 flashback) |
+| ザヌベア＝リーンズ | Zanubia Reins | Centurion in Tarta's battalion during Elsren campaign; failed to stop his men's village massacre (C.357 flashback) |
+| アルベシュ | Albesh | Centurion in Tarta's battalion (C.357) |
+| ドーグル | Doogle | Researcher in C.358–360 future-IF arc; ether-prosthetics inventor; bonds with Sena |
+| メイア | Meia | Doogle's deceased daughter; the model for Sena's body (C.358) |
+| セナ | Sena | Name Doogle gives Jaragasha No. 3 (C.359); originally called Red-Horn |
+| 赤角 | Red-Horn | Jaragasha No. 3's old combat-era nickname; from the red ornament on her head frame (C.359) |
+| オルス＝アローズ | Olus Arrows | Doogle's close friend; president of Loktarna prosthetics company; son of late chairman (C.359–360) |
+| ミリ | Miri | Olus's daughter; befriends Sena over a decade (C.360) |
+| ロクターナ社 | Loktarna Co. | Old prosthetics manufacturer; Doogle's longtime supporter; Olus's company (C.359–360) |
+| ジャレィア＝ガシェア三号機 | Jaragasha Number Three | The original Jaragasha unit Sena's core comes from; awakened in the far future (C.358) |
+| ネイガル | Neigal | Confirmed: head of Albernaria Arsenal in C.360 prologue scene; commands Jaragasha No. 3 in war |
+| お手伝いさん機能 | Helper Function | Jaragasha non-combat function; servant tasks coded into the core (C.358–360) |
+| ぴかぴーか | Pika-Piika | Jaragasha command/authentication system (C.358); written phonetically |
+| 最重要規則１ | Most Important Rule 1 | Jaragasha rule: 'Whatever happens, absolutely not allowed' to harm red-haired female individuals; their fatal weakness (C.358) |
+| 赤の女神達 | Red Goddesses | Already in KB; first to capture a Red-Horn original by exploiting the rule (C.359) |
+| 月明かりの遺産 | Moonlight's Legacy | Already in KB; meaning of Kleinmeil; founded by Alberinea-revering mage-emperor (C.359 reference) |
+| イガグリ | Iga-Guri | Sena's nickname for Doogle (lit. "chestnut burr/buzz-cut"); given on his prison release (C.360) |
+| ミナルシ | Minarshi | Already in KB; in C.358 future, confirmed as the interstellar civilisation that uplifted humanity on Benua |
+| ベヌア人 | Benuans | Term for Krische-world humans, used by extra-solar civilisations (C.358) |
+| 王権戦争 | War of Royal Authority | Civil war (C.355–356 flashback); Krische's mountain raid at Bernaich is part of this; alternate name for the kingdom civil war |
+| エルスレン解放戦争 / エルスレン解体戦争 | Elsren Liberation War / Elsren Disassembly War | Confirmed alternate names for the Five-Nations War / Wulfenite-Elsren campaign (C.355–357) |
+| 黒旗剣術指南所 | Black Flag Swordsmanship Academy | Already in KB; built fifteen years after Black Flag's wartime, in the royal capital; run by Mia, Kalua, Zaaka, etc. (C.355–357 anchor) |
+| アルベナリア工廠 | Albernaria Arsenal | Already in KB; final maintenance of all 3,000 Jaragashas occurs here (C.360 prologue) |
+| 統一歴２９年 | Unified Calendar Year 29 | Setting of C.355–357 (post-Elsren-war peace era) |
+| ビーキルス＝グラフシャラナ | Bikirles Grafsharana | Full name (C.340 profile): elder, previous chieftain |
+| ロウグラン＝アージェ＝ヴェル＝ニルクリネア＝アルベラン | Rougran Age Vel Nilkrinea Alberan | Already listed; second prince |
+| セイル＝ザラン＝ヴェル＝リネア＝アルベラン | Seil Zaran Vel Rinea Alberan | Full name (C.340 profile): first prince |
+| グラバレイネ＝アルビース＝ヴェラ＝アルベラン | Grabareine Albius Vera Alberan | Full name (C.340 profile) |
+| ゴルザリアス＝エルメンド＝エルスラン＝シュインデル＝ルーカザーン | Gorzarius Elmend Elsran Shuindel Rukazan | Full name (C.340 profile) |
+| オルロス＝フォリル＝エルスラン＝シュインデル＝ナートリアス | Oruros Foril Elsran Shuindel Natrias | Full name (C.340 profile) |
+| キリアス＝ビルス＝エルスラン＝リーバスレーベ | Kirias Bils Elsran Liberslebe | Full name (C.340 profile) |
+| ナルコー＝レナリアリス＝リベニラス | Naruko Renariarisu Ribenilas | Full name (C.340 profile) |
+| フィーリ＝ネーラス | Fiiri Neeras | Confirmed full name (C.340 profile) |
+| ベヌーレ＝リストル | Benuure Listol | Confirmed full name (C.340 profile) |
+| シェルバーザ＝アルビース＝ヴェル＝アルベラン | Sherbaza Albius Vel Alberan | Full name (C.340 spin-off profile) |
+| 超銀河ミナルシ帝国 | Super-Galactic Minarshi Empire | Multi-galaxy empire in the C.340 sci-fi spin-off |
+| 惑星ベヌア | Planet Benua | The C.340 spin-off's name for the Krische world |
+| アルニア | Alnia | Hostile cosmic life-form treated as Krische's pet (C.340 spin-off) |
+| 超銀河うにょーん協定 | Super-Galactic Unyon Treaty | Treaty in the C.340 spin-off epilogue |
+| 楽園聖書 | Paradise Scripture | Recorded "words of Elsreine" by Naruko; basis of Reinism |
+| レイネの教え / レイネ教 | Reine's Teaching / Reinism | Religion centered on a paradise after death; spread under Grabareine's tyranny (C.340 profile context) |
+| 夜明けの三日月 | The Dawn Crescent | Already established as inn-eatery in Albernaria; C.332–338 expand its origin: founded by Kouz (Koza) and Beltz, both former Black Flag; Tagel becomes the bakery father-in-law's son (retired Black Flag); the Christand simplified-crest grant is depicted on-page |
+| くろしゅたん | Kuro-Shutan | Already established; C.337 confirms full coined name 「くろふよ隊がぱぱっしゅたんっと色んなことを解決する部隊」 |
+| カルカ村式略式叙勲 (ネア) | Nea informal investiture | Confirmed: surnameless recipients usually take place of origin as their by-name (e.g. Gallen Nea Karka) (C.340 explanatory matter) |
+| バザリーシェ | Bazarishe | Founding queen of Alberan; pre-existing entry, fleshed out in C.371–378 backstory arc as a precocious child raised in the shadow tribes; child of the gods, called Alberan |
+| エンレイネ | Enreine | The settlement / region Bazarishe was associated with in early years (C.371) |
+| ベルナイク | Belnaich | Already in KB as Twin Mountain; in C.371–378 arc this is the eponymous person — golden-haired warrior, great chieftain of Aldos, Bazarishe's main duelling partner; impatient and blunt with her |
+| ミツクロニア | Mitskronia | Already in KB as the other Twin Mountain; here also a person — Bazarishe's lifelong attendant/guardian, son of the prior chieftain; bearded, kind, calls her "Lady Bazarishe" |
+| アルドス | Aldos | Great tribe under Bazarishe; led by Belnaich (C.371) |
+| ガーカ | Garka | Great tribe under Bazarishe; led by Goudeus (C.371–375) |
+| ゴーデウス | Goudeus | Great chieftain of Garka; muscular young man; cautious tactician (C.372) |
+| エイデナール | Eidenahl | Great chieftain of Rodet; old white-bearded warrior; submits to Bazarishe at the wall (C.371) |
+| ボーラル | Boral | Great chieftain of Selbus; "Body-Splitter"; old friend/rival of Eidenahl; chooses honour-death by Bazarishe's blade (C.371) |
+| ロデット | Rodet | Tribe submitting to Bazarishe (C.371) |
+| セルバス | Selbus | Tribe of Boral (C.371) |
+| クレィシャラナ | Kreisharana | Already in KB; C.374 gives full origin myth — gatekeepers of the divine being's sanctuary; founded by Almantis; later corrupted into tyrants |
+| アルマンティース | Almantis | Founding chieftain of Kreisharana; gained divine being's pardon; died protecting young warrior from a Jade Tiger (C.374) |
+| ゼクリット | Zeklit | Old sage who first secured an audience with the divine being (C.374) |
+| シャーリル | Sharil | Great chieftain of Kreisharana (decadent era); aged but vigorous (C.375) |
+| ドットリアス | Dotrias | Warrior chief (戦士長) under Sharil; cruel; killed by Belnaich during the duel ambush (C.375–376) |
+| ファナロー | Fanaroh | Great warrior of Kreisharana; "one of the better ones"; relatively reasonable but corrupt; later commands at Dragon's Maw post-failure (C.374, 376, 378) |
+| クートス | Coutos | POV griffin-cavalryman; Sharil's son; conscientious; spear-user; rides Levu (C.374–376) |
+| レヴ | Levu | Coutos's griffin (C.374) |
+| ロッペラ | Roppera | Fanaroh's griffin (C.374) |
+| ドルス | Doruss | Chieftain of Pirsu; his wife is forced into Fanaroh's service (C.374) |
+| ピールス (ピルス) | Pirsu | Forest settlement Coutos and Fanaroh visit (C.374); rendered "Pirsu" — distinct from KB "Peerls" (ピールス) — flagged as a possibly distinct village name; tentative |
+| エルグガルド | Elgugarudo | Kreisharana champion; killed in duel (C.378) |
+| ノスキール城砦 | Noskirl Castle | Bazarishe's fortress south of the Dragon's Maw (C.378); tentative romanisation |
+| 守手長 | head guardian | Title of the lone honourable great warrior who keeps to the divine being's threshold (C.375) |
+| 翠虎 (Bazarishe-era) | Jade Tiger | Already in KB; recurs as the proverbial threat in Almantis legend (C.374) and Sharil's youthful prize (C.375) |
+| コレイス | Koreis | Already in KB as god of valour; in this arc, repeatedly named as the war-god whose hall warriors join after death |
+| アルビャーゲル | Albyagel | Already in KB; here confirmed as the mountain where the divine being (Yagelnaus's predecessor / equivalent) sleeps in Almantis's age |
+| ロデット / セルバス / アルドス / ガーカ tribe-naming pattern | — | All four north-region great tribes use single-name designation followed by 大族 ("great tribe X") in source |
+| 錬成岩 | forged stone | Already in KB; C.372 gives Bazarishe's discovery of the technique (volcanic ash + white-stone aggregate + water) |
+| 元素 | element | Bazarishe's term for proto-atomic constituents; analogous to her descendant Krische's 粒々/"particles" |
+| 真名 | true name | Stake of a Kreisharana duel: the loser's true name forfeit (C.378) |
+| アルベラン (in Bazarishe arc) | Alberan | Already in KB; here used as her personal title — "the Alberan," a divine designation rather than a kingdom (kingdom comes after) |
+| 獅子鷲 (Bazarishe-era usage) | griffin | Already in KB as グリフィン; C.373–378 use 獅子鷲 (lit. "lion-eagle") for the Kreisharana mounts. Treat as same creature; render "griffin" as elsewhere; the character form 獅子鷲 is the older Old-Tongue word |
+| 八岐大蛇 | Yamata-no-Orochi | C.377 spin-off: tentacle origin for the eight-headed serpent of myth |
+| にゅるるん語 / 触手話 | Nyururun Language / tentacle-sign | C.377: tentacle communication via mana-vibrations + tentacle-sign |
+| にゅるりんがる | Nyururingual | C.377: necklace-type Nyururun-language translator invented by Magical Krische |
+| Ｂ型触手保護法 | Type-B Tentacle Protection Law | C.377: enacted by Queen Kreschenta in modern AU |
+| 籠の中の触手 | The Tentacle in the Cage | C.377 in-universe drama title — tentacle-arranged version of *Birdcage* |
+| にゅるすれん | Nyurusren | C.377: tentacle paradise; reframed by Nyururun as the meeting with Bery and the others |
+| 鳥籠 (drama) | Birdcage | Existing manor-romance drama in modern AU; tentacle-version becomes *The Tentacle in the Cage* (C.377) |
+| 栗須アリネ | Kurisu Arine | Anne's pen name as a novelist in modern AU (C.377) |
+| ギルギル | Gilgil | Already in KB; C.377 reaffirms as Magical Bery's Demon King |
 ## RECURRING TERMS
 
 | Japanese | English | Notes |
@@ -939,9 +1074,196 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 - 王の病 = "the King's Sickness" — Gorzarius's term for rulers' paranoia born of absolute power; rendered as a proper-noun-adjacent concept with capital K per his use in C.304
 - 王子達が反乱 arc naming: the arc covers Grabareine's origin story from childhood through consolidation of power, then Elsreine's childhood and the suppression of the princes' revolt. No single arc title given in source; referred to as the レイネ arc per the chapter headings.
 - フィーリ＝ネーラスの死 (C.305 close) — Fiiri enters Grabareine's chamber knowing she has been summoned to be killed, and offers herself calmly; the scene cuts there. Parallels Benuure's self-sacrifice but is externally imposed rather than chosen.
+- C.341 大勝負 = Selene-vs-Bery sword duel; Bery wins via deceptive water-doll surrogate manipulated through a back-of-dimension formula and a stealth attack from behind. "The Lady and Her Servant — Duel in the Manor Garden" (お嬢さまと使用人――お屋敷庭の決闘).
+- 延刃 (engraved sword formula) = "blade-extension formula" (extends sword's reach by a mana edge); Selene's first self-completed inscription-blade.
+- おまじない (C.342–349 arc title) = "A Little Charm" — the arc covers Lazura Argan's POV from Bery's infancy through Lazura's death; the "charm" motif refers to the kisses-and-words she lays on Bery throughout. Final installment titled おまじない 終 = "A Little Charm — Conclusion."
+- ラズラ＝アルガン = "Lazura Argan" (older sister; protagonist POV of the arc).
+- リールド＝アルガン = "Reerld Argan" (father; Baron). Phonetic rendering preserving the long vowel.
+- ルーベル = "Lubelle" (tutor name; Latin/French-leaning rendering).
+- セリス = "Selis" (Argan-house servant).
+- ベルティース伯爵 = "Count Bertis" (mention-only noble).
+- リガルス = "Rigarus" (author of in-universe sorcery text).
+- 神秘の盗掘者 = "The Mystic Tomb-Robber" (book title; 神秘 = mystic, 盗掘者 = tomb-robber/grave-robber).
+- 邪気 (C.343) = "harmful agents" (T/N reaffirms the existing pre-germ-theory rendering).
+- ファーレ先生 = "Faren-sensei" (Felwors-style elder corps commander; rendered "Faren" given the kana ファーレ; C.348).
+- シャーセレネ = "Sha-Selene" (mythological "most radiant moon"; namesake of Selene). Phonetic rendering preserving the シャー prefix.
+- 月明かり / 双子山 / ミツクロニア / ベルナイク = mountains in Lazura's flashback are the established Twin Mountains; Mt. Lazura / Mt. Bery is purely a private joke.
+- 触手の擬音語 ("nyuru-nyuru," "nyuru-ru," "nyururi") in C.350 = rendered as "*nyururu*" / "*nyururi*" italics following established sound-word convention; the tentacle pet's name itself stays "Nyururun."
+- マジカル☆ベリーCDN side-story title = "Magical Girl Magical☆Bery CDN — Side Story: Her Majesty the Queen's Splendid Daily Life"; CDN preserved in title (consistent with existing マジカル☆ベリーReincarnation handling).
+- ボッとまん = "Bot-Tomman" (brand name fire-starter/lighter parody; phonetic).
+- 触手苦しい (tentacle pun on 心苦しい) rendered "tentacle-painful" to preserve the joke (C.350).
+- にゅるりん = "Nyururin" (smaller tentacle; rendered with -in vs Nyururun's -un to preserve the diminutive).
+- フェアリーソフト = "Fairy Soft" (game studio in modern AU; straightforward rendering).
+- 根源の触手 = "Tentacle of the Source" (cosmic-abyss villain; matches existing 根源 = "the source" convention).
+- アルベラン大陸 / ビナシアレ大陸 = "Alberan Continent" / "Bynashiale Continent" (Krisneit-era continent names; ビナシアレ phonetic).
+- ヴェナシル = "Venashir" (digging dragon; phonetic).
+- ファスナ海溝 = "Fasna Trench" (Krisneit-era undersea trench).
+- クリーシアン = "Krishian" (largest mana-crystal cavern; phonetic with -ian suffix).
+- 海底沈没ツアー = "undersea-shipwreck tour" / "undersea-sinking tour" — Krisneit-era sightseeing trip on/under the sea floor (literally "undersea sunken-state tour"). Used both in C.341 (Bery's chosen trip) and C.349 (the family's recurring activity).
+- 自然洞窟探検ツアー = "natural-cave exploration tour" (Selene's preferred alternate).
+- 無人島遭難ツアー = "desert-island shipwreck tour" (Bery's previous chosen trip; mentioned in passing C.341).
+- "テンタクルサーヴァント" = "Tentacle Servant" (loanword joke title for Nyururun's role; C.350).
+- 嵐翼 (C.321) = "Storm-wing" — large bird-type magical beast nesting in cliff fissures; raises gusts with wing-beats. Hunted by Krische in C.321 epilogue.
+- 藍鹿 (C.321) = "Indigo Deer" — magical-beast deer; mountain prey in Kreisharana.
+- 責務 終 (C.321 title) = "Duty — Finale" — closes the Argoush/Anne arc with Anne's father reading the "letter" book she made.
+- 気高き鷹の館 (C.321) = "Manor of the Noble Hawk" — affectionate epithet for the Christand household used by Anne in her self-published "letter" book; rooted in the Giterns family's hawk imagery.
+- 深淵に潜む脅威 (C.322 title) = "The Threat Lurking in the Abyss" — April-Fools sci-fi spin-off; Krische voice-bombs the cosmos via the Fuyopita-net wishing for "space-people."
+- ミルガンガ＝ゴ＝シェア = "Mirganga Go Shea" (already in KB, C.340 spin-off profile).
+- ギリュリャ＝ゲ＝リュリュ = "Giryulya Ge Ryuryu" (already in KB).
+- アルアリゼ＝クイロス / ミルシー＝ゲーシア / ガラン (C.322) = "Aruarize Quiros" / "Mirsie Geshia" / "Garan" — Aruarize and Mirsie already in KB; Garan is the Minarshi-affairs official liaising with them.
+- アルニア / ベヌア / うにょーん = "Alnia" / "Benua" / "Unyon" (already in KB; reaffirmed as established names).
+- カラララ = "karararara" — Minarshi laughter onomatopoeia.
+- 劇場版 マジカル☆ベリーＣＤＮ ～退魔師☆シェルナ 時空を超えし驚異～ (C.323 title) = "Movie Edition: Magical Girl Magical☆Bery CDN ~Exorcist☆Shelna, the Threat that Crossed Time and Space~" — non-canon spin-off; preserved with mixed-script title.
+- ギルギル = "Gilgil" (already in KB; the Demon King in the Magical Bery AU).
+- にょろろん / にゅろん = "Nyororon" / "Nyuron" — close-friend tentacle to Nyururun; minor variant tentacle. Phonetic rendering matching Nyururun.
+- マジカルカルア / マジカルミア = "Magical Karua" / "Magical Mia" — modern-AU magical-girl personas.
+- 黄昏事件 (C.323) = "Twilight Incident" — narrator's name for Krische's pet Tentacle's dream-cure visit that overflows into reality.
+- 在尾山 / 有辺 (C.323) = "Aribi Mountain" / "Aribi area" — Far East Seventh Branch headquarters location in the Magical Bery AU.
+- 退魔師☆シェルナ / 退魔協会 (C.323) = "Exorcist☆Shelna" / "Exorcist Association" — already established series concepts.
+- 天地開闢、悠久長路 (C.324–C.328 arc title) = "The Opening of Heaven and Earth, the Eternal Path" — Anne's POV across the move into Krisneit; sub-titles 一/二/三/四/終 = One/Two/Three/Four/Finale.
+- カレン＝シュロッテ = "Karen Schlotte" (already in KB; Anne's senior at the royal domain).
+- イルネ屋敷 (C.324) = "Irune Estate" — one of seven manors in the royal garden; Anne's prior workplace; small phonetic rendering.
+- お屋敷会議 (recurring narrator label) = "Christand council" — established narrator term for the Manor's family-conferences (already used in C.295 entry).
+- 孤天水月 (C.329 title) = "Lone Sky, Water Moon" — full school name "Lone-Sky Water-Moon school" already in KB; chapter title is the abbreviated form. Tetsushūsai's earlier name was "Fujisai" and his original school was 水月流 (Water-Moon school); after Krische defeated him in spirit at the imperial tournament, he renamed himself "Tetsushūsai" (iron-boat) and the school to 孤天水月流.
+- 折武蘭 = "Orbran" — Tōshō country's phonetic kanji for Alberan (C.329).
+- 折武理名 / オルブリナー = "Orburina" — Tōshō country's phonetic name for Alberinea (C.329).
+- 清十郎 / 小十郎 (C.329) = "Seijūrō" / "Kojūrō" — Tetsushūsai's grandson and son respectively; Seijūrō argues for breaking with Orbran, Kojūrō is the disciplined father.
+- 天覧試合 (C.329) = "tournament before the emperor" / "imperial-presence tournament" — formal rendering for the on-emperor's-watch tournament.
+- 大将軍 (C.329) = "great general" — head of the warrior-houses; rendered straightforwardly.
+- 帝 (C.329, eastern country) = "the emperor" (Tōshō Country) — rendered lowercase per source convention; only "Tei" when used as a title-element (e.g., "15th Tōshōtei" in C.330).
+- トウショウ国 / 東照国 (C.330) = "Tōshō Country" — eastern island nation; the home of Kazama Tetsushūsai. Phonetic rendering with macron.
+- 水月流 / 水鏡の月 / 孤天の月 = "Water-Moon school" / "the moon mirrored on water" / "the moon of the lone sky" — central metaphors in C.329 distinguishing Tetsushūsai's once-self-styled mastery from the true apex.
+- シミュレーションゲーム風国家説明 (C.330 title) = "Simulation-Game-Style Country Descriptions" — meta-commentary chapter; profiles each nation with mock game-stat tables (Difficulty: ★, Economy: 4, etc.) and ranking lists. Render game-system terms consistently: 士気 = morale, 統制 = formation control, 練度 = discipline, 知略 = strategy, 統率 = command, 武力 = force, 魅力 = charisma, 人望 = esteem, 安定度 = stability, 悪名 = notoriety. Trait names ("Trait: Heavenly Sword," "Trait: Forest-Bred," "Trait: Castle-Toppler," "Trait: Head-Hunter," "Trait: Great Warrior," "Trait: Sky Warrior," "Trait: Heavenly-Wing Knight," "Trait: Eastern Sword-Saint," "Trait: Cursed Child of Alberan," "Trait: Warrior") rendered with capitalised English nouns.
+- 五大国戦争関連 / シナリオ名 examples (C.330): "Two Cursed Children" (二人の忌み子), "Princess as Banner" (王女を旗印に), "Krische the Mail Carrier" (クリシェはお手紙配達人), "Alberinea Awakening" (アルベリネア胎動), "The Babe Who Did Not Cry" (泣かぬ赤子), "End the Bad Custom" (悪習を絶つ), "Removal of the Cursed Children" (忌み子の排除), "Founding King Bazarishe" (建国王バザリーシェ), "The Two Reines" (二人のレイネ).
+- ベルザーディア＝ニトリアス = "Belzadia Nitrias" (C.330) — Skrif Kingdom's near-strongest commander; "war-god" epithet (cf. Olgan and Nitrias of the eastern continent who share the descriptor); confirmed full name extending the existing ニトリアス entry.
+- アルフマーズ＝ゲルガニク, アルフマーズ家系 (C.330) = Olivars Gelganik (オリヴァルス) confirmed as Alfmarz's heir; Triskes Savak (トリスケス＝サヴァク) confirmed as Gelganik famed general (high command/strategy, low force).
+- スイ帝国 (C.330) = "Sui Empire" — easternmost three-great-nations member; Riu Roulai (リウ＝ロウライ) is their first prince, Lu Zen (ル＝ゼン) the chief strategist, La Simpha (ラ＝シンファ) is the existing Simpha (シンファ) under their full name.
+- トーラン部族連合 / サルド＝トーラン / ラファール＝ジーガ (C.330) = "Toran Tribal Confederation" / "Sard Toran" / "Rafar Ziga" — southern east three-great-nations member and its leadership; Rafar's epithet "Castle-Toppler of a Hundred" matches the existing ラファール = Rafar entry's "destroyer of a hundred castles."
+- アイオス＝リーバスレーベ / ウォルス＝ナートリアス / コロセス＝フィッツガルド (C.330) = "Aios Liberslebe" / "Wolts Natrias" / "Coroseth Fitzgerald" — additional Elsren imperial-figures named in the country profile.
+- クラウゼ＝クースラン (C.330) = "Klauze Kuslan" — strategy-rich royal brother of Kuslan; mentioned only.
+- ヴェルザーディア (C.330 strength table) = "Belzadia Nitrias" alternative reading (キャラ二人混同回避): the strength comparison ranks "ニトリアス" at the war-god / undefeated tier alongside "Vinsreel," "Bogan," etc.; this is the existing Nitrias of the east.
+- 強さ比較表 (C.330) = "strength comparison table" — narrator's mock RPG-style power tier-list. Tier names rendered as "Krische" / "Monsters (battlefield-matchless)" / "Superhumans (can stand up to a Jade Tiger)" / "Veterans" / "Mana-holders" / "Hand-to-hand boasters." Symbols ※ (first-meeting-killer marker) preserved inline.
+- 暗殺者ベリー (C.330 commentary) = "Assassin Bery" — narrator's parenthetical for the period during which Bery seriously trained to kill Roland and was, in fact, quite strong; informal narrator coinage.
 ## Measurements
 
 - 寸 ≈ inch, 尺 ≈ foot (~30 cm per author's note), 間/ken ≈ 2 yards, 丈 = 10 shaku ≈ 3m
 - 里: **two scales in use.** Standard geographic ri ≈ 3.9 km. Author's tactical-arc ri ≈ 400 m (established C.78). Render as "one ri" etc. and add T/N flagging which scale applies.
 - 半刻 = quarter-hour (standard). Note: used as "half-hour" once in C.141 (comic exaggeration context); flag discrepancy in T/N.
 - 一刻 ≈ 2 hours.
+## TRANSLATION DECISIONS — C.351–360
+
+- クリシェのクリシェ (chapter title arc, C.351–354) = "Krische's Krische" — Krisneit-era slice-of-life vignettes structured as morning / noon / sundown / early evening.
+- 大事なお知らせあり (C.351 title parenthetical) = "Important News Inside" — author's volume-2 announcement embedded as opening and closing notes; rendered as italicised author's notes after a `---` divider.
+- お寝坊さんベリー = "Sleepyhead Bery"; 甘えんぼさん = "spoiled one / spoiled child" — narrator/Krische comic register.
+- ベリー語録 (recurring) = "Bery Sayings" — citation tag rendered as "(citation: Bery Sayings)" inside parentheses, following Krische's mock-formal adage register.
+- ガイコツ語録 = "Skeleton Sayings" — same convention.
+- 副使用人長 = "deputy head servant" (Krische's self-styled title in Krisneit).
+- 使用人長 = "head servant" (Bery).
+- 前朝食 = "pre-breakfast" (existing, reaffirmed).
+- 工房 = "workshop" (Selene's sculpting/pottery hut, expanded into a small mansion over time, C.352).
+- ろくろ = "wheel" (potter's wheel; rendered descriptively).
+- 芸術 = "art" (in Selene's discussion with Krische, C.352).
+- 観賞会 = "viewing party" (existing).
+- 巫女 = "priestess" (Lila context, existing).
+- ふにふに / さわさわ / さらさら / さすさす / むにむに / すりすり / にょきにょき / ひゅるひゅる / めらめら / すいすい / とてとて / ぴょんぴょん / ぐにー / きゅっ / じーっ / ぱーっ — Krische/Bery onomatopoeia: kept as romaji onomatopoeia (sara-sara, funi-funi, etc.) following established convention; preserves childlike register.
+- ぎゅう / ぎゅーっ = "tight" / "hugged on tight" (rendered descriptively or onomatopoeically per context).
+- あおぴか草 = "ao-pika grass" — Krische's name for the new pale-blue luminescent flower; kept untranslated per naming-sense convention.
+- カボチャグラタン = "pumpkin gratin" — Bery's specialty Krische craves.
+- 修行 (Lila) = "training" — her name for periodic deprivation/austerity to renew gourmandise (C.354).
+- 猿酒 = "monkey wine" (folk etymology); 精霊酒 = "sprite-wine" — wine the sprites brew imitating the manor's; rendered literally with brief gloss on first use.
+- ベリー基準 = "Bery standard" (existing, reaffirmed).
+- 心のエプロンドレス = "apron-dress of the heart" — Bery's metaphorical professional armour, undone only in private bathing; rendered literally.
+- 兎剣 (C.355–357 arc title) = "Rabbit-Sword" — usagi-tsurugi; refers to Krische ("Bunny") and her sword.
+- 狂狂朱 (C.355–357 arc subtitle) = "Frenzied Crimson" — kyō-kyō-shu; doubled "frenzy" + crimson colour, evoking the kuru-kuru-shu's bloody rotating flash. Tentative; flagged.
+- くるくるしゅっ = "Kuru-Kuru-Shu" — Krische's secret-sword footwork: right slash → wraparound spiral → step-in finishing thrust at opponent's back. Kept as romaji per Krische naming convention.
+- とんたっどんっ = "ton-ta-donn" — Krische's three-beat onomatopoeic rhythm for the footwork.
+- 秘剣 = "Secret Sword" (技 lineage label).
+- うさちゃん流剣術 = "Bunny-style swordsmanship" — Kalua's term for what she teaches at the dojo; "Bunny" = うさちゃん, established epithet for Krische (C.355).
+- 師範代 = "deputy instructor"; 筆頭師範 = "head instructor"; 館長 = "academy head" (Mia).
+- 黒猫 (Kalua's epithet) = "Black Cat" — "the Black Cat of Alberinea" (C.355).
+- 天剣 = "Heavenly Sword" (existing; reaffirmed for Alberinea).
+- 王権戦争 = "War of Royal Authority" — flashback civil war from soldier-side POV (C.356).
+- ベルナイク = Bernaich (existing); the mountain raid scene from soldier-side perspective (C.356).
+- 死兵 = "dead-soldier" — soldier in a mindset of certain death; rendered literally for the centurion-corps creed in C.356.
+- 半人前 = "half-fledged" (existing, reaffirmed).
+- 鐵機兵 = "iron war-golem" (existing, alt for Jaragasha).
+- ベルセン軍団長 = "legion commander Belsen" — note: 軍団 ≈ legion (one of the largest field formations).
+- 班長 = "section commander" / "section leader" — squad-level leader below centurion; rendered to fit the C.356 narrative voice.
+- 一回の出撃 = "a single sortie" (Jaragasha combat run, C.358).
+- 遠き遠き、未来にて (C.358–360 arc title) = "Far, Far in the Future" — chronological sequel to "The Threat Lurking in the Abyss" future-IF, set ~13,500 years after the main story; sci-fi setting with planet Benua under interstellar contact.
+- 自動人形 = "automaton" (C.358 archaeology context); ジャレィア＝ガシェア distinguished.
+- エーテル = "ether" — sci-fi era term; equivalent to mana but rendered "ether" in this future-tech context. Distinguish from 魔力/mana in the main story.
+- エーテル結晶 / 魔水晶 = "ether crystal" / "magic crystal" — same artefact, different era's term; render contextually.
+- 霊質 = "soul-substance" (existing, reaffirmed); equated with ether in C.358.
+- 仮想筋肉 = "virtual musculature" (existing, reaffirmed).
+- エーテル義肢 = "ether prosthetics"; 生体義肢 = "biological prosthetics"; 機械義肢 = "mechanical prosthetics."
+- 術式刻印 = "formula inscription" — same concept as 刻印 in main story; render "formula inscription" in sci-fi tech context.
+- ぴかぴーか = "Pika-Piika" — Jaragasha command/authentication system (C.358); kept onomatopoeically per Krische naming convention.
+- 最重要規則１ = "Most Important Rule 1" — full text rendered as 'Whatever happens, absolutely not allowed' (C.358); the rule against harming red-haired female individuals.
+- 命令達成不可 = "Order judged unfulfillable"; 命令達成 = "Order judged complete" — Jaragasha internal status output, rendered as terse machine log.
+- 加害 = "harm" (in the rule context).
+- 撤退 = "retreat"; 帰投 = "return [to base]" — Jaragasha terms.
+- 内蔵魔力残○○％ = "Internal mana remaining: NN%" — Jaragasha status line.
+- お手伝いさん機能 = "Helper Function" — Jaragasha non-combat servant capability.
+- 戦闘評価項目 = "Combat evaluation item" — Jaragasha self-assessment categories (e.g., "道具は大事に" = "Take care of equipment").
+- 戦術レベル『マシな方のお馬鹿』 etc. = "tactical level 'a slightly less foolish fool'" — Krische's tongue-in-cheek tag levels coded into Jaragasha's internal language; rendered with sentence-fragment wryness.
+- 赤角 = "Red-Horn" (Jaragasha No. 3's nickname); from a red identification ornament on the head frame.
+- 月明かりの遺産 = "Moonlight's Legacy" (existing); confirmed in C.359 as Kleinmeil's meaning, founded by an Alberinea-revering mage-emperor.
+- イガグリ = "Iga-Guri" — Sena's nickname for Doogle, after his prison-buzzcut grown out (chestnut-burr); kept as romaji per naming convention.
+- 愛称評価基準 = "nickname-evaluation criterion" — Krische's coded standard inside Jaragasha cores for assessing nicknames (brevity, ease of pronunciation, clarity).
+- ロクターナ社 = "Loktarna Co." (prosthetics company; Latin-adjacent rendering).
+- ベヌア (planet) = "Benua" (existing).
+- ベヌア人 = "Benuans" — term used by interstellar civilisations for humans of planet Benua.
+- ぴぴん (recurring) = "pipin" — Krische's onomatopoeic flash-of-insight sound; preserved phonetically.
+- 統一歴２９年 = "Unified Calendar Year 29" — setting of the dojo arc.
+
+## Updates from c361–370
+
+- 遠き遠き、未来にて 四・終 (C.361–362 titles) = "Far, Far Away, in the Future — IV / Final"; concludes the Sena/Doogle/Mili future arc.
+- エリシア = "Erisia" — Captain of the Red Goddesses unit; "Number Three"/"Red Horn" original Jaleia Gashea operator post-Kleinmeil; locks the original core with a personal seal-prayer (C.362 prologue).
+- アルロス＝リーン = "Aruross Reen" — Loktarna engineer (C.362, minor).
+- リーリ = "Reeri" — Engineer's daughter; lost child Sena returns (C.362, minor).
+- みょこ = "Myoko" — black-haired Jaragasha No. 345; nickname coined by Sena (C.362).
+- こっこ = "Kokko" — No. 55 Jaragasha; mention only (C.362).
+- 新連載！ 異世界メイドプリンセス！ (C.363 title) = "New Serialization! Otherworld Maid Princess!" — author's parody-isekai non-canon chapter; Krische, Bery, Kreschenta as heroes summoned to Toh-Toki Kingdom.
+- リリーベル = "Lilibel" — First Princess of Toh-Toki Kingdom (parody).
+- ユーリス = "Yuris" — Captain of the Royal Guard, Toh-Toki (parody); "Yuris of the Flash-Sword".
+- ヤークアイ = "Ya-Akai" — Great sage, Toh-Toki (parody).
+- トートキ王国 = "Toh-Toki Kingdom" — parody-isekai nation.
+- ユリン / ガルラ = "Yurin" / "Garra" — twin goddesses of light/dark (parody).
+- オジロス = "Ojiros" — Evil Dragon (parody C.363).
+- チウ＝ネーン = "Chiu-Neen" — Devil's Mountain (parody).
+- エーナ = "Ena" — six-petal flower; kingdom emblem; in their world "lily" (parody pun).
+- センキィ = "Senkii" — wicked emanation in the parody world.
+- ぷりりん = "Pururun" — slime parody pet (distinct from Pururun resonance crystal in main story; parody-only).
+- メイドプリンセス / ロイヤルメイド = "Maid Princess" / "Royal Maid" — parody class names.
+- ヘィガネー = "Heganée" — Mineral Dragon (parody).
+- ミッド / ドルカ = "Mido" / "Doruka" — minor Toh-Toki characters (parody).
+- 影絵の槌 (C.364 title) = "The Hammer of the Shadow-Picture" — Gurgain blacksmith family generational chapter.
+- コーズ = "Koz" — extends the existing コズ (Koz) entry; the chapter shows three generations all carrying the Koz name (great-grandfather forged for Alberinea; grandson named Koz at end).
+- ケイズ = "Keiz" (existing, reaffirmed) — Koz's son who eventually accepts the smith's craft.
+- ミューレ = "Mure" — Keiz's mother; smith's wife (C.364).
+- ファセロ = "Faselo" — leather-workshop master in Gurgain; long-time smith collaborator (C.364).
+- アルベラン 一〜六 (C.365–370 titles) = "Alberan I–VI" — origin arc of the Alberan kingdom; Bazarishe's conquest of the surrounding tribes.
+- バザリーシェ (origin arc) = "Bazarishe" (existing) — confirmed female; founder; ~12 years old at arc start; uses わたくし; sleeps twice as much as people; name-self "Alberan."
+- ベルナイク = "Bernaich" — Aldos's great chieftain at age 25; "the Shining One" (輝ける者); Roukai-slayer; named after the Twin Mountain.
+- ミツクロニア = "Mitskronia" — former Enreine chieftain; serves as Bazarishe's right arm; true name Rokuruto (ロクルト); ~30+; named after the other Twin Mountain.
+- バザリーシェの正体 = the historical first queen Bazarishe is here shown at the founding, treating subjects as livestock/garden — confirms her absolute child-of-god framing.
+- アルドス = "Aldos" — great clan led by Bernaich; longsword culture, berserker valor.
+- エンレイネ = "Enreine" — formerly the despised "people of the shade"; craftsmen; absorbed by Aldos under Bazarishe.
+- ガーカ = "Garkha" — southern great clan; great shields and throwing-axes; submits in C.370.
+- ゴーデウス = "Godeus" — young great chieftain of Garkha; ~25; calm realist; submits to Bazarishe after duel-loss.
+- ラーセル = "Lacel" — old priest of Garkha; Godeus's mentor.
+- アルマス / ロッディア = "Almas" / "Roddia" — Aldos sub-chieftains; killed in C.367–369 per Bazarishe's "thinning" order.
+- ドルカ / ロドル / ヒルギン = "Doruka" / "Rodol" / "Hirgin" — Garkha warriors (minor C.368–369).
+- 狼藍 / 翠虎 / 紫熊 = "Roukai" / "Suiko (Jade Tiger)" / "Shikuma (Purple Bear)" — magical-beast species in the founding-era; Roukai = wolf-pack-leading giant wolf (existing tentative entry confirmed).
+- アルガナの木 = "Argana tree" — quality-timber forest tree of Alberan founding-era forests.
+- アレンドルの森 = "Forest of Arendor" — battlefield in C.367–369.
+- ミクレの丘 = "Mikre Hill" — smoke-signal hill (C.366, minor).
+- アルビャーゲルの竜 = "the dragon of Albyagel" — already established; in this era last seen flying centuries ago, sleeping in a depression (C.365).
+- コレイス = "Koreis" — god of valor; existing entry reaffirmed; Garkha and surrounding tribes' funerary belief: heroes invited to "Koreis's hall."
+- ガーカの二振り = "Garkha's Two Strokes" — basic two-throwing-axe tactic.
+- 波押し = "wave-press" — Godeus's signature shield-pressure-and-axe alternation tactic (C.369).
+- 足薙ぎの斧術 = "leg-mowing axe-art" — Godeus's specialty: low-posture overhead-shield axe-strikes to legs.
+- 戦獣神 / 戦士の戦い = the founding-era warrior creed: honor heavier than life, honorable retreat from lost battles tacitly accepted (C.369 narrator commentary).
+- アルベランの最初の一歩 = the first Alberan/Aldos/Garkha alliance; Aldos = sword (right arm), Garkha = shield (left arm), Enreine = foundation/forge.

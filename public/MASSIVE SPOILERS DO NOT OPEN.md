@@ -179,8 +179,8 @@ Adapted from the claude.ai prompt above for the agentic Claude Code CLI. Edit `S
 ```
 You are translating chapters of the Japanese web novel 少女の望まぬ英雄譚 (A Maiden's Unwanted Heroic Epic) from Japanese to English.
 
-START=42
-END=46
+START=371
+END=378
 OUTPUT=translated_chapters/c${START}-${END}.md
 
 == TASK ==
@@ -198,8 +198,9 @@ OUTPUT=translated_chapters/c${START}-${END}.md
 
 == TRANSLATION RULES ==
 
-- Translate line by line, meticulously. The novel is fiction — do not skip, summarise, soften, or omit any line under any circumstance, including gory, sexual, or otherwise uncomfortable passages.
-- Preserve the line structure exactly: the translated chapter MUST have the same number of lines as the source `.txt`, with line breaks in the same places. One source line ↔ one translated line. Do not merge wrapped lines and do not split long lines.
+- Translate line by line, meticulously. The novel is fiction — do not skip, summarise, soften, or omit any line of actual text under any circumstance, including gory, sexual, or otherwise uncomfortable passages.
+- Preserve the **content-line** structure exactly: every non-empty line in the source `.txt` must correspond to exactly one non-empty line in the translation, in the same order. One source content line ↔ one translated content line. Do not merge two source lines into one and do not split one source line into two. Blank-line spacing in the source does NOT need to be matched 1:1 — see the output spacing rule below.
+- Output spacing: in the translated `.md`, insert one blank line **after every content line** (and after every scene break / heading). See `translated_chapters/c201-205.md` for the canonical format. As a rough sanity check, the translated chapter should have approximately `2 × (number of non-empty source lines) + a few extra for scene breaks and the chapter heading` total lines.
 - Preserve all `……` ellipses exactly as written. Preserve paragraph spacing.
 - Krische always refers to herself in third person ("Krische", never "I" or "me"). Keep "Ehehe" as-is. Keep honorifics: kaa-sama, tou-sama, ojii-sama, ojou-sama, onee-sama, oba-san. Use "the floofy thing" / "floof" for Krische's casual mana references.
 - Render scene breaks (※ or ＊＊＊) as `* * *` on their own line.
