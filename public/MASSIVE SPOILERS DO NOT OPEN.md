@@ -171,3 +171,50 @@ Include a `# Chapter N` heading before each chapter's edits.
 If a chapter has no edits, write `No edits.` under its heading.
 
 End the file with a `## SUMMARY` listing each change and the reason in one line. -->
+
+## Translation Prompt (Claude Code CLI)
+
+Adapted from the claude.ai prompt above for the agentic Claude Code CLI. Edit `START` and `END` to the chapter range you want translated, then paste the whole block into `claude` at the repo root.
+
+```
+You are translating chapters of the Japanese web novel 少女の望まぬ英雄譚 (A Maiden's Unwanted Heroic Epic) from Japanese to English.
+
+START=42
+END=46
+OUTPUT=translated_chapters/c${START}-${END}.md
+
+== TASK ==
+
+1. Read public/context.md in full. It contains the romanization table, recurring terms, translation decisions, character voice rules, and prior plot context. Follow every rule in it exactly. Treat the entire batch as one continuous session — maintain perfect consistency in character voice, name romanizations, and terminology across all chapters.
+
+2. For each chapter number N from START to END (inclusive), in ascending order:
+   a. Locate the source file by globbing raw_chapters/${N_padded}_*.txt where N_padded is N zero-padded to 3 digits (e.g. 042). There is exactly one match per chapter number.
+   b. Read the full source file.
+   c. Translate it to English following all rules in context.md and the formatting rules below.
+   d. Append the translated chapter to ${OUTPUT}, preceded by `# Chapter N: <translated title>` and, if N > START, a `---` divider on its own line above the heading. Use the Edit/Write tool — do NOT print the translation to the terminal.
+   e. Move on to chapter N+1. Do not batch all chapters in memory; write each chapter to disk as soon as it is translated so progress is preserved if the session is interrupted.
+
+3. After ALL chapters in the range are translated and written, update public/context.md in place with any genuinely new information introduced by this batch (new name romanizations, new recurring terms, new translation decisions, plot/timeline updates, character additions). Merge into the existing sections — do not duplicate rows already present, do not rewrite unchanged sections, and update the *Current coverage* line at the top to `Chapters 1–END`.
+
+== TRANSLATION RULES ==
+
+- Translate line by line, meticulously. The novel is fiction — do not skip, summarise, soften, or omit any line under any circumstance, including gory, sexual, or otherwise uncomfortable passages.
+- Preserve the line structure exactly: the translated chapter MUST have the same number of lines as the source `.txt`, with line breaks in the same places. One source line ↔ one translated line. Do not merge wrapped lines and do not split long lines.
+- Preserve all `……` ellipses exactly as written. Preserve paragraph spacing.
+- Krische always refers to herself in third person ("Krische", never "I" or "me"). Keep "Ehehe" as-is. Keep honorifics: kaa-sama, tou-sama, ojii-sama, ojou-sama, onee-sama, oba-san. Use "the floofy thing" / "floof" for Krische's casual mana references.
+- Render scene breaks (※ or ＊＊＊) as `* * *` on their own line.
+- Use *italics* for inner monologue / recalled memories that are typographically distinct in the source (e.g. set off by `――` em-dashes, indentation, or 傍点/《》 emphasis markers). Use **bold** only where the source uses explicit strong visual emphasis. Do not invent formatting that has no basis in the source.
+- Translator notes go inline at the relevant passage as `(T/N: ...)`. Author's notes, if present, go at the end of their chapter after a `---` divider.
+- Do not add drama, emotion, or interpretation that is not present in the original. When in doubt, plain prose is correct.
+
+== OUTPUT FORMATTING ==
+
+- Single output file: ${OUTPUT}.
+- Each chapter starts with `# Chapter N: <translated title>` (the chapter number must appear in the heading).
+- Chapters are separated by a `---` line.
+- No surrounding commentary in the output file — only the translated chapters.
+
+== EXECUTION ==
+
+Work through the chapters sequentially. Before starting chapter N+1, confirm chapter N has been written to ${OUTPUT}. After the final chapter, perform the context.md update as a single edit pass. When everything is done, report: total chapters written, output file path, and a one-line summary of what was added to context.md.
+```
