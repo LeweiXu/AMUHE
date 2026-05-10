@@ -425,7 +425,7 @@ All established romanizations. Do not deviate. Flag any new name in translator n
 | クリシェリア | Krischeria | April-Fools alternate-universe name for Krische as Alberan princess (C.331); raised alongside sister Kreschenta under uncle Gildanstein |
 | ノーラ | Nora | Krischeria's black-haired royal-house servant in the C.331 AU |
 | ドルス | Doruss | Mention only — muscular Black Flag soldier (C.332) |
-| バグ | Bag | Black Flag rough-man; beaten down by Kalua (C.332, mention only) |
+| バグ | Bagu | Black Flag rough-man; beaten down by Kalua (C.332, mention only) |
 | クーリ | Kuli | Kouz's daughter; runs the Dawn Crescent in his old age (C.336/338) |
 | 風間鉄舟斎 / 不二斎 | Kazama Tetsushūsai (Fujisai) | Founder of Kotensuigetsu (Lone-Sky Water-Moon) school; head sword instructor of the imperial house; spar partner of Alberinea in the eastern imperial tournament (C.340 spin-off) |
 | ミルガンガ＝ゴ＝シェア | Mirganga Go Shea | Seventh Prince of the Super-Galactic Minarshi Empire; commander of 237th Expeditionary Fleet (C.340 spin-off) |

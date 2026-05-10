@@ -7365,7 +7365,7 @@
 | 252 | **Worries:** The daily life of being scolded by his wife when he gets out of bed and tries to practise his sword swings. |
 | 253 | --- |
 | 254 | ## — Black Flag Members — |
-| 255 | ### ● Bag 『Chaos / Neutral』 |
+| 255 | ### ● Bagu 『Chaos / Neutral』 |
 | 256 | A man who cannot quite bring himself to be a villain. First Squad. |
 | 257 | A war orphan who grew up in the slums, stealing from an early age. He was skilled with his hands and capable in rough situations, but could not bring himself to do kidnappings or robberies, which earned him ridicule from those around him — that was his dilemma when the civil war began and he joined the Black Flag. |
 | 258 | He fell for Kalua at first sight and tried to force his way with her, only to be thoroughly beaten. After that he resolved to win her over through honest effort and had recently been working toward becoming a proper soldier. |

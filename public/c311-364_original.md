@@ -14112,7 +14112,7 @@ Since those around her were thugs, Kalua was probably her only reliable support 
 
 Even at mealtimes, they sat away from everyone else.
 
-Kalua, accustomed to rough things, wouldn't hesitate to use force against anyone who approached carelessly, and she had once beaten up the ringleader, Bug.
+Kalua, accustomed to rough things, wouldn't hesitate to use force against anyone who approached carelessly, and she had once beaten up the ringleader, Bagu.
 
 Most wouldn't approach them.
 
